@@ -15,6 +15,10 @@
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "rdm, baiting, leaving on sit"
     },
+    "ihabvr.7149": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "hard r"
+    },
     "Yojamesbro": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "attempted kill during sit, rdm"
