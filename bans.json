@@ -15,6 +15,10 @@
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "rdm, baiting, leaving on sit"
     },
+    "Fullboat2": {
+        "banneduntil": "2024.02.16-12.00.00pm",
+        "BanReason": "baiting"
+    },
     "Brysxn": {
         "banneduntil": "2024.5.20-12.00.00pm",
         "BanReason": "nword"
