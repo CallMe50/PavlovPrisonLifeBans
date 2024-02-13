@@ -11,6 +11,10 @@
         "banneduntil": "2026.12.31-12.00.00pm",
         "BanReason": "underage, rdm"
     },
+    "Ridgid_Eggshell": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "rdm, baiting, leaving on sit"
+    },
     "Yojamesbro": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "attempted kill during sit, rdm"
