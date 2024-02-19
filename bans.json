@@ -130,5 +130,9 @@
     "sgt.tea": {
         "banneduntil": "2024.2.25-12.00.00pm",
         "BanReason": "Crossteaming, Mass Sit Noncompliance"
+    },
+    "Firefoxak": {
+        "banneduntil": "2024.2.20-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
