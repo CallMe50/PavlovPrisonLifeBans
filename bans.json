@@ -126,5 +126,9 @@
     "YungBeachBoy": {
         "banneduntil": "2024.2.23-12.00.00pm",
         "BanReason": "Sit Noncompliance, Teamkilling (x2)"
+    },
+    "sgt.tea": {
+        "banneduntil": "2024.2.25-12.00.00pm",
+        "BanReason": "Crossteaming, Mass Sit Noncompliance"
     }
 }
