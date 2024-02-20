@@ -154,5 +154,9 @@
     "morgan_freeman_tha1": {
         "banneduntil": "2024.2.21-12.00.00pm",
         "BanReason": "tk'ing"
+    },
+    "racingdoodle": {
+        "banneduntil": "2024.03.05-12.00.00pm",
+        "BanReason": "Crossteaming, Sit Noncompliance (x3), RDM (x2)"
     }
 }
