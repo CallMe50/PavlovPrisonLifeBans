@@ -170,5 +170,9 @@
     "elit3.cxctus.2022": {
         "banneduntil": "2024.3.20-12.00.00pm",
         "BanReason": "Mass Tasing Teammates, Teamkilling (x3), Sit Noncompliance(x2)"
+    },
+    "Hitmanjoey28": {
+        "banneduntil": "2024.3.24-12.00.00pm",
+        "BanReason": "Evading admin sit, false votekicking"
     }
 }
