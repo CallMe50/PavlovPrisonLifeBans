@@ -158,5 +158,9 @@
     "racingdoodle": {
         "banneduntil": "2024.03.05-12.00.00pm",
         "BanReason": "Crossteaming, Sit Noncompliance (x3), RDM (x2)"
+    },
+    "Samurai6464": {
+        "banneduntil": "2024.2.27",
+        "BanReason": "Crossteaming rdm x2"
     }
 }
