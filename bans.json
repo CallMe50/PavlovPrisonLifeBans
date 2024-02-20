@@ -146,5 +146,9 @@
     "yyyy.dwedb": {
         "banneduntil": "2024.02.20-07.43.00pm",
         "BanReason": "Baiting and sit evasion"
+    },
+    "javierhoracio": {
+        "banneduntil": "2099.31.12-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
