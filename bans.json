@@ -134,5 +134,9 @@
     "Firefoxak": {
         "banneduntil": "2024.2.20-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "caleb.p333": {
+        "banneduntil": "2024.2.21-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
