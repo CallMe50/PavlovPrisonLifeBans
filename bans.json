@@ -174,5 +174,9 @@
     "Hitmanjoey28": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Evading admin sit, false votekicking, mass rdm, mass tk"
+    },
+    "Hunter1h": {
+        "banneduntil": "2024.2.24-12.00.00pm",
+        "BanReason": "Mass team kill"
     }
 }
