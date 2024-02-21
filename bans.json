@@ -202,5 +202,9 @@
     "Mlackson1942": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "zombiepro.2024": {
+        "banneduntil": "2024.2.26-12.00.00pm",
+        "BanReason": "RDM, Friendly Tasing, Sit Noncompliance"
     }
 }
