@@ -182,5 +182,9 @@
     "Kaderkoo31f": {
         "banneduntil": "2025.2.20-12.00.00pm",
         "BanReason": "Mass rdm, underaged, rdm in admin sit, team killing, ban evading (next time think before you act \ud83d\ude09 )"
+    },
+    "Beetlejuice_214": {
+        "banneduntil": "2024.3.1",
+        "BanReason": "Left during sit kicking without reason"
     }
 }
