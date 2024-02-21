@@ -206,5 +206,9 @@
     "zombiepro.2024": {
         "banneduntil": "2024.2.26-12.00.00pm",
         "BanReason": "RDM, Friendly Tasing, Sit Noncompliance"
+    },
+    "SileyWiley": {
+        "banneduntil": "2058.2.26-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
