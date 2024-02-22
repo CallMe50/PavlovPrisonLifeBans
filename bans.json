@@ -262,5 +262,9 @@
     "Jack5858": {
         "banneduntil": "2056.03-1-12-00-00pm",
         "BanReason": "Underage"
+    },
+    "Juniboy1": {
+        "banneduntil": "2056.01.01-12-00-00pm",
+        "BanReason": "Underage"
     }
 }
