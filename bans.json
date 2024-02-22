@@ -254,5 +254,9 @@
     "GeneralBongWater": {
         "banneduntil": "2099.11.05-12.00.00pm",
         "BanReason": "Hard R x2"
+    },
+    "HunterBoiDan": {
+        "banneduntil": "2024.01.03-12.00.00pm",
+        "BanReason": "Reason: Slurs"
     }
 }
