@@ -270,5 +270,9 @@
     "hollengaming": {
         "banneduntil": "2099.10.10-12.00.00pm",
         "BanReason": "mass rdm, leaving during sit"
+    },
+    "Tomaswillz": {
+        "banneduntil": "2099.10.10-12.00.00pm",
+        "BanReason": "Repeated crossteaming, rdm(warned for both)"
     }
 }
