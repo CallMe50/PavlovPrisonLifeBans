@@ -224,7 +224,7 @@
         "BanReason": "N word / hard R"
     },
     "Envnity.": {
-        "banneduntil": "9999.9.9",
-        "BanReason": "Test"
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "We are still testing this"
     }
 }
