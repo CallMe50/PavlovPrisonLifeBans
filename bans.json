@@ -222,5 +222,9 @@
     "Micheal_Jordan1": {
         "banneduntil": "2044.2.21-12.00.00pm",
         "BanReason": "N word / hard R"
+    },
+    "Envnity.": {
+        "banneduntil": "9999.9.9",
+        "BanReason": "Test"
     }
 }
