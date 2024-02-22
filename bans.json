@@ -266,5 +266,9 @@
     "Juniboy1": {
         "banneduntil": "2056.01.01-12-00-00pm",
         "BanReason": "Underage"
+    },
+    "hollengaming": {
+        "banneduntil": "2099.10.10-12.00.00pm",
+        "BanReason": "mass rdm, leaving during sit"
     }
 }
