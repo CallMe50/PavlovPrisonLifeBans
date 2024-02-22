@@ -226,5 +226,9 @@
     "Envnity.": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "We are still testing this"
+    },
+    "campesina16": {
+        "banneduntil": "2024.2.24-12.00.00pm",
+        "BanReason": "Ban evading"
     }
 }
