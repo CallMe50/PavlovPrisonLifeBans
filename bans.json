@@ -246,5 +246,9 @@
     "N9neBottles": {
         "banneduntil": "2024.11.05-12.00.00pm",
         "BanReason": "RDM in Admin Sit, Team Killing x2, No compliance"
+    },
+    "R3ND3Rx": {
+        "banneduntil": "2099.11.05-12.00.00pm",
+        "BanReason": "Hard R x4"
     }
 }
