@@ -278,5 +278,9 @@
     "AFJShotta": {
         "banneduntil": "1775.7.4-12.00.00pm",
         "BanReason": "balls"
+    },
+    "goodnight": {
+        "banneduntil": "2024.2.25-12.00.00pm",
+        "BanReason": "N-word"
     }
 }
