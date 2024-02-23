@@ -302,5 +302,9 @@
     "Logo876": {
         "banneduntil": "2024.2.24-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "novawoe": {
+        "banneduntil": "2024.2.24-12.00.00pm",
+        "BanReason": "tasing own teamates for donator gun"
     }
 }
