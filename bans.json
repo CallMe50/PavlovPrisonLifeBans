@@ -298,5 +298,9 @@
     "RedDuotang": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "rdm, n word"
+    },
+    "Logo876": {
+        "banneduntil": "2024.2.24-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
