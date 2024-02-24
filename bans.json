@@ -330,5 +330,9 @@
     "Clayton987": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "false votekicking and leaving during sit"
+    },
+    "carterbugdenecke": {
+        "banneduntil": "2024.2.26-12.00.00pm",
+        "BanReason": "Vdming teammate, joining back after kick"
     }
 }
