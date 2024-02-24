@@ -354,5 +354,9 @@
     "Schlatt_Fam": {
         "banneduntil": "2027.2.24-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "RanTheMan04": {
+        "banneduntil": "2026.2.24-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
