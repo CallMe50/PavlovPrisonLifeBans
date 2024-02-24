@@ -370,5 +370,9 @@
     "Tr3ndzxy.vr": {
         "banneduntil": "3082.2.24-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "BBB.JayShifty": {
+        "banneduntil": "3092.2.24-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
