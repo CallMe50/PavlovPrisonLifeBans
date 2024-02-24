@@ -350,5 +350,9 @@
     "MadAdriel": {
         "banneduntil": "2024.3.6-12.00.00pm",
         "BanReason": "Team killing,rdm, mutiple reports"
+    },
+    "Schlatt_Fam": {
+        "banneduntil": "2027.2.24-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
