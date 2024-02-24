@@ -342,5 +342,9 @@
     "kitisonly": {
         "banneduntil": "2027.2.24-12.00.00pm",
         "BanReason": "Underaged, leaving during admin sit, cross teaming"
+    },
+    "JackMaster2009": {
+        "banneduntil": "2069.2.26-12.00.00pm",
+        "BanReason": "hard R and soft A"
     }
 }
