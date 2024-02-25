@@ -438,5 +438,9 @@
     "Zeier1": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Rdm, underage (12)"
+    },
+    "MaxVegas": {
+        "banneduntil": "2024.2.27-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
