@@ -394,5 +394,9 @@
     "BNAaj": {
         "banneduntil": "2024.2.28-12.00.00pm",
         "BanReason": "Killing self in admin sit x4, rdm,"
+    },
+    "CosmoNacht": {
+        "banneduntil": "2060.1.1-12.00.00pm",
+        "BanReason": "Teamkilling and killing during admin sit"
     }
 }
