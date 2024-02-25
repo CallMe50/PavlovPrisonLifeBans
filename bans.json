@@ -386,5 +386,9 @@
     "thesnakeclan": {
         "banneduntil": "2027.2.24-12.00.00pm",
         "BanReason": "Rdm in admin sit, underaged"
+    },
+    "dontshooter0101": {
+        "banneduntil": "2028.2.24-12.00.00pm",
+        "BanReason": "Underaged, team killing"
     }
 }
