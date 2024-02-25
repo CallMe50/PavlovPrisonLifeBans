@@ -402,5 +402,9 @@
     "mal0theSCP": {
         "banneduntil": "2024.2.28-12.00.00am",
         "BanReason": "3x teamkill, don't do it again or it could be a permanent"
+    },
+    "Netgds23": {
+        "banneduntil": "2024-2-29-12-00-00pn",
+        "BanReason": "Tk and left sit"
     }
 }
