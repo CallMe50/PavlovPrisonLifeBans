@@ -486,5 +486,9 @@
     "Airtightnine576": {
         "banneduntil": "2025.6.7-12.00.00pm",
         "BanReason": "Underaged (12)"
+    },
+    "almar2023.2023": {
+        "banneduntil": "2024.3.26-12.00.00pm",
+        "BanReason": "Randomly shooting and spawn camping prisoners"
     }
 }
