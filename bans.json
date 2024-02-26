@@ -482,5 +482,9 @@
     "mrquest2023": {
         "banneduntil": "9999.12.31-12.00.00",
         "BanReason": "Insulting staff when confronted, shooting through walls, leaving game when admin sit"
+    },
+    "Airtightnine576": {
+        "banneduntil": "2025.6.7-12.00.00pm",
+        "BanReason": "Underaged (12)"
     }
 }
