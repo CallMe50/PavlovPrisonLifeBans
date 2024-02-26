@@ -458,5 +458,9 @@
     "maximus.011": {
         "banneduntil": "2090.1.1-12.00.00pm",
         "BanReason": "Rdm, shooting prisoners for no reason, and underage (11)"
+    },
+    "beamer122": {
+        "banneduntil": "2025.1.1-12pm",
+        "BanReason": "Underaged"
     }
 }
