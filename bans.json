@@ -474,5 +474,9 @@
     "Spendogg11": {
         "banneduntil": "2024.2.28-12.00.00pm",
         "BanReason": "Cross teaming, attempting to kill in sit, leaving to avoid punishment"
+    },
+    "totitoDeGato": {
+        "banneduntil": "2099.11.11-12.00.00pm",
+        "BanReason": "Mass rdm, killing in sit, leaving game during sit"
     }
 }
