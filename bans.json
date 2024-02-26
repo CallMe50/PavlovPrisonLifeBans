@@ -462,5 +462,9 @@
     "beamer122": {
         "banneduntil": "2025.1.1-12pm",
         "BanReason": "Underaged"
+    },
+    "bananaman85675": {
+        "banneduntil": "2030.6.7-12.00.00pm",
+        "BanReason": "Underaged (7) come back in 6 years"
     }
 }
