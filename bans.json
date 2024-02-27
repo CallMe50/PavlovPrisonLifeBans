@@ -522,5 +522,9 @@
     "Ryanthemonkeh": {
         "banneduntil": "3099.12.31-12.00.00pm",
         "BanReason": "Mass hard r"
+    },
+    "coinkibble": {
+        "banneduntil": "2024.2.27-12.00.00pm",
+        "BanReason": "Shooting through walls even tho it\u2019s bannable"
     }
 }
