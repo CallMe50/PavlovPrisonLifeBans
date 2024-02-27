@@ -526,5 +526,9 @@
     "coinkibble": {
         "banneduntil": "2024.2.27-12.00.00pm",
         "BanReason": "Shooting through walls even tho it\u2019s bannable"
+    },
+    "thunder_walker69": {
+        "banneduntil": "2024.2.27-11.11.00pm",
+        "BanReason": "Crossteaming and 2x teamkilling"
     }
 }
