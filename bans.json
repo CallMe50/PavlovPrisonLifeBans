@@ -550,5 +550,9 @@
     "LeytonTCB": {
         "banneduntil": "2024.3.4-12.00.00pm",
         "BanReason": "Mass tk and rdm"
+    },
+    "Porkcow": {
+        "banneduntil": "2024.3.7-12.00.00pm",
+        "BanReason": "Your lucky this isn't a perma ban, Mass rdm, suicide during sit, leaving during sit"
     }
 }
