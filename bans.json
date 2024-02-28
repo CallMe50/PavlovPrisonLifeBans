@@ -594,5 +594,9 @@
     "Bren.C": {
         "banneduntil": "2027.2.28-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "TheDev1141": {
+        "banneduntil": "2025.2.28-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
