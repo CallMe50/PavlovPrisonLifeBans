@@ -590,5 +590,9 @@
     "poundsocake": {
         "banneduntil": "2024.3.2-12.00.00pm",
         "BanReason": "Mass team killing"
+    },
+    "Bren.C": {
+        "banneduntil": "2027.2.28-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
