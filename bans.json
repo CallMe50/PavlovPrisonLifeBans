@@ -714,5 +714,9 @@
     "hexkiller": {
         "banneduntil": "2099.4.21-12.00.00pm",
         "BanReason": "Hard r multiple times and denied it"
+    },
+    "Death_Oda": {
+        "banneduntil": "2024.3.3-12.00.00pm",
+        "BanReason": "Mass Crossteaming (5+ Effected)"
     }
 }
