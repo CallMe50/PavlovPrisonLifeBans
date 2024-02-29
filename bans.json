@@ -682,5 +682,9 @@
     "Chill.bro": {
         "banneduntil": "2024.3.3",
         "BanReason": "Tdm x2"
+    },
+    "ChiLL.bro": {
+        "banneduntil": "2024.3.3",
+        "BanReason": "Tdm x2"
     }
 }
