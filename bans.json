@@ -654,5 +654,9 @@
     "Vinsonator": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "underage -fishy"
+    },
+    "Rainway": {
+        "banneduntil": "2030.1.1-12.00.00pm",
+        "BanReason": "underage -fishy"
     }
 }
