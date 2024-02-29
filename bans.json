@@ -610,5 +610,9 @@
     "koolaidball": {
         "banneduntil": "2025.2.28-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "ChickenMan1473": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "Mass rdm, mass tk, attemped killing in sit"
     }
 }
