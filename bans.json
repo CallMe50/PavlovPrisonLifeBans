@@ -638,5 +638,9 @@
     "BarackObama44th": {
         "banneduntil": "2025.2.28-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Kazuma_0": {
+        "banneduntil": "2026.2.28-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
