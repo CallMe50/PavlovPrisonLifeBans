@@ -622,5 +622,9 @@
     "eazer1": {
         "banneduntil": "2024.3.1-12.00.00pm",
         "BanReason": "Shooting through walls at the bank, this is bannable"
+    },
+    "JoeblackB1": {
+        "banneduntil": "8008-2.28-12.00.00pm",
+        "BanReason": "Underaged and n words"
     }
 }
