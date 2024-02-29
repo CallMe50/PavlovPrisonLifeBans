@@ -710,5 +710,9 @@
     "Hexkiller": {
         "banneduntil": "2099.4.21-12.00.00pm",
         "BanReason": "Hard r multiple times and denied it"
+    },
+    "hexkiller": {
+        "banneduntil": "2099.4.21-12.00.00pm",
+        "BanReason": "Hard r multiple times and denied it"
     }
 }
