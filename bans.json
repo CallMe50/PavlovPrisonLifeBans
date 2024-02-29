@@ -642,5 +642,9 @@
     "Kazuma_0": {
         "banneduntil": "2026.2.28-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "MasonBear": {
+        "banneduntil": "2024.3.15-12.00.00pm",
+        "BanReason": "rdm, leaving during sit"
     }
 }
