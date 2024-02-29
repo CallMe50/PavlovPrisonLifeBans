@@ -698,5 +698,9 @@
     "fuw72000": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Mass RDM, trying to break every rule, ignoring staff"
+    },
+    "fiames": {
+        "banneduntil": "2024.3.21-12:00:00pm",
+        "BanReason": "Bitching will result in a perma, Faking ss etc"
     }
 }
