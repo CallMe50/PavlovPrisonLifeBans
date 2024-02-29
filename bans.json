@@ -662,5 +662,9 @@
     "Ric": {
         "banneduntil": "2025.3.30 12.00.00pm",
         "BanReason": "Continuously TK cops"
+    },
+    "Soap_lI": {
+        "banneduntil": "2024.3.2-12.00.00pm",
+        "BanReason": "Attempted to random killing"
     }
 }
