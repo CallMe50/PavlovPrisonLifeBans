@@ -734,5 +734,9 @@
     "wynner101": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "mass rdm, killing during sit -fishy"
+    },
+    "Vixity_y": {
+        "banneduntil": "2900.4.5-12.00.00pm",
+        "BanReason": "Reported for being underage (12)"
     }
 }
