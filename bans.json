@@ -666,5 +666,9 @@
     "Soap_lI": {
         "banneduntil": "2024.3.2-12.00.00pm",
         "BanReason": "Attempted to random killing"
+    },
+    "sleepytighty": {
+        "banneduntil": "2024.3.6-12.00.00pm",
+        "BanReason": "Attempted to random killing"
     }
 }
