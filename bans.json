@@ -726,5 +726,9 @@
     "BobbyYaga": {
         "banneduntil": "2024.3.1-4.00.00pm",
         "BanReason": "Tk as fugitive"
+    },
+    "MofuMof": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "mass rdm, killing during sit -fishy"
     }
 }
