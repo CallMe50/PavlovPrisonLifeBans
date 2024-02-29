@@ -630,5 +630,9 @@
     "Cdub_147": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "underage + rdm"
+    },
+    "daboywest.2019": {
+        "banneduntil": "2024.3.7-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
