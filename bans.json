@@ -646,5 +646,9 @@
     "MasonBear": {
         "banneduntil": "2024.3.15-12.00.00pm",
         "BanReason": "rdm, leaving during sit"
+    },
+    "ScaryMonsters2413": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "underage -fishy"
     }
 }
