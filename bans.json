@@ -658,5 +658,9 @@
     "Rainway": {
         "banneduntil": "2030.1.1-12.00.00pm",
         "BanReason": "underage -fishy"
+    },
+    "Ric": {
+        "banneduntil": "2025.3.30 12.00.00pm",
+        "BanReason": "Continuously TK cops"
     }
 }
