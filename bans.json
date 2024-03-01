@@ -760,7 +760,7 @@
         "BanReason": "Tazed teammate for jug, killed that same teammate after, and left during sit"
     },
     "Mimix67": {
-        "banneduntil": "9999.1.1-12.00.00pm",
-        "BanReason": "Teamkilling, crossteaming, and immediately leaving in sit."
+        "banneduntil": "2023.3.3.12.00.00pm",
+        "BanReason": "Repeated cross teaming"
     }
 }
