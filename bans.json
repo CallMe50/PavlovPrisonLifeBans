@@ -798,5 +798,9 @@
     "Dani.boy": {
         "banneduntil": "2025.3.3.12.00.00pm",
         "BanReason": "Avoiding admin sit, rdm, guard and prisoner"
+    },
+    "DaRealHeisenberg": {
+        "banneduntil": "2024.4.5-12.00.00pm",
+        "BanReason": "Admitted Cross teaming and vote kicking then trying to say that his ign was the wrong one (trying to ban evade) I\u2019ve also had issues with bro before"
     }
 }
