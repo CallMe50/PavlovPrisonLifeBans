@@ -660,8 +660,8 @@
         "BanReason": "underage -fishy"
     },
     "Ric": {
-        "banneduntil": "2024.3.2 10.00.00am",
-        "BanReason": "Continuously TK cops (unbanned)"
+        "banneduntil": "2024.3.2-2.00.00am",
+        "BanReason": "Continuously TK cops (unbanned and fixed time)"
     },
     "Soap_lI": {
         "banneduntil": "2024.3.2-12.00.00pm",
