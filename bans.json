@@ -794,5 +794,9 @@
     "PAB_Eton": {
         "banneduntil": "2025.3.3.12.00.00pm",
         "BanReason": "Underage  (12)"
+    },
+    "Dani.boy": {
+        "banneduntil": "2025.3.3.12.00.00pm",
+        "BanReason": "Avoiding admin sit, rdm, guard and prisoner"
     }
 }
