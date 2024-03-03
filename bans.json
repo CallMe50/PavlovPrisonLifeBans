@@ -894,5 +894,9 @@
     "ksawi.288846": {
         "banneduntil": "2025.3.3-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "ben658798": {
+        "banneduntil": "2024.3.6-12.00.00pm",
+        "BanReason": "Admin sit evading"
     }
 }
