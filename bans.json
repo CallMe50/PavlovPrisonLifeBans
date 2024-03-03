@@ -842,5 +842,9 @@
     "bossdog1112": {
         "banneduntil": "2026.4.12-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "skullband": {
+        "banneduntil": "2025.3.8-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
