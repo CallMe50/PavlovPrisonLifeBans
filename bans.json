@@ -898,5 +898,9 @@
     "ben658798": {
         "banneduntil": "2024.3.6-12.00.00pm",
         "BanReason": "Admin sit evading"
+    },
+    "Ad765": {
+        "banneduntil": "2024.3.3-3.00.00pm",
+        "BanReason": "Spam taxing prisoners"
     }
 }
