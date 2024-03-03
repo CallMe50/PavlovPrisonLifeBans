@@ -854,5 +854,9 @@
     "emomickyjr": {
         "banneduntil": "2024.3.13-12.00.00pm",
         "BanReason": "Mass tk and evading admin sit"
+    },
+    "ConsTitan1": {
+        "banneduntil": "2024.4.3-12.00.00pm",
+        "BanReason": "Evading admin sit 3x, killing in admin sit"
     }
 }
