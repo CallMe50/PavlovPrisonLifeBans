@@ -882,5 +882,9 @@
     "Tulu1612": {
         "banneduntil": "4092.3.3-12.00.00pm",
         "BanReason": "N word and Underaged"
+    },
+    "TuIu1612": {
+        "banneduntil": "4092.3.3-12.00.00pm",
+        "BanReason": "N word and Underaged"
     }
 }
