@@ -850,5 +850,9 @@
     "Josh.d": {
         "banneduntil": "2027..2.7-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "emomickyjr": {
+        "banneduntil": "2024.3.13-12.00.00pm",
+        "BanReason": "Mass tk and evading admin sit"
     }
 }
