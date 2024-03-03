@@ -870,5 +870,9 @@
     "zay201111": {
         "banneduntil": "2025.3.3-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "squrpin9749": {
+        "banneduntil": "2026.3.3-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
