@@ -866,5 +866,9 @@
     "Muted-manner2": {
         "banneduntil": "2025.3.3-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "zay201111": {
+        "banneduntil": "2025.3.3-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
