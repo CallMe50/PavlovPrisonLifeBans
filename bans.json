@@ -904,7 +904,7 @@
         "BanReason": "Spam taxing prisoners"
     },
     "glitchman7525": {
-        "banneduntil": "2024.3.10-12.00.00pm",
-        "BanReason": "Spawn killing swat"
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Spawn killing swat, evading admin sit, killing during admin sit"
     }
 }
