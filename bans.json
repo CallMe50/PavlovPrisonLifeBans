@@ -902,5 +902,9 @@
     "Ad765": {
         "banneduntil": "2024.3.3-3.00.00pm",
         "BanReason": "Spam taxing prisoners"
+    },
+    "glitchman7525": {
+        "banneduntil": "2024.3.10-12.00.00pm",
+        "BanReason": "Spawn killing swat"
     }
 }
