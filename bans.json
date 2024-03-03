@@ -862,5 +862,9 @@
     "KingKrabby2020": {
         "banneduntil": "2027.3.3-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Muted-manner2": {
+        "banneduntil": "2025.3.3-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
