@@ -858,5 +858,9 @@
     "ConsTitan1": {
         "banneduntil": "2024.4.3-12.00.00pm",
         "BanReason": "Evading admin sit 3x, killing in admin sit"
+    },
+    "KingKrabby2020": {
+        "banneduntil": "2027.3.3-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
