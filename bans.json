@@ -874,5 +874,9 @@
     "squrpin9749": {
         "banneduntil": "2026.3.3-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "hoonter.2023": {
+        "banneduntil": "2028.3.3-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
