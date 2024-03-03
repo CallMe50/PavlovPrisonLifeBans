@@ -886,5 +886,9 @@
     "TuIu1612": {
         "banneduntil": "4092.3.3-12.00.00pm",
         "BanReason": "N word and Underaged"
+    },
+    "silverzombieboy": {
+        "banneduntil": "2027.3.3-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
