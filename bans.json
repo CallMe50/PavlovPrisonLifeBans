@@ -954,5 +954,9 @@
     "ItzTristinTT": {
         "banneduntil": "2024.4.4-12.00.00pm",
         "BanReason": "Killing cops for weapons"
+    },
+    "juicy.james": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Letting prisoners out as a cop even after my warning"
     }
 }
