@@ -950,5 +950,9 @@
     "imagodatfortnite": {
         "banneduntil": "2024.9.4-12.00.00pm",
         "BanReason": "Cross teamed to cop to taze and kill multiple cops"
+    },
+    "ItzTristinTT": {
+        "banneduntil": "2024.4.4-12.00.00pm",
+        "BanReason": "Killing cops for weapons"
     }
 }
