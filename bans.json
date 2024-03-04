@@ -938,5 +938,9 @@
     "Shadowknight_2": {
         "banneduntil": "2024.3.4-10.00.00am",
         "BanReason": "Testing"
+    },
+    "duch.van.der.lin": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Fugitive rdming other fugitives, left game when confronted by admin"
     }
 }
