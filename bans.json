@@ -942,5 +942,9 @@
     "duch.van.der.lin": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Fugitive rdming other fugitives, left game when confronted by admin"
+    },
+    "Kaidin2009": {
+        "banneduntil": "2024.9.4-12.00.00pm",
+        "BanReason": "Cross teamed to cop to taze and kill multiple cops"
     }
 }
