@@ -974,5 +974,9 @@
     "Pavrp.chance": {
         "banneduntil": "2024.3.5-12.00.00pm",
         "BanReason": "Spam votekicking people after I already warned him over an hour ago to quit it"
+    },
+    "Gaminero": {
+        "banneduntil": "2024.3.20-12.00.00pm",
+        "BanReason": "Multiple Reports of mass to,cross teaming and rdm."
     }
 }
