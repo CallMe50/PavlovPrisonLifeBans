@@ -1000,11 +1000,7 @@
         "BanReason": "mass rdm, leaving sit, underage -fishy"
     },
     "moneyofmyth": {
-        "banneduntil": "999.12.31-12.00.00pm",
-        "BanReason": "Team kill, RDM, underage"
-    },
-    "jeonhyeon16": {
         "banneduntil": "9999.12.31-12.00.00pm",
-        "BanReason": "Underage, avoided answering how old he was and killed himself in admin sit"
+        "BanReason": "Team kill, RDM, underage"
     }
 }
