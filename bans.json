@@ -994,5 +994,9 @@
     "Socketer": {
         "banneduntil": "2024.4.10-12:00:00PM",
         "BanReason": "Switched teams to tried to tk me before and after his kick"
+    },
+    "tristanellix": {
+        "banneduntil": "9999.12.12-12.00.00",
+        "BanReason": "mass rdm, leaving sit, underage -fishy"
     }
 }
