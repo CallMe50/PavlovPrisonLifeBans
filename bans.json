@@ -986,5 +986,9 @@
     "RobotAura": {
         "banneduntil": "2024.4.3-12:00:00PM",
         "BanReason": "hard r"
+    },
+    "GGGOAT06": {
+        "banneduntil": "2030.4.3-12:00:00PM",
+        "BanReason": "Underaged and mindlessly killing prisoners as a cop"
     }
 }
