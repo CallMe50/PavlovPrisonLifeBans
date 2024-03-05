@@ -982,5 +982,9 @@
     "VKBoss": {
         "banneduntil": "2024.4.3-12:00:00PM",
         "BanReason": "N word"
+    },
+    "RobotAura": {
+        "banneduntil": "2024.4.3-12:00:00PM",
+        "BanReason": "hard r"
     }
 }
