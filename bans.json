@@ -998,5 +998,9 @@
     "tristanellix": {
         "banneduntil": "9999.12.12-12.00.00",
         "BanReason": "mass rdm, leaving sit, underage -fishy"
+    },
+    "moneyofmyth": {
+        "banneduntil": "999.12.31-12.00.00pm",
+        "BanReason": "Team kill, RDM, underage"
     }
 }
