@@ -978,5 +978,9 @@
     "Gaminero": {
         "banneduntil": "2024.3.20-12.00.00pm",
         "BanReason": "Multiple Reports of mass to,cross teaming and rdm."
+    },
+    "VKBoss": {
+        "banneduntil": "2024.4.3-12:00:00PM",
+        "BanReason": "N word"
     }
 }
