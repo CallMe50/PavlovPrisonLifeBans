@@ -990,5 +990,9 @@
     "GGGOAT06": {
         "banneduntil": "2030.4.3-12:00:00PM",
         "BanReason": "Underaged and mindlessly killing prisoners as a cop"
+    },
+    "Socketer": {
+        "banneduntil": "2023.4.3-12:00:00PM",
+        "BanReason": "Switched teams to tried to tk me before and after his kick"
     }
 }
