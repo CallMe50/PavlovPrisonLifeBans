@@ -970,5 +970,9 @@
     "Jaxon712": {
         "banneduntil": "2025.4.3-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Pavrp.chance": {
+        "banneduntil": "2024.4.3-12.00.00pm",
+        "BanReason": "Spam votekicking people after I already warned him over an hour ago to quit it"
     }
 }
