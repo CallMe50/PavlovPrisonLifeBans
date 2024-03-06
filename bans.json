@@ -1050,5 +1050,9 @@
     "LordZohmbie": {
         "banneduntil": "2024.4.31-12.00.00pm",
         "BanReason": "Teamkill as a guard (from reports)"
+    },
+    "2fxcecherry": {
+        "banneduntil": "2024.3.9-12.00.00pm",
+        "BanReason": "Repeated random kicking, rdm"
     }
 }
