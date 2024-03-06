@@ -1074,5 +1074,9 @@
     "Stola.s": {
         "banneduntil": "2024.3.9-12.00.00pm",
         "BanReason": "Repeated cross teaming"
+    },
+    "Kim_Jong_Un647": {
+        "banneduntil": "2024.3.08-12.00.00pm",
+        "BanReason": "teamkilling -fishy"
     }
 }
