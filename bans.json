@@ -1070,5 +1070,9 @@
     "Name: stola.s": {
         "banneduntil": "Date: 2024.3.9-12.00.00pm",
         "BanReason": "Reason: Repeated cross teaming"
+    },
+    "Stola.s": {
+        "banneduntil": "2024.3.9-12.00.00pm",
+        "BanReason": "Repeated cross teaming"
     }
 }
