@@ -1098,5 +1098,9 @@
     "6kAcez": {
         "banneduntil": "2024.3.9-12.00.00pm",
         "BanReason": "Team Killing as Swat"
+    },
+    "Spotspo": {
+        "banneduntil": "2024.3.12-12.00.00pm",
+        "BanReason": "Random kicking people, interrupting admin sit, returning after kick"
     }
 }
