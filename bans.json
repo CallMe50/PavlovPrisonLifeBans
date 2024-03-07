@@ -1094,5 +1094,9 @@
     "PlumbApolloVR89": {
         "banneduntil": "2025.3.7-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "6kAcez": {
+        "banneduntil": "2024.3.9-12.00.00pm",
+        "BanReason": "Team Killing as Swat"
     }
 }
