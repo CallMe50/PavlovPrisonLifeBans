@@ -1090,5 +1090,9 @@
     "gggoat00": {
         "banneduntil": "2087.3.10-12.00.00pm",
         "BanReason": "Repeated cross teaming, he\u2019s a child, rdming, ban evading"
+    },
+    "PlumbApolloVR89": {
+        "banneduntil": "2025.3.7-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
