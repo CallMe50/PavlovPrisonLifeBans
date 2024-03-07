@@ -1102,5 +1102,9 @@
     "Spotspo": {
         "banneduntil": "2024.3.12-12.00.00pm",
         "BanReason": "Random kicking people, interrupting admin sit, returning after kick"
+    },
+    "Fued": {
+        "banneduntil": "2024.6.12-12.00.00pm",
+        "BanReason": "Repeated mass kicking without reason"
     }
 }
