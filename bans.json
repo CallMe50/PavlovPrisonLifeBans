@@ -10,5 +10,9 @@
     "Weasel.007": {
         "banneduntil": "2027.3.12-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "motive2500": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "mass baiting after warn and evading sit -fishy"
     }
 }
