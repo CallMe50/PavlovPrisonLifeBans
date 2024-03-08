@@ -14,5 +14,9 @@
     "motive2500": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "mass baiting after warn and evading sit -fishy"
+    },
+    "papiroach.359271": {
+        "banneduntil": "2024.3.10-12.00.00pm",
+        "BanReason": "glitching, mass baiting"
     }
 }
