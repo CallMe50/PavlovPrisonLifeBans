@@ -50,5 +50,9 @@
     "SystemAdminOnline": {
         "banneduntil": "2024.3.11-12.00.00pm",
         "BanReason": "Baiting prisoners consistently (from reports)"
+    },
+    "Motive2500": {
+        "banneduntil": "2024.3.30-12.00.00pm",
+        "BanReason": "mass baiting and leaving on sit -fishy"
     }
 }
