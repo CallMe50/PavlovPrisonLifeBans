@@ -46,5 +46,9 @@
     "Ethan265": {
         "banneduntil": "2024.3..15-12.00.00pm",
         "BanReason": "Leaving during admin sit x2, team kill, false kicking."
+    },
+    "SystemAdminOnline": {
+        "banneduntil": "2024.3.11-12.00.00pm",
+        "BanReason": "Baiting prisoners consistently (from reports)"
     }
 }
