@@ -58,5 +58,9 @@
     "mrsneaky.457551": {
         "banneduntil": "2024.4.9-12.00.00pm",
         "BanReason": "Evading admin sit (x5), false vote kicking (x4),"
+    },
+    "Jimmy.R": {
+        "banneduntil": "2024.3.16-12.00.00pm",
+        "BanReason": "False Votkicking (x4), Killing in admin sit"
     }
 }
