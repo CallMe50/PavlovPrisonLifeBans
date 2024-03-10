@@ -62,5 +62,9 @@
     "Jimmy.R": {
         "banneduntil": "2024.3.16-12.00.00pm",
         "BanReason": "False Votkicking (x4), Killing in admin sit"
+    },
+    "weissfamily.2023": {
+        "banneduntil": "2026.3.9-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
