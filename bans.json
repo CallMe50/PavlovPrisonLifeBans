@@ -74,5 +74,9 @@
     "Bosco2": {
         "banneduntil": "2024.3.11-12.00.00pm",
         "BanReason": "Repeated mass tk and cross teaming"
+    },
+    "BenAstro": {
+        "banneduntil": "2024.3.16-12.00.00pm",
+        "BanReason": "Under 13"
     }
 }
