@@ -78,5 +78,9 @@
     "BenAstro": {
         "banneduntil": "2024.3.16-12.00.00pm",
         "BanReason": "Under 13"
+    },
+    "v3spy0": {
+        "banneduntil": "2024.3.6-12.00.00pm",
+        "BanReason": "glitching -fishy"
     }
 }
