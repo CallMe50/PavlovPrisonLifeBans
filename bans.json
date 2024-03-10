@@ -66,5 +66,9 @@
     "weissfamily.2023": {
         "banneduntil": "2026.3.9-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "banlyles23": {
+        "banneduntil": "2025.08.28-12.00.00pm",
+        "BanReason": "12 years old"
     }
 }
