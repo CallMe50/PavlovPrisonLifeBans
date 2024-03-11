@@ -90,5 +90,9 @@
     "Grimeyy_Mutt": {
         "banneduntil": "2024.3.16-12.00.00pm",
         "BanReason": "Rdm,baiting,crossTeaming, random tasing"
+    },
+    "oxowrld": {
+        "banneduntil": "2024.3.14-12.00.00pm",
+        "BanReason": "mass teamkilling -fishy"
     }
 }
