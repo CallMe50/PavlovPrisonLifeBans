@@ -110,5 +110,9 @@
     "Its_urMexican": {
         "banneduntil": "2077.4.11-12.00.00pm",
         "BanReason": "Hard R and underage"
+    },
+    "THEBOYS0123": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "underage"
     }
 }
