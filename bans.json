@@ -146,5 +146,9 @@
     "NOTAPERSON": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Attempted to TK me twice while I was a jug as a fellow cop"
+    },
+    "NOTAPERSON22": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Attempted to TK me twice while I was a jug as a fellow cop"
     }
 }
