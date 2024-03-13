@@ -174,5 +174,9 @@
     "M4CARBINE": {
         "banneduntil": "2024.3.20-12.00.00pm",
         "BanReason": "Being a dick and mass rdming everyone in admin room after given multiple warnings"
+    },
+    "Deathhammer2023": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "mass rdm, killing during sit -fishy"
     }
 }
