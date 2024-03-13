@@ -170,5 +170,9 @@
     "wyattdaddy12": {
         "banneduntil": "2028.3.17-12.00.00pm",
         "BanReason": "Rdm (x2), rdming in admin sit (x2), leaving during admin sit, underaged"
+    },
+    "M4CARBINE": {
+        "banneduntil": "2024.3.20-12.00.00pm",
+        "BanReason": "Being a dick and mass rdming everyone in admin room after given multiple warnings"
     }
 }
