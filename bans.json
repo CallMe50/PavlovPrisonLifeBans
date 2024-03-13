@@ -126,5 +126,9 @@
     "l3mulord": {
         "banneduntil": "2054.5.16-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "localshowerpisser": {
+        "banneduntil": "2199.5.16-12.00.00pm",
+        "BanReason": "Said the hard R"
     }
 }
