@@ -118,5 +118,9 @@
     "UniqueName.Maybe": {
         "banneduntil": "2024.6.11-12.00.00pm",
         "BanReason": "Repeatedly team killed me as a cop while I was in my jug suit."
+    },
+    "jamsbond1562": {
+        "banneduntil": "2024.5.16-12.00.00pm",
+        "BanReason": "Team killed repeatedly and during sit"
     }
 }
