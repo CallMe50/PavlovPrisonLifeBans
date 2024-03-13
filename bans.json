@@ -142,5 +142,9 @@
     "Rushyy679": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "."
+    },
+    "NOTAPERSON": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Attempted to TK me twice while I was a jug as a fellow cop"
     }
 }
