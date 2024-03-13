@@ -114,5 +114,9 @@
     "THEBOYS0123": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "underage"
+    },
+    "UniqueName.Maybe": {
+        "banneduntil": "2024.6.11-12.00.00pm",
+        "BanReason": "Repeatedly team killed me as a cop while I was in my jug suit."
     }
 }
