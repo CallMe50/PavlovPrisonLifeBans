@@ -206,5 +206,9 @@
     "Charles14000": {
         "banneduntil": "2024.3.13-12.00.00pm",
         "BanReason": "Unbanned"
+    },
+    "hansell205": {
+        "banneduntil": "2024.3.17-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
