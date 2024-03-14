@@ -194,5 +194,9 @@
     "pjissupercool": {
         "banneduntil": "2024.3.21-12.00.00pm",
         "BanReason": "Mass rdm (x2), Fail RP, Rejoining after a force team switch from rdm"
+    },
+    "GermanFist": {
+        "banneduntil": "2024.3.15-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
