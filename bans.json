@@ -190,5 +190,9 @@
     "ffailure": {
         "banneduntil": "2024.3.18-12.00.00pm",
         "BanReason": "Said N word (changed from appeal)"
+    },
+    "pjissupercool": {
+        "banneduntil": "2024.3.21-12.00.00pm",
+        "BanReason": "Mass rdm (x2), Fail RP, Rejoining after a force team switch from rdm"
     }
 }
