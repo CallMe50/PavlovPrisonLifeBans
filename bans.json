@@ -262,5 +262,9 @@
     "Creepypumi": {
         "banneduntil": "2024.3.29-12.00.00pm",
         "BanReason": "rdm,evading admin sit,leaving admin sit"
+    },
+    "Kim Jong.un51": {
+        "banneduntil": "2024.5.29-12.00.00pm",
+        "BanReason": "Racism (hard-R)"
     }
 }
