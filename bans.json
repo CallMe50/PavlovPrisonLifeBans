@@ -274,5 +274,9 @@
     "KingUSA2015": {
         "banneduntil": "2024.3.17-12.00.00pm",
         "BanReason": "Shooting through walls"
+    },
+    "Urazz69": {
+        "banneduntil": "2024.3.20-12.00.00pm",
+        "BanReason": "Camping swat spawn"
     }
 }
