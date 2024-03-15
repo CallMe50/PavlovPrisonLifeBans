@@ -286,5 +286,9 @@
     "mark.574377": {
         "banneduntil": "2024.3.17-12.00.00pm",
         "BanReason": "Multiple rdm"
+    },
+    "zaza420Smoke": {
+        "banneduntil": "2026.3.16-12.00.00pm",
+        "BanReason": "Underaged, mass rdm (x6), team kill"
     }
 }
