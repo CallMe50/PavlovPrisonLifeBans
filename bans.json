@@ -338,5 +338,9 @@
     "Sercuity": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Repeated mass to and cross teaming, warned(X2),kicked(X2)"
+    },
+    "mrakmuncher": {
+        "banneduntil": "2024.3.18-12.00.00pm",
+        "BanReason": "false vote kick, after questioning avoiding to talk leaving admin sit(2x)"
     }
 }
