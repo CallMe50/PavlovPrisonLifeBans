@@ -334,5 +334,9 @@
     "VogelMisfits": {
         "banneduntil": "3092.3.16-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Sercuity": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Repeated mass to and cross teaming, warned(X2),kicked(X2)"
     }
 }
