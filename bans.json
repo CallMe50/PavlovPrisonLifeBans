@@ -330,5 +330,9 @@
     "glitchman7525": {
         "banneduntil": "2024.3.18-12.00.00pm",
         "BanReason": "Shooting through walls"
+    },
+    "VogelMisfits": {
+        "banneduntil": "3092.3.16-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
