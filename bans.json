@@ -294,5 +294,9 @@
     "JROXS": {
         "banneduntil": "2028.4.15-12.00.00pm",
         "BanReason": "Mass rdm (x3), leaving during admin sit, underaged (10)"
+    },
+    "Mythix17": {
+        "banneduntil": "2024.3-17-12.00.00pm",
+        "BanReason": "Mass rdm"
     }
 }
