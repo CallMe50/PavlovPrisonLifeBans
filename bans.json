@@ -290,5 +290,9 @@
     "zaza420Smoke": {
         "banneduntil": "2026.3.16-12.00.00pm",
         "BanReason": "Underaged, mass rdm (x6), team kill"
+    },
+    "JROXS": {
+        "banneduntil": "2028.4.15-12.00.00pm",
+        "BanReason": "Mass rdm (x3), leaving during admin sit, underaged (10)"
     }
 }
