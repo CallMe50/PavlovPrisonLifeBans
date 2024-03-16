@@ -314,5 +314,9 @@
     "thatboy828": {
         "banneduntil": "2024.3.22-12.00.00pm",
         "BanReason": "Crossteaming"
+    },
+    "N9neBottles": {
+        "banneduntil": "2024.3.18-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
