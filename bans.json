@@ -366,5 +366,9 @@
     "BingBongSag": {
         "banneduntil": "2060.1.1-12.00.00pm",
         "BanReason": "Repeated use of the n word hard r and leaving during admin sit"
+    },
+    "VXRAIL_17": {
+        "banneduntil": "2028.3.16-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
