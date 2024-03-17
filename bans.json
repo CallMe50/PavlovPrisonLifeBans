@@ -370,5 +370,9 @@
     "VXRAIL_17": {
         "banneduntil": "2028.3.16-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Zoomoney78": {
+        "banneduntil": "2024.4.16-12.00.00pm",
+        "BanReason": "Rdm (x4), leaving during admin sit, death threat"
     }
 }
