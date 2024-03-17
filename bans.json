@@ -382,5 +382,9 @@
     "SweepingAshes": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "mass rdm"
+    },
+    "Geelow4900": {
+        "banneduntil": "2080.3.17-12.00.00pm",
+        "BanReason": "Hard r,rdm,killing in adminsit, leaving adminsit"
     }
 }
