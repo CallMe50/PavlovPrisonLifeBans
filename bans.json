@@ -378,5 +378,9 @@
     "EllstheBeast": {
         "banneduntil": "2024.3.20-12.00.00pm",
         "BanReason": "Repeated cross teaming, baiting"
+    },
+    "SweepingAshes": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "mass rdm"
     }
 }
