@@ -374,5 +374,9 @@
     "Zoomoney78": {
         "banneduntil": "2024.4.16-12.00.00pm",
         "BanReason": "Rdm (x4), leaving during admin sit, death threat"
+    },
+    "EllstheBeast": {
+        "banneduntil": "2024.3.20-12.00.00pm",
+        "BanReason": "Repeated cross teaming, baiting"
     }
 }
