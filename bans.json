@@ -410,5 +410,9 @@
     "Quentin2120": {
         "banneduntil": "2025.3.20-12.00.00pm",
         "BanReason": "Repeated rdm(x7) with 2 warnings, attempted tk"
+    },
+    "Equalizer929": {
+        "banneduntil": "2028.3.18-12.00.00",
+        "BanReason": "Underaged"
     }
 }
