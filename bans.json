@@ -414,5 +414,9 @@
     "Equalizer929": {
         "banneduntil": "2028.3.18-12.00.00",
         "BanReason": "Underaged"
+    },
+    "hdeagle89": {
+        "banneduntil": "2027.3.18-12.00.00",
+        "BanReason": "Hard-R"
     }
 }
