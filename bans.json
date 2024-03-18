@@ -402,5 +402,9 @@
     "petra1980": {
         "banneduntil": "6000.3.18-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "FrankieOnSkill": {
+        "banneduntil": "2050.3.18-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
