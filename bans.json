@@ -422,5 +422,9 @@
     "BIG.DICK.RANDY": {
         "banneduntil": "2024.4.18-12.00.00pm",
         "BanReason": "Lying to an admin (x3), mass rdm (x7)"
+    },
+    "ittermadmax": {
+        "banneduntil": "2024.3.22-12.00.00pm",
+        "BanReason": "Cross Teaming, Rdm"
     }
 }
