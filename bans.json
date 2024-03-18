@@ -426,5 +426,9 @@
     "ittermadmax": {
         "banneduntil": "2024.3.22-12.00.00pm",
         "BanReason": "Cross Teaming, Rdm"
+    },
+    "pavrp.chance": {
+        "banneduntil": "2024.3.25-12.00.00",
+        "BanReason": "Cross teaming, repeat offender"
     }
 }
