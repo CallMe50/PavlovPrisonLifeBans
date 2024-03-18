@@ -430,5 +430,9 @@
     "pavrp.chance": {
         "banneduntil": "2024.3.25-12.00.00",
         "BanReason": "Cross teaming, repeat offender"
+    },
+    "konnerclarke3647": {
+        "banneduntil": "2024.3.23-12.00.00pm",
+        "BanReason": "Cross teaming, leaving admin sit(3x), lying isn\u2019t going to get you far"
     }
 }
