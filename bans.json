@@ -490,5 +490,9 @@
     "sage1215": {
         "banneduntil": "2028.3.18-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "autisim.swag.2024": {
+        "banneduntil": "2024.4.2-12.00.00pm",
+        "BanReason": "Mass crossteaming -spooderman6921"
     }
 }
