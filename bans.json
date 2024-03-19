@@ -482,5 +482,9 @@
     "SpineNibbler": {
         "banneduntil": "2024.4.1-12.00.00",
         "BanReason": "Initiating false vote kick during admin sit, after being warned(X1), participating in false vote kicks(X4)"
+    },
+    "ironBreaker2099": {
+        "banneduntil": "2024.3.29-12.00.00",
+        "BanReason": "Crossteaming (x2), Teamkilling."
     }
 }
