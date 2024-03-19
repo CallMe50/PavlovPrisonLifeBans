@@ -446,5 +446,9 @@
     "Bray_08llqrjuxjd": {
         "banneduntil": "9999.3.22-12.00.00",
         "BanReason": "Bray wanted him gone"
+    },
+    "Plague_vr": {
+        "banneduntil": "3092.3.18-12.00.00pm",
+        "BanReason": "Hard r (x172)"
     }
 }
