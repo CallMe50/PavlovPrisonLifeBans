@@ -470,5 +470,9 @@
     "Sea.food.nerd": {
         "banneduntil": "2024.3.30-12.00.00",
         "BanReason": "Initiating false vote kick (X1), participating in false vote kicks(X4)"
+    },
+    "rrt4549.2023": {
+        "banneduntil": "2024.4.22-12.00.00",
+        "BanReason": "Initiating false vote kick (X1), participating in false vote kicks(X5), attempted to(X1)"
     }
 }
