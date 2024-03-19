@@ -502,5 +502,9 @@
     "CZVEN": {
         "banneduntil": "2099.3.28-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "Superboyy": {
+        "banneduntil": "9999.3.22-12.00.00pm",
+        "BanReason": "Your attempt to evade a ban by using an alt account has resulted in a permanent ban of all your accounts from any associated servers without the possibility of an appeal."
     }
 }
