@@ -510,5 +510,9 @@
     "Level_5_Rat": {
         "banneduntil": "2024.3.21-12.00.00pm",
         "BanReason": "Rdm,leaving after questioned"
+    },
+    "MadAdriel": {
+        "banneduntil": "9999.1.1-12.00.00pm",
+        "BanReason": "Definitely underage, leaving during sit, and several false vote kicks"
     }
 }
