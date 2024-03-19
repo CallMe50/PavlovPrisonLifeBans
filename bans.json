@@ -486,5 +486,9 @@
     "ironBreaker2099": {
         "banneduntil": "2024.3.29-12.00.00",
         "BanReason": "Crossteaming (x2), Teamkilling."
+    },
+    "sage1215": {
+        "banneduntil": "2028.3.18-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
