@@ -454,5 +454,9 @@
     "Superboyyy": {
         "banneduntil": "9999.3.22-12.00.00",
         "BanReason": "Attempted Tk,tazing teammates"
+    },
+    "Makpenta": {
+        "banneduntil": "2024.3.21-12.00.00",
+        "BanReason": "Abusing glitches (shooting through walls via burst glitch)"
     }
 }
