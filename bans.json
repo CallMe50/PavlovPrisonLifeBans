@@ -478,5 +478,9 @@
     "MRMOVIE2": {
         "banneduntil": "2024.5.22-12.00.00",
         "BanReason": "Initiating false vote kick (X2), participating in false vote kicks(X3), attempted tk(X3),cross teaming (X10+) with warning"
+    },
+    "SpineNibbler": {
+        "banneduntil": "2024.4.1-12.00.00",
+        "BanReason": "Initiating false vote kick during admin sit, after being warned(X1), participating in false vote kicks(X4)"
     }
 }
