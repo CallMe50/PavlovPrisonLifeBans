@@ -462,5 +462,9 @@
     "weird.497": {
         "banneduntil": "2024.7.21-12.00.00",
         "BanReason": "Underage(submit an appeal when you turn 13)"
+    },
+    "Jayden100000": {
+        "banneduntil": "2024.3.22-12.00.00",
+        "BanReason": "Initiating false vote kick (X1), participating in false vote kicks(X2)"
     }
 }
