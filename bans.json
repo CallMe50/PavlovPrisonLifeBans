@@ -458,5 +458,9 @@
     "Makpenta": {
         "banneduntil": "2024.3.21-12.00.00",
         "BanReason": "Abusing glitches (shooting through walls via burst glitch)"
+    },
+    "weird.497": {
+        "banneduntil": "2024.7.21-12.00.00",
+        "BanReason": "Underage(submit an appeal when you turn 13)"
     }
 }
