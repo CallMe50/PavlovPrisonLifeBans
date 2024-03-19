@@ -498,5 +498,9 @@
     "MRMONKEYMAN1738": {
         "banneduntil": "2024.3.28-12.00.00pm",
         "BanReason": "Rdm(3x), team-killing,cross-teaming"
+    },
+    "CZVEN": {
+        "banneduntil": "2099.3.28-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
