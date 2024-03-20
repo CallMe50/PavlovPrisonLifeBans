@@ -534,5 +534,9 @@
     "MoMoney0713": {
         "banneduntil": "2099.3.31-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Dr.StinkyBalls": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Rdm and killing during sit"
     }
 }
