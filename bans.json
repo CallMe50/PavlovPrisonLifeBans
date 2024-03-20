@@ -514,5 +514,9 @@
     "MadAdriel": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "Definitely underage, leaving during sit, and several false vote kicks"
+    },
+    "Doritopug": {
+        "banneduntil": "2024.3.31-12.00.00pm",
+        "BanReason": "Rdm, spam tazing"
     }
 }
