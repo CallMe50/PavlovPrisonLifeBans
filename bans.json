@@ -542,5 +542,9 @@
     "doscoff": {
         "banneduntil": "2024.3.27-12.00.00pm",
         "BanReason": "Mass teamkilling then leaving the game"
+    },
+    "sammyannsmith2": {
+        "banneduntil": "2024.3.23-12.00.00pm",
+        "BanReason": "Repeated-Rdm"
     }
 }
