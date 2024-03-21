@@ -538,5 +538,9 @@
     "Dr.StinkyBalls": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "Rdm and killing during sit"
+    },
+    "doscoff": {
+        "banneduntil": "2024.3.27-12.00.00pm",
+        "BanReason": "Mass teamkilling then leaving the game"
     }
 }
