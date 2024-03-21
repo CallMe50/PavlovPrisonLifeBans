@@ -570,5 +570,9 @@
     "Grove00": {
         "banneduntil": "2024.4.21-12.00.00pm",
         "BanReason": "Killing random prisoners"
+    },
+    "Rapid_18": {
+        "banneduntil": "2099.3.21-12.00.00pm",
+        "BanReason": "Banned for saying the N word."
     }
 }
