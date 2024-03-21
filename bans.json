@@ -566,5 +566,9 @@
     "John.Herbert.173": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "Helping prisoners escape as a cop multiple times"
+    },
+    "Grove00": {
+        "banneduntil": "2024.4.21-12.00.00pm",
+        "BanReason": "Killing random prisoners"
     }
 }
