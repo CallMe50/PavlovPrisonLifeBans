@@ -562,5 +562,9 @@
     "robdobbs7": {
         "banneduntil": "2027.3.21-12.00.00pm",
         "BanReason": "Underage,rdm,evading questions,leaving adminsit"
+    },
+    "John.Herbert.173": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Helping prisoners escape as a cop multiple times"
     }
 }
