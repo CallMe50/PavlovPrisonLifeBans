@@ -574,5 +574,9 @@
     "Rapid_18": {
         "banneduntil": "2099.3.21-12.00.00pm",
         "BanReason": "Banned for saying the N word."
+    },
+    "Cortif": {
+        "banneduntil": "9999.3.21-12.00.00pm",
+        "BanReason": "Banned for saying the N word."
     }
 }
