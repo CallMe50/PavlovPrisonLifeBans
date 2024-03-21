@@ -546,5 +546,9 @@
     "sammyannsmith2": {
         "banneduntil": "2024.3.23-12.00.00pm",
         "BanReason": "Repeated-Rdm"
+    },
+    "glitched_outcast": {
+        "banneduntil": "2099.3.21-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
