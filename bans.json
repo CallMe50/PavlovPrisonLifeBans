@@ -550,5 +550,9 @@
     "glitched_outcast": {
         "banneduntil": "2099.3.21-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "MasonMason123": {
+        "banneduntil": "2024.3.25-12.00.00pm",
+        "BanReason": "Multiple times TK"
     }
 }
