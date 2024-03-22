@@ -586,5 +586,9 @@
     "Lewrobbo": {
         "banneduntil": "2024.3.23-12.00.00pm",
         "BanReason": "teaming with prisoners as guard"
+    },
+    "2JsAndAK": {
+        "banneduntil": "9999.3.21-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
