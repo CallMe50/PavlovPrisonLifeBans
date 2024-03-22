@@ -606,5 +606,9 @@
     "Xoxnimm": {
         "banneduntil": "2024.04.06-12.00.00pm",
         "BanReason": "Staff disrespect."
+    },
+    "eraydamacc": {
+        "banneduntil": "9999.03.22-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
