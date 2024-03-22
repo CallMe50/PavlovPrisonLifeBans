@@ -626,5 +626,9 @@
     "valkor_z": {
         "banneduntil": "2024.04.20-12.00.00pm",
         "BanReason": "Team kill"
+    },
+    "SgtAsian": {
+        "banneduntil": "2024.3.28-12.00.00pm",
+        "BanReason": "Rdm, evading adminsit, leaving adminsit"
     }
 }
