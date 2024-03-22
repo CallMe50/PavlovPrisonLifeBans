@@ -582,5 +582,9 @@
     "Benbenben123123": {
         "banneduntil": "2099.3.21-12.00.00pm",
         "BanReason": "Banned for being underage and giving out guns to prisoners"
+    },
+    "Lewrobbo": {
+        "banneduntil": "2024.3.23-12.00.00pm",
+        "BanReason": "teaming with prisoners as guard"
     }
 }
