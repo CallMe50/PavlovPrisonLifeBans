@@ -590,5 +590,9 @@
     "2JsAndAK": {
         "banneduntil": "9999.3.21-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "codfanboy": {
+        "banneduntil": "2024.3.25-12.00.00pm",
+        "BanReason": "Shooting through walls"
     }
 }
