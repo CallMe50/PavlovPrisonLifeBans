@@ -654,5 +654,9 @@
     "Austin_P": {
         "banneduntil": "2024.3.30-12.00.00pm",
         "BanReason": "Teamkilling, leaving adminsit (2x)"
+    },
+    "AH_": {
+        "banneduntil": "2024.3.25-12.00.00pm",
+        "BanReason": "Rdm, tasing teammates"
     }
 }
