@@ -650,5 +650,9 @@
     "KENTUCKY02": {
         "banneduntil": "2026.3.23-12.00.00pm",
         "BanReason": "Underage, Killing in adminsit (x2!)"
+    },
+    "Austin_P": {
+        "banneduntil": "2024.3.30-12.00.00pm",
+        "BanReason": "Teamkilling, leaving adminsit (2x)"
     }
 }
