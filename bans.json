@@ -662,5 +662,9 @@
     "SeekNDestroy10": {
         "banneduntil": "2024.4.7-12.00.00pm",
         "BanReason": "Rdm, killing in adminsit (3x), leaving adminsit"
+    },
+    "eazer1": {
+        "banneduntil": "2024.3.24-12.00.00pm",
+        "BanReason": "Camping Fugitive base"
     }
 }
