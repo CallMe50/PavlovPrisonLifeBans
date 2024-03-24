@@ -682,5 +682,9 @@
     "brian.766649": {
         "banneduntil": "2099.7.5-12.00.00pm",
         "BanReason": "Repeated use of the hard-R"
+    },
+    "P.rakeetpennybags": {
+        "banneduntil": "2024.3.26-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
