@@ -678,5 +678,9 @@
     "Not_the_Moaner": {
         "banneduntil": "2099.4.1-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "brian.766649": {
+        "banneduntil": "2099.7.5-12.00.00pm",
+        "BanReason": "Repeated use of the hard-R"
     }
 }
