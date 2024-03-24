@@ -690,5 +690,9 @@
     "John.Herbert.173821": {
         "banneduntil": "2099.3.24-12.00.00pm",
         "BanReason": "Racism, crossteaming, rdm"
+    },
+    "Kukis4": {
+        "banneduntil": "2099.12.12-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
