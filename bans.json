@@ -702,5 +702,9 @@
     "LWR24": {
         "banneduntil": "2026.5.8-12.00.00pm",
         "BanReason": "Underaged, avoided sit 3 times then left"
+    },
+    "ROOT_BEER2012": {
+        "banneduntil": "2025.3.25-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
