@@ -706,5 +706,9 @@
     "ROOT_BEER2012": {
         "banneduntil": "2025.3.25-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Dylan_Lee2011": {
+        "banneduntil": "6969.4.20-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
