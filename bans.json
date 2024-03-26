@@ -730,5 +730,9 @@
     "ElKrlipet": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Racism, Mass RDM"
+    },
+    "ANTI_FURRY_GOD": {
+        "banneduntil": "2028.3.26-12.00.00pm",
+        "BanReason": "Underage (from reports)"
     }
 }
