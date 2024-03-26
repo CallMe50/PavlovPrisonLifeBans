@@ -738,5 +738,9 @@
     "Pokiekid07": {
         "banneduntil": "2030.3.26-12.00.00pm",
         "BanReason": "Underage (from reports)"
+    },
+    "janie.voorheis": {
+        "banneduntil": "2025.3.26-12.00.00pm",
+        "BanReason": "Underage, RDM, No intent to play,"
     }
 }
