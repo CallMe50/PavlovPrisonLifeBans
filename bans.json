@@ -746,5 +746,9 @@
     "Sniper8805": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "RDM, Teamkilling, Reported Multiple times, needs to learn the rules before joining again"
+    },
+    "Lonleygamer27": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
