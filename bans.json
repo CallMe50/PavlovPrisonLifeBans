@@ -770,5 +770,9 @@
     "CXVEN": {
         "banneduntil": "2099.3.27",
         "BanReason": "Rdm, Hard-r,cross teaming (from reports)"
+    },
+    "Griffthegangster": {
+        "banneduntil": "2024.4.26-12.00.00pm",
+        "BanReason": "Repeated rdm, baiting,tk(multiple warnings on multiple occasions)"
     }
 }
