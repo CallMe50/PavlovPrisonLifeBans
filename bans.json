@@ -766,5 +766,9 @@
     "duch.van.der.lin": {
         "banneduntil": "2024.3.28-12.00.00pm",
         "BanReason": "Rdm(from reports)"
+    },
+    "CXVEN": {
+        "banneduntil": "2099.3.27",
+        "BanReason": "Rdm, Hard-r,cross teaming (from reports)"
     }
 }
