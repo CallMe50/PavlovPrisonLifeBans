@@ -774,5 +774,9 @@
     "Griffthegangster": {
         "banneduntil": "2024.4.26-12.00.00pm",
         "BanReason": "Repeated rdm, baiting,tk(multiple warnings on multiple occasions)"
+    },
+    "WeedPen": {
+        "banneduntil": "2025.4.26-12.00.00pm",
+        "BanReason": "Repeated use of the hard-R"
     }
 }
