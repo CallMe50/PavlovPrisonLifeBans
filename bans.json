@@ -802,5 +802,9 @@
     "Alexfrompaarp": {
         "banneduntil": "2099.3.28-12.00.00pm",
         "BanReason": "Hard-r (from reports)"
+    },
+    "josh.d": {
+        "banneduntil": "2099.3.28-12.00.00pm",
+        "BanReason": "Hard-r"
     }
 }
