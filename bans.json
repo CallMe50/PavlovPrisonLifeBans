@@ -786,5 +786,9 @@
     "crispvr20232023": {
         "banneduntil": "2024.4.4-12.00.00pm",
         "BanReason": "Rdm, shooting me when questioned, tazing in asminsit (2x), killing in Adminsit (2x)"
+    },
+    "tanmonk.2024": {
+        "banneduntil": "2025.4.8-12.00.00pm",
+        "BanReason": "Underage, rdm, baiting, leaving adminsit"
     }
 }
