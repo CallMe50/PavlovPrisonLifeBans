@@ -814,5 +814,9 @@
     "YungToaster69": {
         "banneduntil": "2024.4.3-12.00.00pm",
         "BanReason": "RDM prosoners"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2024.3.30-12.00.00pm",
+        "BanReason": "TK as a fugitive (reduced from appeal)"
     }
 }
