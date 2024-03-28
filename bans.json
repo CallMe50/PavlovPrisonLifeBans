@@ -782,5 +782,9 @@
     "Panzerwaif": {
         "banneduntil": "2025.3.28",
         "BanReason": "Underaged"
+    },
+    "crispvr20232023": {
+        "banneduntil": "2024.4.4-12.00.00pm",
+        "BanReason": "Rdm, shooting me when questioned, tazing in asminsit (2x), killing in Adminsit (2x)"
     }
 }
