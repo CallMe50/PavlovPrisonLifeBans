@@ -778,5 +778,9 @@
     "WeedPen": {
         "banneduntil": "2025.4.26-12.00.00pm",
         "BanReason": "Repeated use of the hard-R"
+    },
+    "Panzerwaif": {
+        "banneduntil": "2025.3.28",
+        "BanReason": "Underaged"
     }
 }
