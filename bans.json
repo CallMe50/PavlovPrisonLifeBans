@@ -790,5 +790,9 @@
     "tanmonk.2024": {
         "banneduntil": "2025.4.8-12.00.00pm",
         "BanReason": "Underage, rdm, baiting, leaving adminsit"
+    },
+    "Olivier1118": {
+        "banneduntil": "2025.3.28-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
