@@ -826,5 +826,9 @@
     "Sup654": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "Baiting, leaving during sit, and hard r"
+    },
+    "Dakota_andcars": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Hard R in discord because I said I\u2019d mute him for a week for saying weird creepy things to me after begging for staff and lying about Envy interviewing him"
     }
 }
