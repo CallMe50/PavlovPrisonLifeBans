@@ -834,5 +834,9 @@
     "Slaydog001": {
         "banneduntil": "2024.4.2-12.00.00pm",
         "BanReason": "Repeated spawnkill (from reports)"
+    },
+    "Rynoman_OVL": {
+        "banneduntil": "2024.3.30-12.00.00pm",
+        "BanReason": "TKing other cop (reports)"
     }
 }
