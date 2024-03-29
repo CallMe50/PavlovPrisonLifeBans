@@ -858,5 +858,9 @@
     "TheRandomDummy": {
         "banneduntil": "2024.4.29-12.00.00pm",
         "BanReason": "Wall Glitching"
+    },
+    "Dontcaredotcom": {
+        "banneduntil": "2099.3.29-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
