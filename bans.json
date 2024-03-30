@@ -878,5 +878,9 @@
     "jack-y-tra": {
         "banneduntil": "2025.4.1-12.00.00pm",
         "BanReason": "Underaged, refused to cooperate when asked his age"
+    },
+    "Xoxnimm": {
+        "banneduntil": "2023.4.1-12.00.00pm",
+        "BanReason": "."
     }
 }
