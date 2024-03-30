@@ -862,5 +862,9 @@
     "Dontcaredotcom": {
         "banneduntil": "2099.3.29-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Nazyseal1000": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Doing the m16 glitch"
     }
 }
