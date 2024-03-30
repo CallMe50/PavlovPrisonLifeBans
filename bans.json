@@ -866,5 +866,9 @@
     "Nazyseal1000": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "Doing the m16 glitch"
+    },
+    "WildmanWill016": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "mass teaming with pisoners"
     }
 }
