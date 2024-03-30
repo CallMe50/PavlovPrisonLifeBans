@@ -870,5 +870,9 @@
     "WildmanWill016": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "mass teaming with pisoners"
+    },
+    "Flowrty": {
+        "banneduntil": "9999.1.1-12.00.00pm",
+        "BanReason": "mass rdm, spawn killing, killing when confronted, leaving when confronted -fishy"
     }
 }
