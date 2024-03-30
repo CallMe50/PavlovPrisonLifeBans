@@ -874,5 +874,9 @@
     "Flowrty": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "mass rdm, spawn killing, killing when confronted, leaving when confronted -fishy"
+    },
+    "jack-y-tra": {
+        "banneduntil": "2025.4.1-12.00.00pm",
+        "BanReason": "Underaged, refused to cooperate when asked his age"
     }
 }
