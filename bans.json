@@ -906,5 +906,9 @@
     "777and": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "Cross teaming (from reports)"
+    },
+    "TheBoogeyman1": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Cross teaming (from reports)"
     }
 }
