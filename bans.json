@@ -902,5 +902,9 @@
     "Brady_scooters": {
         "banneduntil": "2024.3.31-12.00.00pm",
         "BanReason": "Team killing"
+    },
+    "777and": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Cross teaming (from reports)"
     }
 }
