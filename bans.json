@@ -922,5 +922,9 @@
     "Jongun.2022": {
         "banneduntil": "2024.4.1-12.00.00pm",
         "BanReason": "Giving prisoners guns"
+    },
+    "bennutputter": {
+        "banneduntil": "2025.3.31-12.00.00pm",
+        "BanReason": "Underage and Evading adminsit"
     }
 }
