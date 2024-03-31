@@ -898,5 +898,9 @@
     "Ke4n2faded.909": {
         "banneduntil": "2024.4.6-12.00.00pm",
         "BanReason": "Tk, cross teaming"
+    },
+    "Brady_scooters": {
+        "banneduntil": "2024.3.31-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
