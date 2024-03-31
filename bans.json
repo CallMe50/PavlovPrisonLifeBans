@@ -918,5 +918,9 @@
     "Beetlejuice_214": {
         "banneduntil": "9999.3.31-12.00.00pm",
         "BanReason": "Hard-r (from reports)"
+    },
+    "Jongun.2022": {
+        "banneduntil": "2024.4.1-12.00.00pm",
+        "BanReason": "Giving prisoners guns"
     }
 }
