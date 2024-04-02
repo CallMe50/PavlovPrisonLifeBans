@@ -966,5 +966,9 @@
     "I.SNORTWIZZFIZZI": {
         "banneduntil": "2024.4.3-12.00.00pm",
         "BanReason": "Cross-teaming"
+    },
+    "PHrocks": {
+        "banneduntil": "2024.4.7-12.00.00pm",
+        "BanReason": "mass TK"
     }
 }
