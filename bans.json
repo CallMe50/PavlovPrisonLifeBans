@@ -986,5 +986,9 @@
     "Zamiopi": {
         "banneduntil": "2099.4.2-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "JASON_GOD10": {
+        "banneduntil": "2028.4.2-12.00.00pm",
+        "BanReason": "Mass rdm, Underaged"
     }
 }
