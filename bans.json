@@ -982,5 +982,9 @@
     "uggforever": {
         "banneduntil": "2024.4.3-12.00.00pm",
         "BanReason": "RDM x2"
+    },
+    "Zamiopi": {
+        "banneduntil": "2099.4.2-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
