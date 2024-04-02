@@ -970,5 +970,9 @@
     "PHrocks": {
         "banneduntil": "2024.4.7-12.00.00pm",
         "BanReason": "mass TK"
+    },
+    "DNC33": {
+        "banneduntil": "2024.4.4-12.00.00pm",
+        "BanReason": "Helping prisoners get guns(from reports)"
     }
 }
