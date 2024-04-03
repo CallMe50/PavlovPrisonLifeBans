@@ -1050,5 +1050,9 @@
     "vincentJR7": {
         "banneduntil": "2028.4.3-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "jayvenolivo": {
+        "banneduntil": "2024.3.5-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
