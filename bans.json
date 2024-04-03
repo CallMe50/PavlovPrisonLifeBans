@@ -1046,5 +1046,9 @@
     "XVIIKingsmanMM": {
         "banneduntil": "2024.4.9-12.00.00pm",
         "BanReason": "Baiting (from reports)"
+    },
+    "vincentJR7": {
+        "banneduntil": "2028.4.3-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
