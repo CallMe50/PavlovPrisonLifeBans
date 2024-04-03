@@ -1058,5 +1058,9 @@
     "eze.736882": {
         "banneduntil": "2024.4.15-12.00.00pm",
         "BanReason": "Mass rdm, random tasing, possibly underaged, targeting rdm, joining back after kick"
+    },
+    "moakley1006": {
+        "banneduntil": "2030.4.10-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
