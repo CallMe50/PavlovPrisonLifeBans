@@ -1070,5 +1070,9 @@
     "chickenlittle.2": {
         "banneduntil": "2024.4.7-12.00.00pm",
         "BanReason": "Mass rdm on fugitive team, leaving during admin sit"
+    },
+    "Gameboy195other": {
+        "banneduntil": "2024.4.5-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
