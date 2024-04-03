@@ -1042,5 +1042,9 @@
     "Blazer129": {
         "banneduntil": "2024.4.8-12.00.00pm",
         "BanReason": "Rdm, teamkilling, killing in adminsit 3x"
+    },
+    "XVIIKingsmanMM": {
+        "banneduntil": "2024.4.9-12.00.00pm",
+        "BanReason": "Baiting (from reports)"
     }
 }
