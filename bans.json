@@ -1002,5 +1002,9 @@
     "Cartermand": {
         "banneduntil": "2028.4.4-12.00.00pm",
         "BanReason": "Underaged, mass rdm"
+    },
+    "dougthepug.2023": {
+        "banneduntil": "2024.4.14-12.00.00pm",
+        "BanReason": "Rdm, rejoining after kick"
     }
 }
