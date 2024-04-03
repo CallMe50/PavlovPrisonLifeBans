@@ -1030,5 +1030,9 @@
     "The_Th1ng": {
         "banneduntil": "1024.4.12-12.00.00pm",
         "BanReason": "Rdm, rdming inside admin sit (x2), staff disrespect"
+    },
+    "RadChicken01": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Rdm, rdm inside admin sit, definitely didn\u2019t read the rules"
     }
 }
