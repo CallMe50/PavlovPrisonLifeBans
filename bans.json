@@ -1006,5 +1006,9 @@
     "dougthepug.2023": {
         "banneduntil": "2024.4.14-12.00.00pm",
         "BanReason": "Rdm, rejoining after kick"
+    },
+    "Bray_08": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Spawn killing, rdming in admin sit, killing in admin sit"
     }
 }
