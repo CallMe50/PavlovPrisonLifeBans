@@ -1062,5 +1062,9 @@
     "moakley1006": {
         "banneduntil": "2030.4.10-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Jdot59": {
+        "banneduntil": "2024.4.6-12.00.00pm",
+        "BanReason": "Leaving during admin sit, and RDM for uranium"
     }
 }
