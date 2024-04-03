@@ -1026,5 +1026,9 @@
     "ImposterBrady": {
         "banneduntil": "2024.4.4-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "The_Th1ng": {
+        "banneduntil": "1024.4.12-12.00.00pm",
+        "BanReason": "Rdm, rdming inside admin sit (x2), staff disrespect"
     }
 }
