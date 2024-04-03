@@ -1010,5 +1010,9 @@
     "Bray_08": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Spawn killing, rdming in admin sit, killing in admin sit"
+    },
+    "derekswerving": {
+        "banneduntil": "9999.4.4-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
