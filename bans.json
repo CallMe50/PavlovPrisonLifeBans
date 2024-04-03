@@ -1022,5 +1022,9 @@
     "gamerboi13.2023": {
         "banneduntil": "2030.4.2-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "ImposterBrady": {
+        "banneduntil": "2024.4.4-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
