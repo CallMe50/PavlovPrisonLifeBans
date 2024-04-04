@@ -1132,7 +1132,7 @@
         "BanReason": "Underaged"
     },
     "WeekEndGamer": {
-        "banneduntil": "2024.4..5-12.00.00pm",
-        "BanReason": "Interrupting moderator sits"
+        "banneduntil": "2024.4.3-12.00.00pm",
+        "BanReason": "Appealed"
     }
 }
