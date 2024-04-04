@@ -1090,5 +1090,9 @@
     "braylen22": {
         "banneduntil": "2029.4.4-12.00.00",
         "BanReason": "Underaged, rdm, leaving during admin sit"
+    },
+    "ShadowStuffTV": {
+        "banneduntil": "2024.4.10-12.00.00",
+        "BanReason": "Mass RDM, No intent to play the game"
     }
 }
