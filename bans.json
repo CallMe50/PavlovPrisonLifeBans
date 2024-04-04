@@ -1130,5 +1130,9 @@
     "CC0302": {
         "banneduntil": "2026.4.4-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "WeekEndGamer": {
+        "banneduntil": "2024.4..8-12.00.00pm",
+        "BanReason": "Interrupting moderator sits"
     }
 }
