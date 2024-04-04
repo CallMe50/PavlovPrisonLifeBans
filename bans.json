@@ -1086,5 +1086,9 @@
     "spider_1289": {
         "banneduntil": "2024.4.5-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "braylen22": {
+        "banneduntil": "2029.4.4-12.00.00",
+        "BanReason": "Underaged, rdm, leaving during admin sit"
     }
 }
