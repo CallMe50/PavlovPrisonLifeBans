@@ -1074,5 +1074,9 @@
     "Gameboy195other": {
         "banneduntil": "2024.4.5-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Acoutu123": {
+        "banneduntil": "2024.4.10",
+        "BanReason": "Rdm, avoiding adminsit"
     }
 }
