@@ -1094,5 +1094,9 @@
     "ShadowStuffTV": {
         "banneduntil": "2024.4.10-12.00.00",
         "BanReason": "Mass RDM, No intent to play the game"
+    },
+    "l3th4lgrim": {
+        "banneduntil": "2024.4.5-12.00.00pm",
+        "BanReason": "Teamkilling Prisoners (from reports)"
     }
 }
