@@ -1082,5 +1082,9 @@
     "Turtle_07": {
         "banneduntil": "3092.3.4-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "spider_1289": {
+        "banneduntil": "2024.4.5-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
