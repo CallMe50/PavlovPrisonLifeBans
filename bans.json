@@ -1134,5 +1134,9 @@
     "WeekEndGamer": {
         "banneduntil": "2024.4.3-12.00.00pm",
         "BanReason": "Appealed"
+    },
+    "masterdemonslayer": {
+        "banneduntil": "2024.4.8-12.00.00pm",
+        "BanReason": "Helping prisoners as a cop"
     }
 }
