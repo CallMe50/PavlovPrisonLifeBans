@@ -1150,5 +1150,9 @@
     "mwjeep": {
         "banneduntil": "2024.4.6-12.00.00pm",
         "BanReason": "Guard helping prisoners in bank"
+    },
+    "connersallen": {
+        "banneduntil": "2026.4.5-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
