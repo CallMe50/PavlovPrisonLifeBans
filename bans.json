@@ -1166,5 +1166,9 @@
     "nintendoboy7777": {
         "banneduntil": "2024.4.7-12.00.00pm",
         "BanReason": "Cross teaming, reported on the discord"
+    },
+    "datracoon": {
+        "banneduntil": "2024.5.7-12.00.00pm",
+        "BanReason": "lRDM x, left during an admin, sit, noncompliant"
     }
 }
