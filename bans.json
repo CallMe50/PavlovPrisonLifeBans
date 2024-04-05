@@ -1178,5 +1178,9 @@
     "Cam_The_Ham": {
         "banneduntil": "2024.4.8-12.00.00pm",
         "BanReason": "Rdm, leaving during admin sit"
+    },
+    "Daxobar": {
+        "banneduntil": "2024.4.7-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
