@@ -1186,5 +1186,9 @@
     "CMG1123": {
         "banneduntil": "2026.4.5-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Toes_R4_Bros": {
+        "banneduntil": "2024.4.12-12.00.00pm",
+        "BanReason": "Mass rdm, targeting"
     }
 }
