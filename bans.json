@@ -1170,5 +1170,9 @@
     "datracoon": {
         "banneduntil": "2024.5.7-12.00.00pm",
         "BanReason": "lRDM x, left during an admin, sit, noncompliant"
+    },
+    "ArchedFlipper76": {
+        "banneduntil": "2024.4.9-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
