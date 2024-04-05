@@ -1194,5 +1194,9 @@
     "friend2180": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Teamkilling, leaving adminsit"
+    },
+    "giddyshomp": {
+        "banneduntil": "2024.4.19-12.00.00pm",
+        "BanReason": "Mass rdm, killing in admin sit (x2), leaving during admin sit"
     }
 }
