@@ -1182,5 +1182,9 @@
     "Daxobar": {
         "banneduntil": "2024.4.7-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "CMG1123": {
+        "banneduntil": "2026.4.5-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
