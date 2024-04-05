@@ -1190,5 +1190,9 @@
     "Toes_R4_Bros": {
         "banneduntil": "2024.4.12-12.00.00pm",
         "BanReason": "Mass rdm, targeting"
+    },
+    "friend2180": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Teamkilling, leaving adminsit"
     }
 }
