@@ -1154,5 +1154,9 @@
     "connersallen": {
         "banneduntil": "2026.4.5-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Marquis1044": {
+        "banneduntil": "2024.4.7-12.00.00pm",
+        "BanReason": "Rdm (reports)"
     }
 }
