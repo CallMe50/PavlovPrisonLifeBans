@@ -1174,5 +1174,9 @@
     "ArchedFlipper76": {
         "banneduntil": "2024.4.9-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "Cam_The_Ham": {
+        "banneduntil": "2024.4.8-12.00.00pm",
+        "BanReason": "Rdm, leaving during admin sit"
     }
 }
