@@ -1222,5 +1222,9 @@
     "jeonghyeon16": {
         "banneduntil": "2030.4.6-12.00.00pm",
         "BanReason": "underage, leaving adminsit, teamkilling"
+    },
+    "Garf_Master": {
+        "banneduntil": "2030.4.8-12.00.00pm",
+        "BanReason": "Repeated random killing, baiting"
     }
 }
