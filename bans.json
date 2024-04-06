@@ -1202,5 +1202,9 @@
     "bt117.2024": {
         "banneduntil": "2024.4.12-12.00.00pm",
         "BanReason": "Rdm2x,dodging questions in sit,leaving admin sit"
+    },
+    "crazyhunter580": {
+        "banneduntil": "9999.4.6-12.00.00pm",
+        "BanReason": "Racism, leaving adminsit 5x"
     }
 }
