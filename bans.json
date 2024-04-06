@@ -1198,5 +1198,9 @@
     "giddyshomp": {
         "banneduntil": "2024.4.19-12.00.00pm",
         "BanReason": "Mass rdm, killing in admin sit (x2), leaving during admin sit"
+    },
+    "bt117.2024": {
+        "banneduntil": "2024.4.12-12.00.00pm",
+        "BanReason": "Rdm2x,dodging questions in sit,leaving admin sit"
     }
 }
