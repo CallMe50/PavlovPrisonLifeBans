@@ -1218,5 +1218,9 @@
     "fabio.195470": {
         "banneduntil": "2100.4.6-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "jeonghyeon16": {
+        "banneduntil": "2030.4.6-12.00.00pm",
+        "BanReason": "underage, leaving adminsit, teamkilling"
     }
 }
