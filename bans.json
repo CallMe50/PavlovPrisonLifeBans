@@ -1238,5 +1238,9 @@
     "FoxDirector": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Leaving admin sit, rdm"
+    },
+    "thisguyboyd": {
+        "banneduntil": "2024.4.14-12.00.00pm",
+        "BanReason": "Multiple reports of rdm"
     }
 }
