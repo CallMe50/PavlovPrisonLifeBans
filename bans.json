@@ -1258,5 +1258,9 @@
     "Deadzoro": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Baiting, rdm"
+    },
+    "Turkeyfarmer55": {
+        "banneduntil": "9999.4.7-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
