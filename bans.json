@@ -1234,5 +1234,9 @@
     "child76342": {
         "banneduntil": "2099.4.10-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "FoxDirector": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Leaving admin sit, rdm"
     }
 }
