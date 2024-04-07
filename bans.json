@@ -1226,5 +1226,9 @@
     "Garf_Master": {
         "banneduntil": "2030.4.8-12.00.00pm",
         "BanReason": "Repeated random killing, baiting"
+    },
+    "Ghoxting": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "Joining back after kick, rdm"
     }
 }
