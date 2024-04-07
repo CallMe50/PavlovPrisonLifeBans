@@ -1008,8 +1008,8 @@
         "BanReason": "Changed ban, auto banned from RDM/kick, changed ban to 1 day for rdm"
     },
     "Bray_08": {
-        "banneduntil": "2024.4.10-12.00.00pm",
-        "BanReason": "Spawn killing, rdming in admin sit, killing in admin sit"
+        "banneduntil": "2024.4.5-12.00.00pm",
+        "BanReason": "Appealed"
     },
     "derekswerving": {
         "banneduntil": "9999.4.4-12.00.00pm",
