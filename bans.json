@@ -1270,5 +1270,9 @@
     "ConsTitan1": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "Excessive rdm"
+    },
+    "royolle12": {
+        "banneduntil": "2024.4.8-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
