@@ -1274,5 +1274,9 @@
     "royolle12": {
         "banneduntil": "2024.4.8-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "olivegardenbreadstick": {
+        "banneduntil": "2024.4.9-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
