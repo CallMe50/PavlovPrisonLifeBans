@@ -1294,5 +1294,9 @@
     "Tdeezy1": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "RDM x2"
+    },
+    "yomamagotblacked": {
+        "banneduntil": "2024.4.9-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
