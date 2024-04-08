@@ -1298,5 +1298,9 @@
     "yomamagotblacked": {
         "banneduntil": "2024.4.9-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Bbyaxzul": {
+        "banneduntil": "2024.4.11-12.00.00pm",
+        "BanReason": "Mass Rdm"
     }
 }
