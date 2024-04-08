@@ -1278,5 +1278,9 @@
     "olivegardenbreadstick": {
         "banneduntil": "2024.4.9-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "THETRAINS547.2023YT": {
+        "banneduntil": "2024.4.12-12.00.00pm",
+        "BanReason": "Wall glitching, exploiting"
     }
 }
