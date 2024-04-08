@@ -1290,5 +1290,9 @@
     "Tdeezy10": {
         "banneduntil": "2024.4.10-12.00.00pm",
         "BanReason": "RDM x2"
+    },
+    "Tdeezy1": {
+        "banneduntil": "2024.4.10-12.00.00pm",
+        "BanReason": "RDM x2"
     }
 }
