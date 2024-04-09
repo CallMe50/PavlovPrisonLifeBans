@@ -1310,5 +1310,9 @@
     "elit3.cxctus.2022": {
         "banneduntil": "2024.4.9-12.00.00pm",
         "BanReason": "Tazing SWAT"
+    },
+    "Mr.Medic_Man": {
+        "banneduntil": "2024.4.13-12.00.00pm",
+        "BanReason": "Mass Rdm, evading an admin sit"
     }
 }
