@@ -1318,5 +1318,9 @@
     "hamster_eater": {
         "banneduntil": "2024.4.9-12.00.00pm",
         "BanReason": "Baiting Prisoners"
+    },
+    "Puristtrash": {
+        "banneduntil": "2024.4.12-12.00.00pm",
+        "BanReason": "RDM, leaving admin, sit, noncompliant"
     }
 }
