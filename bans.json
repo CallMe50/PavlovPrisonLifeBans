@@ -1314,5 +1314,9 @@
     "Mr.Medic_Man": {
         "banneduntil": "2024.4.23-12.00.00pm",
         "BanReason": "Mass Rdm, evading an admin sit, joining back after kick (x5)"
+    },
+    "hamster_eater": {
+        "banneduntil": "2024.4.9-12.00.00pm",
+        "BanReason": "Baiting Prisoners"
     }
 }
