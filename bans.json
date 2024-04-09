@@ -1334,5 +1334,9 @@
     "E117": {
         "banneduntil": "2026.4.9-12.00.00pm",
         "BanReason": "Underage,lying about age"
+    },
+    "Saulsaygg458": {
+        "banneduntil": "2027.4.9-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
