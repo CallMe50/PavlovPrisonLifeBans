@@ -1322,5 +1322,9 @@
     "Puristtrash": {
         "banneduntil": "2024.4.12-12.00.00pm",
         "BanReason": "RDM, leaving admin, sit, noncompliant"
+    },
+    "Trxpin8.0": {
+        "banneduntil": "2024.4.12-12.00.00pm",
+        "BanReason": "RDM, leaving admin, sit, noncompliant"
     }
 }
