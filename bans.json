@@ -1330,5 +1330,9 @@
     "titoizo": {
         "banneduntil": "2024.4.12-12.00.00pm",
         "BanReason": "RDM, leaving admin, sit, noncompliant"
+    },
+    "E117": {
+        "banneduntil": "2026.4.9-12.00.00pm",
+        "BanReason": "Underage,lying about age"
     }
 }
