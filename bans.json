@@ -1370,5 +1370,9 @@
     "nexusvr1013": {
         "banneduntil": "9999.4.20-12.00.00pm",
         "BanReason": "Extreme Racism, Ban evading, Hard R in friended server (Bye Captainmado)"
+    },
+    "katy.eaton.14": {
+        "banneduntil": "2024.4.13-12.00.00pm",
+        "BanReason": "Cross teaming, already warned by jakezilla"
     }
 }
