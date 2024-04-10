@@ -1366,5 +1366,9 @@
     "Jawabone": {
         "banneduntil": "2011.4.20-12.00.00pm",
         "BanReason": "Talked with him and sorted it out"
+    },
+    "nexusvr1013": {
+        "banneduntil": "9999.4.20-12.00.00pm",
+        "BanReason": "Extreme Racism, Ban evading, Hard R in friended server (Bye Captainmado)"
     }
 }
