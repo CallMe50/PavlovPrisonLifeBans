@@ -1374,5 +1374,9 @@
     "katy.eaton.14": {
         "banneduntil": "2024.4.13-12.00.00pm",
         "BanReason": "Cross teaming, already warned by jakezilla"
+    },
+    "1660ti": {
+        "banneduntil": "9999.4.20-12.00.00pm",
+        "BanReason": "Hard r- video proof"
     }
 }
