@@ -1358,5 +1358,9 @@
     "Mrbaconanator": {
         "banneduntil": "2024.4.20-12.00.00pm",
         "BanReason": "Repeated tk, rdm"
+    },
+    "thee.goobler_frog": {
+        "banneduntil": "2099.4.20-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
