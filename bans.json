@@ -1394,5 +1394,9 @@
     "Itsyaboydeshon": {
         "banneduntil": "1999.4.12-12.00.00pm",
         "BanReason": "Unbanned"
+    },
+    "Swiss002": {
+        "banneduntil": "2099.6.20-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
