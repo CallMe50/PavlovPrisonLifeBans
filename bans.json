@@ -1378,5 +1378,9 @@
     "1660ti": {
         "banneduntil": "9999.4.20-12.00.00pm",
         "BanReason": "Hard r- video proof"
+    },
+    "paula.pelfrey": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Mass Hard R"
     }
 }
