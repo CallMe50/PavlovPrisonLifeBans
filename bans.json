@@ -1382,5 +1382,9 @@
     "paula.pelfrey": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Mass Hard R"
+    },
+    "Thatguy4468": {
+        "banneduntil": "2024.4.12-12.00.00pm",
+        "BanReason": "False vote kicking another player for having jugg"
     }
 }
