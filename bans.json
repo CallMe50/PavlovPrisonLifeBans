@@ -1430,5 +1430,9 @@
     "jacob.154179": {
         "banneduntil": "2026.4.12-12.00.00pm",
         "BanReason": "Underaged, left when questioned, come back in 2026"
+    },
+    "guerrilaape": {
+        "banneduntil": "2025.4.12",
+        "BanReason": "Underaged ,come back in a year"
     }
 }
