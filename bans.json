@@ -1462,5 +1462,9 @@
     "jbandzg": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Apart of the thing i was talking about in admin chat"
+    },
+    "Chanman43": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "being in a NSFW server for minors"
     }
 }
