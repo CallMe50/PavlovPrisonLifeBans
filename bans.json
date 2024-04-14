@@ -1542,5 +1542,9 @@
     "BOBBYISWHITE": {
         "banneduntil": "9999.4.14-12.00.00pm",
         "BanReason": "Hard R (from reports)"
+    },
+    "maximus.011": {
+        "banneduntil": "2024.4.16-12.00.00pm",
+        "BanReason": "Repeated RDM"
     }
 }
