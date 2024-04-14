@@ -1538,5 +1538,9 @@
     "killerclowne8989": {
         "banneduntil": "2028.4.14-12.00.00pm",
         "BanReason": "Underage (from reports)"
+    },
+    "BOBBYISWHITE": {
+        "banneduntil": "9999.4.14-12.00.00pm",
+        "BanReason": "Hard R (from reports)"
     }
 }
