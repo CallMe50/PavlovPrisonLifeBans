@@ -1514,5 +1514,9 @@
     "GrandpaC0ckandBolls": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Been banned a ton of times before for rdm, tk, ect."
+    },
+    "primitive_pap_smear": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Mass racism"
     }
 }
