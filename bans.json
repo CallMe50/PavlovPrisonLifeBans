@@ -1530,5 +1530,9 @@
     "kayskull": {
         "banneduntil": "2024.5.14-12.00.00pm",
         "BanReason": "Rdm,tazing teammates,leaving adminsit multiple times, beeing disrespectful"
+    },
+    "Jimmybob": {
+        "banneduntil": "2024.4.18-12.00.00pm",
+        "BanReason": "Tk, Spawn killing (from reports)"
     }
 }
