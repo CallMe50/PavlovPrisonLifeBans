@@ -480,8 +480,8 @@
         "BanReason": "Initiating false vote kick (X2), participating in false vote kicks(X3), attempted tk(X3),cross teaming (X10+) with warning"
     },
     "SpineNibbler": {
-        "banneduntil": "2024.4.1-12.00.00pm",
-        "BanReason": "Initiating false vote kick during admin sit, after being warned(X1), participating in false vote kicks(X4)"
+        "banneduntil": "999999999999.12.12-12.00.00pm",
+        "BanReason": "rdm, racism, leaving during sit"
     },
     "ironBreaker2099": {
         "banneduntil": "2024.3.29-12.00.00",
