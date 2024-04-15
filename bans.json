@@ -1546,5 +1546,9 @@
     "maximus.011": {
         "banneduntil": "2024.4.16-12.00.00pm",
         "BanReason": "Repeated RDM"
+    },
+    "spongebob2": {
+        "banneduntil": "2024.4.17-12.00.00pm",
+        "BanReason": "RDMing"
     }
 }
