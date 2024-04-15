@@ -1558,5 +1558,9 @@
     "jonejav": {
         "banneduntil": "2025.4.15-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "austin.hanold": {
+        "banneduntil": "2026.4.19-12.00.00pm",
+        "BanReason": "Crossing Teaming, RDMing, Underage, and Evading admin sit"
     }
 }
