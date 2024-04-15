@@ -1574,5 +1574,9 @@
     "monkeywinter545": {
         "banneduntil": "2024.4.23-12.00.00pm",
         "BanReason": "Team killing, cross teaming"
+    },
+    "ThebigmacmanVR": {
+        "banneduntil": "2024.4.23-12.00.00pm",
+        "BanReason": "mass rdm, then leave"
     }
 }
