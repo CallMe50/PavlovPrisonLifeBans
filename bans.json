@@ -1586,5 +1586,9 @@
     "Osama_bin_bolin": {
         "banneduntil": "2024.4.19-12.00.00pm",
         "BanReason": "Repeated tk"
+    },
+    "MetaAlpha2010": {
+        "banneduntil": "2024.4.20-12.00.00pm",
+        "BanReason": "mass rdm"
     }
 }
