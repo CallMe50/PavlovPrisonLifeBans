@@ -1606,5 +1606,9 @@
     "pro6890": {
         "banneduntil": "2026.4.17",
         "BanReason": "Underage,leaving when questioned"
+    },
+    "Schlatt_Fam": {
+        "banneduntil": "2025.4.17-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
