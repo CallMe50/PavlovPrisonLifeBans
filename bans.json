@@ -1598,5 +1598,9 @@
     "Keithkids8": {
         "banneduntil": "2031.4.16-12.00.00pm",
         "BanReason": "Underaged, come back in 7 years buddy - Smiddy"
+    },
+    "stormtrooper120": {
+        "banneduntil": "2026.4.16-12.00.00pm",
+        "BanReason": "Underaged come back in 2 years"
     }
 }
