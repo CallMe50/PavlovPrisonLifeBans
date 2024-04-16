@@ -1602,5 +1602,9 @@
     "stormtrooper120": {
         "banneduntil": "2026.4.16-12.00.00pm",
         "BanReason": "Underaged come back in 2 years"
+    },
+    "pro6890": {
+        "banneduntil": "2026.4.17",
+        "BanReason": "Underage,leaving when questioned"
     }
 }
