@@ -1582,5 +1582,9 @@
     "BSGamesVR": {
         "banneduntil": "2024.4.25-12.00.00",
         "BanReason": "mass tk, mass rdm, spawnkilling, leaving on sit"
+    },
+    "Osama_bin_bolin": {
+        "banneduntil": "2024.4.19-12.00.00pm",
+        "BanReason": "Repeated tk"
     }
 }
