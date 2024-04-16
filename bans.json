@@ -1590,5 +1590,9 @@
     "MetaAlpha2010": {
         "banneduntil": "2024.4.20-12.00.00pm",
         "BanReason": "mass rdm"
+    },
+    "TABOR_LT": {
+        "banneduntil": "2024.5.16-12.00.00pm",
+        "BanReason": "Mass RDM X10"
     }
 }
