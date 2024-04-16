@@ -1578,5 +1578,9 @@
     "ThebigmacmanVR": {
         "banneduntil": "2024.4.23-12.00.00pm",
         "BanReason": "mass rdm, then leave"
+    },
+    "BSGamesVR": {
+        "banneduntil": "2024.4.25-12.00.00",
+        "BanReason": "mass tk, mass rdm, spawnkilling, leaving on sit"
     }
 }
