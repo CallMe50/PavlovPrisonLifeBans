@@ -1666,5 +1666,9 @@
     "Adioski": {
         "banneduntil": "2024.4.30-12.00.00pm",
         "BanReason": "Repeated attempted Tk."
+    },
+    "Ecom_eli": {
+        "banneduntil": "2024.4.21-12.00.00pm",
+        "BanReason": "Reports"
     }
 }
