@@ -1662,5 +1662,9 @@
     "Skindawgjr": {
         "banneduntil": "2024.4.24-12.00.00pm",
         "BanReason": "Repeated Tk, cross teaming"
+    },
+    "Adioski": {
+        "banneduntil": "2024.4.20-12.00.00pm",
+        "BanReason": "Repeated attempted Tk."
     }
 }
