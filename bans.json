@@ -1654,5 +1654,9 @@
     "Grimreaper.43275": {
         "banneduntil": "9999.4.27-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "makarinarce": {
+        "banneduntil": "2027.9.01-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
