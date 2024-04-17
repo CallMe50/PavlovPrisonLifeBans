@@ -1618,5 +1618,9 @@
     "mrjoboi": {
         "banneduntil": "2024.4.24-12.00.00pm",
         "BanReason": "Tk, cross teaming"
+    },
+    "Blahfish680lol": {
+        "banneduntil": "2024.4.20-12.00.00pm",
+        "BanReason": "false votekicking, leaving sit"
     }
 }
