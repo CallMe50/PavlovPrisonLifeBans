@@ -1658,5 +1658,9 @@
     "makarinarce": {
         "banneduntil": "2027.9.01-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Skindawgjr": {
+        "banneduntil": "2027.3.01-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
