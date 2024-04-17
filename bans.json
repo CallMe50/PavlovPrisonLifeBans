@@ -1634,5 +1634,9 @@
     "CallSignSeraph": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Disrespect"
+    },
+    "207.noel.2023": {
+        "banneduntil": "2024.04.18-12.00.00pm",
+        "BanReason": "Cross teaming, reported on the discord, don\u2019t give every single prisoner weapons/ammo, read the rules"
     }
 }
