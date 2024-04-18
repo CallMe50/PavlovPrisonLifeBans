@@ -1694,5 +1694,9 @@
     "Masondafish2000": {
         "banneduntil": "2024.4.21-12.00.00pm",
         "BanReason": "Teaming"
+    },
+    "bobby061": {
+        "banneduntil": "2024.4.20-12.00.00pm",
+        "BanReason": "RDMing"
     }
 }
