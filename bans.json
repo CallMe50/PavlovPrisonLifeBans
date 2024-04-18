@@ -1710,5 +1710,9 @@
     "Mooferr": {
         "banneduntil": "2024.4.22-12.00.00pm",
         "BanReason": "RDMing, Evading admin sit, Taser griefing"
+    },
+    "robocat511": {
+        "banneduntil": "2024.4.20-12.00.00pm",
+        "BanReason": "False vote kick"
     }
 }
