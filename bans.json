@@ -1702,5 +1702,9 @@
     "Roni_VR": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "warrenwater": {
+        "banneduntil": "2024.4.22-12.00.00pm",
+        "BanReason": "RDMing, Evading admin sit"
     }
 }
