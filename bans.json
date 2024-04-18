@@ -1706,5 +1706,9 @@
     "warrenwater": {
         "banneduntil": "2024.4.22-12.00.00pm",
         "BanReason": "RDMing, Evading admin sit"
+    },
+    "Mooferr": {
+        "banneduntil": "2024.4.22-12.00.00pm",
+        "BanReason": "RDMing, Evading admin sit, Taser griefing"
     }
 }
