@@ -1758,5 +1758,9 @@
     "Dishwashfood": {
         "banneduntil": "2024.4.23-12.00.00pm",
         "BanReason": "RDMing, Evading Admin Sit X2"
+    },
+    "twoounce": {
+        "banneduntil": "2024.4.25-12.00.00pm",
+        "BanReason": "Rdm multiple times"
     }
 }
