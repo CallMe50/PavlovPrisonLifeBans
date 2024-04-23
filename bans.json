@@ -1750,5 +1750,9 @@
     "Gingerbread830": {
         "banneduntil": "2027.8.19-12.00.00pm",
         "BanReason": "RDMing, Underage"
+    },
+    "Bossyasin": {
+        "banneduntil": "2026.1.26-12.00.00pm",
+        "BanReason": "Underage, Evading Admin Sit X4,"
     }
 }
