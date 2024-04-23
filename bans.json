@@ -1742,5 +1742,9 @@
     "DJWilson0813": {
         "banneduntil": "Date: 2026.8.31-12.00.00pm",
         "BanReason": "RDMing, Underage, Tazer Griefing"
+    },
+    "masod.518949": {
+        "banneduntil": "2027.8.1-12.00.00pm",
+        "BanReason": "RDMing, Underage"
     }
 }
