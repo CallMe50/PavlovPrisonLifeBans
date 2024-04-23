@@ -1766,5 +1766,9 @@
     "dffdrrgfghgfh": {
         "banneduntil": "2025.4.23-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Dextergames": {
+        "banneduntil": "2024.4.27-12.00.00pm",
+        "BanReason": "Tk, cross teaming"
     }
 }
