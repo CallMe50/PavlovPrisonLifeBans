@@ -1754,5 +1754,9 @@
     "Bossyasin": {
         "banneduntil": "2026.1.26-12.00.00pm",
         "BanReason": "Underage, Evading Admin Sit X4,"
+    },
+    "Dishwashfood": {
+        "banneduntil": "2024.4.23-12.00.00pm",
+        "BanReason": "RDMing, Evading Admin Sit X2"
     }
 }
