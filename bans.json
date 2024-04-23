@@ -1746,5 +1746,9 @@
     "masod.518949": {
         "banneduntil": "2027.8.1-12.00.00pm",
         "BanReason": "RDMing, Underage"
+    },
+    "Gingerbread830": {
+        "banneduntil": "2027.8.19-12.00.00pm",
+        "BanReason": "RDMing, Underage"
     }
 }
