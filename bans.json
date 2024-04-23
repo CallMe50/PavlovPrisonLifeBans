@@ -1722,5 +1722,9 @@
     "HellCat_Fan66": {
         "banneduntil": "9999.4.23-12.00.00pm",
         "BanReason": "Hard-R"
+    },
+    "AK109ALPHA": {
+        "banneduntil": "2024.5.6-12.00.00pm",
+        "BanReason": "Spawnkill x11!"
     }
 }
