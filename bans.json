@@ -1770,5 +1770,9 @@
     "Dextergames": {
         "banneduntil": "2024.4.27-12.00.00pm",
         "BanReason": "Tk, cross teaming"
+    },
+    "Jesepyjr": {
+        "banneduntil": "2024.4.30-12.00.00pm",
+        "BanReason": "Rdm 2x, leaving adminsit 5x, killing in adminsit"
     }
 }
