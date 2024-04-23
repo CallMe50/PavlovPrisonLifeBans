@@ -1738,5 +1738,9 @@
     "minecrabserious2": {
         "banneduntil": "2027.1.2-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "DJWilson0813": {
+        "banneduntil": "Date: 2026.8.31-12.00.00pm",
+        "BanReason": "RDMing, Underage, Tazer Griefing"
     }
 }
