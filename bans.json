@@ -1786,5 +1786,9 @@
     "Bababooey81": {
         "banneduntil": "2024.4.29-12.00.00pm",
         "BanReason": "Repeated rdm"
+    },
+    "nicanor.pacheco.5836": {
+        "banneduntil": "2024.4.28-12.00.00pm",
+        "BanReason": "Teaming with prisoners as cop (from reports)"
     }
 }
