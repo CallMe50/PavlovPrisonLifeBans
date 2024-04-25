@@ -1806,5 +1806,9 @@
     "mr.ak.muncher": {
         "banneduntil": "2025.12.30-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "m3n411mp101": {
+        "banneduntil": "2024.4.28-12.00.00pm",
+        "BanReason": "team killing"
     }
 }
