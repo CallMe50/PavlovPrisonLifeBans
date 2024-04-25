@@ -1826,5 +1826,9 @@
     "yerrmum": {
         "banneduntil": "2024.5.27-12:00:00pm",
         "BanReason": "Repeated RDM, rdmd me when I warned"
+    },
+    "XdrasilX": {
+        "banneduntil": "2024.5.1-12.00.00pm",
+        "BanReason": "Repeated Rdm, ignoring me during sit and rdm\u2019d during sit)"
     }
 }
