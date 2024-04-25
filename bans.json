@@ -1822,5 +1822,9 @@
     "Joe.the.hobo": {
         "banneduntil": "2024.5.10-12.00.00pm",
         "BanReason": "Repeated Rdm,tk, cross teaming"
+    },
+    "yerrmum": {
+        "banneduntil": "2024.5.27-12:00:00pm",
+        "BanReason": "Repeated RDM, rdmd me when I warned"
     }
 }
