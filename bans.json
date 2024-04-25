@@ -1810,5 +1810,9 @@
     "m3n411mp101": {
         "banneduntil": "2024.4.28-12.00.00pm",
         "BanReason": "team killing"
+    },
+    "IAmBigBotz01": {
+        "banneduntil": "2024.8.25-12.00.00pm",
+        "BanReason": "Leaving during admin sit"
     }
 }
