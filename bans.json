@@ -1870,5 +1870,9 @@
     "Mike1.7.7": {
         "banneduntil": "2024.6.14-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "SheetGhostGuy": {
+        "banneduntil": "2025.4.10-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
