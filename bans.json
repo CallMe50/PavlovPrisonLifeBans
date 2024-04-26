@@ -1886,5 +1886,9 @@
     "ROOTBEEEEERMANN": {
         "banneduntil": "2024.5.1-12.00.00pm",
         "BanReason": "RDMing, Evading Admin Sit X3, Cross-Teaming, Ignored Warning"
+    },
+    "Bounty_Hunter77": {
+        "banneduntil": "2027.4.26-12.00.00pm",
+        "BanReason": "Evading Admin Sit X2, Cross-Teaming, Underage"
     }
 }
