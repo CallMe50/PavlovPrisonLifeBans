@@ -1878,5 +1878,9 @@
     "amna.415220": {
         "banneduntil": "2026.4.26-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "campesina16": {
+        "banneduntil": "2024.4.30-12.00.00pm",
+        "BanReason": "RDMing, Evading Admin Sit X1"
     }
 }
