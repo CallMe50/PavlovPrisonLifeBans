@@ -1854,5 +1854,9 @@
     "Mcbignasty": {
         "banneduntil": "2024.5.2-12.00.00pm",
         "BanReason": "Repeated RDM, RDM in admin sit"
+    },
+    "IntenseGamerZX": {
+        "banneduntil": "2024.5.2-12.00.00pm",
+        "BanReason": "Repeated RDM, Evading admin sit"
     }
 }
