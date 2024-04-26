@@ -1882,5 +1882,9 @@
     "campesina16": {
         "banneduntil": "2024.4.30-12.00.00pm",
         "BanReason": "RDMing, Evading Admin Sit X1"
+    },
+    "ROOTBEEEEERMANN": {
+        "banneduntil": "2024.5.1-12.00.00pm",
+        "BanReason": "RDMing, Evading Admin Sit X3, Cross-Teaming, Ignored Warning"
     }
 }
