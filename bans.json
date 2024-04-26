@@ -1850,5 +1850,9 @@
     "Deadthefemboy": {
         "banneduntil": "2024.4.24-12:00:00pm",
         "BanReason": "Unbanning from a vote kick (ban appeals)"
+    },
+    "Mcbignasty": {
+        "banneduntil": "2024.5.2-12.00.00pm",
+        "BanReason": "Repeated RDM, RDM in admin sit"
     }
 }
