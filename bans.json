@@ -1846,5 +1846,9 @@
     "JH4": {
         "banneduntil": "2024.5.30-12:00:00pm",
         "BanReason": "Fugitive on Prisoner tk"
+    },
+    "Deadthefemboy": {
+        "banneduntil": "2024.4.24-12:00:00pm",
+        "BanReason": "Unbanning from a vote kick (ban appeals)"
     }
 }
