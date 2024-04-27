@@ -1906,5 +1906,9 @@
     "CowGoesM00": {
         "banneduntil": "2024.29.4-12.00.00pm",
         "BanReason": "Rdming 3 day ban"
+    },
+    "AJM30703": {
+        "banneduntil": "2024.29.4-12.00.00pm",
+        "BanReason": "Rdming 3 day ban admitted to doing it just to become a prisoner"
     }
 }
