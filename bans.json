@@ -1902,5 +1902,9 @@
     "Dabtime7": {
         "banneduntil": "2024.6.1-12.00.00pm",
         "BanReason": "mass rdm then leave"
+    },
+    "CowGoesM00": {
+        "banneduntil": "2024.29.4-12.00.00pm",
+        "BanReason": "Rdming 3 day ban"
     }
 }
