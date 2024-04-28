@@ -1942,5 +1942,9 @@
     "halldin.242782": {
         "banneduntil": "2025.6.1-12.00.00pm",
         "BanReason": "Racist comments"
+    },
+    "ojo_del_oso": {
+        "banneduntil": "2024.5.1-12.00.00pm",
+        "BanReason": "RDM x2"
     }
 }
