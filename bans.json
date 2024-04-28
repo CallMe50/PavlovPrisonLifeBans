@@ -1962,5 +1962,9 @@
     "SendItMel": {
         "banneduntil": "2024.4.30-12.00.00pm",
         "BanReason": "False Votekick, leaving adminsit"
+    },
+    "AshBigelow": {
+        "banneduntil": "2024.5.2-12.00.00pm",
+        "BanReason": "Repeated RDMing, Evaded Admin Sit"
     }
 }
