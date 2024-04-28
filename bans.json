@@ -1970,5 +1970,9 @@
     "vernal.chip2": {
         "banneduntil": "2026.10.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Rylanbob487": {
+        "banneduntil": "2024.5.4-12.00.00pm",
+        "BanReason": "Repeatedly giving key cards away as a cop even after sit and kick"
     }
 }
