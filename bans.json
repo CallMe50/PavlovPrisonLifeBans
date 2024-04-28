@@ -1938,5 +1938,9 @@
     "k.boys.777": {
         "banneduntil": "2026.6.1-12.00.00pm",
         "BanReason": "Cross-Teaming, Underage"
+    },
+    "halldin.242782": {
+        "banneduntil": "2025.6.1-12.00.00pm",
+        "BanReason": "Racist comments"
     }
 }
