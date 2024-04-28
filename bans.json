@@ -1958,5 +1958,9 @@
     "Andrewfleisch123": {
         "banneduntil": "2027.4.28-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "SendItMel": {
+        "banneduntil": "2024.4.30-12.00.00pm",
+        "BanReason": "False Votekick, leaving adminsit"
     }
 }
