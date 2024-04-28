@@ -1966,5 +1966,9 @@
     "AshBigelow": {
         "banneduntil": "2024.5.2-12.00.00pm",
         "BanReason": "Repeated RDMing, Evaded Admin Sit"
+    },
+    "vernal.chip2": {
+        "banneduntil": "2026.10.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
