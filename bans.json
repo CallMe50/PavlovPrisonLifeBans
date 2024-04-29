@@ -2002,5 +2002,9 @@
     "Phantom_strike": {
         "banneduntil": "2030.12.1-12.00.00pm",
         "BanReason": "Excessive RDM, Tazer Griefing, Evaded Admin sit X10, Underage"
+    },
+    "illiam201111": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
