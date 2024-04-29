@@ -1994,5 +1994,9 @@
     "maccapaca.2023": {
         "banneduntil": "2024.5.1-12.00.00pm",
         "BanReason": "Cross-Teaming, TKing, RDMing"
+    },
+    "Yeety12": {
+        "banneduntil": "2026.6.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
