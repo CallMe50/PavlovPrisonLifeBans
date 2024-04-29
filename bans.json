@@ -1986,5 +1986,9 @@
     "SamuraiiBoy": {
         "banneduntil": "2024.4.29-12.00.00pm",
         "BanReason": "Cross-Teaming"
+    },
+    "RightSkills": {
+        "banneduntil": "2024.4.26-12.00.00pm",
+        "BanReason": "Unbanning myself because somehow I banned myself\ud83d\udc80"
     }
 }
