@@ -2006,5 +2006,9 @@
     "illiam201111": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Cosmizy.Floofs": {
+        "banneduntil": "9999.1.1-12.00.00pm",
+        "BanReason": "N word with hard R, underage"
     }
 }
