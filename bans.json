@@ -2010,5 +2010,9 @@
     "Cosmizy.Floofs": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "N word with hard R, underage"
+    },
+    "LegionFR": {
+        "banneduntil": "2024.4.30-12.00.00pm",
+        "BanReason": "TK"
     }
 }
