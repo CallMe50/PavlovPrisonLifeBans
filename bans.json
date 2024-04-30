@@ -2026,5 +2026,9 @@
     "CJMc21.21": {
         "banneduntil": "2024.5.14-12.00.00pm",
         "BanReason": "Cross Teaming, Soft A"
+    },
+    "Coato": {
+        "banneduntil": "2024.5.1-12.00.00pm",
+        "BanReason": "TKing, Warned by iCYLxrdO2 earlier"
     }
 }
