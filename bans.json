@@ -2086,5 +2086,9 @@
     "malopex": {
         "banneduntil": "2024.5.3-12.00.00pm",
         "BanReason": "Teaming"
+    },
+    "Seth_W": {
+        "banneduntil": "2024.5.2-12.00.00pm",
+        "BanReason": "RDMing"
     }
 }
