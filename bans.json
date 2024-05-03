@@ -2134,5 +2134,9 @@
     "H.alktb": {
         "banneduntil": "2024.5.8-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Tacticxss": {
+        "banneduntil": "2024.5.10-12.00.00pm",
+        "BanReason": "Crossteaming rdming avoiding admin sit and told me to go fu#$ myself"
     }
 }
