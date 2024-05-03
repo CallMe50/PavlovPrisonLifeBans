@@ -2122,5 +2122,9 @@
     "Aj1254383": {
         "banneduntil": "2099.9.11-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "exaetheria": {
+        "banneduntil": "2024.6.11-12.00.00pm",
+        "BanReason": "Mass TK, Leaving Admin Sit"
     }
 }
