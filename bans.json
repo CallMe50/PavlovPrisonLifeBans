@@ -2150,5 +2150,9 @@
     "jojoVRyt": {
         "banneduntil": "2026.5.3-12.00.00pm",
         "BanReason": "Underage and evaded admin sit"
+    },
+    "10BillonCrabs": {
+        "banneduntil": "2024.5.10-12.00.00pm",
+        "BanReason": "Repeated RDM"
     }
 }
