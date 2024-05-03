@@ -2130,5 +2130,9 @@
     "GOBBLER": {
         "banneduntil": "2024.5.8-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "H.alktb": {
+        "banneduntil": "2024.5.8-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
