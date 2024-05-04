@@ -2154,5 +2154,9 @@
     "10BillonCrabs": {
         "banneduntil": "2024.5.10-12.00.00pm",
         "BanReason": "Repeated RDM"
+    },
+    "Spank.my.nygga": {
+        "banneduntil": "2099.5.10-12.00.00pm",
+        "BanReason": "Change username and create a ticket when done so"
     }
 }
