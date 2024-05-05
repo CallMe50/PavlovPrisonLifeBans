@@ -2206,5 +2206,9 @@
     "artemhorizon_russkiy": {
         "banneduntil": "2024.5.7-12.00.00pm",
         "BanReason": "False Voting, continuing after being warned by iCY (credit: iCy)"
+    },
+    "xaviercg.2022": {
+        "banneduntil": "2099.5.5-12.00.00pm",
+        "BanReason": "N-word"
     }
 }
