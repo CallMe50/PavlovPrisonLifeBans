@@ -2250,5 +2250,9 @@
     "Oli.obed.902": {
         "banneduntil": "2027.5.5-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "CheeseguyVR": {
+        "banneduntil": "2024.5.9-12.00.00pm",
+        "BanReason": "Repeated rdm"
     }
 }
