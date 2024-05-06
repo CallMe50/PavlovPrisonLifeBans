@@ -2238,5 +2238,9 @@
     "Tebbetzz": {
         "banneduntil": "2024.5.7-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "dragon.slayer1": {
+        "banneduntil": "2027.5.8-12.00.00pm",
+        "BanReason": "Taser Griefing, TKing, Cross-Teaming, Evaded Admin Sit X1 *updated*"
     }
 }
