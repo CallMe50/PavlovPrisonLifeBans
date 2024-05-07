@@ -2274,5 +2274,9 @@
     "ArgoLilles": {
         "banneduntil": "9999.5.7-12.00.00pm",
         "BanReason": "Racism, rdm, killing in adminsit, disrespecting staff"
+    },
+    "Pookiez": {
+        "banneduntil": "2025.5.7-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
