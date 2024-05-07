@@ -2270,5 +2270,9 @@
     "Shreks.left.nut.sack": {
         "banneduntil": "2024.5.10-12.00.00pm",
         "BanReason": "Cross teaming, RDM, 4 day ban"
+    },
+    "ArgoLilles": {
+        "banneduntil": "9999.5.7-12.00.00pm",
+        "BanReason": "Racism, rdm, killing in adminsit, disrespecting staff"
     }
 }
