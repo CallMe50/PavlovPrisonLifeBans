@@ -2290,5 +2290,9 @@
     "Diamondskull189": {
         "banneduntil": "2024.5.11-12.00.00pm",
         "BanReason": "Bank camping, tk"
+    },
+    "connorsallen": {
+        "banneduntil": "2024.5.10-12.00.00pm",
+        "BanReason": "Tk, spam vote kicking soap (soaps ban)"
     }
 }
