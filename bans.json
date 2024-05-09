@@ -2322,5 +2322,9 @@
     "xqyb": {
         "banneduntil": "2024.5.15-12.00.00pm",
         "BanReason": "Shooting through walls, 7 day ban"
+    },
+    "5615masonHogan": {
+        "banneduntil": "2024.5.12-12.00.00pm",
+        "BanReason": "RDM, left during sit"
     }
 }
