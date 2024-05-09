@@ -2330,5 +2330,9 @@
     "Xx_cloud_xX123": {
         "banneduntil": "2024.5.11-12.00.00pm",
         "BanReason": "Teamkilling"
+    },
+    "dravinboovr": {
+        "banneduntil": "2024.5.12-12.00.00pm",
+        "BanReason": "RDMing, Evaded Admin Sit"
     }
 }
