@@ -2366,5 +2366,9 @@
     "Markismessi1": {
         "banneduntil": "2024.5.15-12.00.00pm",
         "BanReason": "Team Killing"
+    },
+    "nick_gur123": {
+        "banneduntil": "9999.5.5-12:00:00pm",
+        "BanReason": "Change your name and post in a ticket in discord when done so"
     }
 }
