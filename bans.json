@@ -2406,5 +2406,9 @@
     "Drillmankillman": {
         "banneduntil": "2099.5.10-12.00.00pm",
         "BanReason": "Hard r multiple times, from reports"
+    },
+    "Babytron.trent": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "many hard r's (perma ban)"
     }
 }
