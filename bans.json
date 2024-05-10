@@ -2378,5 +2378,9 @@
     "ReesesPuffs4": {
         "banneduntil": "2099.5.13-12.00.00pm",
         "BanReason": "Racism, Hard R"
+    },
+    "Dariomolina": {
+        "banneduntil": "2024.5.12-12.00.00pm",
+        "BanReason": "RDMing, from pl reports"
     }
 }
