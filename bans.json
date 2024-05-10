@@ -2414,5 +2414,9 @@
     "FazeApex923": {
         "banneduntil": "2024.7.1-12.00.00pm",
         "BanReason": "mass tk, mass rdm, teaming"
+    },
+    "sniprangelo2222": {
+        "banneduntil": "2024.5.12-12.00.00pm",
+        "BanReason": "team killing"
     }
 }
