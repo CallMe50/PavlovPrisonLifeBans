@@ -2362,5 +2362,9 @@
     "DRXjace2": {
         "banneduntil": "2024.5.9-12.00.00pm",
         "BanReason": "Spam tazing"
+    },
+    "Markismessi1": {
+        "banneduntil": "2024.5.15-12.00.00pm",
+        "BanReason": "Team Killing"
     }
 }
