@@ -2430,5 +2430,9 @@
     "Arsenal_24": {
         "banneduntil": "9999.5.5-12:00:00pm",
         "BanReason": "Hard R"
+    },
+    "LukeSywalker": {
+        "banneduntil": "2024.5.14",
+        "BanReason": "Shooting through bank glass glitch"
     }
 }
