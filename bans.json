@@ -2462,5 +2462,9 @@
     "mxsery.8": {
         "banneduntil": "2024.5.13-12:00:00pm",
         "BanReason": "Mass RDM after warning"
+    },
+    "ghostbuster.cxe": {
+        "banneduntil": "2026.5-13",
+        "BanReason": "Underage"
     }
 }
