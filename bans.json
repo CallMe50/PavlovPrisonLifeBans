@@ -2446,5 +2446,9 @@
     "George_Cooper_Sr": {
         "banneduntil": "9999.5.5-12:00:00",
         "BanReason": "RDM, Hard r"
+    },
+    "James245678": {
+        "banneduntil": "2024.5.13-12:00:00",
+        "BanReason": "False vote kick after warning"
     }
 }
