@@ -2464,8 +2464,8 @@
         "BanReason": "Mass RDM after warning"
     },
     "ghostbuster.cxe": {
-        "banneduntil": "2026.5-13",
-        "BanReason": "Underage"
+        "banneduntil": "2026.5.13",
+        "BanReason": "Underage(accidentally mess up the ban)"
     },
     "Wig_shiesty": {
         "banneduntil": "2024.5.8",
