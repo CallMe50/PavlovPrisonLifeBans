@@ -2426,5 +2426,9 @@
     "Dababy768": {
         "banneduntil": "2024.5.24-12.00.00pm",
         "BanReason": "Soft \"a\" multiple times apologizes in admin sit 2 week ban"
+    },
+    "Arsenal_24": {
+        "banneduntil": "9999.5.5-12:00:00pm",
+        "BanReason": "Hard R"
     }
 }
