@@ -2470,5 +2470,9 @@
     "Wig_shiesty": {
         "banneduntil": "2024.5.8",
         "BanReason": "Triple tk"
+    },
+    "Bill.Jenkins": {
+        "banneduntil": "2024.5.14-12.00.00pm",
+        "BanReason": "Mass tk"
     }
 }
