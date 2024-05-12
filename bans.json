@@ -2518,5 +2518,9 @@
     "7_SAINT_7": {
         "banneduntil": "2099.6.15-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Philipbondar": {
+        "banneduntil": "2024.5.20-12.00.00pm",
+        "BanReason": "Repeat attempted tk,crosteamimg,rdm"
     }
 }
