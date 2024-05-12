@@ -2514,5 +2514,9 @@
     "Arab_Cat": {
         "banneduntil": "2024.6.15-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "7_SAINT_7": {
+        "banneduntil": "2099.6.15-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
