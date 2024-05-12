@@ -2478,5 +2478,9 @@
     "Theskofamily": {
         "banneduntil": "2024.5.13-12.00.00pm",
         "BanReason": "RDM x2, 2 day ban"
+    },
+    "Stereokid0": {
+        "banneduntil": "2099.5.15-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
