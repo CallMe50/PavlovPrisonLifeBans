@@ -2526,5 +2526,9 @@
     "NEGRO80085": {
         "banneduntil": "2099.5.20-12.00.00pm",
         "BanReason": "Change your name and you\u2019ll be unbanned"
+    },
+    "CAA1712": {
+        "banneduntil": "2025.5.12-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
