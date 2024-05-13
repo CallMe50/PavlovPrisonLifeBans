@@ -2530,5 +2530,9 @@
     "CAA1712": {
         "banneduntil": "2025.5.12-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "LonelyEqua": {
+        "banneduntil": "2024.5.19-12.00.00pm",
+        "BanReason": "XP Glitch"
     }
 }
