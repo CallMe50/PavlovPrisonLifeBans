@@ -2570,5 +2570,9 @@
     "mackbbrack": {
         "banneduntil": "2099.6.15-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "conker125": {
+        "banneduntil": "2024.5.20-12.00.00pm",
+        "BanReason": "Staff Disrespect"
     }
 }
