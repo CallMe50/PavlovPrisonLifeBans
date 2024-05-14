@@ -2558,5 +2558,9 @@
     "Doosaac": {
         "banneduntil": "2024.5.20-12.00.00pm",
         "BanReason": "Rdm x2 1week ban higher level player should know better"
+    },
+    "johnstamos09": {
+        "banneduntil": "2024.5.20-12.00.00pm",
+        "BanReason": "Excessive RDMing, Evading Admin Sit, Cross-Teaming, Baiting, TKing"
     }
 }
