@@ -2566,5 +2566,9 @@
     "Juju2111": {
         "banneduntil": "2024.5.15-12.00.00pm",
         "BanReason": "RDM x2"
+    },
+    "mackbbrack": {
+        "banneduntil": "2099.6.15-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
