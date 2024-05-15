@@ -2618,5 +2618,9 @@
     "Warmonkeyvr": {
         "banneduntil": "2024.5.17-12.00.00pm",
         "BanReason": "Camping bank (appeals)"
+    },
+    "efox.658518": {
+        "banneduntil": "2027.5.17-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
