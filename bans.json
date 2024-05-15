@@ -2602,5 +2602,9 @@
     "Minecraft.villager69": {
         "banneduntil": "2024.5.16-12.00.00pm",
         "BanReason": "Teamkill"
+    },
+    "A.Scott11_1": {
+        "banneduntil": "9999.5.14-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
