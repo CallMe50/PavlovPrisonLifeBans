@@ -2674,5 +2674,9 @@
     "jamer.291357": {
         "banneduntil": "2026.5.15-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "RCGOAT": {
+        "banneduntil": "9999.5.15-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
