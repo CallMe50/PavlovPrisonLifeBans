@@ -2722,5 +2722,9 @@
     "elliotgr": {
         "banneduntil": "2026.5.15-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "moshboshhalfposh1": {
+        "banneduntil": "2027.5.16-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
