@@ -2706,5 +2706,9 @@
     "fatherdoomsdai": {
         "banneduntil": "2024.5.30-12.00.00pm",
         "BanReason": "Tried warning about rdm tasing and shoots me in admin sit-2 week ban"
+    },
+    "TPeeper": {
+        "banneduntil": "2024.5.18-12.00.00pm",
+        "BanReason": "Wall glitching"
     }
 }
