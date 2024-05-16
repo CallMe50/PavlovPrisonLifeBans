@@ -2686,5 +2686,9 @@
     "Arabic": {
         "banneduntil": "2099.5.22-12.00.00pm",
         "BanReason": "Change your oculus pfp and you will be unbanned"
+    },
+    "eli.eco2": {
+        "banneduntil": "2024.5.17-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
