@@ -2710,5 +2710,9 @@
     "TPeeper": {
         "banneduntil": "2024.5.18-12.00.00pm",
         "BanReason": "Wall glitching"
+    },
+    "FTOPLAYA": {
+        "banneduntil": "2024.5.26-12.00.00pm",
+        "BanReason": "Ignored Warning, Excessive RDMing TKing, Tazer Griefing, Cross Teaming, Baiting"
     }
 }
