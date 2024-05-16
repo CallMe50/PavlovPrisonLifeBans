@@ -2726,5 +2726,9 @@
     "moshboshhalfposh1": {
         "banneduntil": "2027.5.16-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "bakedbean15564": {
+        "banneduntil": "2024.5.20-12.00.00pm",
+        "BanReason": "A lot of false votekicking, leaving adminsit"
     }
 }
