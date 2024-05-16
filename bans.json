@@ -2718,5 +2718,9 @@
     "jameshecky.2022": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "elliotgr": {
+        "banneduntil": "2026.5.15-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
