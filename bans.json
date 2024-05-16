@@ -2714,5 +2714,9 @@
     "FTOPLAYA": {
         "banneduntil": "2024.5.26-12.00.00pm",
         "BanReason": "Ignored Warning, Excessive RDMing TKing, Tazer Griefing, Cross Teaming, Baiting"
+    },
+    "jameshecky.2022": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
