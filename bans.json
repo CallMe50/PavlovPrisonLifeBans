@@ -2782,5 +2782,9 @@
     "Peridot19": {
         "banneduntil": "2026.5.17-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "DrZeus88": {
+        "banneduntil": "9999.5.17-12:00:00pm",
+        "BanReason": "Hard r"
     }
 }
