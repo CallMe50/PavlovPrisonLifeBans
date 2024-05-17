@@ -2738,5 +2738,9 @@
     "lucasito1": {
         "banneduntil": "2025.5.18-12.00.00pm",
         "BanReason": "Blatant teamkill on me. Not unbanning till next wipe."
+    },
+    "Cashin_85": {
+        "banneduntil": "2024.5.19-12:00:00pm",
+        "BanReason": "Spawn camping"
     }
 }
