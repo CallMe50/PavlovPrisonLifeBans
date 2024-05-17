@@ -2746,5 +2746,9 @@
     "reach": {
         "banneduntil": "2024.5.19-12:00:00pm",
         "BanReason": "Spawn camping"
+    },
+    "Friendlysolo": {
+        "banneduntil": "2024.5.17-12.00.00pm",
+        "BanReason": "RDM, Asked to be banned"
     }
 }
