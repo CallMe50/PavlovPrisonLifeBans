@@ -2778,5 +2778,9 @@
     "CaldwellFamily5": {
         "banneduntil": "2024.5.18-12.00.00pm",
         "BanReason": "Rdm me and tp to chat and tazed me"
+    },
+    "Peridot19": {
+        "banneduntil": "2024.5.25-12.00.00pm",
+        "BanReason": "RDM, Evading admin sit by leaving"
     }
 }
