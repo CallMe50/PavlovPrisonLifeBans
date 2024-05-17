@@ -668,8 +668,8 @@
         "BanReason": "Teamkilling as a fugitive"
     },
     "ur.mom.destroyer1": {
-        "banneduntil": "2024.4.1-12.00.00pm",
-        "BanReason": "Camping bank as a cop"
+        "banneduntil": "2024.5.19-12:00:00pm",
+        "BanReason": "Spawn camping"
     },
     "Not_the_Moaner": {
         "banneduntil": "2099.4.1-12.00.00pm",
