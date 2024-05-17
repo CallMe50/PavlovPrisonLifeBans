@@ -2742,5 +2742,9 @@
     "Cashin_85": {
         "banneduntil": "2024.5.19-12:00:00pm",
         "BanReason": "Spawn camping"
+    },
+    "reach": {
+        "banneduntil": "2024.5.19-12:00:00pm",
+        "BanReason": "Spawn camping"
     }
 }
