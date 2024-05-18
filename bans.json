@@ -2818,5 +2818,9 @@
     "ChurchBoiz": {
         "banneduntil": "2027.5.20-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Silvafamily23": {
+        "banneduntil": "2099.5.20-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
