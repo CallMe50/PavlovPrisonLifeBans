@@ -2794,5 +2794,9 @@
     "Hollandsworth_vr": {
         "banneduntil": "2024.5.14-12:00:00pm",
         "BanReason": "Unbanned"
+    },
+    "Crupicocean80": {
+        "banneduntil": "2024.5.19-12:00:00pm",
+        "BanReason": "Teamkill"
     }
 }
