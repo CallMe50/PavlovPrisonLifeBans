@@ -2802,5 +2802,9 @@
     "Redrangerman": {
         "banneduntil": "2099.5.24-12.00.00pm",
         "BanReason": "RDM, Evading admin sit, Said doesnt care about the rules"
+    },
+    "MAN529": {
+        "banneduntil": "2029.5.24-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
