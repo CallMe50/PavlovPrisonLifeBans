@@ -2806,5 +2806,9 @@
     "MAN529": {
         "banneduntil": "2029.5.24-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "DrummerAbe": {
+        "banneduntil": "2024.5.24-12.00.00pm",
+        "BanReason": "Rdming and tking reported in reports.. both are stated in rules 1 week ban"
     }
 }
