@@ -1960,8 +1960,8 @@
         "BanReason": "Underaged"
     },
     "SendItMel": {
-        "banneduntil": "2024.4.30-12.00.00pm",
-        "BanReason": "False Votekick, leaving adminsit"
+        "banneduntil": "2024.5.21-12.00.00pm",
+        "BanReason": "Tk"
     },
     "AshBigelow": {
         "banneduntil": "2024.5.2-12.00.00pm",
