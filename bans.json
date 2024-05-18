@@ -2822,5 +2822,9 @@
     "Silvafamily23": {
         "banneduntil": "2099.5.20-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Cat_Lover21": {
+        "banneduntil": "2024.5.21-12.00.00pm",
+        "BanReason": "Spawn camping"
     }
 }
