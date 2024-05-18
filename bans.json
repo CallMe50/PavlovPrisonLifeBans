@@ -2798,5 +2798,9 @@
     "Crupicocean80": {
         "banneduntil": "2024.5.19-12:00:00pm",
         "BanReason": "Teamkill"
+    },
+    "Redrangerman": {
+        "banneduntil": "2099.5.24-12.00.00pm",
+        "BanReason": "RDM, Evading admin sit, Said doesnt care about the rules"
     }
 }
