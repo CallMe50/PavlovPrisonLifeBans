@@ -10,5 +10,9 @@
     "panzerwalf": {
         "banneduntil": "2024.5.22-12:00:00pm",
         "BanReason": "Cross teaming (reports)"
+    },
+    "coolcokes.2022": {
+        "banneduntil": "2024.5.28-12:00:00pm",
+        "BanReason": "False voting, evade admin sit x2"
     }
 }
