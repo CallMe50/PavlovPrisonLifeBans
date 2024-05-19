@@ -6,5 +6,9 @@
     "MasonVedder": {
         "banneduntil": "2023.5.20-12.00.00pm",
         "BanReason": "RDM (Found by Silver) silver accepted appeal and wipe not happened yet"
+    },
+    "panzerwalf": {
+        "banneduntil": "2024.5.22-12:00:00pm",
+        "BanReason": "Cross teaming (reports)"
     }
 }
