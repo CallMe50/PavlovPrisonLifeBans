@@ -2850,5 +2850,9 @@
     "MasonVedder": {
         "banneduntil": "2024.5.20-12.00.00pm",
         "BanReason": "RDM (Found by Silver)"
+    },
+    "quinnphilli": {
+        "banneduntil": "2099.5.20-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
