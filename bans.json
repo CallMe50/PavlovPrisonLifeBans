@@ -14,5 +14,9 @@
     "coolcokes.2022": {
         "banneduntil": "2024.5.28-12:00:00pm",
         "BanReason": "False voting, evade admin sit x2"
+    },
+    "pool.man.3000": {
+        "banneduntil": "2024.5.21-12.00.00pm",
+        "BanReason": "several counts of rdm -Envy/Envnity"
     }
 }
