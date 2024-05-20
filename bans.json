@@ -74,5 +74,9 @@
     "wait_whar": {
         "banneduntil": "2024.5.21-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "LukeSywalker": {
+        "banneduntil": "2024.5.28-12.00.00pm",
+        "BanReason": "Fugitive TK Prisoner"
     }
 }
