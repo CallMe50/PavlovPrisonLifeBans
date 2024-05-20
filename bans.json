@@ -94,5 +94,9 @@
     "crashfire.2023": {
         "banneduntil": "2026.5.20-12.00.00pm",
         "BanReason": "Underage (thanks for telling us in the mod app)"
+    },
+    "Krissetiss": {
+        "banneduntil": "2024.5.23-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
