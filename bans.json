@@ -110,5 +110,9 @@
     "pavlovshitter": {
         "banneduntil": "2023.5.23-12.00.00pm",
         "BanReason": "Unbanned"
+    },
+    "PoisonLava": {
+        "banneduntil": "2030.5.23-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
