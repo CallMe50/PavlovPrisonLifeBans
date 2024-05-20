@@ -130,5 +130,9 @@
     "mooooooooooo": {
         "banneduntil": "2024.5.19-12.00.00pm",
         "BanReason": "Excessive Pris TK, Evade admin sit (unban)"
+    },
+    "tcmg21": {
+        "banneduntil": "2024.5.26-12.00.00pm",
+        "BanReason": "RDM, Attempted to kill me in admin sit and killed himself to evade"
     }
 }
