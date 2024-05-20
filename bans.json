@@ -82,5 +82,9 @@
     "vinlk.w": {
         "banneduntil": "2024.5.18-12.00.00pm",
         "BanReason": "Unbanned"
+    },
+    "Mr.Tazor": {
+        "banneduntil": "2024.5.30-12:00:00pm",
+        "BanReason": "Attempted TK guard jugg X3, Successful Guard Jug TK x1"
     }
 }
