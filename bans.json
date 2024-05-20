@@ -90,5 +90,9 @@
     "Aculun": {
         "banneduntil": "2099.5.20-12.00.00pm",
         "BanReason": "Excessive RDMing and N-Word Hard R"
+    },
+    "crashfire.2023": {
+        "banneduntil": "2026.5.20-12.00.00pm",
+        "BanReason": "Underage (thanks for telling us in the mod app)"
     }
 }
