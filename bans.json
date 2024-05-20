@@ -70,5 +70,9 @@
     "sowhat.38110": {
         "banneduntil": "2024.5.20-12.00.00pm",
         "BanReason": "TK"
+    },
+    "wait_whar": {
+        "banneduntil": "2024.5.21-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
