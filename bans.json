@@ -134,5 +134,9 @@
     "tcmg21": {
         "banneduntil": "2024.5.26-12.00.00pm",
         "BanReason": "RDM, Attempted to kill me in admin sit and killed himself to evade"
+    },
+    "Sebascrz": {
+        "banneduntil": "2024.5.27-12.00.00pm",
+        "BanReason": "False vote kick x2, Leaving admin sit"
     }
 }
