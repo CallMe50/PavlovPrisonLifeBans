@@ -174,5 +174,9 @@
     "CaptnWeston": {
         "banneduntil": "2027.6.6-12.00.00pm",
         "BanReason": "underage"
+    },
+    "tanmonk.2024": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "RDMing, Underage"
     }
 }
