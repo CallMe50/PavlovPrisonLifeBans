@@ -170,5 +170,9 @@
     "Tacticxss": {
         "banneduntil": "2024.7.6-12.00.00pm",
         "BanReason": "Rdm,tk, rdm after warning(repeat offender)"
+    },
+    "CaptnWeston": {
+        "banneduntil": "2027.6.6-12.00.00pm",
+        "BanReason": "underage"
     }
 }
