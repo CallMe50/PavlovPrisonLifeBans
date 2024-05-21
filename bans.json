@@ -146,5 +146,9 @@
     "SniperMonke05": {
         "banneduntil": "2024.5.26-12.00.00pm",
         "BanReason": "Mass Rdm"
+    },
+    "qurtyz": {
+        "banneduntil": "2004.5.26-12.00.00pm",
+        "BanReason": "Votekicked"
     }
 }
