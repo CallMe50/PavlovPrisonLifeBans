@@ -190,5 +190,9 @@
     "Cmuney20": {
         "banneduntil": "2024.5.24-12.00.00pm",
         "BanReason": "Bank Camping"
+    },
+    "cmuney20": {
+        "banneduntil": "2024.5.24-12.00.00pm",
+        "BanReason": "Bank Camping"
     }
 }
