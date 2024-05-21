@@ -194,5 +194,9 @@
     "cmuney20": {
         "banneduntil": "2024.5.24-12.00.00pm",
         "BanReason": "Bank Camping"
+    },
+    "dravinboovr": {
+        "banneduntil": "2024.6.12-12.00.00pm",
+        "BanReason": "Mass team taze, Mass Guard TK"
     }
 }
