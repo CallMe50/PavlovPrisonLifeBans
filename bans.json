@@ -246,5 +246,9 @@
     "infected_piggy": {
         "banneduntil": "2024.5.25-12.00.00pm",
         "BanReason": "false voting at level 900"
+    },
+    "alex234156": {
+        "banneduntil": "2024.6.1-12.00.00pm",
+        "BanReason": "RDMing, Evading Admin Sit X2"
     }
 }
