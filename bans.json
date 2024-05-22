@@ -242,5 +242,9 @@
     "isaacLara1818": {
         "banneduntil": "2027.5.20-12.00.00pm",
         "BanReason": "RDMing, Underage, Evading Admin Sit X4"
+    },
+    "infected_piggy": {
+        "banneduntil": "2024.5.25-12.00.00pm",
+        "BanReason": "false voting at level 900"
     }
 }
