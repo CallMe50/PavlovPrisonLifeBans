@@ -210,5 +210,9 @@
     "The.300th.spartan": {
         "banneduntil": "2024.5.28-12.00.00pm",
         "BanReason": "Crossteaming x3, RDM x2"
+    },
+    "killerblade36": {
+        "banneduntil": "2024.5.28-12.00.00pm",
+        "BanReason": "False votekicking and killing in admin sit"
     }
 }
