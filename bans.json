@@ -282,5 +282,9 @@
     "VXRAIL_17": {
         "banneduntil": "2028.5.22-12.00.00pm",
         "BanReason": "Underaged and evading an admin sit"
+    },
+    "DarwinTheSigma": {
+        "banneduntil": "3092.5.29-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
