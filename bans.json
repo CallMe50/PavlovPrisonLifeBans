@@ -382,5 +382,9 @@
     "Deeznuts20098": {
         "banneduntil": "2024.5.25-12.00.00pm",
         "BanReason": "Cross-Teaming"
+    },
+    "ProVR": {
+        "banneduntil": "2099.12.12-12.00.00pm",
+        "BanReason": "Avoiding admin sit and potentially underage"
     }
 }
