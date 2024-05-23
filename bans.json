@@ -390,5 +390,9 @@
     "3_stooges66": {
         "banneduntil": "2024.6.20-12.00.00pm",
         "BanReason": "Sit evasion x2"
+    },
+    "neukje37": {
+        "banneduntil": "2024.5.30-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
