@@ -334,5 +334,9 @@
     "bdockknock": {
         "banneduntil": "2025.5.24-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "jag_shep": {
+        "banneduntil": "2099.5.29-12.00.00pm",
+        "BanReason": "Racism (Hard-R)"
     }
 }
