@@ -278,5 +278,9 @@
     "Arabic": {
         "banneduntil": "2024.29-12.00.00pm",
         "BanReason": "Team Taze x6, attempted tk x6"
+    },
+    "VXRAIL_17": {
+        "banneduntil": "2028.5.22-12.00.00pm",
+        "BanReason": "Underaged and evading an admin sit"
     }
 }
