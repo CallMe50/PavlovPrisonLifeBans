@@ -386,5 +386,9 @@
     "ProVR": {
         "banneduntil": "2099.12.12-12.00.00pm",
         "BanReason": "Avoiding admin sit and potentially underage"
+    },
+    "3_stooges66": {
+        "banneduntil": "2024.6.20-12.00.00pm",
+        "BanReason": "Sit evasion x2"
     }
 }
