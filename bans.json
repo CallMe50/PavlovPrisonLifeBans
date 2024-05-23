@@ -286,5 +286,9 @@
     "DarwinTheSigma": {
         "banneduntil": "3092.5.29-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Potato425": {
+        "banneduntil": "2024.5.29-12.00.00pm",
+        "BanReason": "RDM For Uranium"
     }
 }
