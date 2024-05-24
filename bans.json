@@ -490,5 +490,9 @@
     "Lyamvaudenay": {
         "banneduntil": "2024.6.7-12.00.00pm",
         "BanReason": "Guard TK x3 attempted tk x2 killing in admin sit x2"
+    },
+    "Ejn5102006": {
+        "banneduntil": "2024.5.31-12.00.00pm",
+        "BanReason": "False voting, evade admin sit x2"
     }
 }
