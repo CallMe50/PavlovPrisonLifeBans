@@ -470,5 +470,9 @@
     "RadioWired42": {
         "banneduntil": "2024.5.26-12.00.00pm",
         "BanReason": "From PL reports, RDMing"
+    },
+    "IceFighterX": {
+        "banneduntil": "2099.5.26-12.00.00pm",
+        "BanReason": "False voted soap, very certain that he doesnt care about the rules"
     }
 }
