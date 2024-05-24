@@ -442,5 +442,9 @@
     "cod3breaker7890": {
         "banneduntil": "2024.6.24-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "Jokerform951": {
+        "banneduntil": "2024.5.25-12.00.00pm",
+        "BanReason": "Abusing a glitch (shooting through walls)"
     }
 }
