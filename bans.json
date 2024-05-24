@@ -494,5 +494,9 @@
     "Ejn5102006": {
         "banneduntil": "2024.5.31-12.00.00pm",
         "BanReason": "False voting, evade admin sit x2"
+    },
+    "Rigid_Eggshell": {
+        "banneduntil": "2024.6.7-12.00.00pm",
+        "BanReason": "Attempted TK, Evade admin, Lying to staff"
     }
 }
