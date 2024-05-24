@@ -426,5 +426,9 @@
     "Ravenchild": {
         "banneduntil": "2024.6.6-12.00.00pm",
         "BanReason": "Classic Mass fug TK before leaving"
+    },
+    "operation.rly.slo": {
+        "banneduntil": "2024.5.27-12.00.00pm",
+        "BanReason": "Bank Camping"
     }
 }
