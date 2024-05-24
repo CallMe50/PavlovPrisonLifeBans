@@ -434,5 +434,9 @@
     "cabed.2024": {
         "banneduntil": "2024.6.30-12.00.00pm",
         "BanReason": "Mass rdm, evade admin sit, disrespect staff"
+    },
+    "Dexter_Morgan": {
+        "banneduntil": "2024.5.31-12.00.00pm",
+        "BanReason": "Mass rdm, TK x1, Attempted TK x1"
     }
 }
