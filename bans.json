@@ -498,5 +498,9 @@
     "Rigid_Eggshell": {
         "banneduntil": "2024.6.7-12.00.00pm",
         "BanReason": "Attempted TK, Evade admin, Lying to staff"
+    },
+    "NinjaFamm": {
+        "banneduntil": "2027.5.24-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
