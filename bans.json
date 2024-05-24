@@ -458,5 +458,9 @@
     "fire_creapper": {
         "banneduntil": "2024.5.27-12:00:00pm",
         "BanReason": "RDM"
+    },
+    "user145839": {
+        "banneduntil": "2024.5.30-12.00.00pm",
+        "BanReason": "Rdm,leaving adminsit 2x,lying to staff"
     }
 }
