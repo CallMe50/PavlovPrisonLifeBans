@@ -530,5 +530,9 @@
     "spooklms": {
         "banneduntil": "2024.6.1-12.00.00pm",
         "BanReason": "Mass rdm, cross team, evade admin sit"
+    },
+    "bbcmaster115": {
+        "banneduntil": "2024.6.25-12.00.00pm",
+        "BanReason": "Mass rdm, tk guard, killing in admin sit x2"
     }
 }
