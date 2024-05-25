@@ -562,5 +562,9 @@
     "Brady_Scooters": {
         "banneduntil": "9999.6.25-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "RentoBoy": {
+        "banneduntil": "2024.5.27-12.00.00pm",
+        "BanReason": "Cross-Teaming"
     }
 }
