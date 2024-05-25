@@ -502,5 +502,9 @@
     "NinjaFamm": {
         "banneduntil": "2027.5.24-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "TankItUp": {
+        "banneduntil": "2024.5.27-12.00.00pm",
+        "BanReason": "Mass Rdm"
     }
 }
