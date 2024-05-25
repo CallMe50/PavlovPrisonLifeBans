@@ -526,5 +526,9 @@
     "jaxson_451": {
         "banneduntil": "2027.5.25-12.00.00pm",
         "BanReason": "Underage, Evading admin sit"
+    },
+    "spooklms": {
+        "banneduntil": "2027.6.1-12.00.00pm",
+        "BanReason": "Mass rdm, cross team, evade admin sit"
     }
 }
