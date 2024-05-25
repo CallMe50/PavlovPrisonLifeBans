@@ -558,5 +558,9 @@
     "James245678": {
         "banneduntil": "2024.6.25-12.00.00pm",
         "BanReason": "Attempted to tk me,false vote kicking people"
+    },
+    "Brady_Scooters": {
+        "banneduntil": "9999.6.25-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
