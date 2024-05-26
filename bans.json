@@ -594,5 +594,9 @@
     "nicanor.pacheco.5836": {
         "banneduntil": "2026.5.21-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Grimreaper.43275": {
+        "banneduntil": "2099.5.21-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
