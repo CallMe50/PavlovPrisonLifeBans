@@ -566,5 +566,9 @@
     "RentoBoy": {
         "banneduntil": "2024.5.27-12.00.00pm",
         "BanReason": "Cross-Teaming"
+    },
+    "SpetnezRifleMan": {
+        "banneduntil": "2024.5.31-12.00.00pm",
+        "BanReason": "Cross-Teaming, evading admin-sit"
     }
 }
