@@ -634,5 +634,9 @@
     "theaustralian": {
         "banneduntil": "2025.5.27-12.00.00pm",
         "BanReason": "Underaged come back in a year"
+    },
+    "Charlie.davidson": {
+        "banneduntil": "2024.5.23-12.00.00pm",
+        "BanReason": "Unbanned"
     }
 }
