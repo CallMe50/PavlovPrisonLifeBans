@@ -598,5 +598,9 @@
     "Grimreaper.43275": {
         "banneduntil": "2099.5.21-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Scoutabout": {
+        "banneduntil": "2024.5.31-12.00.00pm",
+        "BanReason": "Repeated rdm, killing then leaving in admin sit."
     }
 }
