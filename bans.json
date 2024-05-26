@@ -570,5 +570,9 @@
     "SpetnezRifleMan": {
         "banneduntil": "2024.5.31-12.00.00pm",
         "BanReason": "Cross-Teaming, evading admin-sit"
+    },
+    "WeAreTWD": {
+        "banneduntil": "2025.5.27-12.00.00pm",
+        "BanReason": "Underaged and RDM"
     }
 }
