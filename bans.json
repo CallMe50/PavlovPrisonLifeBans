@@ -586,5 +586,9 @@
     "jimmy1869.2023": {
         "banneduntil": "2024.5.30-12.00.00pm",
         "BanReason": "Cross-Teaming and RDMing"
+    },
+    "AdotBeChillin": {
+        "banneduntil": "2024.5.27-12.00.00pm",
+        "BanReason": "RDMing"
     }
 }
