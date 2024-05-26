@@ -638,5 +638,9 @@
     "Charlie.davidson": {
         "banneduntil": "2024.5.23-12.00.00pm",
         "BanReason": "Unbanned"
+    },
+    "CORPSE606": {
+        "banneduntil": "2024.5.29-12.00.00pm",
+        "BanReason": "Glitching"
     }
 }
