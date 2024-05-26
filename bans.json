@@ -642,5 +642,9 @@
     "CORPSE606": {
         "banneduntil": "2024.5.29-12.00.00pm",
         "BanReason": "Glitching"
+    },
+    "WarMachine7567": {
+        "banneduntil": "2099.5.21-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
