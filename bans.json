@@ -694,5 +694,9 @@
     "pyrosanta76": {
         "banneduntil": "2024.6.1-12:00:00pm",
         "BanReason": "Guard TK, Mass RDM"
+    },
+    "Josh1e08": {
+        "banneduntil": "2024.5.30-12:00:00pm",
+        "BanReason": "Cross Teaming"
     }
 }
