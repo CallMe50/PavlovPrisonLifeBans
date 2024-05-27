@@ -698,5 +698,9 @@
     "Josh1e08": {
         "banneduntil": "2024.4.30-12:00:00pm",
         "BanReason": "Cross Teaming"
+    },
+    "VGR1979": {
+        "banneduntil": "2027.5.27-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
