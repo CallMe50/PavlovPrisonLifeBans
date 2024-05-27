@@ -666,5 +666,9 @@
     "Prada.Up": {
         "banneduntil": "2024.5.23-12.00.00pm",
         "BanReason": "Was falsely vote kicked (unban)"
+    },
+    "negurblack": {
+        "banneduntil": "9999.5.27-12.00.00pm",
+        "BanReason": "Rdming and need to change name make an appeal when changed"
     }
 }
