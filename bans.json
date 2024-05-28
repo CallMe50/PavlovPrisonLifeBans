@@ -726,5 +726,9 @@
     "helvetica_lover": {
         "banneduntil": "2024.6.2-12:00:00pm",
         "BanReason": "Bank camping (reports)"
+    },
+    "kingthe8": {
+        "banneduntil": "2024.5.31-12:00:00pm",
+        "BanReason": "Cross teaming"
     }
 }
