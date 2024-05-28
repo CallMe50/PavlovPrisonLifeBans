@@ -710,5 +710,9 @@
     "fortnitemaster": {
         "banneduntil": "2024.5.31-12.00.00pm",
         "BanReason": "bomb thru fug, spawn camp, xp glitching"
+    },
+    "ThyAnteater": {
+        "banneduntil": "2024.5.30-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
