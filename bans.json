@@ -746,5 +746,9 @@
     "Dutchvr346": {
         "banneduntil": "2025.6.12-12.00.00pm",
         "BanReason": "Admitted to being 12"
+    },
+    "Tulu1612": {
+        "banneduntil": "9999.12.22-12.00.00pm",
+        "BanReason": "Nword"
     }
 }
