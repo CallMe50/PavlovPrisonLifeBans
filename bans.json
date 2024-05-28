@@ -738,5 +738,9 @@
     "Sphinx.the.moth": {
         "banneduntil": "2024.30.5-12.00.00pm",
         "BanReason": "Team killing"
+    },
+    "sniper8805": {
+        "banneduntil": "2024.6.10-12.00.00pm",
+        "BanReason": "Mass RDM, Mass TK"
     }
 }
