@@ -722,5 +722,9 @@
     "Dane19": {
         "banneduntil": "2024.6.5-12.00.00pm",
         "BanReason": "Baiting, repeated Rdm, false vote kicking"
+    },
+    "helvetica_lover": {
+        "banneduntil": "2024.6.2-12:00:00pm",
+        "BanReason": "Bank camping (reports)"
     }
 }
