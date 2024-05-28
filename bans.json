@@ -734,5 +734,9 @@
     "offthax": {
         "banneduntil": "2099.5.28-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Sphinx.the.moth": {
+        "banneduntil": "2024.30.5-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
