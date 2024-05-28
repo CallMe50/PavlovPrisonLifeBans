@@ -762,5 +762,9 @@
     "CeeGee": {
         "banneduntil": "2024.6.28-12:00:00pm",
         "BanReason": "Can\u2019t say the n word"
+    },
+    "M4CARBINE": {
+        "banneduntil": "9999.2.11-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
