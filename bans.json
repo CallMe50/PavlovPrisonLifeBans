@@ -838,5 +838,9 @@
     "DangDamian": {
         "banneduntil": "2024.6.29-12.00.00pm",
         "BanReason": "Soft a, rdm"
+    },
+    "PeckrFam": {
+        "banneduntil": "2024.5.30-12.00.00pm",
+        "BanReason": "False vote kicking (please rule the rules when you come back)"
     }
 }
