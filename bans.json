@@ -818,5 +818,9 @@
     "Richardsonpump69": {
         "banneduntil": "2028.4.23-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "M4CARBINE_alt1": {
+        "banneduntil": "9999.2.11-12.00.00pm",
+        "BanReason": "Hard r, Ban evading"
     }
 }
