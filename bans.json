@@ -826,5 +826,9 @@
     "KollKidsKolb433": {
         "banneduntil": "2024.6.5-12.00.00pm",
         "BanReason": "mass rdm after warning, evade admin sit"
+    },
+    "PWSpitfire": {
+        "banneduntil": "2024.5.5-12.00.00pm",
+        "BanReason": "Unbanned (was falsely voted kick)"
     }
 }
