@@ -870,5 +870,9 @@
     "crispy225": {
         "banneduntil": "2025.5.28-12:00:00pm",
         "BanReason": "Underage *provide proof age*"
+    },
+    "jacob.154179": {
+        "banneduntil": "2024.1.14-12:00:00pm",
+        "BanReason": "Underage"
     }
 }
