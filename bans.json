@@ -882,5 +882,9 @@
     "Bondns1": {
         "banneduntil": "2099.1.14-12:00:00pm",
         "BanReason": "Repeated Hard-R, repeated racist statements"
+    },
+    "LewisMCG": {
+        "banneduntil": "2024.10.1-12:00:00pm",
+        "BanReason": "Underage"
     }
 }
