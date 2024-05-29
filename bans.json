@@ -878,5 +878,9 @@
     "xXBigBillyBobXX": {
         "banneduntil": "2099.12.12-12.00.00pm",
         "BanReason": "Killing for uranium"
+    },
+    "Bondns1": {
+        "banneduntil": "2099.1.14-12:00:00pm",
+        "BanReason": "Repeated Hard-R, repeated racist statements"
     }
 }
