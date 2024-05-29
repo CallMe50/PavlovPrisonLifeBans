@@ -874,5 +874,9 @@
     "jacob.154179": {
         "banneduntil": "2024.1.14-12:00:00pm",
         "BanReason": "Underage"
+    },
+    "xXBigBillyBobXX": {
+        "banneduntil": "2099.12.12-12.00.00pm",
+        "BanReason": "Killing for uranium"
     }
 }
