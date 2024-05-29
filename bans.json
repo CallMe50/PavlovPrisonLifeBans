@@ -790,5 +790,9 @@
     "ymom766": {
         "banneduntil": "2024.5.30-12:00:00pm",
         "BanReason": "Wall banging"
+    },
+    "TheRandomDummy": {
+        "banneduntil": "2024.5.31-12:00:00pm",
+        "BanReason": "Rdm"
     }
 }
