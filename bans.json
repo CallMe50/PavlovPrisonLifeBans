@@ -822,5 +822,9 @@
     "M4CARBINE_alt1": {
         "banneduntil": "9999.2.11-12.00.00pm",
         "BanReason": "Hard r, Ban evading"
+    },
+    "KollKidsKolb433": {
+        "banneduntil": "2024.6.5-12.00.00pm",
+        "BanReason": "mass rdm after warning, evade admin sit"
     }
 }
