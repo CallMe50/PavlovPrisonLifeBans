@@ -902,5 +902,9 @@
     "M4CARBINE.uwu": {
         "banneduntil": "9999.9.20-12.00.00pm",
         "BanReason": "Ban evading on alt account. You aint slick"
+    },
+    "Bradders.204455": {
+        "banneduntil": "2024.6.4-12:00:00pm",
+        "BanReason": "Team killing"
     }
 }
