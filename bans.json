@@ -886,5 +886,9 @@
     "LewisMCG": {
         "banneduntil": "2024.10.1-12:00:00pm",
         "BanReason": "Underage"
+    },
+    "jjjjjfffffiiii": {
+        "banneduntil": "2024.5.30-12:00:00pm",
+        "BanReason": "Cross teaming"
     }
 }
