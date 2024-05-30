@@ -918,5 +918,9 @@
     "dragon.slayer1": {
         "banneduntil": "2024.6.13-12.00.00pm",
         "BanReason": "Mass crossteaming, mass tk, mass team tazing -Envy/Envnity."
+    },
+    "blaze.maz3": {
+        "banneduntil": "2026.6.13-12.00.00pm",
+        "BanReason": "Underage (11) and false votekicking -Envy/Envnity."
     }
 }
