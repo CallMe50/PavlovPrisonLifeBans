@@ -910,5 +910,9 @@
     "er_manuelito34": {
         "banneduntil": "2099.6.4-12:00:00pm",
         "BanReason": "Rdm,tscism"
+    },
+    "Casey_callahan": {
+        "banneduntil": "2024.6.6-12:00:00pm",
+        "BanReason": "cross teaming, leaving during admin sit"
     }
 }
