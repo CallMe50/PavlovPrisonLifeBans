@@ -938,5 +938,9 @@
     "0piumgng5": {
         "banneduntil": "9999.9.20-12.00.00pm",
         "BanReason": "Hard r repeatedly"
+    },
+    "aceofspades.2023.2023": {
+        "banneduntil": "2025.2.1-12:00:00pm",
+        "BanReason": "Underage"
     }
 }
