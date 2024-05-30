@@ -890,5 +890,9 @@
     "jjjjjfffffiiii": {
         "banneduntil": "2024.5.30-12:00:00pm",
         "BanReason": "Cross teaming"
+    },
+    "Ayyykejon": {
+        "banneduntil": "2024.5.31-12:00:00pm",
+        "BanReason": "Camping bank"
     }
 }
