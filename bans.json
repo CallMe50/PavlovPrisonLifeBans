@@ -922,5 +922,9 @@
     "blaze.maz3": {
         "banneduntil": "2026.6.13-12.00.00pm",
         "BanReason": "Underage (11) and false votekicking -Envy/Envnity."
+    },
+    "Nathanwantsmeknow": {
+        "banneduntil": "2024.6.1-12.00.00pm",
+        "BanReason": "Killing in admin sit, evading questions, rdm"
     }
 }
