@@ -1018,5 +1018,9 @@
     "TheRougeStan": {
         "banneduntil": "2024.6.5-12.00.00pm",
         "BanReason": "Rdm, baiting"
+    },
+    "Ninjakatss": {
+        "banneduntil": "2024.7.5-12.00.00pm",
+        "BanReason": "Cross teaming, votekicked staff member on admin sit, being disrespectful in an admin sit"
     }
 }
