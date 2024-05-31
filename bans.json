@@ -942,5 +942,9 @@
     "aceofspades.2023.2023": {
         "banneduntil": "2025.2.1-12:00:00pm",
         "BanReason": "Underage"
+    },
+    "PLbanmenlgga.M4": {
+        "banneduntil": "9999.2.1-12:00:00pm",
+        "BanReason": "Repeated Hard R"
     }
 }
