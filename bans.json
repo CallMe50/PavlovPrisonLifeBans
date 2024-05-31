@@ -958,5 +958,9 @@
     "makesurehedead.2023": {
         "banneduntil": "9999.6.30-12:00:00pm",
         "BanReason": "Hard R"
+    },
+    "IIIlIllIIlll": {
+        "banneduntil": "9999.6.30-12:00:00pm",
+        "BanReason": "Hard R"
     }
 }
