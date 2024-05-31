@@ -1006,5 +1006,9 @@
     "Toes_R4_Bros": {
         "banneduntil": "2099.12.12-12.00.00pm",
         "BanReason": "Admin evasion"
+    },
+    "xztrxy": {
+        "banneduntil": "2024.6.1-12.00.00pm",
+        "BanReason": "Rdm killed and evading"
     }
 }
