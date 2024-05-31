@@ -954,5 +954,9 @@
     "DEGENERATE.CUM": {
         "banneduntil": "2024.6.30-12:00:00pm",
         "BanReason": "RDM x2, Said he didn\u2019t care about the rules,"
+    },
+    "makesurehedead.2023": {
+        "banneduntil": "9999.6.30-12:00:00pm",
+        "BanReason": "Hard R"
     }
 }
