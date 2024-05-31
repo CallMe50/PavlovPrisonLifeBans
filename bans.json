@@ -946,5 +946,9 @@
     "PLbanmenlgga.M4": {
         "banneduntil": "9999.2.1-12:00:00pm",
         "BanReason": "Repeated Hard R"
+    },
+    "man.of.memes.2023": {
+        "banneduntil": "2026.2.1-12:00:00pm",
+        "BanReason": "Possibly Underage"
     }
 }
