@@ -998,5 +998,9 @@
     "oddlyspeciffic": {
         "banneduntil": "2024.6.6-12.00.00pm",
         "BanReason": "Mass RDM, Evade admin sit"
+    },
+    "willig.466922": {
+        "banneduntil": "2099.7.1-12:00:00pm",
+        "BanReason": "said he doesn't care about the rules and said he will just do same thing in another server. Mass RDM, Cross teaming x2"
     }
 }
