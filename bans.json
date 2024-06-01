@@ -1098,5 +1098,9 @@
     "cjay.405719": {
         "banneduntil": "2024.6.6-12:00:00pm",
         "BanReason": "Mass Rdm"
+    },
+    "sleeplessNight": {
+        "banneduntil": "2024.6.4-12:00:00pm",
+        "BanReason": "Mass Rdm"
     }
 }
