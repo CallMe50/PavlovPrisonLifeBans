@@ -1046,5 +1046,9 @@
     "Minecraft.villager69": {
         "banneduntil": "2024.6.10-12.00.00pm",
         "BanReason": "Teamkill"
+    },
+    "Washington.Bandits": {
+        "banneduntil": "2024.8.30-12.00.00pm",
+        "BanReason": "Mass crossteam"
     }
 }
