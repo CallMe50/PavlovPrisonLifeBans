@@ -1126,5 +1126,9 @@
     "cheapikle73": {
         "banneduntil": "2099.7.6-12:00:00pm",
         "BanReason": "Hard r"
+    },
+    "jim.14": {
+        "banneduntil": "2027.9.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
