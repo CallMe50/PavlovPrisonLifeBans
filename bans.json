@@ -1042,5 +1042,9 @@
     "Froggy62": {
         "banneduntil": "2024.6.1-12.00.00pm",
         "BanReason": "Cross teaming (please read the rules when you come back)"
+    },
+    "Minecraft.villager69": {
+        "banneduntil": "2024.6.10-12.00.00pm",
+        "BanReason": "Teamkill"
     }
 }
