@@ -1122,5 +1122,9 @@
     "Smokey_bandone1216": {
         "banneduntil": "2024.6.9-12:00:00pm",
         "BanReason": "Repeated baiting, repeated rdm"
+    },
+    "cheapikle73": {
+        "banneduntil": "2099.7.6-12:00:00pm",
+        "BanReason": "Hard r"
     }
 }
