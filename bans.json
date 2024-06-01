@@ -1074,5 +1074,9 @@
     "caydeomeister": {
         "banneduntil": "2024.6.6-12:00:00pm",
         "BanReason": "RDM x 2"
+    },
+    "boggy9551": {
+        "banneduntil": "2024.6.6-12:00:00pm",
+        "BanReason": "Mass RDM"
     }
 }
