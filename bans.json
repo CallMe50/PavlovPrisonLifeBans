@@ -1052,7 +1052,7 @@
         "BanReason": "Mass crossteam"
     },
     "toxic-snake": {
-        "banneduntil": "2024.6.20",
+        "banneduntil": "2024.6.20-12.00.00pm",
         "BanReason": "Mass rdm and attempted tk"
     }
 }
