@@ -1110,5 +1110,9 @@
     "paebert": {
         "banneduntil": "2024.6.4-12:00:00pm",
         "BanReason": "Rdm"
+    },
+    "alien.dude": {
+        "banneduntil": "2024.6.3-12:00:00pm",
+        "BanReason": "Tk (please read the rules when you come back)"
     }
 }
