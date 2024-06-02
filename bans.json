@@ -1162,5 +1162,9 @@
     "ishotablackguy": {
         "banneduntil": "2099.9.9-12.00.00pm",
         "BanReason": "N word multiple times"
+    },
+    "osama_bin_bolin": {
+        "banneduntil": "2024.6.9-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
