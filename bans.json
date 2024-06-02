@@ -1130,5 +1130,9 @@
     "jim.14": {
         "banneduntil": "2027.9.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "super_mank": {
+        "banneduntil": "2024.6.3-12.00.00pm",
+        "BanReason": "Rdming to the point kicked off guard team low lvl please read the rules before joining"
     }
 }
