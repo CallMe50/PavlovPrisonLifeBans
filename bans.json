@@ -1154,5 +1154,9 @@
     "Soleghe": {
         "banneduntil": "2024.6.4-12.00.00pm",
         "BanReason": "Ban shortened"
+    },
+    "crypersonal": {
+        "banneduntil": "2099.6.3-12.00.00pm",
+        "BanReason": "Hard R on multiple occasions"
     }
 }
