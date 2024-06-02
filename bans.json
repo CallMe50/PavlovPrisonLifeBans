@@ -1174,5 +1174,9 @@
     "CocoZsmol": {
         "banneduntil": "2024.6.3-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Walker_2010": {
+        "banneduntil": "2024.6.3-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
