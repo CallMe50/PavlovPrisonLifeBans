@@ -1170,5 +1170,9 @@
     "Milkythemilkster": {
         "banneduntil": "2024.6.5-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "CocoZsmol": {
+        "banneduntil": "2024.6.3-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
