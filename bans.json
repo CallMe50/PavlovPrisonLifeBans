@@ -1194,5 +1194,9 @@
     "gym.me.james": {
         "banneduntil": "2024.7.1-12.00.00pm",
         "BanReason": "RDMing, Underage"
+    },
+    "lonlyisdead": {
+        "banneduntil": "2024.6.6-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
