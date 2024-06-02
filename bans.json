@@ -1150,5 +1150,9 @@
     "Juh.vibe.2023": {
         "banneduntil": "2024.6.7-12.00.00pm",
         "BanReason": "cross teaming"
+    },
+    "Soleghe": {
+        "banneduntil": "2024.7.2-12.00.00pm",
+        "BanReason": "N word"
     }
 }
