@@ -1250,5 +1250,9 @@
     "ur.mom.destroyer1": {
         "banneduntil": "2024.6.10-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "Lastornever": {
+        "banneduntil": "2024.6.1-12.00.00pm",
+        "BanReason": "Unban"
     }
 }
