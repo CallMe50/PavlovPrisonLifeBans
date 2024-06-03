@@ -1198,5 +1198,9 @@
     "lonlyisdead": {
         "banneduntil": "2024.6.6-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "spongebob2": {
+        "banneduntil": "2027.6.6-12.00.00pm",
+        "BanReason": "\"Get a life nerd\" -PUNISHMENT316"
     }
 }
