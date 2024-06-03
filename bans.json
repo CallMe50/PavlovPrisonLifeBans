@@ -1214,5 +1214,9 @@
     "chickennuggies69": {
         "banneduntil": "2024.6.17-12.00.00pm",
         "BanReason": "Evade admin sit x2, Killing in admin sit x2, camping bank, lying to staff"
+    },
+    "PorNoDEMON": {
+        "banneduntil": "2024.7.4-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
