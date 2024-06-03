@@ -1206,5 +1206,9 @@
     "Christianrjones": {
         "banneduntil": "2024.6.4-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "IsaacNewton": {
+        "banneduntil": "2099.6.3-12.00.00pm",
+        "BanReason": "hard r"
     }
 }
