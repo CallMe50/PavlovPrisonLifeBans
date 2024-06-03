@@ -1246,5 +1246,9 @@
     "schizofem": {
         "banneduntil": "2024.6.4-12.00.00pm",
         "BanReason": "False vote kicking"
+    },
+    "ur.mom.destroyer1": {
+        "banneduntil": "2024.6.10-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
