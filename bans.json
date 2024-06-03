@@ -1254,5 +1254,9 @@
     "Lastornever": {
         "banneduntil": "2024.6.1-12.00.00pm",
         "BanReason": "Unban"
+    },
+    "Avintia": {
+        "banneduntil": "2024.6.6-12.00.00pm",
+        "BanReason": "Baiting( from reports )"
     }
 }
