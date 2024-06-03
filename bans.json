@@ -1262,5 +1262,9 @@
     "Pro_master2": {
         "banneduntil": "2024.6.5-12.00.00pm",
         "BanReason": "RDMing (please review rules near spawn point/player selection or on discord)"
+    },
+    "Tim.36363": {
+        "banneduntil": "2026.10.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
