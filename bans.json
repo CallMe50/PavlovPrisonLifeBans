@@ -1338,5 +1338,9 @@
     "Llama_troy": {
         "banneduntil": "2024.6.5-12.00.00pm",
         "BanReason": "Crossteaming -Envy/Envnity."
+    },
+    "Speechlass": {
+        "banneduntil": "2024.6.5-12.00.00pm",
+        "BanReason": "Prisoner tk for diamonds"
     }
 }
