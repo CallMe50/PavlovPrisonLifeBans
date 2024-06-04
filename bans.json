@@ -1322,5 +1322,9 @@
     "dr3ean762": {
         "banneduntil": "2099.5.16-12.00.00pm",
         "BanReason": "N word used with a racist intent"
+    },
+    "ThatBuffGuyDrew": {
+        "banneduntil": "2024.6.6-12.00.00pm",
+        "BanReason": "RDMing from PL reports (please review rules near spawn point/player selection or on discord)"
     }
 }
