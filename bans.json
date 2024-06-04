@@ -1334,5 +1334,9 @@
     "pappaDAM": {
         "banneduntil": "2024.6.5-12:00:00pm",
         "BanReason": "Rdm"
+    },
+    "Llama_troy": {
+        "banneduntil": "2024.6.5-12.00.00pm",
+        "BanReason": "Crossteaming -Envy/Envnity."
     }
 }
