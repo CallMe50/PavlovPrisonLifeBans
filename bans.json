@@ -1302,5 +1302,9 @@
     "Grilled_Cheze": {
         "banneduntil": "2024.6.6-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "Hot.Sauce.Man.815": {
+        "banneduntil": "2024.8.30-12.00.00pm",
+        "BanReason": "Mass tazing team mates (warned) but ignored"
     }
 }
