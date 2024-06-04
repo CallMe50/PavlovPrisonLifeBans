@@ -1330,5 +1330,9 @@
     "lcy.44": {
         "banneduntil": "2024.7.5-12:00:00pm",
         "BanReason": "Multiple reports he said he doesn't care about the rules"
+    },
+    "pappaDAM": {
+        "banneduntil": "2024.6.5-12:00:00pm",
+        "BanReason": "Rdm"
     }
 }
