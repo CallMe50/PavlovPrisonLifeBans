@@ -1378,5 +1378,9 @@
     "Mklein5": {
         "banneduntil": "2024.6.6-12.00.00pm",
         "BanReason": "RDM x2"
+    },
+    "kaleb90304": {
+        "banneduntil": "2024.6.12-12.00.00pm",
+        "BanReason": "RDM, RDM in admin sit"
     }
 }
