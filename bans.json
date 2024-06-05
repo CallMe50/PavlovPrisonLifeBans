@@ -1382,5 +1382,9 @@
     "kaleb90304": {
         "banneduntil": "2024.6.12-12.00.00pm",
         "BanReason": "RDM, RDM in admin sit"
+    },
+    "gronk.machine": {
+        "banneduntil": "2024.6.9-12.00.00pm",
+        "BanReason": "RDM x2"
     }
 }
