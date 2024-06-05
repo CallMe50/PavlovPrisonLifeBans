@@ -1414,5 +1414,9 @@
     "maximus.011": {
         "banneduntil": "2026.6.1-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "Scrunch_dev": {
+        "banneduntil": "2027.6.1-12.00.00pm",
+        "BanReason": "Underage, Excessive RDMing, Evaded Admin Sit X 10"
     }
 }
