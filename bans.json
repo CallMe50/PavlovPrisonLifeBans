@@ -1386,5 +1386,9 @@
     "gronk.machine": {
         "banneduntil": "2024.6.9-12.00.00pm",
         "BanReason": "RDM x2"
+    },
+    "redreaper56": {
+        "banneduntil": "2024.6.10-12:00:00pm",
+        "BanReason": "Attempting to tk pris-fug jugg"
     }
 }
