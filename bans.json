@@ -1426,5 +1426,9 @@
     "rubelk60": {
         "banneduntil": "2024.6.7-12.00.00pm",
         "BanReason": "Teamkill -Envy/Envnity."
+    },
+    "yr.so.bad": {
+        "banneduntil": "2024.6.19-12.00.00pm",
+        "BanReason": "False votekick 2x, killing in sit 2x, evading sit 2x -Envy/Envnity."
     }
 }
