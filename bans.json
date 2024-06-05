@@ -1430,5 +1430,9 @@
     "yr.so.bad": {
         "banneduntil": "2024.6.19-12.00.00pm",
         "BanReason": "False votekick 2x, killing in sit 2x, evading sit 2x -Envy/Envnity."
+    },
+    "cheesecake52": {
+        "banneduntil": "2024.6.6-12.00.00pm",
+        "BanReason": "Cross-Teaming"
     }
 }
