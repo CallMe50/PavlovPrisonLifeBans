@@ -1418,5 +1418,9 @@
     "Scrunch_dev": {
         "banneduntil": "2027.6.1-12.00.00pm",
         "BanReason": "Underage, Excessive RDMing, Evaded Admin Sit X 10"
+    },
+    "MrSlonky": {
+        "banneduntil": "2024.6.6-12.00.00pm",
+        "BanReason": "RDMing, Evading Admin Sit, (please review rules near spawn point/player selection or on discord)"
     }
 }
