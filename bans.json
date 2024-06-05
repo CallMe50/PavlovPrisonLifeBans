@@ -1398,5 +1398,9 @@
     "cjc2319": {
         "banneduntil": "2024.6.12-12.00.00pm",
         "BanReason": "Ban shortened"
+    },
+    "kim.jong.un51": {
+        "banneduntil": "9999.6.5-12.00.00pm",
+        "BanReason": "Recently TKing from PL reports, (had a previous ban of \"mass use of n word\" ban will be reinstated.) Mass Use of N-Word"
     }
 }
