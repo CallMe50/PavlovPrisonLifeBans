@@ -1462,5 +1462,9 @@
     "Bread.man1444": {
         "banneduntil": "2024.6.7-12.00.00pm",
         "BanReason": "False vote kicking"
+    },
+    "Oreoblizzards": {
+        "banneduntil": "9999.6.6-12.00.00pm",
+        "BanReason": "N-Word Hard R"
     }
 }
