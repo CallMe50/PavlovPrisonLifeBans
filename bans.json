@@ -1470,5 +1470,9 @@
     "SP5DER_XO": {
         "banneduntil": "9999.6.6-12.00.00pm",
         "BanReason": "Underage, tk, uncooperative in sit -Envy/Envnity."
+    },
+    "VonBuehler": {
+        "banneduntil": "2024.9.6-12.00.00",
+        "BanReason": "RDM twice (reports)"
     }
 }
