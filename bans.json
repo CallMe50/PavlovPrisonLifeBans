@@ -1472,7 +1472,7 @@
         "BanReason": "Underage, tk, uncooperative in sit -Envy/Envnity."
     },
     "VonBuehler": {
-        "banneduntil": "2024.9.6-12.00.00",
-        "BanReason": "RDM twice (reports)"
+        "banneduntil": "2024.6.9-12.00.00",
+        "BanReason": "Fixed from previous ban (mistyped the date bc imma tard)"
     }
 }
