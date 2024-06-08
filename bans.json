@@ -1558,5 +1558,9 @@
     "buttholepp": {
         "banneduntil": "2099.5.6-12.00.00pm",
         "BanReason": "False votekicking, killing in sit, evading sit -Envy/Envnity."
+    },
+    "KFCisLIFE": {
+        "banneduntil": "2024.6.14-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
