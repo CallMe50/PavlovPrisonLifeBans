@@ -1542,5 +1542,9 @@
     "LilHeall": {
         "banneduntil": "2099.5.6-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "CJmc21.21": {
+        "banneduntil": "2099.5.6-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
