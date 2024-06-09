@@ -1602,5 +1602,9 @@
     "Daddy.177733": {
         "banneduntil": "2024.6.11-12.00.00",
         "BanReason": "Teaming (reports, same one as last ban)"
+    },
+    "sea.food.nerd": {
+        "banneduntil": "2024.11.6-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
