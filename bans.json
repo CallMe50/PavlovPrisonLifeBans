@@ -1622,5 +1622,9 @@
     "Aidenjh2020": {
         "banneduntil": "2024.6.10-12.00.00pm",
         "BanReason": "Team kill (read the rules when you come back)"
+    },
+    "MC.MATTHEWS": {
+        "banneduntil": "2024.6.10-12.00.00pm",
+        "BanReason": "Cross teaming (read the rules when you come back)"
     }
 }
