@@ -1216,8 +1216,8 @@
         "BanReason": "Evade admin sit x2, Killing in admin sit x2, camping bank, lying to staff"
     },
     "PorNoDEMON": {
-        "banneduntil": "2024.7.4-12.00.00pm",
-        "BanReason": "Mass RDM"
+        "banneduntil": "2024.8.4-12.00.00pm",
+        "BanReason": "Mass RDM, Extended for soft A loophole"
     },
     "WalkerBoi25": {
         "banneduntil": "2024.6.3-12.00.00pm",
