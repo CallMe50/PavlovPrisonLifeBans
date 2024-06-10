@@ -1638,5 +1638,9 @@
     "Hazey818": {
         "banneduntil": "2028.7.10-12.00.00pm",
         "BanReason": "Underage (gotta be 13 to play)"
+    },
+    "Lshel13": {
+        "banneduntil": "2026.6.10-12.00.00pm",
+        "BanReason": "Underage (from reports)"
     }
 }
