@@ -1694,5 +1694,9 @@
     "Highsky08": {
         "banneduntil": "2026.6.10-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "Christianjones11": {
+        "banneduntil": "2024.8.1-12.00.00pm",
+        "BanReason": "Repeated rdm"
     }
 }
