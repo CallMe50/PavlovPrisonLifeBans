@@ -1674,5 +1674,9 @@
     "cheifdtown": {
         "banneduntil": "2024.6.14-12.00.00pm",
         "BanReason": "Excessive rdm, random kicking admin"
+    },
+    "adolfkitler": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Admitted to being 12 (nice name tho)"
     }
 }
