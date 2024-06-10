@@ -1642,5 +1642,9 @@
     "Lshel13": {
         "banneduntil": "2026.6.10-12.00.00pm",
         "BanReason": "Underage (from reports)"
+    },
+    "YTreloadedduckie": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "Repeated tk, repeat offender"
     }
 }
