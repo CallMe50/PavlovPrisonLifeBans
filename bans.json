@@ -1662,5 +1662,9 @@
     "Shawn24667": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "debo_23": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "Excessive prisoner tk and admin sit evasion"
     }
 }
