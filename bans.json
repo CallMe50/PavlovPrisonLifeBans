@@ -1730,5 +1730,9 @@
     "BossBoyAidden": {
         "banneduntil": "2024.6.11-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "KingUSA2015": {
+        "banneduntil": "2025.6.11-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
