@@ -1750,5 +1750,9 @@
     "WowVrIsCool": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "Admin evasion after rdm"
+    },
+    "typhoonblood": {
+        "banneduntil": "2024.8.12-12.00.00pm",
+        "BanReason": "N word (kal was witness)"
     }
 }
