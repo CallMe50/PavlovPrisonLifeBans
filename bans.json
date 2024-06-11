@@ -1774,5 +1774,9 @@
     "Cat_Lover21": {
         "banneduntil": "2024.6.15-12.00.00pm",
         "BanReason": "Excessively killing prisoners"
+    },
+    "MaybeDixon": {
+        "banneduntil": "2024.6.12-12.00.00pm",
+        "BanReason": "Rdm(read the rules when you come back)"
     }
 }
