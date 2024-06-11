@@ -1734,5 +1734,9 @@
     "KingUSA2015": {
         "banneduntil": "2029.6.11-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Arizna": {
+        "banneduntil": "2024.6.12-12.00.00pm",
+        "BanReason": "rdm and teaming (read the rules when you come back)"
     }
 }
