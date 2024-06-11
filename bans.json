@@ -1746,5 +1746,9 @@
     "Beastbros1295": {
         "banneduntil": "2025.6.14-12.00.00pm",
         "BanReason": "Admitted to being 12"
+    },
+    "WowVrIsCool": {
+        "banneduntil": "2024.7.12-12.00.00pm",
+        "BanReason": "Admin evasion after rdm"
     }
 }
