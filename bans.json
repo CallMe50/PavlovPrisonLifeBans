@@ -1718,5 +1718,9 @@
     "asprowles": {
         "banneduntil": "2024.6.14-12.00.00pm",
         "BanReason": "TK"
+    },
+    "knoxyvr": {
+        "banneduntil": "2024.6.11-12.00.00pm",
+        "BanReason": "Cross teaming (read the rules when you come back)"
     }
 }
