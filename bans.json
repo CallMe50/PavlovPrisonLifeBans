@@ -1754,5 +1754,9 @@
     "typhoonblood": {
         "banneduntil": "2024.8.12-12.00.00pm",
         "BanReason": "N word (kal was witness)"
+    },
+    "cheezballs": {
+        "banneduntil": "2021.7.12-12.00.00pm",
+        "BanReason": "Unban"
     }
 }
