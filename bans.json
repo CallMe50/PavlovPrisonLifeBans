@@ -1732,11 +1732,7 @@
         "BanReason": "Rdm"
     },
     "KingUSA2015": {
-        "banneduntil": "2025.6.11-12.00.00pm",
-        "BanReason": "Underage"
-    },
-    "Legends1.2024": {
-        "banneduntil": "2026.6.11-12.00.00pm",
+        "banneduntil": "2029.6.11-12.00.00pm",
         "BanReason": "Underage"
     }
 }
