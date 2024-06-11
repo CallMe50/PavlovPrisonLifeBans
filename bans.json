@@ -1782,5 +1782,9 @@
     "tkingawesome": {
         "banneduntil": "2024.6.13-12.00.00pm",
         "BanReason": "Camping bank(read the rules when you come back)"
+    },
+    "360pickles": {
+        "banneduntil": "2024.6.13-12.00.00pm",
+        "BanReason": "Teamkill (read the rules when you come back)"
     }
 }
