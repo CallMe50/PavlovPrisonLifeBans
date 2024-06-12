@@ -1794,5 +1794,9 @@
     "SkyGuyBuck007": {
         "banneduntil": "2024.6.17-12.00.00pm",
         "BanReason": "Cross team, evade admin"
+    },
+    "Saythatinmyface": {
+        "banneduntil": "2024.7.12-12.00.00pm",
+        "BanReason": "False voting, Said he didnt care about the rules"
     }
 }
