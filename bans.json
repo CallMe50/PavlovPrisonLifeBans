@@ -1790,5 +1790,9 @@
     "oogaboogadrake": {
         "banneduntil": "2024.6.12-12.00.00pm",
         "BanReason": "Teamkill (read the rules when you come back)"
+    },
+    "SkyGuyBuck007": {
+        "banneduntil": "2024.6.15-12.00.00pm",
+        "BanReason": "Cross team"
     }
 }
