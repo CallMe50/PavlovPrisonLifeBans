@@ -1834,5 +1834,9 @@
     "minecrabserious2": {
         "banneduntil": "2026.6.12-12.00.00pm",
         "BanReason": "Underage admitted being 11 video proof"
+    },
+    "ThatRareClockwork": {
+        "banneduntil": "2024.7.12-12.00.00pm",
+        "BanReason": "Soft \"a\" 1 month ban"
     }
 }
