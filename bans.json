@@ -1786,5 +1786,9 @@
     "360pickles": {
         "banneduntil": "2024.6.13-12.00.00pm",
         "BanReason": "Teamkill (read the rules when you come back)"
+    },
+    "oogaboogadrake": {
+        "banneduntil": "2024.6.12-12.00.00pm",
+        "BanReason": "Teamkill (read the rules when you come back)"
     }
 }
