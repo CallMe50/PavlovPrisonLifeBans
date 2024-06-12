@@ -1880,7 +1880,7 @@
         "BanReason": "Rdm"
     },
     "TorhallurK": {
-        "banneduntil": "2024.6.15-12.00.00pm",
-        "BanReason": "Cross teaming"
+        "banneduntil": "2024.6.20-12.00.00pm",
+        "BanReason": "Cross teaming, Team kill"
     }
 }
