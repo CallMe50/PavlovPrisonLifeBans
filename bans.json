@@ -1818,5 +1818,9 @@
     "0PeptoBismol": {
         "banneduntil": "2024.6.13-12.00.00pm",
         "BanReason": "Tk and rdm 1 day ban please read rules before playing"
+    },
+    "Monkeyman_1": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "Screaming \"kill the Hard Rs\""
     }
 }
