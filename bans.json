@@ -1870,5 +1870,9 @@
     "Mark512FCMeta": {
         "banneduntil": "2027.6.12-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "BonzerFurball99": {
+        "banneduntil": "2024.6.25-12.00.00pm",
+        "BanReason": "Cross-team, and evaded an admin sit"
     }
 }
