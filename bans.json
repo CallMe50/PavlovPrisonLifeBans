@@ -1802,5 +1802,9 @@
     "jahmirmir0599": {
         "banneduntil": "2099.7.12-12.00.00pm",
         "BanReason": "hard r loophole"
+    },
+    "i.am.a.duck": {
+        "banneduntil": "2024.6.13-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
