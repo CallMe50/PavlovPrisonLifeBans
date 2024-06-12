@@ -1806,5 +1806,9 @@
     "i.am.a.duck": {
         "banneduntil": "2024.6.13-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "IlOzzmanll": {
+        "banneduntil": "2024.6.18-12.00.00pm",
+        "BanReason": "RDM x2, attempted RDM in admin sit"
     }
 }
