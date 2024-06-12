@@ -1858,5 +1858,9 @@
     "Miroale": {
         "banneduntil": "2024.6.13-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "ballwe": {
+        "banneduntil": "2099.4.5-12.00.00pm",
+        "BanReason": "N word, evading"
     }
 }
