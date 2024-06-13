@@ -1918,5 +1918,9 @@
     "LS_pix": {
         "banneduntil": "2026.3.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Karate_kid12": {
+        "banneduntil": "2024.6.14-12.00.00pm",
+        "BanReason": "False Vote Kicking (please review rules near spawn point/player selection or on discord)"
     }
 }
