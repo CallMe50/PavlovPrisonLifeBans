@@ -1958,5 +1958,9 @@
     "slain79": {
         "banneduntil": "2024.6.14-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "N.O.V.A": {
+        "banneduntil": "2024.7.13-12.00.00pm",
+        "BanReason": "N word"
     }
 }
