@@ -1930,5 +1930,9 @@
     "Ej24seven": {
         "banneduntil": "2026.5.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "jace256.2023": {
+        "banneduntil": "2024.6.14-12.00.00",
+        "BanReason": "Teamkill (read the rules when you come back)"
     }
 }
