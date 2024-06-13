@@ -1906,5 +1906,9 @@
     "TackiestDig980": {
         "banneduntil": "2024.6.15-12.00.00",
         "BanReason": "Cross team, evaded an admin sit"
+    },
+    "JustCallMeGolden": {
+        "banneduntil": "2024.6.14-12.00.00",
+        "BanReason": "Teamkill (read the rules when you come back)"
     }
 }
