@@ -1898,5 +1898,9 @@
     "Karl.Marx": {
         "banneduntil": "2024.6.15-12.00.00",
         "BanReason": "Rdm (reports)"
+    },
+    "Ellobuba": {
+        "banneduntil": "2024.6.13-12.00.00",
+        "BanReason": "Teamkill (read the rules when you come back)"
     }
 }
