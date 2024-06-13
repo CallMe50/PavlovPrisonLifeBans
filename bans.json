@@ -1044,8 +1044,8 @@
         "BanReason": "Cross teaming (please read the rules when you come back)"
     },
     "Minecraft.villager69": {
-        "banneduntil": "2024.6.10-12.00.00pm",
-        "BanReason": "Teamkill"
+        "banneduntil": "2024.6.15-12.00.00",
+        "BanReason": "Cross team"
     },
     "Washington.Bandits": {
         "banneduntil": "2024.8.30-12.00.00pm",
