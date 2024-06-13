@@ -1910,5 +1910,9 @@
     "JustCallMeGolden": {
         "banneduntil": "2024.6.14-12.00.00",
         "BanReason": "Teamkill (read the rules when you come back)"
+    },
+    "Singelfulx8": {
+        "banneduntil": "2024.6.22-12.00.00pm",
+        "BanReason": "Crossteam and tk"
     }
 }
