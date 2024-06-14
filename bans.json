@@ -1966,5 +1966,9 @@
     "DaddyEpstein": {
         "banneduntil": "2025.7.13-12.00.00pm",
         "BanReason": "Potentially underage, evaded admin sit"
+    },
+    "Andrewfleisch123": {
+        "banneduntil": "2029.7.13-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
