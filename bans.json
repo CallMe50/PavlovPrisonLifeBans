@@ -50,5 +50,9 @@
     "stevobaker": {
         "banneduntil": "2026.7.7-12.00.00pm",
         "BanReason": "Tased then killed for Uranium, left upon being asked his age"
+    },
+    "BeamedByLR": {
+        "banneduntil": "2099.7.7-12.00.00pm",
+        "BanReason": "N word"
     }
 }
