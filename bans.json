@@ -102,5 +102,9 @@
     "kim.jong.un51": {
         "banneduntil": "2099.6.18-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "ohfd": {
+        "banneduntil": "2024.6.17-12.00.00pm",
+        "BanReason": "xp glitching (your battle pass has been reset)"
     }
 }
