@@ -122,5 +122,9 @@
     "Croissantjes": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "alopezinkt": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "baiting, evade admin sit x7, killing in admin sit x3, tk x3"
     }
 }
