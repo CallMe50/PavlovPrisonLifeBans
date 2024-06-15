@@ -170,5 +170,9 @@
     "Cashin_85": {
         "banneduntil": "9997.6.17-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "daveluk13": {
+        "banneduntil": "2024.6.20-12.00.00pm",
+        "BanReason": "false voting after warning"
     }
 }
