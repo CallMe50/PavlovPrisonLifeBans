@@ -206,5 +206,9 @@
     "kneeegrow": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "name change, evaded admin sit x4"
+    },
+    "Turdburgler11": {
+        "banneduntil": "2024.6.18-12.00.00",
+        "BanReason": "Rdm (reports)"
     }
 }
