@@ -202,5 +202,9 @@
     "Bennysbiscuits": {
         "banneduntil": "9999.12.12-12.00.00pm",
         "BanReason": "cross teaming, team tazing, mass rdm, said he doesnt care about rules"
+    },
+    "kneeegrow": {
+        "banneduntil": "9999.12.12-12.00.00pm",
+        "BanReason": "name change, evaded admin sit x4"
     }
 }
