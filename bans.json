@@ -138,5 +138,9 @@
     "jogd": {
         "banneduntil": "2024.6.16-12.00.00pm",
         "BanReason": "Rdm 2x, was already warned -Envy/Envnity."
+    },
+    "WowVrIsCool": {
+        "banneduntil": "2024.6.20-12.00.00pm",
+        "BanReason": "Baiting, shooting for no reason, evading sit 1x"
     }
 }
