@@ -258,5 +258,9 @@
     "Captain_Forest": {
         "banneduntil": "2024.6.18-12.00.00pm",
         "BanReason": "Spawn camping (read the rules when you come back)"
+    },
+    "zxb.goat": {
+        "banneduntil": "2099.6.6-12:00:00pm",
+        "BanReason": "Giving miniguns to fugs is cross teaming. This was your final chance"
     }
 }
