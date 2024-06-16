@@ -246,5 +246,9 @@
     "Minecraft.villager69": {
         "banneduntil": "2024.6.30-12.00.00pm",
         "BanReason": "Falsely vote kick"
+    },
+    "frostbite.121": {
+        "banneduntil": "2024.6.18-12.00.00pm",
+        "BanReason": "team kill (read the rules when you come back)"
     }
 }
