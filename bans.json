@@ -286,5 +286,9 @@
     "greybo2308": {
         "banneduntil": "2024.16.7-12.00.00pm",
         "BanReason": "Soft a"
+    },
+    "sleepyboy2024": {
+        "banneduntil": "2024.6.17-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
