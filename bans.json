@@ -254,5 +254,9 @@
     "marcovantrigt": {
         "banneduntil": "2024.6.18-12.00.00pm",
         "BanReason": "Tasing your own guard teammates (read the rules when you come back)"
+    },
+    "Captain_Forest": {
+        "banneduntil": "2024.6.18-12.00.00pm",
+        "BanReason": "Spawn camping (read the rules when you come back)"
     }
 }
