@@ -290,5 +290,9 @@
     "sleepyboy2024": {
         "banneduntil": "2024.6.17-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "BrokenStuff": {
+        "banneduntil": "2027.7.1-12.00.00pm",
+        "BanReason": "RDMing, *Possibly Underage* please provide details in ban appeal."
     }
 }
