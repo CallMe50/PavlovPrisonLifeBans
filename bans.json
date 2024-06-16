@@ -262,5 +262,9 @@
     "zxb.goat": {
         "banneduntil": "2099.6.6-12:00:00pm",
         "BanReason": "Giving miniguns to fugs is cross teaming. This was your final chance"
+    },
+    "Demo2847": {
+        "banneduntil": "2025.6.7-12.00.00pm",
+        "BanReason": "Underaged come back in a year bud"
     }
 }
