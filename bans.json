@@ -382,5 +382,9 @@
     "PWSpitfire": {
         "banneduntil": "2024.06.24-12:00:00pm",
         "BanReason": "RDM (from reports)"
+    },
+    "Obama69420.2024": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
