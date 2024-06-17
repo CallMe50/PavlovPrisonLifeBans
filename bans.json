@@ -350,5 +350,9 @@
     "Connor_and_Athena": {
         "banneduntil": "2025.6.17-12.00.00pm",
         "BanReason": "Underaged, refusal to comply when questioned"
+    },
+    "koda_23": {
+        "banneduntil": "2024.06.24-12:00:00pm",
+        "BanReason": "Guard TK, been warned before"
     }
 }
