@@ -314,5 +314,9 @@
     "I.SNORTWIZZFIZZ1": {
         "banneduntil": "2024.06.24-12.00.00pm",
         "BanReason": "Team killing fug aa prisoner"
+    },
+    "nick_gur123": {
+        "banneduntil": "2099.7.1-12.00.00pm",
+        "BanReason": "change your name"
     }
 }
