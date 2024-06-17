@@ -370,5 +370,9 @@
     "ayay_200": {
         "banneduntil": "2099.7.16-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "itzCurlyz": {
+        "banneduntil": "2024.06.24-12:00:00pm",
+        "BanReason": "RDM (from reports)"
     }
 }
