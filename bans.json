@@ -346,5 +346,9 @@
     "TwoJzClutch": {
         "banneduntil": "2024.6.24-12.00.00pm",
         "BanReason": "RDM, evading admin sit"
+    },
+    "Connor_and_Athena": {
+        "banneduntil": "2025.6.17-12.00.00pm",
+        "BanReason": "Underaged, refusal to comply when questioned"
     }
 }
