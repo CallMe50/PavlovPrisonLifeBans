@@ -374,5 +374,9 @@
     "itzCurlyz": {
         "banneduntil": "2024.06.24-12:00:00pm",
         "BanReason": "RDM (from reports)"
+    },
+    "PWspitfire": {
+        "banneduntil": "2024.06.24-12:00:00pm",
+        "BanReason": "RDM (from reports)"
     }
 }
