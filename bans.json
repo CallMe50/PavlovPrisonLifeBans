@@ -378,5 +378,9 @@
     "PWspitfire": {
         "banneduntil": "2024.06.24-12:00:00pm",
         "BanReason": "RDM (from reports)"
+    },
+    "PWSpitfire": {
+        "banneduntil": "2024.06.24-12:00:00pm",
+        "BanReason": "RDM (from reports)"
     }
 }
