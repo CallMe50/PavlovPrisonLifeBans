@@ -310,5 +310,9 @@
     "Dane19": {
         "banneduntil": "2024.6.17-12.00.00pm",
         "BanReason": "RDMing (please review rules near spawn point/player selection or on discord)"
+    },
+    "I.SNORTWIZZFIZZ1": {
+        "banneduntil": "2024.06.24-12.00.00pm",
+        "BanReason": "Team killing fug aa prisoner"
     }
 }
