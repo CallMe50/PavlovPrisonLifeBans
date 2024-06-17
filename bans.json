@@ -358,5 +358,9 @@
     "koda_32": {
         "banneduntil": "2024.06.24-12:00:00pm",
         "BanReason": "TK, repeat offender"
+    },
+    "Eyalgame": {
+        "banneduntil": "2025.6.17-12:00:00pm",
+        "BanReason": "Underage"
     }
 }
