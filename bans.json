@@ -318,5 +318,9 @@
     "nick_gur123": {
         "banneduntil": "2099.7.1-12.00.00pm",
         "BanReason": "change your name"
+    },
+    "CeeGee": {
+        "banneduntil": "2099.7.16-12.00.00pm",
+        "BanReason": "A and R"
     }
 }
