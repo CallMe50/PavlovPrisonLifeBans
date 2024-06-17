@@ -402,5 +402,9 @@
     "Elllbuba": {
         "banneduntil": "2024.6.18-12.00.00pm",
         "BanReason": "Team kill (read the rules when you come back)"
+    },
+    "pp_man45": {
+        "banneduntil": "2024.7.18-12.00.00pm",
+        "BanReason": "Team kill x2, killing in admin sit x3, evading admin sit x4"
     }
 }
