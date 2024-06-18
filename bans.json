@@ -454,5 +454,9 @@
     "Monkeee.Mannn": {
         "banneduntil": "2024.6.30-12.00.00pm",
         "BanReason": "false voting after warning, repeat offender"
+    },
+    "An_Alzheimers_Patient": {
+        "banneduntil": "2024.6.30-12:00:00pm",
+        "BanReason": "Fug TK"
     }
 }
