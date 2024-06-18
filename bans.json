@@ -586,5 +586,9 @@
     "Cleetans": {
         "banneduntil": "2024.6.21-12:00:00pm",
         "BanReason": "Cross teaming (wills ban)"
+    },
+    "Tobi404": {
+        "banneduntil": "2024.6.20-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
