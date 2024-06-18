@@ -514,5 +514,9 @@
     "Vicious30": {
         "banneduntil": "2024.6.20-12:00:00pm",
         "BanReason": "Repeated baiting"
+    },
+    "Dawson98": {
+        "banneduntil": "2024.6.20-12:00:00pm",
+        "BanReason": "Repeated baiting"
     }
 }
