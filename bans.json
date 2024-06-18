@@ -442,5 +442,9 @@
     "I.love.Duke": {
         "banneduntil": "2027.6.19-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "WASJUSTHERE": {
+        "banneduntil": "2024.6.20-12.00.00pm",
+        "BanReason": "Team kill (read the rules when you come back)"
     }
 }
