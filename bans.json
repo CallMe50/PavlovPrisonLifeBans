@@ -570,5 +570,9 @@
     "caseohjrirl": {
         "banneduntil": "2024.6.21-12:00:00pm",
         "BanReason": "False voting"
+    },
+    "Hollandsworth_vr": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "False voting"
     }
 }
