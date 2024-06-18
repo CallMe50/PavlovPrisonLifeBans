@@ -578,5 +578,9 @@
     "redneck_wrangler": {
         "banneduntil": "2024.6.21-12.00.00pm",
         "BanReason": "RDM x2"
+    },
+    "GrandLabel": {
+        "banneduntil": "2024.6.20-12:00:00pm",
+        "BanReason": "RDM (credit Leewalky)"
     }
 }
