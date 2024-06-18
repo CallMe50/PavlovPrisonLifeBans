@@ -566,5 +566,9 @@
     "SDFStar": {
         "banneduntil": "2024.6.21-12.00.00pm",
         "BanReason": "Intentionally RDM\u2019d a prisoner for a \u201cfree diamond\u201d"
+    },
+    "caseohjrirl": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "False voting"
     }
 }
