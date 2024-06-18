@@ -466,5 +466,9 @@
     "harhar651": {
         "banneduntil": "2025.12.12-12.00.00pm",
         "BanReason": "Potentially underage and admin evasion"
+    },
+    "coops1027": {
+        "banneduntil": "2025.12.12-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
