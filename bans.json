@@ -658,5 +658,9 @@
     "emomickyjr": {
         "banneduntil": "2026.6.19-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "LucasG5": {
+        "banneduntil": "2024.6.22-12:00:00pm",
+        "BanReason": "RDMing"
     }
 }
