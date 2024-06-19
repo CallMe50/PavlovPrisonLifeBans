@@ -594,5 +594,9 @@
     "Ocasio2430": {
         "banneduntil": "2024.6.23-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "debo_23": {
+        "banneduntil": "2024.6.24-12:00:00pm",
+        "BanReason": "Repeated RDM, DISRESPECTING STAFF"
     }
 }
