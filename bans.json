@@ -638,5 +638,9 @@
     "ContourSaucer17": {
         "banneduntil": "2024.6.20-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "poison556": {
+        "banneduntil": "2030.6.19-12.00.00pm",
+        "BanReason": "N word and possibly underaged"
     }
 }
