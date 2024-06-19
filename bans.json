@@ -686,5 +686,9 @@
     "ben658798": {
         "banneduntil": "2024.6.21-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "singelfulx": {
+        "banneduntil": "2024.6.24-12.00.00pm",
+        "BanReason": "Team killing & Cross teaming"
     }
 }
