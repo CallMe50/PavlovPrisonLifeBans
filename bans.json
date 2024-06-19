@@ -702,5 +702,9 @@
     "walker_king": {
         "banneduntil": "2024.6.25-12.00.00pm",
         "BanReason": "TK, False vote kicking, mass rdm"
+    },
+    "mosaot": {
+        "banneduntil": "2028.6.19-12.00.00pm",
+        "BanReason": "Underaged (10) and false votekicking -Envy/Envnity."
     }
 }
