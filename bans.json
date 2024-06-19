@@ -710,5 +710,9 @@
     "Jayden100000": {
         "banneduntil": "2024.7.9-12:00:00pm",
         "BanReason": "Underage"
+    },
+    "AK109ALPHA": {
+        "banneduntil": "2025.7.20-12:00:00pm",
+        "BanReason": "Evaded admin sit, lying to staff, possibly underage"
     }
 }
