@@ -606,5 +606,9 @@
     "hairyn1qqa": {
         "banneduntil": "2099.6.24-12.00.00pm",
         "BanReason": "Change your username then you can come back"
+    },
+    "AstinkyMidget": {
+        "banneduntil": "2024.6.22-12:00:00pm",
+        "BanReason": "Repeated RDM"
     }
 }
