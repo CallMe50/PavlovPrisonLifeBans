@@ -610,5 +610,9 @@
     "AstinkyMidget": {
         "banneduntil": "2024.6.22-12:00:00pm",
         "BanReason": "Repeated RDM"
+    },
+    "infected_piggy": {
+        "banneduntil": "2024.6.22-12:00:00pm",
+        "BanReason": "Spawn camping"
     }
 }
