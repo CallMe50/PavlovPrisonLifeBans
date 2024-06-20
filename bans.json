@@ -870,5 +870,9 @@
     "bigs5756": {
         "banneduntil": "2025.6.20.12.00.00pm",
         "BanReason": "Admitted to being 12"
+    },
+    "aj.328401": {
+        "banneduntil": "2024.6.22-12.00.00pm",
+        "BanReason": "Mass rdm after warning"
     }
 }
