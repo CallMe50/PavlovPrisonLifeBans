@@ -818,5 +818,9 @@
     "bleedingedge": {
         "banneduntil": "2099.6.21-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "Dinomitydwe": {
+        "banneduntil": "2028.6.21-12.00.00pm",
+        "BanReason": "Underage (gotta be 13 to play)"
     }
 }
