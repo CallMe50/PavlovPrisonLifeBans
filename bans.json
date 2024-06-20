@@ -790,5 +790,9 @@
     "DementedBatman": {
         "banneduntil": "2024.8.20-12:00:00pm",
         "BanReason": "soft a after warning, admin evade - will"
+    },
+    "Pixelcube": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "rdm"
     }
 }
