@@ -794,5 +794,9 @@
     "Pixelcube": {
         "banneduntil": "2024.6.21-12:00:00pm",
         "BanReason": "rdm"
+    },
+    "smokey_bandone1216": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "cross team - prada"
     }
 }
