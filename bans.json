@@ -714,5 +714,9 @@
     "AK109ALPHA": {
         "banneduntil": "2025.7.20-12:00:00pm",
         "BanReason": "Evaded admin sit, lying to staff, possibly underage"
+    },
+    "logman233": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "RDM (read the rules in team selection area when you come back)"
     }
 }
