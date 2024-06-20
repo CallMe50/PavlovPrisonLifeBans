@@ -726,5 +726,9 @@
     "patrick.2014": {
         "banneduntil": "2024.6.21-12.00.00pm",
         "BanReason": "RDM, possibly also underaged"
+    },
+    "Pickledick1": {
+        "banneduntil": "2024.6.21-12.00.00pm",
+        "BanReason": "Intentional RDM"
     }
 }
