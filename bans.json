@@ -734,5 +734,9 @@
     "Oculusguy0202": {
         "banneduntil": "2024.6.22-12.00.00pm",
         "BanReason": "Attempted false votekick"
+    },
+    "huntzombiezz": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "Guard TK, potential rdm (read rules in team selection area when you come back)"
     }
 }
