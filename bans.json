@@ -866,5 +866,9 @@
     "BBC407": {
         "banneduntil": "2024.23.6-12.00.00pm",
         "BanReason": "Rdm,tk, from reports"
+    },
+    "bigs5756": {
+        "banneduntil": "2025.6.20.12.00.00pm",
+        "BanReason": "Admitted to being 12"
     }
 }
