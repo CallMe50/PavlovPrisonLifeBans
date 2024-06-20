@@ -754,5 +754,9 @@
     "0peptobismol": {
         "banneduntil": "2024.6.21-12:00:00pm",
         "BanReason": "Giving guards swat weapons a bunch (excessive)"
+    },
+    "bricks123": {
+        "banneduntil": "2099.6.21-12:00:00pm",
+        "BanReason": "Hard r"
     }
 }
