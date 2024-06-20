@@ -890,5 +890,9 @@
     "Tactical_tampon": {
         "banneduntil": "2029.6.20-12.00.00pm",
         "BanReason": "Hard r -Envy/Envnity."
+    },
+    "swager_souls": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "False voting (read the rules in team selection area before coming back)"
     }
 }
