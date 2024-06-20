@@ -778,5 +778,9 @@
     "Yourmomsahoe0420": {
         "banneduntil": "2025.7.20-12:00:00pm",
         "BanReason": "underage"
+    },
+    "swamppass": {
+        "banneduntil": "2099.7.20-12:00:00pm",
+        "BanReason": "baiting, says he doesnt care of rules"
     }
 }
