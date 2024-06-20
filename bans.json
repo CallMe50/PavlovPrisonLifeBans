@@ -834,5 +834,9 @@
     "Baddier": {
         "banneduntil": "2025.6.20-12:00:00pm",
         "BanReason": "Underage"
+    },
+    "NlGGERS": {
+        "banneduntil": "2099.7.8-12.00.00pm",
+        "BanReason": "Change your name and u will be unbanned"
     }
 }
