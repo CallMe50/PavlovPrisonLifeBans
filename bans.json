@@ -806,5 +806,9 @@
     "Tripzyxo": {
         "banneduntil": "2026.7.20-12:00:00pm",
         "BanReason": "underage, evade admin sit - prada"
+    },
+    "Boheetta": {
+        "banneduntil": "2024.6.21-12.00.00pm",
+        "BanReason": "Baiting prisoner by opening door to let them out and then going behind them and killing them 1 day ban"
     }
 }
