@@ -814,5 +814,9 @@
     "rockzter928": {
         "banneduntil": "2024.30.6-12.00.00pm",
         "BanReason": "False votekick, killing in adminsit x2, leaving adminsit ( witness by <@1185761321535410307>)"
+    },
+    "bleedingedge": {
+        "banneduntil": "2099.6.21-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
