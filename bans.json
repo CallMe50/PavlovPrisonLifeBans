@@ -838,5 +838,9 @@
     "NlGGERS": {
         "banneduntil": "2099.7.8-12.00.00pm",
         "BanReason": "Change your name and u will be unbanned"
+    },
+    "J.Mon.392": {
+        "banneduntil": "2024.6.21-12:00:00pm",
+        "BanReason": "RDM - lee"
     }
 }
