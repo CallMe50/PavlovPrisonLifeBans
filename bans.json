@@ -998,5 +998,9 @@
     "elixir__1": {
         "banneduntil": "2024.6.26-12.00.00pm",
         "BanReason": "Spawn Camping Guard Armory area from PL reports"
+    },
+    "themkoolaids": {
+        "banneduntil": "2024.6.24-12.00.00pm",
+        "BanReason": "Spawn Camping Guard Armory area from PL reports"
     }
 }
