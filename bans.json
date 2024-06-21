@@ -942,5 +942,9 @@
     "yoeeeeee": {
         "banneduntil": "2025.6.24-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "KRASHOUT_DTB": {
+        "banneduntil": "2024.6.22-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
