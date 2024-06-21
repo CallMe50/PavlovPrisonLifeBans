@@ -906,5 +906,9 @@
     "EHR37752": {
         "banneduntil": "2028.6.20-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Lol1513146": {
+        "banneduntil": "2025.4.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
