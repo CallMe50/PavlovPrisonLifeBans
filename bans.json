@@ -1022,5 +1022,9 @@
     "Camoburger250": {
         "banneduntil": "2024.6.24-12.00.00pm",
         "BanReason": "2x Rdm"
+    },
+    "powerful1_monkey": {
+        "banneduntil": "2024.6.23-12.00.00pm",
+        "BanReason": "Baiting and teaming"
     }
 }
