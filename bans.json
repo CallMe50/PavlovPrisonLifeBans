@@ -978,5 +978,9 @@
     "12packodoja": {
         "banneduntil": "2024.7.21-12.00.00pm",
         "BanReason": "Usage of the slur \u201enegro\u201c"
+    },
+    "bigmenanal": {
+        "banneduntil": "2024.6.25-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
