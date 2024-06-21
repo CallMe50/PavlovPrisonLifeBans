@@ -902,5 +902,9 @@
     "JesserJames23": {
         "banneduntil": "2026.8.7-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "EHR37752": {
+        "banneduntil": "2028.6.20-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
