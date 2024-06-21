@@ -946,5 +946,9 @@
     "KRASHOUT_DTB": {
         "banneduntil": "2024.6.22-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Pro_entertainment_13": {
+        "banneduntil": "2099.21.6-12.00.00pm",
+        "BanReason": "Hard r ,from reports"
     }
 }
