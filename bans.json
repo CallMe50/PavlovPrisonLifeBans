@@ -982,5 +982,9 @@
     "bigmenanal": {
         "banneduntil": "2024.6.25-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "NippTwister": {
+        "banneduntil": "2024.6.23-12.00.00pm",
+        "BanReason": "Rdm tazing, rdm"
     }
 }
