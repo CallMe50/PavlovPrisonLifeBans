@@ -974,5 +974,9 @@
     "Johnwick123456": {
         "banneduntil": "9999.6.21-12.00.00pm",
         "BanReason": "False Voting, Hard R"
+    },
+    "12packodoja": {
+        "banneduntil": "2024.7.21-12.00.00pm",
+        "BanReason": "Usage of the slur \u201enegro\u201c"
     }
 }
