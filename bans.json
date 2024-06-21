@@ -922,5 +922,9 @@
     "Dragonfly13141": {
         "banneduntil": "2024.6.21-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "campesina18": {
+        "banneduntil": "2024.6.22-12.00.00pm",
+        "BanReason": "Team kill"
     }
 }
