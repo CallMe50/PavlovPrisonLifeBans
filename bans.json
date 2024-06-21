@@ -954,5 +954,9 @@
     "D.Kill101": {
         "banneduntil": "2024.6.23-12:00:00pm",
         "BanReason": "Mass RDM - German"
+    },
+    "teaffetatundra": {
+        "banneduntil": "2025.6.21-12:00:00pm",
+        "BanReason": "Underage, Join the discord and make an appeal if you're 13+ yrs old - German"
     }
 }
