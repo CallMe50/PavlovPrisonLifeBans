@@ -950,5 +950,9 @@
     "Pro_entertainment_13": {
         "banneduntil": "2099.21.6-12.00.00pm",
         "BanReason": "Hard r ,from reports"
+    },
+    "D.Kill101": {
+        "banneduntil": "2024.6.23-12:00:00pm",
+        "BanReason": "Mass RDM - German"
     }
 }
