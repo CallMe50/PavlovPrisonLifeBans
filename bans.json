@@ -970,5 +970,9 @@
     "xdoom202": {
         "banneduntil": "2024.6.25-12:00:00pm",
         "BanReason": "cross teaming"
+    },
+    "Johnwick123456": {
+        "banneduntil": "9999.6.21-12.00.00pm",
+        "BanReason": "False Voting, Hard R"
     }
 }
