@@ -1178,5 +1178,9 @@
     "IIOzzmanII": {
         "banneduntil": "2024.6.23-12.00.00pm",
         "BanReason": "Rdm (read the rules when you get back)"
+    },
+    "ilovepublixsubs": {
+        "banneduntil": "2024.6.24",
+        "BanReason": "Team killing"
     }
 }
