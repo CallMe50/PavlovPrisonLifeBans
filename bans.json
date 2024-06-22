@@ -1134,5 +1134,9 @@
     "b.891666": {
         "banneduntil": "2024.6.29-12.00.00pm",
         "BanReason": "attempting to stab jugg in admin sit"
+    },
+    "littlecinnamorall.2023": {
+        "banneduntil": "2030.6.22-12.00.00pm",
+        "BanReason": "Age 7"
     }
 }
