@@ -1082,5 +1082,9 @@
     "gourd11": {
         "banneduntil": "2028.6.24-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "kalebdad": {
+        "banneduntil": "2024.6.25-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
