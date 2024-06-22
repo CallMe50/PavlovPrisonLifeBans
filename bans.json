@@ -1066,5 +1066,9 @@
     "GermanaCowboy": {
         "banneduntil": "2025.6.23-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "DarwinTheSigma": {
+        "banneduntil": "2025.6.23-12.00.00pm",
+        "BanReason": "N word"
     }
 }
