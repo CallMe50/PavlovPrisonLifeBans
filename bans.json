@@ -1106,5 +1106,9 @@
     "conker125": {
         "banneduntil": "2099.7.21-12.00.00pm",
         "BanReason": "hard R - german"
+    },
+    "moraxolalte": {
+        "banneduntil": "2024.6.23-12.00.00pm",
+        "BanReason": "RDM -Lee"
     }
 }
