@@ -1094,5 +1094,9 @@
     "arthur.morgan.10.127465": {
         "banneduntil": "2024.6.29-12.00.00pm",
         "BanReason": "false voting, lying to staff, evading admin sit"
+    },
+    "commandervr": {
+        "banneduntil": "2024.7.22-12.00.00pm",
+        "BanReason": "false voting, evading admin sit"
     }
 }
