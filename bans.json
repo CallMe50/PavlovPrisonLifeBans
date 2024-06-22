@@ -1070,5 +1070,9 @@
     "DarwinTheSigma": {
         "banneduntil": "2025.6.23-12.00.00pm",
         "BanReason": "N word"
+    },
+    "player202": {
+        "banneduntil": "2024.7.21-12.00.00pm",
+        "BanReason": "N word"
     }
 }
