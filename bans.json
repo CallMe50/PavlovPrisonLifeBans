@@ -1090,5 +1090,9 @@
     "the_dog_0718": {
         "banneduntil": "2024.6.23-12.00.00pm",
         "BanReason": "Team kill (read the rules)"
+    },
+    "arthur.morgan.10.127465": {
+        "banneduntil": "2024.6.29-12.00.00pm",
+        "BanReason": "false voting, lying to staff, evading admin sit"
     }
 }
