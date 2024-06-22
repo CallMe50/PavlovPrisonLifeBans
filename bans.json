@@ -1078,5 +1078,9 @@
     "Enzomartinez12": {
         "banneduntil": "2024.6.28-12.00.00pm",
         "BanReason": "Rdm, 3x evaded an admin sit"
+    },
+    "gourd11": {
+        "banneduntil": "2028.6.24-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
