@@ -1042,5 +1042,9 @@
     "CormacMcDon333": {
         "banneduntil": "2024.7.5-12:00:00pm",
         "BanReason": "Teamkilling (3+), Sit Noncompliance"
+    },
+    "Ch0deSlinger": {
+        "banneduntil": "2024.6.24-12.00.00pm",
+        "BanReason": "Intentional RDM trying to force a man to bust a move"
     }
 }
