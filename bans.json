@@ -1286,5 +1286,9 @@
     "pocaitul0": {
         "banneduntil": "2024.6.28-12:00:00pm",
         "BanReason": "Attempted to TK jug X2 - German"
+    },
+    "kingthe8": {
+        "banneduntil": "2024.6.26-12:00:00pm",
+        "BanReason": "False voting - German"
     }
 }
