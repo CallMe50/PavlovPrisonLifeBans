@@ -1306,5 +1306,9 @@
     "Caronte_13": {
         "banneduntil": "2024.6.26-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "RichAmiriGoat": {
+        "banneduntil": "2024.6.30-12.00.00pm",
+        "BanReason": "false voting, lying to staff, evaded admin sit x5"
     }
 }
