@@ -1230,5 +1230,9 @@
     "aura3000": {
         "banneduntil": "2024.6.24-12.00.00pm",
         "BanReason": "Team kill, cross team (read the rules when you get back)"
+    },
+    "bananaman500.2023": {
+        "banneduntil": "2027.6.24-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
