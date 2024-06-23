@@ -1202,5 +1202,9 @@
     "bomboclat14579753": {
         "banneduntil": "2024.6.24-12.00.00pm",
         "BanReason": "Team killing"
+    },
+    "AJM30703": {
+        "banneduntil": "2024.6.30-12.00.00pm",
+        "BanReason": "Repeated rdm, warned and kicked 3 times"
     }
 }
