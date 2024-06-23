@@ -1282,5 +1282,9 @@
     "Blobby_bob": {
         "banneduntil": "2025.6.23-12.00.00pm",
         "BanReason": "Underaged, leaving sit to avoid questioning"
+    },
+    "pocaitul0": {
+        "banneduntil": "2024.6.28-12:00:00pm",
+        "BanReason": "Attempted to TK jug X2 - German"
     }
 }
