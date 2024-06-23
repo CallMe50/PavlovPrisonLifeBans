@@ -1260,11 +1260,7 @@
         "BanReason": "Mass RDM after warning - german"
     },
     "juliomagana.2023": {
-        "banneduntil": "2024.6. 28-12:00:00pm",
+        "banneduntil": "2024.6.28-12:00:00pm",
         "BanReason": "Mass RDM after warning - german"
-    },
-    "char.russ.80": {
-        "banneduntil": "2024.6.27-12:00:00pm",
-        "BanReason": "false vote - lee"
     }
 }
