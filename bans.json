@@ -1446,5 +1446,9 @@
     "CAA1712": {
         "banneduntil": "2024.7.1-12:00:00pm",
         "BanReason": "TK x2, cross teaming - lee"
+    },
+    "mady._.0": {
+        "banneduntil": "2024.6.27-12:00:00pm",
+        "BanReason": "RDM x2"
     }
 }
