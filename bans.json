@@ -1474,5 +1474,9 @@
     "Kash0122": {
         "banneduntil": "2025.6.24-12.00.00pm",
         "BanReason": "Underaged (12)"
+    },
+    "Elpippo012": {
+        "banneduntil": "2024.6.25-12.00.00pm",
+        "BanReason": "RDMing (please review rules near spawn point/player selection or on discord)"
     }
 }
