@@ -1490,5 +1490,9 @@
     "ronnie556": {
         "banneduntil": "2024.7.26-12.00.00pm",
         "BanReason": "Made a racist joke"
+    },
+    "SrWinter": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Womp womp"
     }
 }
