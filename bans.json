@@ -1558,5 +1558,9 @@
     "DJSB1970": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Pl3 grinding xp, money and kicking everyone who joins"
+    },
+    "Danorsh": {
+        "banneduntil": "2024.6.27-12.00.00pm",
+        "BanReason": "False Vote Kicking - LeeWalky"
     }
 }
