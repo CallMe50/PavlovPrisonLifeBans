@@ -1594,5 +1594,9 @@
     "jetcheche.2022": {
         "banneduntil": "2088.6.28-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Goldstryker": {
+        "banneduntil": "2024.6.26-12.00.00pm",
+        "BanReason": "Taser Griefing Prisoner (please review rules near spawn point/player selection or on discord)"
     }
 }
