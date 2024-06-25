@@ -1570,5 +1570,9 @@
     "JC102011": {
         "banneduntil": "2024.6.28-12.00.00pm",
         "BanReason": "Repeated rdm"
+    },
+    "zayn3ww2": {
+        "banneduntil": "2024.6.30-12.00.00pm",
+        "BanReason": "False vote kicking"
     }
 }
