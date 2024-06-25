@@ -1530,5 +1530,9 @@
     "bevinwevin": {
         "banneduntil": "2024.7.25-12.00.00pm",
         "BanReason": "False votekicking 3x and evading admin sit 3x, -Envy/Envnity."
+    },
+    "Beansman.214970": {
+        "banneduntil": "2024.6.28-12.00.00pm",
+        "BanReason": "successful false votekick-Envy/Envnity."
     }
 }
