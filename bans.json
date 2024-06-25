@@ -1498,5 +1498,9 @@
     "bronasu": {
         "banneduntil": "2024.7.24-12.00.00pm",
         "BanReason": "Shooting through walls"
+    },
+    "Roto_Master": {
+        "banneduntil": "2024.6.28-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
