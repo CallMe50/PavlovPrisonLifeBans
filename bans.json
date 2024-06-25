@@ -1566,5 +1566,9 @@
     "dizzytaco.2023": {
         "banneduntil": "2024.6.26-12.00.00pm",
         "BanReason": "False Vote Kicking"
+    },
+    "JC102011": {
+        "banneduntil": "2024.6.28-12.00.00pm",
+        "BanReason": "Repeated rdm"
     }
 }
