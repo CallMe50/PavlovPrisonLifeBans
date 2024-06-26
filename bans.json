@@ -1706,5 +1706,9 @@
     "cheezycheez": {
         "banneduntil": "2024.6.28-12:00:00pm",
         "BanReason": "Cross team - german"
+    },
+    "AH_": {
+        "banneduntil": "2024.6.28-12:00:00pm",
+        "BanReason": "Baiting - german"
     }
 }
