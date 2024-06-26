@@ -1770,5 +1770,9 @@
     "GETBETTER543": {
         "banneduntil": "2024.6.28-12:00:00pm",
         "BanReason": "False voting"
+    },
+    "reaper.192323": {
+        "banneduntil": "2024.6.29-12:00:00pm",
+        "BanReason": "False voting - lee"
     }
 }
