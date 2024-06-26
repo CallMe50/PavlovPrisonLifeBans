@@ -1774,5 +1774,9 @@
     "reaper.192323": {
         "banneduntil": "2024.6.29-12:00:00pm",
         "BanReason": "False voting - lee"
+    },
+    "Swoopm": {
+        "banneduntil": "2099.6.28-12.00.00pm",
+        "BanReason": "Repeated cross teaming, attempted tk Hard-R"
     }
 }
