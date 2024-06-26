@@ -1782,5 +1782,9 @@
     "Eorxq.s": {
         "banneduntil": "2024.6.30-12.00.00pm",
         "BanReason": "Repeated rdm"
+    },
+    "Meinheimaatland": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Mass tk, repeated cross teaming"
     }
 }
