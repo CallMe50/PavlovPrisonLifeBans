@@ -1778,5 +1778,9 @@
     "Swoopm": {
         "banneduntil": "2099.6.28-12.00.00pm",
         "BanReason": "Repeated cross teaming, attempted tk Hard-R"
+    },
+    "Eorxq.s": {
+        "banneduntil": "2024.6.30-12.00.00pm",
+        "BanReason": "Repeated rdm"
     }
 }
