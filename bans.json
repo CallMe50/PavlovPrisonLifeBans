@@ -1654,5 +1654,9 @@
     "ThatVRPlayer": {
         "banneduntil": "2024.6.24-12.00.00pm",
         "BanReason": "False vote kick"
+    },
+    "Micheal_Jordan1": {
+        "banneduntil": "2024.6.29-12.00.00.pm",
+        "BanReason": "False voting"
     }
 }
