@@ -1766,5 +1766,9 @@
     "buskydahusky": {
         "banneduntil": "2024.6.28-12.00.00pm",
         "BanReason": "RDMing (please review rules near spawn point/player selection or on discord)"
+    },
+    "GETBETTER543": {
+        "banneduntil": "2024.6.28-12:00:00pm",
+        "BanReason": "False voting"
     }
 }
