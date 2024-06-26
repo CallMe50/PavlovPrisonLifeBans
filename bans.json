@@ -1678,5 +1678,9 @@
     "Mr.Zario": {
         "banneduntil": "2024.6.29-12.00.00.pm",
         "BanReason": "False voting"
+    },
+    "Bob6315_2.0": {
+        "banneduntil": "2024.6.27-12.00.00.pm",
+        "BanReason": "Team tazing 2x"
     }
 }
