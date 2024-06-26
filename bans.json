@@ -1746,5 +1746,9 @@
     "cocozsmol": {
         "banneduntil": "2024.6.28-12.00.00pm",
         "BanReason": "Tking 2 day ban please read the rules before joining"
+    },
+    "omegas_void": {
+        "banneduntil": "2024.6.28-12:00:00pm",
+        "BanReason": "RDM - lee"
     }
 }
