@@ -1662,5 +1662,9 @@
     "SlowRanger": {
         "banneduntil": "2024.6.29-12.00.00.pm",
         "BanReason": "False voting"
+    },
+    "KillerRTX": {
+        "banneduntil": "2024.6.29-12.00.00.pm",
+        "BanReason": "False voting"
     }
 }
