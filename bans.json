@@ -1650,5 +1650,9 @@
     "SJTokar": {
         "banneduntil": "2024.6.29-12.00.00pm",
         "BanReason": "TKing, Cross-Teaming"
+    },
+    "ThatVRPlayer": {
+        "banneduntil": "2024.6.24-12.00.00pm",
+        "BanReason": "False vote kick"
     }
 }
