@@ -1686,5 +1686,9 @@
     "Name: hilltoprunn": {
         "banneduntil": "Date: 2024.07.01-12.00.00pm",
         "BanReason": "Reason: Teamkilling/ Revenge teamkill. Disrespecting staff"
+    },
+    "CORONA_BOYZ": {
+        "banneduntil": "9999.6.27-12.00.00pm",
+        "BanReason": "Hard R, Baiting, Cross teaming ( thanks william)"
     }
 }
