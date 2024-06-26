@@ -1642,5 +1642,9 @@
     "PhantomTT03": {
         "banneduntil": "2024.7.2-12.00.00pm",
         "BanReason": "Teamkill and evading admin sit -Envy/Envnity."
+    },
+    "ghost.105949": {
+        "banneduntil": "2024.6.29-12.00.00pm",
+        "BanReason": "TKing, Cross-Teaming"
     }
 }
