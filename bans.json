@@ -1950,5 +1950,9 @@
     "Cartermand": {
         "banneduntil": "2027.6.27-12.00.00pm",
         "BanReason": "Underaged (10)"
+    },
+    "fishdogcat": {
+        "banneduntil": "2024.6.29-12.00.00pm",
+        "BanReason": "Tking - lee"
     }
 }
