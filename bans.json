@@ -1946,5 +1946,9 @@
     "Fazplayer12.2023": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "Rdm, Teamkilling"
+    },
+    "Cartermand": {
+        "banneduntil": "2027.6.27-12.00.00pm",
+        "BanReason": "Underaged (10)"
     }
 }
