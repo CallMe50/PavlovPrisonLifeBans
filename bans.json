@@ -1866,5 +1866,9 @@
     "KILLSWITCH-1612": {
         "banneduntil": "2024.3.7-12.00.00pm",
         "BanReason": "Rdm, tried killing me in adminsit, leaving adminsit, uncooperative"
+    },
+    "Amongus444": {
+        "banneduntil": "2025.6.27-12.00.00pm",
+        "BanReason": "Underaged (12)"
     }
 }
