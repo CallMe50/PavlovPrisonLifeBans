@@ -1902,5 +1902,9 @@
     "Jopsu": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "Rdm and leaving during sit"
+    },
+    "jakerz_btw": {
+        "banneduntil": "2024.6.30-12:00:00pm",
+        "BanReason": "RDM, cross team"
     }
 }
