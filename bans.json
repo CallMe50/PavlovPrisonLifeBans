@@ -1938,5 +1938,9 @@
     "Nuggz_Vr": {
         "banneduntil": "2024.6.28-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "SHITTY_AIM": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Rdming all prisoners when brought to admin sit \u201cdie, you n\u2014\u2014\u201c"
     }
 }
