@@ -1964,8 +1964,8 @@
         "BanReason": "Mass rdm, read the rules -Envy/Envnity."
     },
     "Cjlovesvr": {
-        "banneduntil": "Spawnkilling (5+)",
-        "BanReason": "2024.7.11-12:00:00pm"
+        "banneduntil": "2024.7.11-12:00:00pm",
+        "BanReason": "Spawnkilling (5+)"
     },
     "CuzzBerry": {
         "banneduntil": "Major Crossteaming (3+)",
