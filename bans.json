@@ -1968,8 +1968,8 @@
         "BanReason": "Spawnkilling (5+)"
     },
     "CuzzBerry": {
-        "banneduntil": "Major Crossteaming (3+)",
-        "BanReason": "2024.7.25-12:00:00"
+        "banneduntil": "2024.7.25-12:00:00pm",
+        "BanReason": "Major Crossteaming (3+)"
     },
     "Daaaang": {
         "banneduntil": "2024.10.28-12:00:00pm",
