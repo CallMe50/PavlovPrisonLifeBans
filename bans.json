@@ -2082,5 +2082,9 @@
     "halldin.242782": {
         "banneduntil": "9999.6.29-12.00.00pm",
         "BanReason": "N Word Hard R from PL report"
+    },
+    "Arabic": {
+        "banneduntil": "2024.7.2-12.00.00pm",
+        "BanReason": "Baiting multiple times 4 day ban per leewalky"
     }
 }
