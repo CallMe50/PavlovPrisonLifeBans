@@ -2050,5 +2050,9 @@
     "buffalo_wild_wing": {
         "banneduntil": "2099.9.9-12:00:00pm",
         "BanReason": "Hard r"
+    },
+    "Mallki": {
+        "banneduntil": "2024.7.1-12:00:00pm",
+        "BanReason": "Tk, teaming - lee"
     }
 }
