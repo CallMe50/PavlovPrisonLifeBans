@@ -2046,5 +2046,9 @@
     "Monke1426": {
         "banneduntil": "2099.9.9-12:00:00pm",
         "BanReason": "Hard r"
+    },
+    "buffalo_wild_wing": {
+        "banneduntil": "2099.9.9-12:00:00pm",
+        "BanReason": "Hard r"
     }
 }
