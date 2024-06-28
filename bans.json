@@ -1982,5 +1982,9 @@
     "HudMoney": {
         "banneduntil": "2024.6.29-12:00:00pm",
         "BanReason": "Call Abuse (7+)"
+    },
+    "Falcon_beast90": {
+        "banneduntil": "2024.7.0-12.00.00.pm",
+        "BanReason": "Tazing, trying to kill staff, uncooperative"
     }
 }
