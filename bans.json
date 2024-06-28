@@ -2038,5 +2038,9 @@
     "recios.2022": {
         "banneduntil": "2024.7.1-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "scrufffd": {
+        "banneduntil": "2024.7.7-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
