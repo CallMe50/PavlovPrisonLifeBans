@@ -1962,5 +1962,9 @@
     "Grim_proxy": {
         "banneduntil": "2024.6.29-12.00.00pm",
         "BanReason": "Mass rdm, read the rules -Envy/Envnity."
+    },
+    "Walker_King": {
+        "banneduntil": "Spawnkilling (5+)",
+        "BanReason": "2024.7.1-12:00:00pm"
     }
 }
