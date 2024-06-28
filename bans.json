@@ -2022,5 +2022,9 @@
     "KingNoobGamer": {
         "banneduntil": "2024.6.29-12.00.00pm",
         "BanReason": "Baiting Armory at Armory Door from PL report (please review rules near spawn point/player selection or on discord)"
+    },
+    "bigballzvr": {
+        "banneduntil": "2024.7.7-12.00.00pm",
+        "BanReason": "Tazed team mates when put in admin sit he was non compliant"
     }
 }
