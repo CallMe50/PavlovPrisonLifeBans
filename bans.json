@@ -2042,5 +2042,9 @@
     "scrufffd": {
         "banneduntil": "2024.7.7-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Monke1426": {
+        "banneduntil": "2099.9.9-12:00:00pm",
+        "BanReason": "Hard r"
     }
 }
