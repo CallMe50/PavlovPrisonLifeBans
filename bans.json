@@ -1966,5 +1966,9 @@
     "Cjlovesvr": {
         "banneduntil": "Spawnkilling (5+)",
         "BanReason": "2024.7.1-12:00:00pm"
+    },
+    "CuzzBerry": {
+        "banneduntil": "Major Crossteaming (3+)",
+        "BanReason": "2024.7.25-12:00:00"
     }
 }
