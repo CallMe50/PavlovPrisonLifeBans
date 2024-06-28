@@ -1974,5 +1974,9 @@
     "Daaaang": {
         "banneduntil": "2024.10.28-12:00:00pm",
         "BanReason": "Underaged"
+    },
+    "Walker_King": {
+        "banneduntil": "2024.7.11-12:00:00pm",
+        "BanReason": "Spawnkilling (5+)"
     }
 }
