@@ -1994,5 +1994,9 @@
     "JrCayden": {
         "banneduntil": "2026.6.30-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "weisgaber": {
+        "banneduntil": "2024.7.1-12.00.00pm",
+        "BanReason": "Teamkilling jug"
     }
 }
