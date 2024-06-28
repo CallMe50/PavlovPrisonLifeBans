@@ -1986,5 +1986,9 @@
     "Falcon_beast90": {
         "banneduntil": "2024.7.0-12.00.00.pm",
         "BanReason": "Tazing, trying to kill staff, uncooperative"
+    },
+    "Frank351": {
+        "banneduntil": "2024.7.1-12.00.00pm",
+        "BanReason": "Baiting, TK"
     }
 }
