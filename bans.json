@@ -1958,5 +1958,9 @@
     "getloosewitit": {
         "banneduntil": "2099.6.28-12:00:00pm",
         "BanReason": "Underaged and RDM"
+    },
+    "Grim_proxy": {
+        "banneduntil": "2024.6.29-12.00.00pm",
+        "BanReason": "Mass rdm, read the rules -Envy/Envnity."
     }
 }
