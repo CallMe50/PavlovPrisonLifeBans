@@ -2054,5 +2054,9 @@
     "Mallki": {
         "banneduntil": "2024.7.1-12:00:00pm",
         "BanReason": "Tk, teaming - lee"
+    },
+    "human.265895": {
+        "banneduntil": "2024.6.30-12:00:00pm",
+        "BanReason": "Teaming"
     }
 }
