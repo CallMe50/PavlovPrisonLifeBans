@@ -1970,5 +1970,9 @@
     "CuzzBerry": {
         "banneduntil": "Major Crossteaming (3+)",
         "BanReason": "2024.7.25-12:00:00"
+    },
+    "Daaaang": {
+        "banneduntil": "2024.10.28-12:00:00pm",
+        "BanReason": "Underaged"
     }
 }
