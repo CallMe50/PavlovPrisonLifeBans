@@ -2146,5 +2146,9 @@
     "Karummel": {
         "banneduntil": "2024.7.5-12.00.00pm",
         "BanReason": "Rdm,Teamkilling,leaving admin sit -german"
+    },
+    "brian.766649": {
+        "banneduntil": "2024.7.1-12.00.00pm",
+        "BanReason": "Rdming the entire prison"
     }
 }
