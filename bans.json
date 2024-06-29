@@ -2130,5 +2130,9 @@
     "232323234": {
         "banneduntil": "2024.7.1-12.00.00pm",
         "BanReason": "Rdm and evading sit, read the rules -Envy/Envnity."
+    },
+    "Envnity.": {
+        "banneduntil": "9999.6.29-12.00.00pm",
+        "BanReason": "Need to test a few things with the ban system"
     }
 }
