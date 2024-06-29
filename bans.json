@@ -2134,5 +2134,9 @@
     "Envnity.": {
         "banneduntil": "9999.6.29-12.00.00pm",
         "BanReason": "Need to test a few things with the ban system"
+    },
+    "Finc.964934": {
+        "banneduntil": "2024.6.30-12.00.00",
+        "BanReason": "Guard tk (reports)"
     }
 }
