@@ -2166,5 +2166,9 @@
     "minecrabserious2": {
         "banneduntil": "2024.7.1-12:00:00pm",
         "BanReason": "Rdm - lee"
+    },
+    "MMJLC_IS_BETTER": {
+        "banneduntil": "2024.6.30-12:00:00pm",
+        "BanReason": "RDM (read the rules in team selection area when you are unbanned) - lee"
     }
 }
