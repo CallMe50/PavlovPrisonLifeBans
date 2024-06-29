@@ -2086,5 +2086,9 @@
     "Arabic": {
         "banneduntil": "2024.7.2-12.00.00pm",
         "BanReason": "Baiting multiple times 4 day ban per leewalky"
+    },
+    "jasonepg": {
+        "banneduntil": "2024.7.5-12.00.00pm",
+        "BanReason": "Rdm,cross teaming, lying to staff"
     }
 }
