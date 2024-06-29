@@ -2170,5 +2170,9 @@
     "MMJLC_IS_BETTER": {
         "banneduntil": "2024.6.30-12:00:00pm",
         "BanReason": "RDM (read the rules in team selection area when you are unbanned) - lee"
+    },
+    "PoisonLava": {
+        "banneduntil": "2030.5.23-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
