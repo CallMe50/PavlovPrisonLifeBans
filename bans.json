@@ -2178,5 +2178,9 @@
     "webdesignsource": {
         "banneduntil": "2024.7.2-12.00.00pm",
         "BanReason": "Mass RDM, Random shooting"
+    },
+    "TALONx": {
+        "banneduntil": "2099.5.23-12.00.00pm",
+        "BanReason": "Dropped the Hard R multiple times"
     }
 }
