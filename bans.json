@@ -2102,5 +2102,9 @@
     "Dayender03": {
         "banneduntil": "2034.6.6-12.00.00pm",
         "BanReason": "hard r -Envy/Envnity."
+    },
+    "wild_dark_d": {
+        "banneduntil": "2024.7.1-12.00.00pm",
+        "BanReason": "rdm for diamonds and evading sit"
     }
 }
