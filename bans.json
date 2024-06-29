@@ -2174,5 +2174,9 @@
     "PoisonLava": {
         "banneduntil": "2030.5.23-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "webdesignsource": {
+        "banneduntil": "2024.7.2-12.00.00pm",
+        "BanReason": "Mass RDM, Random shooting"
     }
 }
