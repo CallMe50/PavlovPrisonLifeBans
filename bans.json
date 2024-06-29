@@ -2098,5 +2098,9 @@
     "zZaliZz": {
         "banneduntil": "2024.7.30-12:00:00pm",
         "BanReason": "Excessive RDM even after warning"
+    },
+    "Dayender03": {
+        "banneduntil": "2034.6.6-12.00.00pm",
+        "BanReason": "hard r -Envy/Envnity."
     }
 }
