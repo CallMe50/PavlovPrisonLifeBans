@@ -2090,5 +2090,9 @@
     "jasonepg": {
         "banneduntil": "2024.7.5-12.00.00pm",
         "BanReason": "Rdm,cross teaming, lying to staff"
+    },
+    "SWAG_BUCKS": {
+        "banneduntil": "6969.4.20-12.00.00pm",
+        "BanReason": "Racial Slur(s)"
     }
 }
