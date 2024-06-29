@@ -2094,5 +2094,9 @@
     "SWAG_BUCKS": {
         "banneduntil": "6969.4.20-12.00.00pm",
         "BanReason": "Racial Slur(s)"
+    },
+    "zZaliZz": {
+        "banneduntil": "2024.7.30-12:00:00pm",
+        "BanReason": "Excessive RDM even after warning"
     }
 }
