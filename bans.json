@@ -2218,5 +2218,9 @@
     "mopedspeed": {
         "banneduntil": "2024.7.7-12.00.00pm",
         "BanReason": "Cross teaming and baiting (player report)"
+    },
+    "stylist.64317": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "Mass rdm, read the rules -William"
     }
 }
