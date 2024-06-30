@@ -2286,5 +2286,9 @@
     "hobyboy": {
         "banneduntil": "2024.7.3-12:00:00pm",
         "BanReason": "RDM"
+    },
+    "ols8.2023": {
+        "banneduntil": "2027.7.30-12:00:00pm",
+        "BanReason": "Underage - William"
     }
 }
