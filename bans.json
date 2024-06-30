@@ -2298,5 +2298,9 @@
     "cheezballs": {
         "banneduntil": "2024.7.1-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "Lava.gaming.2022": {
+        "banneduntil": "2024.7.2-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
