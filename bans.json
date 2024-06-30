@@ -2182,5 +2182,9 @@
     "TALONx": {
         "banneduntil": "2099.5.23-12.00.00pm",
         "BanReason": "Dropped the Hard R multiple times"
+    },
+    "yan.405220": {
+        "banneduntil": "2024.7.1-12.00.00pm",
+        "BanReason": "Baiting (player report)"
     }
 }
