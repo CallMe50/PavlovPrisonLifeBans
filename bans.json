@@ -2210,5 +2210,9 @@
     "Ferritun": {
         "banneduntil": "2024.7.2-12.00.00pm",
         "BanReason": "Rdm (player report)"
+    },
+    "x.3.14": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "Mass rdm (player report)"
     }
 }
