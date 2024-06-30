@@ -2294,5 +2294,9 @@
     "TreasonNoReason": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "Multiple Rdm"
+    },
+    "cheezballs": {
+        "banneduntil": "2024.7.1-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
