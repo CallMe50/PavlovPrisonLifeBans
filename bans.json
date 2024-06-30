@@ -2222,5 +2222,9 @@
     "stylist.64317": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "Mass rdm, read the rules -William"
+    },
+    "Goalie01": {
+        "banneduntil": "9999.1.1-12.00.00pm",
+        "BanReason": "Hard r -William"
     }
 }
