@@ -2310,5 +2310,9 @@
     "Charl1e31_Brown": {
         "banneduntil": "2024.7.2",
         "BanReason": "Tdm right in front of me"
+    },
+    "IsaacNewton": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "Fugitive TeamKill"
     }
 }
