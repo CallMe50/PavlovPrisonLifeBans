@@ -2190,5 +2190,9 @@
     "GreatCleanOne": {
         "banneduntil": "2024.7.1-12.00.00pm",
         "BanReason": "Baiting (player report)"
+    },
+    "Brady_Scooter": {
+        "banneduntil": "2024.7.1-12.00.00pm",
+        "BanReason": "Rdm (player report)"
     }
 }
