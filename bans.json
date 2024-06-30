@@ -2326,5 +2326,9 @@
     "BWJ12": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "Shooting prisoners and evade sit x2"
+    },
+    "huck.newman": {
+        "banneduntil": "2099.7.3-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
