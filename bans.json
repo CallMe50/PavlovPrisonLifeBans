@@ -2282,5 +2282,9 @@
     "i_liketopramen": {
         "banneduntil": "2024.7.3-12:00:00pm",
         "BanReason": "Tk (read the rules in team selection area when you come back) - german"
+    },
+    "hobyboy": {
+        "banneduntil": "2024.7.3-12:00:00pm",
+        "BanReason": "RDM"
     }
 }
