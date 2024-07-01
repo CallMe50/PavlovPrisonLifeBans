@@ -2410,5 +2410,9 @@
     "BIG.DICK.RANDY": {
         "banneduntil": "2024.7.4-12.00.00pm",
         "BanReason": "RDM & TK"
+    },
+    "Da_hiltons": {
+        "banneduntil": "2024.7.2-12.00.00pm",
+        "BanReason": "Tking and rdming 1 day ban"
     }
 }
