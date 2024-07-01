@@ -2330,5 +2330,9 @@
     "huck.newman": {
         "banneduntil": "2099.7.3-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "RickGrimes1376": {
+        "banneduntil": "2024.7.14-12.00.00pm",
+        "BanReason": "Mass RDM, Attempted RDM in admin sit"
     }
 }
