@@ -2370,5 +2370,9 @@
     "reach": {
         "banneduntil": "2024.7.8-12.00.00pm",
         "BanReason": "Admin evasion"
+    },
+    "DuncanBiri": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "RDM and Baiting - William"
     }
 }
