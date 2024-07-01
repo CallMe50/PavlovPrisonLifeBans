@@ -2342,5 +2342,9 @@
     "ToadsBigFist": {
         "banneduntil": "2024.7.4-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "iang64": {
+        "banneduntil": "2024.7.8-12.00.00pm",
+        "BanReason": "Farming Money on empty Server"
     }
 }
