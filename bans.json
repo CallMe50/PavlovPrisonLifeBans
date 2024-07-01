@@ -2382,5 +2382,9 @@
     "Jack0Fish": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "Tk and Rdm"
+    },
+    "Claytonian2": {
+        "banneduntil": "2026.12.31-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
