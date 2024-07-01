@@ -2390,5 +2390,9 @@
     "Dreww504": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "dover.625509": {
+        "banneduntil": "2024.7.4-12.00.00pm",
+        "BanReason": "Double RDM & Tk"
     }
 }
