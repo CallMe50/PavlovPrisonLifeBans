@@ -2354,5 +2354,9 @@
     "Hunter1h": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "N word light a"
+    },
+    "FrenchFry1319": {
+        "banneduntil": "9999.6.31-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
