@@ -2406,5 +2406,9 @@
     "Kanovr": {
         "banneduntil": "2026.7.1-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "BIG.DICK.RANDY": {
+        "banneduntil": "2024.7.4-12.00.00pm",
+        "BanReason": "RDM & TK"
     }
 }
