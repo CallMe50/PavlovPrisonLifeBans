@@ -2490,5 +2490,9 @@
     "eminem": {
         "banneduntil": "2022.7.29-12.00.00pm",
         "BanReason": "Autocorrect has crashed"
+    },
+    "emeiem": {
+        "banneduntil": "2025.7.29-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
