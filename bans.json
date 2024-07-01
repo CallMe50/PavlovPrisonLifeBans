@@ -2434,5 +2434,9 @@
     "finc.964934": {
         "banneduntil": "2099.7.23-12.00.00pm",
         "BanReason": "Tazed me after requesting an admin sit and he was also under age, conveniently enough"
+    },
+    "bnjad": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "Trying to team kill a jugg"
     }
 }
