@@ -2358,5 +2358,9 @@
     "FrenchFry1319": {
         "banneduntil": "9999.6.31-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Live_Learn_Game": {
+        "banneduntil": "2024.7.2-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
