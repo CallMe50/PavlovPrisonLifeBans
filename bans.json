@@ -2338,5 +2338,9 @@
     "Ripply2000": {
         "banneduntil": "2027.7.14-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "ToadsBigFist": {
+        "banneduntil": "2024.7.4-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
