@@ -2346,5 +2346,9 @@
     "iang64": {
         "banneduntil": "2024.7.8-12.00.00pm",
         "BanReason": "Farming Money on empty Server"
+    },
+    "EvanBones": {
+        "banneduntil": "2024.7.8-12.00.00pm",
+        "BanReason": "Farming Money on empty Server"
     }
 }
