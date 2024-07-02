@@ -2566,5 +2566,9 @@
     "xaviermods": {
         "banneduntil": "2024.7.4-12.00.00pm",
         "BanReason": "TK - Read The Rules"
+    },
+    "MofuMof": {
+        "banneduntil": "2024.7.4-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
