@@ -2534,5 +2534,9 @@
     "NPC.12": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "RDM (Read the RULES next time!) - William"
+    },
+    "Thornhill5226": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "Cross Teaming - William"
     }
 }
