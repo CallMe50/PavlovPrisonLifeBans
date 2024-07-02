@@ -2530,5 +2530,9 @@
     "ProVR": {
         "banneduntil": "2024.7.8-12.00.00pm",
         "BanReason": "RDM 3 times, Evading admin sit - William"
+    },
+    "NPC.12": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "RDM (Read the RULES next time!) - William"
     }
 }
