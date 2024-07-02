@@ -2554,5 +2554,9 @@
     "mariotreebush.2023": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "whatsgoodymyfam": {
+        "banneduntil": "2024.7.5-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
