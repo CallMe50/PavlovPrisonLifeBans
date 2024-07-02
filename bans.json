@@ -2606,5 +2606,9 @@
     "Bcole2023": {
         "banneduntil": "2025.7.2-12.00.00pm",
         "BanReason": "Underaged (12)"
+    },
+    "Teodor2013": {
+        "banneduntil": "2026.7.2-12.00.00pm",
+        "BanReason": "Underaged (11) -Envy/Envnity."
     }
 }
