@@ -2526,5 +2526,9 @@
     "BeefyFish112108": {
         "banneduntil": "2024.7.5-12.00.00pm",
         "BanReason": "RDM & Baiting - Read The Rules!"
+    },
+    "ProVR": {
+        "banneduntil": "2024.7.8-12.00.00pm",
+        "BanReason": "RDM 3 times, Evading admin sit - William"
     }
 }
