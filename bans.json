@@ -2570,5 +2570,9 @@
     "MofuMof": {
         "banneduntil": "2024.7.4-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "CCG2014": {
+        "banneduntil": "2024.7.5-12.00.00pm",
+        "BanReason": "RDMs, tks, uncooperative in sit, and saying he would bait and crossteam, read the rules -Envy/Envnity."
     }
 }
