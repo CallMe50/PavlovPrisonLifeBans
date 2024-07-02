@@ -2586,5 +2586,9 @@
     "HoldMyBeer1834": {
         "banneduntil": "2099.7.9-12.00.00pm",
         "BanReason": "Hard R - William"
+    },
+    "fisharecool": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "RDM - read the rules"
     }
 }
