@@ -2590,5 +2590,9 @@
     "fisharecool": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "RDM - read the rules"
+    },
+    "YTReloadedDuckie": {
+        "banneduntil": "2024.12.07-12.00.00pm",
+        "BanReason": "Multiple times rdm, tk, leaving after seeing me"
     }
 }
