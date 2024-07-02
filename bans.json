@@ -2538,5 +2538,9 @@
     "Thornhill5226": {
         "banneduntil": "2024.7.3-12.00.00pm",
         "BanReason": "Cross Teaming - William"
+    },
+    "Rudes21": {
+        "banneduntil": "2024.7.3-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
