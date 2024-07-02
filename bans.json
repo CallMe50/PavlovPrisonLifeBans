@@ -2602,5 +2602,9 @@
     "StiffSock69": {
         "banneduntil": "2024.7.9-12.00.00pm",
         "BanReason": "Intentional RDM, attempted RDM in sit and very uncooperative"
+    },
+    "Bcole2023": {
+        "banneduntil": "2025.7.2-12.00.00pm",
+        "BanReason": "Underaged (12)"
     }
 }
