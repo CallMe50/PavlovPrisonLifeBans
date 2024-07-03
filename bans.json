@@ -2670,5 +2670,9 @@
     "Stola.s": {
         "banneduntil": "2024.7.6-12.00.00pm",
         "BanReason": "Spawn camping"
+    },
+    "jhooddy": {
+        "banneduntil": "2026.7.3-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
