@@ -2646,5 +2646,9 @@
     "darkcobra963": {
         "banneduntil": "2026.7.29-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "yuc": {
+        "banneduntil": "2099.7.7-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
