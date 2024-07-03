@@ -2742,5 +2742,9 @@
     "jason1234598": {
         "banneduntil": "2099.7.4-12.00.00pm",
         "BanReason": "HARD R"
+    },
+    "Itsmeagain2018": {
+        "banneduntil": "2024.7.9-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
