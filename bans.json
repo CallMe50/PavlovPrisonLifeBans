@@ -2734,5 +2734,9 @@
     "unionbears72": {
         "banneduntil": "2025.7.4-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "Drax-E-Pooz": {
+        "banneduntil": "2024.7.4-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
