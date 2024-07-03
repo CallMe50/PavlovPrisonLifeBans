@@ -2650,5 +2650,9 @@
     "yuc": {
         "banneduntil": "2099.7.7-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Derbitooo": {
+        "banneduntil": "2024.7.5-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
