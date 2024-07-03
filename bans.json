@@ -2738,5 +2738,9 @@
     "Drax-E-Pooz": {
         "banneduntil": "2024.7.4-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "jason1234598": {
+        "banneduntil": "2099.7.4-12.00.00pm",
+        "BanReason": "HARD R"
     }
 }
