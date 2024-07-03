@@ -2722,5 +2722,9 @@
     "jagtfyn": {
         "banneduntil": "2024.7.6-12.00.00pm",
         "BanReason": "Tk and uncooperative in sit"
+    },
+    "Easton_who": {
+        "banneduntil": "2024.7.6-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
