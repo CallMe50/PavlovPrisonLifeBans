@@ -2654,5 +2654,9 @@
     "Derbitooo": {
         "banneduntil": "2024.7.5-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "ExemptZz": {
+        "banneduntil": "2024.7.8-12.00.00pm",
+        "BanReason": "Teamkill"
     }
 }
