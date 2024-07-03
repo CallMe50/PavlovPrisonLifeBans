@@ -2658,5 +2658,9 @@
     "ExemptZz": {
         "banneduntil": "2024.7.8-12.00.00pm",
         "BanReason": "Teamkill"
+    },
+    "washingmachine9000": {
+        "banneduntil": "2024.7.5-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
