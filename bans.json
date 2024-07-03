@@ -2678,5 +2678,9 @@
     "chickenslayer.2023": {
         "banneduntil": "2024.7.5-12.00.00pm",
         "BanReason": "Spawn camping"
+    },
+    "hassy14": {
+        "banneduntil": "2024.7.5-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
