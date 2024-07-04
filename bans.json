@@ -2786,5 +2786,9 @@
     "Milkmansperm21": {
         "banneduntil": "2024.7.5-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "RickyGrimesPrime": {
+        "banneduntil": "9999.07.05-12.00.00pm",
+        "BanReason": "GTAB"
     }
 }
