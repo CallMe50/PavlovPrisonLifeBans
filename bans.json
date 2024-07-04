@@ -2882,5 +2882,9 @@
     "bansheetw16": {
         "banneduntil": "2029.7.6-12.00.00pm",
         "BanReason": "Tk, mass rdm, rdm in sit 2x, evading sit 1x, and uncooperative in sit -Envy/Envnity."
+    },
+    "LIL_SWEEPVR": {
+        "banneduntil": "2025.4.7-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
