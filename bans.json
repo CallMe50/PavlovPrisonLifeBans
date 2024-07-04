@@ -2834,5 +2834,9 @@
     "Age_of_Earmuffs": {
         "banneduntil": "2024.7.7-12.00.00pm",
         "BanReason": "Rdm(booted off guard team)"
+    },
+    "Spy_da_protogen": {
+        "banneduntil": "2024.7.7-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
