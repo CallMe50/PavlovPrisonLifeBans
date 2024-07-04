@@ -2810,5 +2810,9 @@
     "J_Sniper": {
         "banneduntil": "2025.7.29-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "reddeathflying": {
+        "banneduntil": "2025.7.5-12.00.00pm",
+        "BanReason": "Underage(12)"
     }
 }
