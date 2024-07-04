@@ -2806,5 +2806,9 @@
     "chachacode9": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "Rdm x2 and killing during sit"
+    },
+    "J_Sniper": {
+        "banneduntil": "2025.7.29-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
