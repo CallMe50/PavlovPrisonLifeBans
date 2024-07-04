@@ -2858,5 +2858,9 @@
     "Vrcarboy": {
         "banneduntil": "2024.7.8-12.00.00pm",
         "BanReason": "Random Shooting & RDM in Sit"
+    },
+    "chokin2440": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "RDM & RDM in Sit"
     }
 }
