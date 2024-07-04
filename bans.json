@@ -2846,5 +2846,9 @@
     "unban.me.pl": {
         "banneduntil": "2024.7.6-12.00.00pm",
         "BanReason": "Rdm (already warned)"
+    },
+    "FosterHaiI": {
+        "banneduntil": "9999.7.4-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
