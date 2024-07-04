@@ -2814,5 +2814,9 @@
     "reddeathflying": {
         "banneduntil": "2025.7.5-12.00.00pm",
         "BanReason": "Underage(12)"
+    },
+    "ecoticricket": {
+        "banneduntil": "2024.7.6-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
