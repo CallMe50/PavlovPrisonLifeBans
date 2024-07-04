@@ -2830,5 +2830,9 @@
     "axl.762548": {
         "banneduntil": "2024.7.7-12.00.00pm",
         "BanReason": "Tk and teaming"
+    },
+    "Age_of_Earmuffs": {
+        "banneduntil": "2024.7.7-12.00.00pm",
+        "BanReason": "Rdm(booted off guard team)"
     }
 }
