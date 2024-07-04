@@ -2774,5 +2774,9 @@
     "RAIDZGTAG": {
         "banneduntil": "2026.7.9-12.00.00pm",
         "BanReason": "Underage(11)"
+    },
+    "criszahir.2022": {
+        "banneduntil": "2025.7.9-12.00.00pm",
+        "BanReason": "Underage(12)"
     }
 }
