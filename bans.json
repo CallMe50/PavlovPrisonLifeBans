@@ -2838,5 +2838,9 @@
     "Spy_da_protogen": {
         "banneduntil": "2024.7.5-12.00.00pm",
         "BanReason": "Appealed"
+    },
+    "theaustralian": {
+        "banneduntil": "2025.7.4-12.00.00pm",
+        "BanReason": "Underage(12)"
     }
 }
