@@ -2842,5 +2842,9 @@
     "theaustralian": {
         "banneduntil": "2025.7.4-12.00.00pm",
         "BanReason": "Underage(12)"
+    },
+    "unban.me.pl": {
+        "banneduntil": "2024.7.6-12.00.00pm",
+        "BanReason": "Rdm (already warned)"
     }
 }
