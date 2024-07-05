@@ -2990,5 +2990,9 @@
     "bebrave563": {
         "banneduntil": "2025.7.5-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Lord_McTavish": {
+        "banneduntil": "2024.7.7-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
