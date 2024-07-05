@@ -2950,5 +2950,9 @@
     "scar2763": {
         "banneduntil": "2024.7.14-12.00.00pm",
         "BanReason": "RDM, evading admin sit - William"
+    },
+    "ThreePepper5": {
+        "banneduntil": "2024.7.6-12.00.00pm",
+        "BanReason": "Cross Teaming - read the rules - german"
     }
 }
