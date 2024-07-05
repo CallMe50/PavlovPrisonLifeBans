@@ -2934,5 +2934,9 @@
     "sissykiller7": {
         "banneduntil": "2024.6-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "iazoozx": {
+        "banneduntil": "2024.7.8-12.00.00pm",
+        "BanReason": "Mass rdm and cross teaming (player report)"
     }
 }
