@@ -2962,5 +2962,9 @@
     "Hilltrucker": {
         "banneduntil": "2028.7.7-12.00.00pm",
         "BanReason": "Underage (9)"
+    },
+    "taterbobbearVR": {
+        "banneduntil": "2026.7.5-12.00.00pm",
+        "BanReason": "Underage(11)"
     }
 }
