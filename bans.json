@@ -26,5 +26,9 @@
     "oktreyyy": {
         "banneduntil": "2027.7.6-12.00.00pm",
         "BanReason": "Underage, must be 13 to play"
+    },
+    "LIL_SWEEPVR": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
