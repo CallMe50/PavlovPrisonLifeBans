@@ -74,5 +74,9 @@
     "koda_32": {
         "banneduntil": "2024.7.8-12.00.00pm",
         "BanReason": "Teaming"
+    },
+    "GHXSTXR": {
+        "banneduntil": "2024.7.6-12.00.00pm",
+        "BanReason": "Banned reduced till end of day"
     }
 }
