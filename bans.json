@@ -162,5 +162,9 @@
     "CaptnWeston": {
         "banneduntil": "2094.7.9-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "iazoozx": {
+        "banneduntil": "2024.7.11-12:00:00pm",
+        "BanReason": "RDM (read the rules in team selection area when you come back)"
     }
 }
