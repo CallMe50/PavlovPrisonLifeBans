@@ -110,5 +110,9 @@
     "SOLOMASCHULO": {
         "banneduntil": "2029.7.8-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Hithere1.2023": {
+        "banneduntil": "2022.7.29-12.00.00pm",
+        "BanReason": "Appealed"
     }
 }
