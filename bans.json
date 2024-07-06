@@ -154,5 +154,9 @@
     "Oscarchops": {
         "banneduntil": "2024.7.9-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "Wrightfamily24": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
