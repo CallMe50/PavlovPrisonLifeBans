@@ -3018,5 +3018,9 @@
     "cmc.clash.vr": {
         "banneduntil": "2025.7.4-12.00.00pm",
         "BanReason": "Underage(12)"
+    },
+    "Kimymeto": {
+        "banneduntil": "2024.7.7-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
