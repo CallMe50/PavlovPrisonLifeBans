@@ -3022,5 +3022,9 @@
     "Kimymeto": {
         "banneduntil": "2024.7.7-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "scorch09": {
+        "banneduntil": "2024.8.1-12.00.00pm",
+        "BanReason": "Cross teaming x4 (after warning) killing self and admin during admin sit"
     }
 }
