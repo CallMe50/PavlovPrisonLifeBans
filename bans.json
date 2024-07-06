@@ -30,5 +30,9 @@
     "LIL_SWEEPVR": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "VoidsHelldiver": {
+        "banneduntil": "2024.7.08-12.00.00pm",
+        "BanReason": "Teamkill - German"
     }
 }
