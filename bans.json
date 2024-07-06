@@ -54,5 +54,9 @@
     "GrandLabel": {
         "banneduntil": "2024.7.9.-12.00.00pm",
         "BanReason": "TKing X3"
+    },
+    "LBill21": {
+        "banneduntil": "2025.12.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
