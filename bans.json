@@ -150,5 +150,9 @@
     "Landlord_Gringo": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "TK"
+    },
+    "Oscarchops": {
+        "banneduntil": "2024.7.9-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
