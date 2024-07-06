@@ -70,5 +70,9 @@
     "batman.357.2022": {
         "banneduntil": "2035.7.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "koda_32": {
+        "banneduntil": "2024.7.8-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
