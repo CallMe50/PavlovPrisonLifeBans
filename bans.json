@@ -278,5 +278,9 @@
     "SipexOnVr": {
         "banneduntil": "2024.7.8-12.00.00pm",
         "BanReason": "Read the rules after coming back"
+    },
+    "collinso.2024": {
+        "banneduntil": "2027.7.10-12.00.00pm",
+        "BanReason": "Underage (10) come back in 3 years - William"
     }
 }
