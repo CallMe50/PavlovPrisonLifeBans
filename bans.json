@@ -294,5 +294,9 @@
     "FentMaxer": {
         "banneduntil": "2025.12.11-12.00.00pm",
         "BanReason": "Underage (11) RDMing"
+    },
+    "hithere1.2023": {
+        "banneduntil": "2024.7.9-12.00.00pm",
+        "BanReason": "Extremely disrespectful, baiting"
     }
 }
