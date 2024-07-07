@@ -314,5 +314,9 @@
     "cooper_fruit15": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "Baiting and evaded sit"
+    },
+    "goat.vr11": {
+        "banneduntil": "2099.7.29-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
