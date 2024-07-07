@@ -182,5 +182,9 @@
     "Danos2021": {
         "banneduntil": "2024.7.21-12.00.00pm",
         "BanReason": "Mass RDM, blatantly lying to staff, evading admin sit with false excuse"
+    },
+    "Best_bot": {
+        "banneduntil": "2024.7.11-12.00.00pm",
+        "BanReason": "teaming"
     }
 }
