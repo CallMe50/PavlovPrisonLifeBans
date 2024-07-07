@@ -322,5 +322,9 @@
     "lxadventure100": {
         "banneduntil": "2099.7.29-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "walker_king": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
