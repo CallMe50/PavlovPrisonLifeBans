@@ -250,5 +250,9 @@
     "areyouretar": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "Mass Rdm, killing in admin sit"
+    },
+    "Brady_Scooters": {
+        "banneduntil": "2024.7.13-12.00.00pm",
+        "BanReason": "Falsely accusing players. Leaving admin sit"
     }
 }
