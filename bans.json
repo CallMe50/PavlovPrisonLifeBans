@@ -370,5 +370,9 @@
     "Max3630": {
         "banneduntil": "2024.7.11-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "grey1243": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
