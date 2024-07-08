@@ -510,5 +510,9 @@
     "sgt.brrrrrt.2024": {
         "banneduntil": "2024.7.16-12.00.00pm",
         "BanReason": "Fugitive TeamKill"
+    },
+    "poundsocake": {
+        "banneduntil": "2024.7.22-12.00.00pm",
+        "BanReason": "RDM x2, Abusing request a mod"
     }
 }
