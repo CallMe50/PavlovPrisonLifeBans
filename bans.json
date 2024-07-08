@@ -454,5 +454,9 @@
     "shadow.461013": {
         "banneduntil": "2025.8.6-12.00.00pm",
         "BanReason": "Rdm,evading admin sit possible underage"
+    },
+    "Nano628": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "Crossteaming - report from discord - German"
     }
 }
