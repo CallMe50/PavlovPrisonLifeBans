@@ -374,5 +374,9 @@
     "grey1243": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Chocknoks": {
+        "banneduntil": "2026.7.8-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
