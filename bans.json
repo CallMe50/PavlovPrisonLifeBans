@@ -442,5 +442,9 @@
     "Rileyclose": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "RDM & TK - read the rules - German"
+    },
+    "Banlyles23": {
+        "banneduntil": "2024.7.11-12.00.00pm",
+        "BanReason": "RDM - read the rules - German"
     }
 }
