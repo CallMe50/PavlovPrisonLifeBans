@@ -342,5 +342,9 @@
     "thefikerbiker": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "TK, Evaded admin sit"
+    },
+    "CurryCrusader711": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "TK"
     }
 }
