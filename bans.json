@@ -418,5 +418,9 @@
     "Coato": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "RDM & TK"
+    },
+    "Osback.Tage": {
+        "banneduntil": "2024.7.9-12.00.00pm",
+        "BanReason": "Teamkilling"
     }
 }
