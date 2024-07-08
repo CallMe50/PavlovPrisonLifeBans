@@ -326,5 +326,9 @@
     "walker_king": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Jdecur": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "Rdm and evaded sit"
     }
 }
