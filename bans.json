@@ -474,5 +474,9 @@
     "Rips_trb": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "kim.jong.un51": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "Tk, repeated offender"
     }
 }
