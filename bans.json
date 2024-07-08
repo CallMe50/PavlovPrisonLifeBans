@@ -406,5 +406,9 @@
     "Mikey803": {
         "banneduntil": "2050.7.13-12.00.00pm",
         "BanReason": "Hard r & rdm & tk"
+    },
+    "GneralKnockOne": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "TK"
     }
 }
