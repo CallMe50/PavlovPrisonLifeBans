@@ -502,5 +502,9 @@
     "manmunch.2024": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "Cross teaming and team killing"
+    },
+    "m1819": {
+        "banneduntil": "2025.7.11-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
