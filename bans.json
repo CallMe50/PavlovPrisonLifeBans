@@ -470,5 +470,9 @@
     "goated_hitter": {
         "banneduntil": "2026.7.8-12.00.00pm",
         "BanReason": "Underage, rdm, leaving adminsit, killing in adminsit"
+    },
+    "Rips_trb": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
