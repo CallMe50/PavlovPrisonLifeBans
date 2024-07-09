@@ -530,5 +530,9 @@
     "nordnerf": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "Baiting after warned, read the rules -Envy/Envnity."
+    },
+    "shadymalo": {
+        "banneduntil": "2029.7.10-12.00.00pm",
+        "BanReason": "Mass rdm and several hard r's -Envy/Envnity."
     }
 }
