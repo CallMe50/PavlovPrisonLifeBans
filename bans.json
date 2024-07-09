@@ -614,5 +614,9 @@
     "Romanozzz": {
         "banneduntil": "2026.7.12-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "akrummel": {
+        "banneduntil": "2024.7.30-12.00.00pm",
+        "BanReason": "Teamkill"
     }
 }
