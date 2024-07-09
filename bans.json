@@ -574,5 +574,9 @@
     "1_beast_1": {
         "banneduntil": "2024.7.10-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "HeckingHec": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Intentional TKx2"
     }
 }
