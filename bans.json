@@ -658,5 +658,9 @@
     "Arabic": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "insanity.89425": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
