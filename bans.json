@@ -634,5 +634,9 @@
     "Saythatinmyface": {
         "banneduntil": "2024.7.12",
         "BanReason": "Repeated fug on prisoner rdm"
+    },
+    "IlIlIlIlIlIlIlIl": {
+        "banneduntil": "2024.7.12",
+        "BanReason": "Rdm x2 (handled thru request mod, i checked logs to be sure)"
     }
 }
