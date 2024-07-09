@@ -654,5 +654,9 @@
     "Xx_potatoxX": {
         "banneduntil": "2024.7.16-12.00.00pm",
         "BanReason": "Tk and has multiple previous bans 1 week ban"
+    },
+    "Arabic": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Mass rdm"
     }
 }
