@@ -622,5 +622,9 @@
     "Fafasitas": {
         "banneduntil": "2099.7.30-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Remingtonrifle09": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
