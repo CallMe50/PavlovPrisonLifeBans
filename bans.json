@@ -630,5 +630,9 @@
     "Captain_Forest": {
         "banneduntil": "2024.7.31-12.00.00pm",
         "BanReason": "Rdm\u2019d a cop as he logged off"
+    },
+    "Saythatinmyface": {
+        "banneduntil": "2024.7.12",
+        "BanReason": "Repeated fug on prisoner rdm"
     }
 }
