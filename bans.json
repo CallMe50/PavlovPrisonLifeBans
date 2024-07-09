@@ -646,5 +646,9 @@
     "comebackkidd2": {
         "banneduntil": "7.14-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "BigManz24": {
+        "banneduntil": "7.26-12.00.00pm",
+        "BanReason": "Mass team kill"
     }
 }
