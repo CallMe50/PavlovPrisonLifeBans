@@ -570,5 +570,9 @@
     "yourboymitchell": {
         "banneduntil": "9999.7.12-12.00.00pm",
         "BanReason": "Underaged. When asked said \u201cI like to act like it\u201d but denied"
+    },
+    "1_beast_1": {
+        "banneduntil": "2024.7.10-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
