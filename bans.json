@@ -542,5 +542,9 @@
     "Sowie76": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "RDM & Teaming"
+    },
+    "Pickledick1": {
+        "banneduntil": "2024.7.12-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
