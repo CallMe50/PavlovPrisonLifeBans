@@ -638,5 +638,9 @@
     "IlIlIlIlIlIlIlIl": {
         "banneduntil": "2024.7.12",
         "BanReason": "Rdm x2 (handled thru request mod, i checked logs to be sure)"
+    },
+    "Csquidacid": {
+        "banneduntil": "7.11-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
