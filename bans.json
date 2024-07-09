@@ -602,5 +602,9 @@
     "TBones-31": {
         "banneduntil": "2026.7.11-12.00.00pm",
         "BanReason": "Underage(11)"
+    },
+    "Tabor_Twins": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "Wall Shooting"
     }
 }
