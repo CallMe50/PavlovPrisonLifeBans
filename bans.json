@@ -790,5 +790,9 @@
     "hill_house_hermit": {
         "banneduntil": "2024.7.13-12.00.00pm",
         "BanReason": "Evading admin sit"
+    },
+    "Brendaburg69": {
+        "banneduntil": "2024.7.13-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
