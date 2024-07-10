@@ -674,5 +674,9 @@
     "Wilfhect": {
         "banneduntil": "2024.8.15-12.00.00pm",
         "BanReason": "N-Word"
+    },
+    "AuriFerrari": {
+        "banneduntil": "2024.7.12-12.00.00pm",
+        "BanReason": "Team Killing (player report)"
     }
 }
