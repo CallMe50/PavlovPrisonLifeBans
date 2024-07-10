@@ -750,5 +750,9 @@
     "TaylorC4245": {
         "banneduntil": "2027.9.9-12.00.00pm",
         "BanReason": "Underage, admitted to be 10 yrs old at admin sit, RDM"
+    },
+    "brandontranix": {
+        "banneduntil": "2024.7.14-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
