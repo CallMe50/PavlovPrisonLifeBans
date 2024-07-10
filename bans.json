@@ -678,5 +678,9 @@
     "AuriFerrari": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "Team Killing (player report)"
+    },
+    "Schnutz28": {
+        "banneduntil": "9999.7.9-12.00.00pm",
+        "BanReason": "Rdming/evading multiple times possible underage permanently ban until you make an appeal and show proof of age"
     }
 }
