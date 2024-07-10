@@ -834,5 +834,9 @@
     "Dr7x0_x": {
         "banneduntil": "2099.7.11-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Dr8x0_x": {
+        "banneduntil": "2099.7.11-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
