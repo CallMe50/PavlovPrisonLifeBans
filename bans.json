@@ -782,5 +782,9 @@
     "Carter_f09": {
         "banneduntil": "2024.7.17-12.00.00pm",
         "BanReason": "Repeated tk with a warning"
+    },
+    "vernal.chip2": {
+        "banneduntil": "2027.7.20-12.00.00pm",
+        "BanReason": "Make a appeal to proof your age"
     }
 }
