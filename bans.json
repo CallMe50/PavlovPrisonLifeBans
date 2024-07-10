@@ -802,5 +802,9 @@
     "dinomitydwe": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "multiple rdm - report - German"
+    },
+    "jogd": {
+        "banneduntil": "2024.7.12-12.00.00pm",
+        "BanReason": "Teamkilling"
     }
 }
