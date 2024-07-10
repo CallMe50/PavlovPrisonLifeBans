@@ -758,5 +758,9 @@
     "madexx": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Cashin_85": {
+        "banneduntil": "2024.7.13-12.00.00pm",
+        "BanReason": "TK"
     }
 }
