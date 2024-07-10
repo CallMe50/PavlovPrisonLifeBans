@@ -786,5 +786,9 @@
     "vernal.chip2": {
         "banneduntil": "2027.7.20-12.00.00pm",
         "BanReason": "Make a appeal to proof your age"
+    },
+    "hill_house_hermit": {
+        "banneduntil": "2024.7.13-12.00.00pm",
+        "BanReason": "Evading admin sit"
     }
 }
