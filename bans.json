@@ -778,5 +778,9 @@
     "Laser39": {
         "banneduntil": "2024.7.12-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Carter_f09": {
+        "banneduntil": "2024.7.17-12.00.00pm",
+        "BanReason": "Repeated tk with a warning"
     }
 }
