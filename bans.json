@@ -838,5 +838,9 @@
     "Dr8x0_x": {
         "banneduntil": "2099.7.11-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Tony_271": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Mass rdm"
     }
 }
