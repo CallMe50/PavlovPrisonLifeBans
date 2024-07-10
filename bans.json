@@ -738,5 +738,9 @@
     "CCG2014": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "vexta_1208": {
+        "banneduntil": "2024.7.13-12.00.00pm",
+        "BanReason": "TK - German"
     }
 }
