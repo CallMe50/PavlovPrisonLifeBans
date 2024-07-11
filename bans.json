@@ -866,5 +866,9 @@
     "Torzuul": {
         "banneduntil": "9999.7.13-12.00.00pm",
         "BanReason": "Rdm and killing in sit AFTER BEING TOLD NOT TO, fuck you -Envy/Envnity."
+    },
+    "Voidshelldiver": {
+        "banneduntil": "2024.7.16-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
