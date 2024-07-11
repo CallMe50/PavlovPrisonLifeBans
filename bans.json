@@ -894,5 +894,9 @@
     "hthhzx": {
         "banneduntil": "2024.7.14-12.00.00pm",
         "BanReason": "RDMing"
+    },
+    "fishingbruhclay": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Mass TK"
     }
 }
