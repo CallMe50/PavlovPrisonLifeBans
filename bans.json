@@ -954,5 +954,9 @@
     "NotSouLVr2k": {
         "banneduntil": "2025.12.31-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "rafael0911": {
+        "banneduntil": "2027.3.1-12.00.00pm",
+        "BanReason": "Underage (10)"
     }
 }
