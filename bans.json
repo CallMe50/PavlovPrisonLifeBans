@@ -922,5 +922,9 @@
     "321Ostrich": {
         "banneduntil": "2025.7.12-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "coolepic": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Spawn Camping"
     }
 }
