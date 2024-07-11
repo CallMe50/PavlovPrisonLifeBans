@@ -870,5 +870,9 @@
     "Voidshelldiver": {
         "banneduntil": "2024.7.16-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "bugsworld.201627": {
+        "banneduntil": "2025.8.12-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
