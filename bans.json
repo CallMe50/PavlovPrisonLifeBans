@@ -958,5 +958,9 @@
     "rafael0911": {
         "banneduntil": "2027.3.1-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "PeytonR2782": {
+        "banneduntil": "2099.3.1-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
