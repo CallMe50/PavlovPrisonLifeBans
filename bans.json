@@ -1126,5 +1126,9 @@
     "Ultrahealing": {
         "banneduntil": "2026.7.10-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "0613kharts": {
+        "banneduntil": "2026.7.12-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
