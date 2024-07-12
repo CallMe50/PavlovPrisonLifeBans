@@ -1058,5 +1058,9 @@
     "Spotspo": {
         "banneduntil": "2024.7.16-12.00.00pm",
         "BanReason": "Tk at a very high lvl"
+    },
+    "YodaVRSUS": {
+        "banneduntil": "2024.7.25-12.00.00pm",
+        "BanReason": "Mass TK (Fugitive), Evading ban"
     }
 }
