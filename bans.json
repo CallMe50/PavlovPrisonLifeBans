@@ -1074,5 +1074,9 @@
     "pirateofthebeans": {
         "banneduntil": "2030.7.16-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "UltrahealingClapper2000": {
+        "banneduntil": "2024.8.14-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
