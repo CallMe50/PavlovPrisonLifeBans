@@ -1034,5 +1034,9 @@
     "AK109ALPHA": {
         "banneduntil": "2025.8.9-12.00.00pm",
         "BanReason": "Underage (ban reinstated)"
+    },
+    "groot115": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "TK"
     }
 }
