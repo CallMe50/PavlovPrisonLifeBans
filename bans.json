@@ -1066,5 +1066,9 @@
     "lil.worm304": {
         "banneduntil": "2024.7.16-12.00.00pm",
         "BanReason": "TK Fug - read the rules - German"
+    },
+    "Inperi": {
+        "banneduntil": "2024.7.16-12.00.00pm",
+        "BanReason": "TK and RDM"
     }
 }
