@@ -1062,5 +1062,9 @@
     "YodaVRSUS": {
         "banneduntil": "2024.7.25-12.00.00pm",
         "BanReason": "Mass TK (Fugitive), Evading ban"
+    },
+    "lil.worm304": {
+        "banneduntil": "2024.7.16-12.00.00pm",
+        "BanReason": "TK Fug - read the rules - German"
     }
 }
