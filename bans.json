@@ -1090,5 +1090,9 @@
     "Name: ArtMate12345": {
         "banneduntil": "Date: 2030.7.16-12.00.00pm",
         "BanReason": "Reason: Underage, admitted to being 8 at admin sit. Was initially brought in for RDM and Baiting"
+    },
+    "Raph.fr": {
+        "banneduntil": "2024.7.13-12.00.00pm",
+        "BanReason": "Rdming to get booted off guard to become a prisoner 1 day ban"
     }
 }
