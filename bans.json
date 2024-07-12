@@ -1110,5 +1110,9 @@
     "Flock11": {
         "banneduntil": "2024.7.14-12.00.00pm",
         "BanReason": "crossteaming - read the rules - german"
+    },
+    "Gness 13": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Teamkilling"
     }
 }
