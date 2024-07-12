@@ -1050,5 +1050,9 @@
     "ghost_of_beans": {
         "banneduntil": "2025.7.13-12.00.00pm",
         "BanReason": "RDM, swearing at me during admin sit, disrespect staff and server, said he didnt give a fu... To just ban him or he would continue ruing game for everything"
+    },
+    "Bosma21": {
+        "banneduntil": "2026.12.25-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
