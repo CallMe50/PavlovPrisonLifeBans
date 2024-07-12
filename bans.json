@@ -1054,5 +1054,9 @@
     "Bosma21": {
         "banneduntil": "2026.12.25-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "Spotspo": {
+        "banneduntil": "2024.7.16-12.00.00pm",
+        "BanReason": "Tk at a very high lvl"
     }
 }
