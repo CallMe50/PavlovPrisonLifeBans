@@ -1122,5 +1122,9 @@
     "MrCyprus": {
         "banneduntil": "2024.7.14-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Ultrahealing": {
+        "banneduntil": "2026.7.10-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
