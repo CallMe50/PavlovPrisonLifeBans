@@ -1042,5 +1042,9 @@
     "bouncy.robot": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Underaged (Blame your sibling)"
+    },
+    "typhoon.888": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underaged (I almost forgot about you, kiddo!)"
     }
 }
