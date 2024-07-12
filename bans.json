@@ -1030,5 +1030,9 @@
     "myownjuicysnack": {
         "banneduntil": "2024.7.14-12.00.00pm",
         "BanReason": "Rdm (please read the rules once you come back)"
+    },
+    "AK109ALPHA": {
+        "banneduntil": "2025.8.9-12.00.00pm",
+        "BanReason": "Underage (ban reinstated)"
     }
 }
