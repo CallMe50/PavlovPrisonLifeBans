@@ -1194,5 +1194,9 @@
     "bl4nk.Rise": {
         "banneduntil": "2024.7.20-12.00.00pm",
         "BanReason": "TK"
+    },
+    "man.of.memes.2023": {
+        "banneduntil": "2025.7.13-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
