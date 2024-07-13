@@ -1230,5 +1230,9 @@
     "ArtMate12345": {
         "banneduntil": "2029.7.18-12.00.00pm",
         "BanReason": "Umderage (8)"
+    },
+    "bossbiysilly": {
+        "banneduntil": "2024.7.14-12.00.00pm",
+        "BanReason": "RDM - READ THE RULES"
     }
 }
