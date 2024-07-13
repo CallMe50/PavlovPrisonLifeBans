@@ -1146,5 +1146,9 @@
     "The_Radius": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "Rdm and 2x evad 3 day ban"
+    },
+    "Nope1156": {
+        "banneduntil": "2024.7.8-12.00.00pm",
+        "BanReason": "Rdm and evaded sit x2"
     }
 }
