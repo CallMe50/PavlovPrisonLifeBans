@@ -1286,5 +1286,9 @@
     "wazouwski": {
         "banneduntil": "2024.7.17-12.00.00pm",
         "BanReason": "Spawn Camping"
+    },
+    "GQgames": {
+        "banneduntil": "2029.7.29-12.00.00pm",
+        "BanReason": "Underage (8)"
     }
 }
