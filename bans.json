@@ -1170,5 +1170,9 @@
     "yktv.gabe": {
         "banneduntil": "2024.7.14-12.00.00pm",
         "BanReason": "Tking, taxing. (read the rules when you come back)"
+    },
+    "Speedykey.2023": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "Tking multiple times 3 day ban"
     }
 }
