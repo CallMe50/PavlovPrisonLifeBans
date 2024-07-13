@@ -1206,5 +1206,9 @@
     "MartyRobbinDaHood": {
         "banneduntil": "2024.7.15-12.00.00pm",
         "BanReason": "RDM, verified kill-log, admitted to it during sit"
+    },
+    "Xazor": {
+        "banneduntil": "2026.7.8-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
