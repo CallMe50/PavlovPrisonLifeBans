@@ -1262,5 +1262,9 @@
     "FiveStarShoota": {
         "banneduntil": "2024.7.17-12.00.00pm",
         "BanReason": "Cross teaming and evaded sit"
+    },
+    "Caseohjrirl": {
+        "banneduntil": "2029.7.18-12.00.00pm",
+        "BanReason": "Hard-R"
     }
 }
