@@ -1238,5 +1238,9 @@
     "gracian08": {
         "banneduntil": "2038.7.15-12.00.00pm",
         "BanReason": "Underage, evading admin sit - need proof of your age - German"
+    },
+    "wspdaddy425": {
+        "banneduntil": "2024.7.17-12.00.00pm",
+        "BanReason": "Rdm,tk"
     }
 }
