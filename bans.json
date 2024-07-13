@@ -1282,5 +1282,9 @@
     "kingbug99": {
         "banneduntil": "2024.7.16-12.00.00pm",
         "BanReason": "Spawn Camping"
+    },
+    "wazouwski": {
+        "banneduntil": "2024.7.17-12.00.00pm",
+        "BanReason": "Spawn Camping"
     }
 }
