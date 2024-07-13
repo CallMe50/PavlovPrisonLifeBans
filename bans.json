@@ -1270,5 +1270,9 @@
     "Getgood2013": {
         "banneduntil": "2024.7.17-12.00.00pm",
         "BanReason": "TK"
+    },
+    "rusted.shoelaces.2024": {
+        "banneduntil": "2024.7.15-12.00.00pm",
+        "BanReason": "RDM - Read The rules"
     }
 }
