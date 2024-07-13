@@ -1190,5 +1190,9 @@
     "Sw_viper": {
         "banneduntil": "2026.7.8-12.00.00pm",
         "BanReason": "Underage(11)"
+    },
+    "bl4nk.Rise": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "TK"
     }
 }
