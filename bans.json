@@ -1226,5 +1226,9 @@
     "phoenixTKO": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "ArtMate12345": {
+        "banneduntil": "2029.7.18-12.00.00pm",
+        "BanReason": "Umderage (8)"
     }
 }
