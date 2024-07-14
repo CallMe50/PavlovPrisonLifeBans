@@ -1378,5 +1378,9 @@
     "Mrims": {
         "banneduntil": "2027.8.7-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "minnow2025": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "Rdm booted off guard team"
     }
 }
