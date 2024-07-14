@@ -1326,5 +1326,9 @@
     "the_rebel": {
         "banneduntil": "2027.8.9-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "R_Dolan": {
+        "banneduntil": "2024.10.12-12.00.00pm",
+        "BanReason": "N word"
     }
 }
