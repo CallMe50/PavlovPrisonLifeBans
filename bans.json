@@ -1318,5 +1318,9 @@
     "DrummerAbe": {
         "banneduntil": "2025.3.1-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "CapalotT60": {
+        "banneduntil": "2024.10.12-12.00.00pm",
+        "BanReason": "N word Light A"
     }
 }
