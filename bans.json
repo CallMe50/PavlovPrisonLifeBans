@@ -1406,5 +1406,9 @@
     "Johnsalina": {
         "banneduntil": "2024.7.16-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "CartiOT": {
+        "banneduntil": "2025.7.12-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
