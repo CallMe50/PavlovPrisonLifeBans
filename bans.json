@@ -1334,5 +1334,9 @@
     "ZXYETXVR": {
         "banneduntil": "2024.8.17-12.00.00pm",
         "BanReason": "Soft A"
+    },
+    "SALEM_B": {
+        "banneduntil": "2024.8.17-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
