@@ -1382,5 +1382,9 @@
     "minnow2025": {
         "banneduntil": "2024.7.20-12.00.00pm",
         "BanReason": "Rdm booted off guard team"
+    },
+    "bralnbread": {
+        "banneduntil": "2024.10.12-12.00.00pm",
+        "BanReason": "N word"
     }
 }
