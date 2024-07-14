@@ -1370,5 +1370,9 @@
     "Derbitoo": {
         "banneduntil": "2026.7.16-12.00.00pm",
         "BanReason": "underage, lying to staff multiple times"
+    },
+    "Isellfentcartstotokids": {
+        "banneduntil": "2099.7.16-12.00.00pm",
+        "BanReason": "Repeated cross teaming, repeated mass tk with repeated warnings, kicked and rejoined 5 times to continue."
     }
 }
