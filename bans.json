@@ -1542,5 +1542,9 @@
     "PretzelBoys": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "Rdm, evaded an admin sit"
+    },
+    "The.Sniper.monkey": {
+        "banneduntil": "2024.7.17-12.00.00pm",
+        "BanReason": "Camping bank"
     }
 }
