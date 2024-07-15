@@ -1522,5 +1522,9 @@
     "Minecrabserious2": {
         "banneduntil": "2024.7.17-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "HugheyMungo": {
+        "banneduntil": "2024.7.18-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
