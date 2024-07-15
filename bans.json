@@ -1414,5 +1414,9 @@
     "Ultimatehusk": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "TK"
+    },
+    "MarthaGoat": {
+        "banneduntil": "2025.7.12-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
