@@ -1490,5 +1490,9 @@
     "lillove95": {
         "banneduntil": "2027.7.18-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "orangevault": {
+        "banneduntil": "2024.7.17-12.00.00pm",
+        "BanReason": "RDM - Read the Rules"
     }
 }
