@@ -1562,5 +1562,9 @@
     "juanminion200.2023": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "AnthonyEdwards": {
+        "banneduntil": "2024.7.16-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
