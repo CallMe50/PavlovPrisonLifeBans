@@ -1618,5 +1618,9 @@
     "legocoffee": {
         "banneduntil": "2024.7.21-12.00.00pm",
         "BanReason": "Try to teamkill a jugg in fug base - German"
+    },
+    "tomcat.123": {
+        "banneduntil": "2024.7.21-12.00.00pm",
+        "BanReason": "Attempted to tk 2 juggernauts with a rpg for no reason"
     }
 }
