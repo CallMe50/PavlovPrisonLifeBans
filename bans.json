@@ -1622,5 +1622,9 @@
     "tomcat.123": {
         "banneduntil": "2024.7.21-12.00.00pm",
         "BanReason": "Attempted to tk 2 juggernauts with a rpg for no reason"
+    },
+    "laawlessman": {
+        "banneduntil": "2024.7.19-12.00.00pm",
+        "BanReason": "Previous warning for RDMing, RDMing from PL reports, and TKing via kill feed."
     }
 }
