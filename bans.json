@@ -1614,5 +1614,9 @@
     "hunting.man.2024": {
         "banneduntil": "2025.7.17-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "legocoffee": {
+        "banneduntil": "2024.7.21-12.00.00pm",
+        "BanReason": "Try to teamkill a jugg in fug base - German"
     }
 }
