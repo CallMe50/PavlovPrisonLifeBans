@@ -1626,5 +1626,9 @@
     "laawlessman": {
         "banneduntil": "2024.7.19-12.00.00pm",
         "BanReason": "Previous warning for RDMing, RDMing from PL reports, and TKing via kill feed."
+    },
+    "LaJitla": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "Staff disrespect, not cooperative"
     }
 }
