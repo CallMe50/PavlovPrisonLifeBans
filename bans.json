@@ -1610,5 +1610,9 @@
     "Hudson.4570": {
         "banneduntil": "2024.7.17-12.00.00pm",
         "BanReason": "Several prisoner tks, read the rules -Envy/Envnity."
+    },
+    "hunting.man.2024": {
+        "banneduntil": "2025.7.17-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
