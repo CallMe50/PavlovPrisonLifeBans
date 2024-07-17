@@ -1734,5 +1734,9 @@
     "monkey": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "TK & RDM - Read the Rules"
+    },
+    "monkey260663": {
+        "banneduntil": "2024.7.18-12.00.00pm",
+        "BanReason": "TK & RDM - Read the Rules"
     }
 }
