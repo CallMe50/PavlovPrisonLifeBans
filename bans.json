@@ -1694,5 +1694,9 @@
     "Pro_entertainment_13": {
         "banneduntil": "2024.7.23-12.00.00pm",
         "BanReason": "Intentional RDM x2"
+    },
+    "Chill.bro": {
+        "banneduntil": "2024.7.18-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
