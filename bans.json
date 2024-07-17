@@ -1658,5 +1658,9 @@
     "duke123.2024": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Sand_TheMan": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
