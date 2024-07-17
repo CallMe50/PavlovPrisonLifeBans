@@ -1670,5 +1670,9 @@
     "booshdapug": {
         "banneduntil": "2024.8.31-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "Zexyu": {
+        "banneduntil": "2024.7.30-12.00.00pm",
+        "BanReason": "Cross team and team kill"
     }
 }
