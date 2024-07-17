@@ -1742,5 +1742,9 @@
     "Caps1cle": {
         "banneduntil": "2024.7.18-12.00.00pm",
         "BanReason": "Mass rdm (a server restart doesn't excuse rule breaking)"
+    },
+    "Jesusortizpaz": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "tk"
     }
 }
