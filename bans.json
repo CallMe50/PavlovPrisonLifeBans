@@ -1806,5 +1806,9 @@
     "alex.480601": {
         "banneduntil": "2024.7.25-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "relish0118": {
+        "banneduntil": "2024.7.22-12.00.00pm",
+        "BanReason": "TK as guard, noncompliance during sit"
     }
 }
