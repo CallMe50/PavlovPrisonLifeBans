@@ -1858,5 +1858,9 @@
     "Exoticricket": {
         "banneduntil": "2024.7.20-12.00.00pm",
         "BanReason": "Team killing"
+    },
+    "mccarty.vr.2024": {
+        "banneduntil": "2025.7.20-12.00.00pm",
+        "BanReason": "Underage (gotta be 13 to play)"
     }
 }
