@@ -1790,5 +1790,9 @@
     "merickson95": {
         "banneduntil": "2024.7.20-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "LilHeall": {
+        "banneduntil": "2024.7.30-12.00.00pm",
+        "BanReason": "Refusal to cooperate or comply in sit, left to avoid sit."
     }
 }
