@@ -1862,5 +1862,9 @@
     "mccarty.vr.2024": {
         "banneduntil": "2025.7.20-12.00.00pm",
         "BanReason": "Underage (gotta be 13 to play)"
+    },
+    "B00fiii": {
+        "banneduntil": "2024.9.20-12.00.00pm",
+        "BanReason": "Team switched to kill me as a prisoner. Don\u2019t bother making an appeal. I\u2019ll waste your time and deny it."
     }
 }
