@@ -1770,5 +1770,9 @@
     "operation.rly.slo": {
         "banneduntil": "2024.7.19-12.00.00pm",
         "BanReason": "Team killing"
+    },
+    "JaiWorld": {
+        "banneduntil": "2024.7.22-12.00.00pm",
+        "BanReason": "Team killing the whole prisoner team - German"
     }
 }
