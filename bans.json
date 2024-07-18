@@ -1766,5 +1766,9 @@
     "Greyman7277": {
         "banneduntil": "2099.7.17-12.00.00pm",
         "BanReason": "Hard R multiple times video proof perma ban"
+    },
+    "operation.rly.slo": {
+        "banneduntil": "2024.7.19-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
