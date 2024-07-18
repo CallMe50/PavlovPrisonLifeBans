@@ -1814,5 +1814,9 @@
     "hassy14": {
         "banneduntil": "2099.7.20-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "Cvffx": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
