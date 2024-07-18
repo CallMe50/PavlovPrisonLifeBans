@@ -1854,5 +1854,9 @@
     "ameredith4": {
         "banneduntil": "2027.7.20-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "Exoticricket": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
