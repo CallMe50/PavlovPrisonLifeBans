@@ -1902,5 +1902,9 @@
     "sybt": {
         "banneduntil": "2024.7.21-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Kekashimux": {
+        "banneduntil": "2024.7.21-12.00.00pm",
+        "BanReason": "TK"
     }
 }
