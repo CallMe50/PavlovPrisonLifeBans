@@ -1890,5 +1890,9 @@
     "Omidsyxx": {
         "banneduntil": "2024.7.20-12.00.00pm",
         "BanReason": "RDM - read the rules - German"
+    },
+    "Bnjad": {
+        "banneduntil": "2099.7.22-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
