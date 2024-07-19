@@ -1866,5 +1866,9 @@
     "B00fiii": {
         "banneduntil": "2024.9.20-12.00.00pm",
         "BanReason": "Team switched to kill me as a prisoner. Don\u2019t bother making an appeal. I\u2019ll waste your time and deny it."
+    },
+    "jjb1236": {
+        "banneduntil": "2024.7.20-12.00.00pm",
+        "BanReason": "Cross-Teaming from PL reports"
     }
 }
