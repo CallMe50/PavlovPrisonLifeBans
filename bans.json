@@ -1898,5 +1898,9 @@
     "GETBETTER543": {
         "banneduntil": "2099.7.22-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "sybt": {
+        "banneduntil": "2024.7.21-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
