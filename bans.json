@@ -1934,5 +1934,9 @@
     "MaserFamily": {
         "banneduntil": "2025.7.19-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Brandontranix": {
+        "banneduntil": "2025.7.21-12.00.00pm",
+        "BanReason": "Teamkill a jugg - German"
     }
 }
