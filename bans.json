@@ -1998,5 +1998,9 @@
     "Vincasar": {
         "banneduntil": "2024.7.21-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "MasonTheDJ": {
+        "banneduntil": "2024.7.30-12.00.00pm",
+        "BanReason": "Mass RDM, Non-compliance in sit and leaving game to avoid sit"
     }
 }
