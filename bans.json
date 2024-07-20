@@ -1966,5 +1966,9 @@
     "fairly_large": {
         "banneduntil": "2024.7.23-12.00.00pm",
         "BanReason": "Rdm (kicked off guard)"
+    },
+    "MattMegLuke3": {
+        "banneduntil": "2024.7.22-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
