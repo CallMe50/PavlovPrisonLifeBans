@@ -2026,5 +2026,9 @@
     "Keropee0": {
         "banneduntil": "9999.12.31-12-00-00pm",
         "BanReason": "Hard R -Oli"
+    },
+    "DieselDeletus": {
+        "banneduntil": "2024.7.25-12.00.00pm",
+        "BanReason": "Cross teaming after warns d"
     }
 }
