@@ -2074,5 +2074,9 @@
     "Astro9000vr": {
         "banneduntil": "2024.7.23-12.00.00pm",
         "BanReason": "Reviewed killfeed, Teamkilling (x2), Random Tazing"
+    },
+    "T1234B": {
+        "banneduntil": "2024.7.22-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
