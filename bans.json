@@ -2022,5 +2022,9 @@
     "DrDhee": {
         "banneduntil": "2024.7.22-12.00.00pm",
         "BanReason": "TK*"
+    },
+    "Keropee0": {
+        "banneduntil": "9999.12.31-12-00-00pm",
+        "BanReason": "Hard R -Oli"
     }
 }
