@@ -2110,5 +2110,9 @@
     "CreationsVR": {
         "banneduntil": "2099.7.30-12.00.00pm",
         "BanReason": "Underage - Need Proof of Age"
+    },
+    "negrokiller": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Change your name to be unbanned -Envy/Envnity."
     }
 }
