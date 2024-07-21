@@ -2122,5 +2122,9 @@
     "tj7": {
         "banneduntil": "2024.7.24",
         "BanReason": "Repeated RDM -shadowknight"
+    },
+    "DrBlueC83": {
+        "banneduntil": "2024.7.24-12.00.00pm",
+        "BanReason": "Wall Shooting"
     }
 }
