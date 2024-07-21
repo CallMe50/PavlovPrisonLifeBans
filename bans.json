@@ -2098,5 +2098,9 @@
     "corgilover0213": {
         "banneduntil": "2024.7.26-12.00.00pm",
         "BanReason": "Rdm and cross teaming"
+    },
+    "0G_BOT": {
+        "banneduntil": "2024.7.26",
+        "BanReason": "Mass teamkill -Oli"
     }
 }
