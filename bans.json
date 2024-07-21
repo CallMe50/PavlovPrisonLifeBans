@@ -2114,5 +2114,9 @@
     "negrokiller": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Change your name to be unbanned -Envy/Envnity."
+    },
+    "nick_gur123": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Change your name to be unbanned"
     }
 }
