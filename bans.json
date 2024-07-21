@@ -2018,5 +2018,9 @@
     "DADYK3": {
         "banneduntil": "2025.10.20-12.00.00pm",
         "BanReason": "Underage, left game when teleported for clarification"
+    },
+    "DrDhee": {
+        "banneduntil": "2024.7.22-12.00.00pm",
+        "BanReason": "TK*"
     }
 }
