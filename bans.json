@@ -2166,5 +2166,9 @@
     "N0IZ0218": {
         "banneduntil": "2024.7.24-12.00.00pm",
         "BanReason": "Baiting - Read the Rules"
+    },
+    "pj.nornsater": {
+        "banneduntil": "2028.7.29-12.00.00pm",
+        "BanReason": "Underage (9)"
     }
 }
