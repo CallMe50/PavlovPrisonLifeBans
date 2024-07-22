@@ -2202,5 +2202,9 @@
     "bean_taco": {
         "banneduntil": "2024.7.23-12.00.00pm",
         "BanReason": "TeamTazing - Read The Rules"
+    },
+    "REH333": {
+        "banneduntil": "2029.7.29-12.00.00pm",
+        "BanReason": "Underage + TK - Need Proof of Age"
     }
 }
