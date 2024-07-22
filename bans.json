@@ -2222,5 +2222,9 @@
     "VicBui912": {
         "banneduntil": "2025.7.22-12.00.00pm",
         "BanReason": "Underaged (12)"
+    },
+    "Cooper.232017": {
+        "banneduntil": "2026.7.15-12.00.00pm",
+        "BanReason": "Underaged - need proof of your age"
     }
 }
