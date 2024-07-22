@@ -2182,5 +2182,9 @@
     "l89": {
         "banneduntil": "2099.7.29-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "bbbLyricbird3000": {
+        "banneduntil": "2027.7.20-12.00.00pm",
+        "BanReason": "Underage (10)"
     }
 }
