@@ -2206,5 +2206,9 @@
     "REH333": {
         "banneduntil": "2029.7.29-12.00.00pm",
         "BanReason": "Underage + TK - Need Proof of Age"
+    },
+    "FoleyBoFarrell": {
+        "banneduntil": "2026.7.23-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
