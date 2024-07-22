@@ -2274,5 +2274,9 @@
     "ATE123": {
         "banneduntil": "2024.7.25-12.00.00pm",
         "BanReason": "Repeated baiting"
+    },
+    "King_Kash95": {
+        "banneduntil": "2024.7.28-12.00.00pm",
+        "BanReason": "Cross teaming and killing during sit"
     }
 }
