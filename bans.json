@@ -2198,5 +2198,9 @@
     "Jake10101010": {
         "banneduntil": "2024.7.25-12.00.00pm",
         "BanReason": "Teaming"
+    },
+    "bean_taco": {
+        "banneduntil": "2024.7.23-12.00.00pm",
+        "BanReason": "TeamTazing - Read The Rules"
     }
 }
