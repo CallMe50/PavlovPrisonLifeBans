@@ -2262,5 +2262,9 @@
     "breezytofly": {
         "banneduntil": "2024.7.28-12.00.00pm",
         "BanReason": "Mass Teamkill"
+    },
+    "Danoman200": {
+        "banneduntil": "2024.7.24-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
