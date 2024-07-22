@@ -2186,5 +2186,9 @@
     "bbbLyricbird3000": {
         "banneduntil": "2027.7.20-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "lilwaters.2024": {
+        "banneduntil": "2024.7.27-12.00.00pm",
+        "BanReason": "2x TK & Teaming"
     }
 }
