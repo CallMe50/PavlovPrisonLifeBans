@@ -2242,5 +2242,9 @@
     "AjAtk2013": {
         "banneduntil": "2024.7.24-12.00.00pm",
         "BanReason": "RDMing(please review rules near spawn point/player selection or on discord)"
+    },
+    "SDFStar": {
+        "banneduntil": "2024.7.31-12.00.00pm",
+        "BanReason": "Cross team, Mass Teamkill"
     }
 }
