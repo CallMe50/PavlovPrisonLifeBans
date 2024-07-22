@@ -2266,5 +2266,9 @@
     "Danoman200": {
         "banneduntil": "2024.7.24-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "theaustralian": {
+        "banneduntil": "2025.7.10-12.00.00pm",
+        "BanReason": "Rdm, evaded sit when ask how old are you"
     }
 }
