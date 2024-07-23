@@ -2326,5 +2326,9 @@
     "Wasabi2free": {
         "banneduntil": "2024.7.26-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "Clearbag": {
+        "banneduntil": "2024.7.24-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
