@@ -2398,5 +2398,9 @@
     "impski": {
         "banneduntil": "2024.7.27-12.00.00pm",
         "BanReason": "Cross teaming, additionally distributing donator weapons is strictly prohibited"
+    },
+    "BarreraFam_22": {
+        "banneduntil": "2026.7.29-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
