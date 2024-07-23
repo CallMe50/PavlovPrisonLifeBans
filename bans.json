@@ -2350,5 +2350,9 @@
     "bigtoesniffer42": {
         "banneduntil": "2024.7.26-12.00.00",
         "BanReason": "Multiple RDM - read the rules - German"
+    },
+    "Pofure": {
+        "banneduntil": "2024.7.26-12.00.00",
+        "BanReason": "Teamkill Fugitive - read the rules - German"
     }
 }
