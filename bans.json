@@ -2394,5 +2394,9 @@
     "Crazycube22": {
         "banneduntil": "2025.7.26-12.00.00pm",
         "BanReason": "Underage, you have to be 13 to play prison life, sorry"
+    },
+    "impski": {
+        "banneduntil": "2024.7.27-12.00.00pm",
+        "BanReason": "Cross teaming, additionally distributing donator weapons is strictly prohibited"
     }
 }
