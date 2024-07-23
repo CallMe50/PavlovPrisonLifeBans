@@ -2286,5 +2286,9 @@
     "Gatlin09": {
         "banneduntil": "9999.7.23-12.00.00pm",
         "BanReason": "Evade Admin Sit. Potentially underage, blur out PII and provide age in Discord Ban appeal."
+    },
+    "Kil1a": {
+        "banneduntil": "2024.7.23-12.00.00pm",
+        "BanReason": "Rdm (please read the rules when you come back)"
     }
 }
