@@ -2334,5 +2334,9 @@
     "AndresASDP": {
         "banneduntil": "2024.7.24-12.00.00pm",
         "BanReason": "Baiting/cross teaming"
+    },
+    "EshanSnake": {
+        "banneduntil": "2024.7.26-12.00.00pm",
+        "BanReason": "Team tazing, rdm"
     }
 }
