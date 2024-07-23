@@ -2282,5 +2282,9 @@
     "GuNNy82020": {
         "banneduntil": "9999-12-31-12.00.00pm",
         "BanReason": "Appeal in discord-Oli"
+    },
+    "Gatlin09": {
+        "banneduntil": "9999.7.23-12.00.00pm",
+        "BanReason": "Evade Admin Sit. Potentially underage, blur out PII and provide age in Discord Ban appeal."
     }
 }
