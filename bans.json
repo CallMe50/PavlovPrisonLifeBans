@@ -2294,5 +2294,9 @@
     "ScoobyOffAPERC": {
         "banneduntil": "2024.7.23-12.00.00pm",
         "BanReason": "Several rdms, read the rules -Envy/Envnity."
+    },
+    "ballwe": {
+        "banneduntil": "2025.5.1-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
