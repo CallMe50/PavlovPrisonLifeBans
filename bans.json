@@ -2290,5 +2290,9 @@
     "Kil1a": {
         "banneduntil": "2024.7.23-12.00.00pm",
         "BanReason": "Rdm (please read the rules when you come back)"
+    },
+    "ScoobyOffAPERC": {
+        "banneduntil": "2024.7.23-12.00.00pm",
+        "BanReason": "Several rdms, read the rules -Envy/Envnity."
     }
 }
