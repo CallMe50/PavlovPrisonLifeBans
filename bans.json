@@ -2450,5 +2450,9 @@
     "piratewolfvr": {
         "banneduntil": "2025.1.31-12.00.00pm",
         "BanReason": "Underage (12) - German"
+    },
+    "gunslinger08.2024": {
+        "banneduntil": "2024.7.29-12.00.00pm",
+        "BanReason": "Crossteaming teamkilling"
     }
 }
