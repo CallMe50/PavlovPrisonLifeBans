@@ -2438,5 +2438,9 @@
     "EmeryAsherr": {
         "banneduntil": "2024.7.26-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "grantlee2023": {
+        "banneduntil": "2025.7.26-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
