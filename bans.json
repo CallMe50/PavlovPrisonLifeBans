@@ -2446,5 +2446,9 @@
     "im_blitzo": {
         "banneduntil": "2024.7.26-12.00.00pm",
         "BanReason": "Repeated rdm-spooder"
+    },
+    "piratewolfvr": {
+        "banneduntil": "2025.1.31-12.00.00pm",
+        "BanReason": "Underage (12) - German"
     }
 }
