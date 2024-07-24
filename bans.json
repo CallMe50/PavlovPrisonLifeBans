@@ -2434,5 +2434,9 @@
     "RadJack14": {
         "banneduntil": "2024.7.25-12.00.00pm",
         "BanReason": "RDM - Read The Rules"
+    },
+    "EmeryAsherr": {
+        "banneduntil": "2024.7.26-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
