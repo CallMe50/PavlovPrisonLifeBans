@@ -2506,5 +2506,9 @@
     "bloobnoop.2023": {
         "banneduntil": "2099.7.1-12.00.00pm",
         "BanReason": "Potentially underage of 10, due to language barrier could not give proper age. Please provide age and remove or blur out any PII."
+    },
+    "J.Dibbles711": {
+        "banneduntil": "2024.7.28-12.00.00pm",
+        "BanReason": "TK"
     }
 }
