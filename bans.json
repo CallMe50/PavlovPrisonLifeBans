@@ -2466,5 +2466,9 @@
     "jimmy.167543": {
         "banneduntil": "2024.7.29-12.00.00pm",
         "BanReason": "Rdm on multiple accounts"
+    },
+    "Imherc1": {
+        "banneduntil": "2024.7.26-12.00.00pm",
+        "BanReason": "Teamkilling"
     }
 }
