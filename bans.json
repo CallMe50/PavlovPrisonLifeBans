@@ -2486,5 +2486,9 @@
     "cvffxs": {
         "banneduntil": "2026.7.24-12.00.00pm",
         "BanReason": "Underaged (11), Non-Compliance in sit and TK as fugitive"
+    },
+    "Wolf18777": {
+        "banneduntil": "2024.7.25-12.00.00pm",
+        "BanReason": "RDM - Read the Rules"
     }
 }
