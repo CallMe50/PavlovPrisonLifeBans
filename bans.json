@@ -2482,5 +2482,9 @@
     "Whiskey_pimp44": {
         "banneduntil": "2024.7.28-12:00:00pm",
         "BanReason": "Mass RDM and X1 TK (read rules in team selection area when you get back)"
+    },
+    "cvffxs": {
+        "banneduntil": "2026.7.24-12.00.00pm",
+        "BanReason": "Rdm,evade afmin sit ,possibly underage"
     }
 }
