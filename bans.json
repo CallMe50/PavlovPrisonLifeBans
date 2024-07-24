@@ -2458,5 +2458,9 @@
     "callahans.2023": {
         "banneduntil": "2024.7.26-12.00.00pm",
         "BanReason": "Double RDM"
+    },
+    "bakedxcookie": {
+        "banneduntil": "2024.7.27-12.00.00pm",
+        "BanReason": "Baiting, rdm, from reports-milk"
     }
 }
