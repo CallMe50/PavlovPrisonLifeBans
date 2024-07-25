@@ -2566,5 +2566,9 @@
     "zein11": {
         "banneduntil": "2024.7.27-12.00.00pm",
         "BanReason": "Double RDM"
+    },
+    "AsianMochii": {
+        "banneduntil": "2024.7.26-12.00.00pm",
+        "BanReason": "TK - Read The Rules"
     }
 }
