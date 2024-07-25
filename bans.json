@@ -2546,5 +2546,9 @@
     "vivi.bunny": {
         "banneduntil": "2024.7.27-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "cmc.clash.vr": {
+        "banneduntil": "2024.7.27-12.00.00pm",
+        "BanReason": "RDMing"
     }
 }
