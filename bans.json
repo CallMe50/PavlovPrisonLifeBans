@@ -2590,5 +2590,9 @@
     "LIVINGMAN132": {
         "banneduntil": "2024.07.30-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "mariotreebush.2023": {
+        "banneduntil": "2024.07.29-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
