@@ -2550,5 +2550,9 @@
     "cmc.clash.vr": {
         "banneduntil": "2024.7.27-12.00.00pm",
         "BanReason": "RDMing"
+    },
+    "Mosroom": {
+        "banneduntil": "2024.7.28-12.00.00pm",
+        "BanReason": "Teamkilling x2"
     }
 }
