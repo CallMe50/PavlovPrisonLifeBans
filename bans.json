@@ -2542,5 +2542,9 @@
     "ign vivi.bunny": {
         "banneduntil": "2024.7.27-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "vivi.bunny": {
+        "banneduntil": "2024.7.27-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
