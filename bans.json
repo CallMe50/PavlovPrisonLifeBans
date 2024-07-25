@@ -2586,5 +2586,9 @@
     "Wiseguy2012": {
         "banneduntil": "2025.10.8-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "LIVINGMAN132": {
+        "banneduntil": "2024.07.30-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
