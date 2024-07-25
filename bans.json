@@ -2538,5 +2538,9 @@
     "ket4mine": {
         "banneduntil": "2024.7.30-12.00.00pm",
         "BanReason": "Greifing an event"
+    },
+    "ign vivi.bunny": {
+        "banneduntil": "2024.7.27-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
