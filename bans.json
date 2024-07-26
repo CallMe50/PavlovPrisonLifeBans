@@ -2658,5 +2658,9 @@
     "Bananasareepic": {
         "banneduntil": "2024.7.28-12.00.00pm",
         "BanReason": "Shooting yourself for prisoners to get weapons"
+    },
+    "OTF_Tony": {
+        "banneduntil": "2024.7.29-12.00.00pm",
+        "BanReason": "Cross team"
     }
 }
