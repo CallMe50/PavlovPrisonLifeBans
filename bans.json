@@ -2662,5 +2662,9 @@
     "OTF_Tony": {
         "banneduntil": "2024.7.29-12.00.00pm",
         "BanReason": "Cross team"
+    },
+    "OTF_Sponge": {
+        "banneduntil": "2024.7.29-12.00.00pm",
+        "BanReason": "Cross team"
     }
 }
