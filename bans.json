@@ -2670,5 +2670,9 @@
     "Toxic_toast290": {
         "banneduntil": "2024.7.27-12.00.00pm",
         "BanReason": "Cross team (please read the rules when you come back)"
+    },
+    "cazzy.intro": {
+        "banneduntil": "2024.7.27-12.00.00pm",
+        "BanReason": "Baiting (please read the rules when you come back)"
     }
 }
