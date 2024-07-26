@@ -2606,5 +2606,9 @@
     "chicken233": {
         "banneduntil": "2025.3.1-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "theking.142819": {
+        "banneduntil": "2024.7.28-12.00.00pm",
+        "BanReason": "RDM -shadowknight_2"
     }
 }
