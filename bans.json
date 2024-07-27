@@ -2790,5 +2790,9 @@
     "batman3000187": {
         "banneduntil": "2028.7.27-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "morganic09": {
+        "banneduntil": "2024.7.29-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
