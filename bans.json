@@ -2758,5 +2758,9 @@
     "Jmoney1329": {
         "banneduntil": "2026.7.29-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Kim.Jong.un51": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
