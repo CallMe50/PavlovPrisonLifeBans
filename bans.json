@@ -2722,5 +2722,9 @@
     "Brostrangest9": {
         "banneduntil": "2024.7.29-12.00.00pm",
         "BanReason": "RDM & Leaving Sit"
+    },
+    "mannyfreshboy": {
+        "banneduntil": "2024.7.29-12.00.00pm",
+        "BanReason": "VDM"
     }
 }
