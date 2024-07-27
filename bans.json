@@ -2766,5 +2766,9 @@
     "toxic-snake": {
         "banneduntil": "2024.8.27-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "ThiloGreger": {
+        "banneduntil": "2026.7.29-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
