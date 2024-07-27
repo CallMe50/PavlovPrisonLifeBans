@@ -2818,5 +2818,9 @@
     "mister6144": {
         "banneduntil": "2024.7.28-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "Banned DarthVader.2013": {
+        "banneduntil": "2026.7.30-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
