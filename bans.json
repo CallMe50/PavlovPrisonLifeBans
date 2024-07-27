@@ -2762,5 +2762,9 @@
     "Kim.Jong.un51": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "toxic-snake": {
+        "banneduntil": "2024.8.27-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
