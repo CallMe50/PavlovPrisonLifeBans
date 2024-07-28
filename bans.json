@@ -2878,5 +2878,9 @@
     "LITTLEWYZE1": {
         "banneduntil": "2024.8.10-12.00.00pm",
         "BanReason": "Evading admin sit (x2), rdming a prisoner"
+    },
+    "Drax-E-Pooz": {
+        "banneduntil": "2024.7.31-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
