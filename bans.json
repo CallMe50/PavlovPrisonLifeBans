@@ -2826,5 +2826,9 @@
     "DarthVader.2013": {
         "banneduntil": "2026.7.30-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Sam.west2536": {
+        "banneduntil": "2024.8.8-12.00.00pm",
+        "BanReason": "Glitch abusing, spawn camping, rdm"
     }
 }
