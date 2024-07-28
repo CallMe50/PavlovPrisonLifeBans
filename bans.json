@@ -2854,5 +2854,9 @@
     "Amanda.minkema.18": {
         "banneduntil": "2029.1.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "alfha45": {
+        "banneduntil": "2024.7.30-12.00.00pm",
+        "BanReason": "RDMing from PL Reports (Please review rules near spawn point/player selection or on discord.)"
     }
 }
