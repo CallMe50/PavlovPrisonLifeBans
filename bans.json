@@ -2846,5 +2846,9 @@
     "Providence420": {
         "banneduntil": "2099.7.28-12.00.00pm",
         "BanReason": "Threatening to dox someone and kick them offline / leak their IP"
+    },
+    "pavlovfemboy": {
+        "banneduntil": "2099.7.28-12.00.00pm",
+        "BanReason": "NSFW profile pic, appeal on discord when changed"
     }
 }
