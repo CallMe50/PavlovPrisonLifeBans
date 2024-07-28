@@ -2898,5 +2898,9 @@
     "Yokenzie": {
         "banneduntil": "2024.7.31-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "Destroyer1210": {
+        "banneduntil": "2099.7.31-12.00.00pm",
+        "BanReason": "Called me a money multiple times while having an entirely different admin sit"
     }
 }
