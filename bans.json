@@ -2886,5 +2886,9 @@
     "BenFromGeico": {
         "banneduntil": "2024.7.29-12.00.00pm",
         "BanReason": "Crossteaming"
+    },
+    "Ch0deSlinger": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "Cross teaming and Team Kill"
     }
 }
