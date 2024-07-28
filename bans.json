@@ -2914,5 +2914,9 @@
     "Teodor2000": {
         "banneduntil": "2027.7.30-12.00.00pm",
         "BanReason": "Possibly underage and Rdm"
+    },
+    "Savage061713": {
+        "banneduntil": "2026.7.30-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
