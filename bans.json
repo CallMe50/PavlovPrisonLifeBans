@@ -2834,5 +2834,9 @@
     "cj_chillin": {
         "banneduntil": "2024.8.27-12.00.00pm",
         "BanReason": "Was told he was making racist remarks by GALXSEZ, but admitted to be 12 yrs old at admin sit."
+    },
+    "GALXSEZ": {
+        "banneduntil": "2024.8.12-12.00.00pm",
+        "BanReason": "N-Word"
     }
 }
