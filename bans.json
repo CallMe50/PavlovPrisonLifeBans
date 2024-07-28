@@ -2838,5 +2838,9 @@
     "GALXSEZ": {
         "banneduntil": "2024.8.5-12.00.00pm",
         "BanReason": "N-Word"
+    },
+    "Tomcat.123": {
+        "banneduntil": "2025.1.3-12.00.00pm",
+        "BanReason": "Underage (stinky)"
     }
 }
