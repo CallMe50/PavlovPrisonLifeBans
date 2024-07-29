@@ -2994,5 +2994,9 @@
     "MatFedin": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "RDM - Read The Rules"
+    },
+    "VEGAS00702": {
+        "banneduntil": "2024.7.31-12.00.00pm",
+        "BanReason": "Tazing & Baiting - Read The Rules"
     }
 }
