@@ -2962,5 +2962,9 @@
     "Fabeoct": {
         "banneduntil": "2024.10.30-12.00.00pm",
         "BanReason": "N word"
+    },
+    "Black_outed": {
+        "banneduntil": "2024.10.30-12.00.00pm",
+        "BanReason": "N word"
     }
 }
