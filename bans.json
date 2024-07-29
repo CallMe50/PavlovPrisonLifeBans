@@ -2974,5 +2974,9 @@
     "Punkspacer89": {
         "banneduntil": "2099.8.3-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "Allofeveryone": {
+        "banneduntil": "2025.8.3-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
