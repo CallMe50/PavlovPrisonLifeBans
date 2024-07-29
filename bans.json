@@ -3010,5 +3010,9 @@
     "legionary14": {
         "banneduntil": "2027.7.31-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "TTK_lc": {
+        "banneduntil": "2024.7.31-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
