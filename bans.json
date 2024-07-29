@@ -2998,5 +2998,9 @@
     "VEGAS00702": {
         "banneduntil": "2030.7.29-12.00.00pm",
         "BanReason": "Underage - Verify your age | .gg/pavlovprisonlife"
+    },
+    "Linden_2024": {
+        "banneduntil": "2060.1.1-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
