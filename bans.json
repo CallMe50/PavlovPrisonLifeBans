@@ -3034,5 +3034,9 @@
     "this_ismyusernane": {
         "banneduntil": "2099.8.12-12.00.00pm",
         "BanReason": "(Again) randomly called me a pedophile. Joke or not this is something I do not take jokingly."
+    },
+    "JC102011": {
+        "banneduntil": "2024.8.3-12.00.00pm",
+        "BanReason": "RDMing from PL Reports and TKing from Kill-Feed (Please review rules near spawn point/player selection or on discord.)"
     }
 }
