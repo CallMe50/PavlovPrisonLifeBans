@@ -2990,5 +2990,9 @@
     "Ayyykejon": {
         "banneduntil": "2024.8.3-12.00.00pm",
         "BanReason": "Bank Camping"
+    },
+    "MatFedin": {
+        "banneduntil": "2024.8.1-12.00.00pm",
+        "BanReason": "RDM - Read The Rules"
     }
 }
