@@ -2954,5 +2954,9 @@
     "NightPhantom101": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "Crossteaming"
+    },
+    "Darth.Reven": {
+        "banneduntil": "2024.10.30-12.00.00pm",
+        "BanReason": "N word"
     }
 }
