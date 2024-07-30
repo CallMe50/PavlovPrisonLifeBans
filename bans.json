@@ -3066,5 +3066,9 @@
     "Randomname730": {
         "banneduntil": "9999.8.1-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "sidehustle24": {
+        "banneduntil": "2027.7.30-12.00.00pm",
+        "BanReason": "Underage (10) must be 13+"
     }
 }
