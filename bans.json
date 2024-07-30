@@ -3134,5 +3134,9 @@
     "staffattack.2023": {
         "banneduntil": "2027.7.30-12.00.00pm",
         "BanReason": "Underage (10) per vid from PL reports."
+    },
+    "depot.231533": {
+        "banneduntil": "2025.6.7-12.00.00pm",
+        "BanReason": "Underage,left admin sit"
     }
 }
