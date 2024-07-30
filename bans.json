@@ -3062,5 +3062,9 @@
     "Olivegardenbreadstick": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "Team killing"
+    },
+    "Randomname730": {
+        "banneduntil": "9999.8.1-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
