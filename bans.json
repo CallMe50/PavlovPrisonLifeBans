@@ -3046,5 +3046,9 @@
     "Korvar66": {
         "banneduntil": "2024.8.30-12.00.00pm",
         "BanReason": "Teamkill (please read the rules when you come back)"
+    },
+    "Carson11": {
+        "banneduntil": "2024.8.30-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
