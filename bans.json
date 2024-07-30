@@ -3050,5 +3050,9 @@
     "Carson11": {
         "banneduntil": "2024.8.30-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "Beetlejuice_214": {
+        "banneduntil": "2024.8.30-12.00.00pm",
+        "BanReason": "Rdm,random tazing"
     }
 }
