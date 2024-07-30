@@ -3086,5 +3086,9 @@
     "human.265895": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "multiple rdm - read the rules - German"
+    },
+    "BRO_BLAZER": {
+        "banneduntil": "2024.8.3-12.00.00pm",
+        "BanReason": "crossteaming/baiting - read the rules - German"
     }
 }
