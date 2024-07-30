@@ -3058,5 +3058,9 @@
     "olivegradenbreadstick": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "Team killing"
+    },
+    "Olivegardenbreadstick": {
+        "banneduntil": "2024.8.1-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
