@@ -3048,11 +3048,15 @@
         "BanReason": "Teamkill (please read the rules when you come back)"
     },
     "Carson11": {
-        "banneduntil": "2024.7.31-12.00.00pm",
+        "banneduntil": "2024.8.30-12.00.00pm",
         "BanReason": "Cross teaming"
     },
     "Beetlejuice_214": {
-        "banneduntil": "2024.8.30-12.00.00pm",
+        "banneduntil": "2024.7.30-12.00.00pm",
         "BanReason": "Rdm,random tazing"
+    },
+    "olivegradenbreadstick": {
+        "banneduntil": "2024.8.1-12.00.00pm",
+        "BanReason": "Team killing"
     }
 }
