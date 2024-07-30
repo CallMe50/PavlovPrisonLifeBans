@@ -3090,5 +3090,9 @@
     "BRO_BLAZER": {
         "banneduntil": "2024.8.3-12.00.00pm",
         "BanReason": "crossteaming/baiting - read the rules - German"
+    },
+    "Nav_43": {
+        "banneduntil": "2024.8.1-12.00.00pm",
+        "BanReason": "baiting (report discord) - read the rules - German"
     }
 }
