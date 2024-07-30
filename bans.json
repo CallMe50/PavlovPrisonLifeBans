@@ -3070,5 +3070,9 @@
     "sidehustle24": {
         "banneduntil": "2027.7.30-12.00.00pm",
         "BanReason": "Underage (10) must be 13+"
+    },
+    "buckeye.227722": {
+        "banneduntil": "2024.8.1-12.00.00pm",
+        "BanReason": "Rdm x2 after warned"
     }
 }
