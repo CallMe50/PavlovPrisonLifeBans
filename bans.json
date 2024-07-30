@@ -3130,5 +3130,9 @@
     "washingmachine9000": {
         "banneduntil": "2026.7.6-12.00.00pm",
         "BanReason": "Underage ,left admin sit"
+    },
+    "staffattack.2023": {
+        "banneduntil": "2027.7.30-12.00.00pm",
+        "BanReason": "Underage (10) per vid from PL reports."
     }
 }
