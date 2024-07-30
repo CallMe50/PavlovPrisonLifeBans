@@ -3094,5 +3094,9 @@
     "Nav_43": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "baiting (report discord) - read the rules - German"
+    },
+    "RaidenDaddy": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "multiple RDM - read the rules - German"
     }
 }
