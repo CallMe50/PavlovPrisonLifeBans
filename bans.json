@@ -3138,5 +3138,9 @@
     "depot.231533": {
         "banneduntil": "2025.6.7-12.00.00pm",
         "BanReason": "Underage,left admin sit"
+    },
+    "CBoys19": {
+        "banneduntil": "2024.8.7-12.00.00pm",
+        "BanReason": "Baiting, random tasing, tasing a teammate, calling for a false mod sit, and attempted to kill self in admin sit (x4)"
     }
 }
