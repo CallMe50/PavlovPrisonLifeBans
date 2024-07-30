@@ -3110,5 +3110,9 @@
     "ChristianoRonaldo2011": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "Russian_male22": {
+        "banneduntil": "5555.5.5-12.00.00pm",
+        "BanReason": "Hard r + alts"
     }
 }
