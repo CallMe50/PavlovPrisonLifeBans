@@ -3262,5 +3262,9 @@
     "1970chrislang": {
         "banneduntil": "2026.8.2-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "beanzgobblet": {
+        "banneduntil": "2099.8.2-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
