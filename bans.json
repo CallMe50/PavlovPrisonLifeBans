@@ -3270,5 +3270,9 @@
     "VXRAIL_17": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Underage (12) banned till 13 years old"
+    },
+    "graham.l.2013": {
+        "banneduntil": "2027.9.1-12.00.00pm",
+        "BanReason": "Underage (10) come back when 13"
     }
 }
