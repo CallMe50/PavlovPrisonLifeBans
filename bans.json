@@ -3242,5 +3242,9 @@
     "you.eat.babys": {
         "banneduntil": "2099.6.7-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "cashmoney99.2023": {
+        "banneduntil": "2024.4.7-12.00.00pm",
+        "BanReason": "Tk, leaving adminsit"
     }
 }
