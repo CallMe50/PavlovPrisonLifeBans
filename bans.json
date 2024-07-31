@@ -3218,5 +3218,9 @@
     "sapomur": {
         "banneduntil": "2099.8.2-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "shrekinboi": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
