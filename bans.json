@@ -3254,5 +3254,9 @@
     "BBC407": {
         "banneduntil": "2024.8.3-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Timmy6090": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
