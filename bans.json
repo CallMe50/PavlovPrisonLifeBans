@@ -3182,5 +3182,9 @@
     "nitrousmicrowav": {
         "banneduntil": "2027.8.1-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "epicalien.2024": {
+        "banneduntil": "2024.8.3-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
