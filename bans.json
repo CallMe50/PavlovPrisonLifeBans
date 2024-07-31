@@ -3202,5 +3202,9 @@
     "sqmDAshoota": {
         "banneduntil": "2024.8.2-12.00.00pm",
         "BanReason": "TK"
+    },
+    "chozo131": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "TK, Rdm, kept tryna kill in admin sit"
     }
 }
