@@ -3210,5 +3210,9 @@
     "toiletert333": {
         "banneduntil": "2024.8.9-12.00.00pm",
         "BanReason": "TK & RDM"
+    },
+    "b33fchurger": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "Mass TK"
     }
 }
