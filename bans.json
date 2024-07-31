@@ -3238,5 +3238,9 @@
     "DUCKK2008": {
         "banneduntil": "2024.8.2-12.00.00pm",
         "BanReason": "False tazing and crossteaming"
+    },
+    "you.eat.babys": {
+        "banneduntil": "2099.6.7-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
