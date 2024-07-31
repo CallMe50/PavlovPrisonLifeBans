@@ -3198,5 +3198,9 @@
     "Gun.slinger": {
         "banneduntil": "2024.8.2-12.00.00pm",
         "BanReason": "Leaving adminsit and crossteaming"
+    },
+    "sqmDAshoota": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "TK"
     }
 }
