@@ -3166,5 +3166,9 @@
     "k.boyz.777": {
         "banneduntil": "2024.8.1-12.00.00pm",
         "BanReason": "Teaming/Baiting"
+    },
+    "Arthur_Morgan0": {
+        "banneduntil": "2024.8.31-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
