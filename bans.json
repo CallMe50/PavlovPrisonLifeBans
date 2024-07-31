@@ -3246,5 +3246,9 @@
     "cashmoney99.2023": {
         "banneduntil": "2024.4.7-12.00.00pm",
         "BanReason": "Tk, leaving adminsit"
+    },
+    "That_Bastard_cleatus": {
+        "banneduntil": "2024.8.9-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
