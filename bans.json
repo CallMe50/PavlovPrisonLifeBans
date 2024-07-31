@@ -3266,5 +3266,9 @@
     "beanzgobblet": {
         "banneduntil": "2099.8.2-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "VXRAIL_17": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Underage (12) banned till 13 years old"
     }
 }
