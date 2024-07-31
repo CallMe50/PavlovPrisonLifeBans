@@ -3226,5 +3226,9 @@
     "chhese.2023": {
         "banneduntil": "2024.8.2-12.00.00pm",
         "BanReason": "Teamkill - read the rules - German"
+    },
+    "ja.gotti.2023": {
+        "banneduntil": "2024.8.3-12.00.00pm",
+        "BanReason": "RDM and tazing his team"
     }
 }
