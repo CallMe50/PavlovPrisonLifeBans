@@ -3194,5 +3194,9 @@
     "McCallUs": {
         "banneduntil": "2024.8.5-12.00.00pm",
         "BanReason": "Tk and cross teaming"
+    },
+    "Gun.slinger": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "Leaving adminsit and crossteaming"
     }
 }
