@@ -3314,5 +3314,9 @@
     "Spinnny": {
         "banneduntil": "2024.8.2-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Leothechamp": {
+        "banneduntil": "2025.8.1-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
