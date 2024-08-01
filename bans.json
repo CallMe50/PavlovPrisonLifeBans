@@ -3330,5 +3330,9 @@
     "iliveunderyourbed": {
         "banneduntil": "2024.8.2-12.00.00pm",
         "BanReason": "Teaming"
+    },
+    "WAZAA_GHOSTFACE": {
+        "banneduntil": "2024.8.8-12.00.00pm",
+        "BanReason": "RDM, Leaving during admin sit"
     }
 }
