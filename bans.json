@@ -3282,5 +3282,9 @@
     "Areo_Mcflurry": {
         "banneduntil": "2099.7.1-12.00.00pm",
         "BanReason": "Hard R (ineligible to appeal)"
+    },
+    "Toast233": {
+        "banneduntil": "2024.8.15-12.00.00pm",
+        "BanReason": "RDM x3"
     }
 }
