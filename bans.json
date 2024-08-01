@@ -3294,5 +3294,9 @@
     "Saxon_W": {
         "banneduntil": "2027.8.15-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "brayant.chaves.129": {
+        "banneduntil": "2024.10.1-12.00.00pm",
+        "BanReason": "N word"
     }
 }
