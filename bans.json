@@ -3322,5 +3322,9 @@
     "deethewee.2023": {
         "banneduntil": "9999.8.1-12.00.00pm",
         "BanReason": "Lying about age (x5), leaving during admin sit (x2), rdming in admin sit, underaged"
+    },
+    "GotyMorph": {
+        "banneduntil": "2024.8.3-12.00.00pm",
+        "BanReason": "Rdm & Baiting"
     }
 }
