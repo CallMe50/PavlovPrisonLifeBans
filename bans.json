@@ -3278,5 +3278,9 @@
     "txmpesta": {
         "banneduntil": "2024.7.1-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "Areo_Mcflurry": {
+        "banneduntil": "2099.7.1-12.00.00pm",
+        "BanReason": "Hard R (ineligible to appeal)"
     }
 }
