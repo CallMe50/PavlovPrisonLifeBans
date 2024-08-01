@@ -3326,5 +3326,9 @@
     "GotyMorph": {
         "banneduntil": "2024.8.3-12.00.00pm",
         "BanReason": "Rdm & Baiting"
+    },
+    "iliveunderyourbed": {
+        "banneduntil": "2024.8.2-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
