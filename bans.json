@@ -3318,5 +3318,9 @@
     "Leothechamp": {
         "banneduntil": "2025.8.1-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "deethewee.2023": {
+        "banneduntil": "9999.8.1-12.00.00pm",
+        "BanReason": "Lying about age (x5), leaving during admin sit (x2), rdming in admin sit"
     }
 }
