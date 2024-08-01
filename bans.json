@@ -3306,5 +3306,9 @@
     "H0mi3de": {
         "banneduntil": "2026.8.3-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "OTF_sponge": {
+        "banneduntil": "2024.8.3-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
