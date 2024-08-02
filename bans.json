@@ -3374,5 +3374,9 @@
     "puckfuppet": {
         "banneduntil": "2999.6.5-12.00.00pm",
         "BanReason": "Farming achievements"
+    },
+    "tommy.322715": {
+        "banneduntil": "2030.9.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
