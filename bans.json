@@ -3402,5 +3402,9 @@
     "LoganH": {
         "banneduntil": "2027.7.29-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "i_am_bored123": {
+        "banneduntil": "2024.8.5-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
