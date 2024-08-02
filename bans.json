@@ -3370,5 +3370,9 @@
     "p_q025": {
         "banneduntil": "2999.8.4-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "puckfuppet": {
+        "banneduntil": "2999.6.5-12.00.00pm",
+        "BanReason": "Farming achievements"
     }
 }
