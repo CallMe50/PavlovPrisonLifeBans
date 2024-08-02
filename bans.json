@@ -3390,5 +3390,9 @@
     "KissMy_Axe": {
         "banneduntil": "2024.8.6-12.00.00pm",
         "BanReason": "Teamimg"
+    },
+    "xenifull": {
+        "banneduntil": "2030.8.3-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
