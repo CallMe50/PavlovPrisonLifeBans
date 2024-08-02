@@ -3386,5 +3386,9 @@
     "nanscody": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "KissMy_Axe": {
+        "banneduntil": "2024.8.6-12.00.00pm",
+        "BanReason": "Teamimg"
     }
 }
