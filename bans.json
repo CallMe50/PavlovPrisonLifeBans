@@ -3342,5 +3342,9 @@
     "1K0N": {
         "banneduntil": "2024.8.2-12.00.00pm",
         "BanReason": "3x rdms and tazing for diamonds, read the rules -Envy/Envnity."
+    },
+    "Sniper8805": {
+        "banneduntil": "2024.8.10-12.00.00pm",
+        "BanReason": "Mass tk, evaded an admin sit"
     }
 }
