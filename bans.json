@@ -3362,5 +3362,9 @@
     "FLUDIZZ_BXNDIT": {
         "banneduntil": "2024.8.4-12.00.00pm",
         "BanReason": "Teaming & RDM"
+    },
+    "J.d.m": {
+        "banneduntil": "2025.8.3-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
