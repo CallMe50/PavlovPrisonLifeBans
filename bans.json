@@ -3416,7 +3416,7 @@
         "BanReason": "RDM"
     },
     "RightSkills": {
-        "banneduntil": "2024.8.4-12.00.00pm",
-        "BanReason": "TK"
+        "banneduntil": "2024.8.3-12.00.00pm",
+        "BanReason": "TK (wrong day)"
     }
 }
