@@ -3438,5 +3438,9 @@
     "1nonly_Ghost": {
         "banneduntil": "2025.12.1-12.00.00pm",
         "BanReason": "Underage 12"
+    },
+    "sniper_mask3948": {
+        "banneduntil": "2024.8.4-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
