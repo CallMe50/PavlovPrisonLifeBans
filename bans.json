@@ -3410,5 +3410,9 @@
     "EastonH6": {
         "banneduntil": "2024.8.4-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "v0cal_Qic": {
+        "banneduntil": "2024.8.4-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
