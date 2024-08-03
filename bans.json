@@ -3434,5 +3434,9 @@
     "poncea": {
         "banneduntil": "2024.8.6-12.00.00pm",
         "BanReason": "Mass rdm and cross teaming, read the rules -Envy/Envnity."
+    },
+    "1nonly_Ghost": {
+        "banneduntil": "2025.12.1-12.00.00pm",
+        "BanReason": "Underage 12"
     }
 }
