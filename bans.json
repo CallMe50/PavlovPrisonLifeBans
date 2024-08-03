@@ -3474,5 +3474,9 @@
     "joey21644": {
         "banneduntil": "2099.8.5-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "Rufus4kt": {
+        "banneduntil": "2022.8.5-12.00.00pm",
+        "BanReason": "False Ban"
     }
 }
