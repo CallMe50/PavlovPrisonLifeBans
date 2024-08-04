@@ -3518,5 +3518,9 @@
     "Choppa101": {
         "banneduntil": "2024.8.11-12.00.00pm",
         "BanReason": "Intentional RDMx3"
+    },
+    "CashTheDestroyer": {
+        "banneduntil": "2025.12.1-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
