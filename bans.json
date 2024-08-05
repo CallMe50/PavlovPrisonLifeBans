@@ -3530,5 +3530,9 @@
     "kmerson": {
         "banneduntil": "2024.8.6-12.00.00pm",
         "BanReason": "Mass rdm, read the rules -Envy/Envnity."
+    },
+    "demo5566": {
+        "banneduntil": "2024.8.7-12.00.00pm",
+        "BanReason": "Rdm and evaded sit"
     }
 }
