@@ -3574,5 +3574,9 @@
     "finnegan506": {
         "banneduntil": "2025.8.5-12.00.00pm",
         "BanReason": "Underaged, cross-teaming, refusal to comply in sit, sit evasion and uncooperative"
+    },
+    "carlitosleon01": {
+        "banneduntil": "2024.8.10-12.00.00pm",
+        "BanReason": "Rdm, evaded an admin sit"
     }
 }
