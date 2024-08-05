@@ -3582,5 +3582,9 @@
     "stoner_durk": {
         "banneduntil": "2024.8.8-12.00.00pm",
         "BanReason": "Random tazing, random shooting"
+    },
+    "Drkillgood277": {
+        "banneduntil": "2024.8.7-12.00.00pm",
+        "BanReason": "TKing from previous in-game report."
     }
 }
