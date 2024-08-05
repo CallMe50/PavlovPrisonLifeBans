@@ -3534,5 +3534,9 @@
     "demo5566": {
         "banneduntil": "2024.8.7-12.00.00pm",
         "BanReason": "Rdm and evaded sit"
+    },
+    "24K47": {
+        "banneduntil": "2024.8.6-12.00.00pm",
+        "BanReason": "Team kill"
     }
 }
