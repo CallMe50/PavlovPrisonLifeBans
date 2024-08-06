@@ -3602,5 +3602,9 @@
     "Cheezballs": {
         "banneduntil": "2024.8.8-12.00.00pm",
         "BanReason": "Rdm and prisoner as swat with a knife 3 day ban"
+    },
+    "DangerMax": {
+        "banneduntil": "2024.8.6-12.00.00pm",
+        "BanReason": "Harassing staff and evading sit, read the rules -Raptor"
     }
 }
