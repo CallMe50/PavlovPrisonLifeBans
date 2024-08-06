@@ -3650,5 +3650,9 @@
     "PistolPete3413B": {
         "banneduntil": "2024.8.9-12.00.00pm",
         "BanReason": "RDMing from PL reports."
+    },
+    "deltasoulja": {
+        "banneduntil": "2024.8.10-12.00.00pm",
+        "BanReason": "Double TK"
     }
 }
