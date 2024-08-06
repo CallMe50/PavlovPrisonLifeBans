@@ -3618,5 +3618,9 @@
     "DoorFrameLover": {
         "banneduntil": "2024.8.6-12.00.00pm",
         "BanReason": "False tazing, nonconpliant"
+    },
+    "fishy1345": {
+        "banneduntil": "2024.8.10-12.00.00pm",
+        "BanReason": "RDM and TK"
     }
 }
