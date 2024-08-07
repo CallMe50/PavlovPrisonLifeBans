@@ -3706,5 +3706,9 @@
     "isighed": {
         "banneduntil": "2024.8.16-12.00.00pm",
         "BanReason": "RDM x3"
+    },
+    "Bam0227": {
+        "banneduntil": "2029.8.16-12.00.00pm",
+        "BanReason": "RDM, Possible Underage, Evading admin sit, appeal on discord"
     }
 }
