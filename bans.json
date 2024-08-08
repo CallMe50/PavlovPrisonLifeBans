@@ -3834,5 +3834,9 @@
     "Levi200b": {
         "banneduntil": "2024.8.9-12.00.00",
         "BanReason": "Mass rdm"
+    },
+    "hi.769229": {
+        "banneduntil": "2024.8.10-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
