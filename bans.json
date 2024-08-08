@@ -3818,5 +3818,9 @@
     "idk_1208": {
         "banneduntil": "2024.8.13-12.00.00pm",
         "BanReason": "reason Evaded admin sit, rdm"
+    },
+    "Bred.x": {
+        "banneduntil": "9999.5.13-12.00.00pm",
+        "BanReason": "Underaged (12), ban evading"
     }
 }
