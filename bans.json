@@ -3802,5 +3802,9 @@
     "KILLSWITCH758": {
         "banneduntil": "2099.8.5-12.00.00pm",
         "BanReason": "Evaded admin Sit, n word"
+    },
+    "RKelly": {
+        "banneduntil": "2024.9.7-12.00.00pm",
+        "BanReason": "N word"
     }
 }
