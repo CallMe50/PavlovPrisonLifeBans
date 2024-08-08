@@ -3822,5 +3822,9 @@
     "Bred.x": {
         "banneduntil": "9999.5.13-12.00.00pm",
         "BanReason": "Underaged (12), ban evading"
+    },
+    "oieboy": {
+        "banneduntil": "2024.8.11-12.00.00pm",
+        "BanReason": "Mass DMV (x5)"
     }
 }
