@@ -3826,5 +3826,9 @@
     "oieboy": {
         "banneduntil": "2024.8.11-12.00.00pm",
         "BanReason": "Mass Rdm (x5)"
+    },
+    "SaltySpying1": {
+        "banneduntil": "2026.8.12-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
