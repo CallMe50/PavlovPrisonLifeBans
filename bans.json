@@ -3778,5 +3778,9 @@
     "Big.D123": {
         "banneduntil": "2025.8.8-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Iron_Spider_2022": {
+        "banneduntil": "2024.8.8",
+        "BanReason": "Rdm"
     }
 }
