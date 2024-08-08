@@ -3750,5 +3750,9 @@
     "paebert": {
         "banneduntil": "2024.8.8-12.00.00pm",
         "BanReason": "Excessive pris tk"
+    },
+    "GPman19": {
+        "banneduntil": "2028.8.14-12:00:00pm",
+        "BanReason": "Underaged (10)"
     }
 }
