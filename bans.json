@@ -3990,5 +3990,9 @@
     "Derfer4": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "IMASNAKEEE": {
+        "banneduntil": "2024.8.12-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
