@@ -3942,5 +3942,9 @@
     "drzbo": {
         "banneduntil": "2024.8.10-12.00.00pm",
         "BanReason": "Crossteam"
+    },
+    "DexDair": {
+        "banneduntil": "2025.8.10-12.00.00pm",
+        "BanReason": "Underage (12) have to be 13+"
     }
 }
