@@ -3950,5 +3950,9 @@
     "Ric": {
         "banneduntil": "2024.9.9-12.00.00pm",
         "BanReason": "Rdm x2"
+    },
+    "b.p.t": {
+        "banneduntil": "2026.8.9",
+        "BanReason": "Possibly underaged and evading admin sit"
     }
 }
