@@ -3926,5 +3926,9 @@
     "WetMonkey": {
         "banneduntil": "2024.9.9-12.00.00pm",
         "BanReason": "n word"
+    },
+    "shafferdoo": {
+        "banneduntil": "2024.9.13-12.00.00",
+        "BanReason": "rdm and evading a mod sit"
     }
 }
