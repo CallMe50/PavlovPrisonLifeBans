@@ -3914,5 +3914,9 @@
     "Jerrostruck": {
         "banneduntil": "2024.8.23-12.00.00pm",
         "BanReason": "Multiple RDM and evading a Mod sit"
+    },
+    "jayskit": {
+        "banneduntil": "2024.8.14-12.00.00pm",
+        "BanReason": "Rdm and evaded sit -tony"
     }
 }
