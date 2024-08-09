@@ -3952,7 +3952,7 @@
         "BanReason": "Rdm x2"
     },
     "b.p.t": {
-        "banneduntil": "2026.8.9",
+        "banneduntil": "2026.8.9-12.00.00pm",
         "BanReason": "Possibly underaged and evading admin sit"
     }
 }
