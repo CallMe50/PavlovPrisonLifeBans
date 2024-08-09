@@ -3870,5 +3870,9 @@
     "ok_i_pull_up": {
         "banneduntil": "2026.8.8-12.00.00pm",
         "BanReason": "Reason underage(11)Envy approved"
+    },
+    "gray123": {
+        "banneduntil": "2027.8.8-12.00.00pm",
+        "BanReason": "Reason underage-ten years old"
     }
 }
