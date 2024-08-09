@@ -3946,5 +3946,9 @@
     "DexDair": {
         "banneduntil": "2025.8.10-12.00.00pm",
         "BanReason": "Underage (12) have to be 13+"
+    },
+    "Ric": {
+        "banneduntil": "2024.9.9-12.00.00",
+        "BanReason": "Rdm x2"
     }
 }
