@@ -3922,5 +3922,9 @@
     "jlittle23.2023": {
         "banneduntil": "2027.8.9-12.00.00pm",
         "BanReason": "Underaged (10)"
+    },
+    "WetMonkey": {
+        "banneduntil": "2024.9.9-12.00.00pm",
+        "BanReason": "n word"
     }
 }
