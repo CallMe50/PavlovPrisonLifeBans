@@ -3850,5 +3850,9 @@
     "KRTEKTHEMENIS": {
         "banneduntil": "2028.8.8-12.00.00pm",
         "BanReason": "Under age admitter being 9 video proof 4 yr ban"
+    },
+    "Landonpeak": {
+        "banneduntil": "2024.8.9-12.00.00pm",
+        "BanReason": "Crossteaming twice(Eddie approved)"
     }
 }
