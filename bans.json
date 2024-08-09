@@ -3954,5 +3954,9 @@
     "b.p.t": {
         "banneduntil": "2026.8.9-12.00.00pm",
         "BanReason": "Possibly underaged and evading admin sit"
+    },
+    "smlock_vr": {
+        "banneduntil": "2024.8.12-12.00.00pm",
+        "BanReason": "Rdm x2 and killed in sit"
     }
 }
