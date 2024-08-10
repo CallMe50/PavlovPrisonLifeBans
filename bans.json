@@ -3994,5 +3994,9 @@
     "IMASNAKEEE": {
         "banneduntil": "2024.8.12-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Chase1214.2023": {
+        "banneduntil": "2025.8.1-12.00.00pm",
+        "BanReason": "Underaged (12)"
     }
 }
