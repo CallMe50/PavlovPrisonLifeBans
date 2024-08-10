@@ -4062,5 +4062,9 @@
     "psnclapxxxzx": {
         "banneduntil": "2099.8.8-12.00.00pm",
         "BanReason": "Ban evading account, underage"
+    },
+    "JEFF_BAD": {
+        "banneduntil": "2024.10.10-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
