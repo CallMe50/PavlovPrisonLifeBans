@@ -3998,5 +3998,9 @@
     "Chase1214.2023": {
         "banneduntil": "2025.8.1-12.00.00pm",
         "BanReason": "Underaged (12)"
+    },
+    "meatball1.2023": {
+        "banneduntil": "2024.8.11-12.00.00pm",
+        "BanReason": "Rdm,kick off the guard team twice"
     }
 }
