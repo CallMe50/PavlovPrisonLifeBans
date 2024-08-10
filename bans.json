@@ -4118,5 +4118,9 @@
     "DisimueiXR": {
         "banneduntil": "2026.8.10-12:00.00pm",
         "BanReason": "Reason:Underaged(11)"
+    },
+    "DrisimueiXR": {
+        "banneduntil": "2026.8.10-12.00.00pm",
+        "BanReason": "Underaged(11)"
     }
 }
