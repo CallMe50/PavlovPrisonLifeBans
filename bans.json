@@ -4002,5 +4002,9 @@
     "meatball1.2023": {
         "banneduntil": "2024.8.11-12.00.00pm",
         "BanReason": "Rdm,kick off the guard team twice"
+    },
+    "GhettoKidz": {
+        "banneduntil": "9999.8.1-12.00.00pm",
+        "BanReason": "Underage, please provide proof of age, blur out any PII.-Zilla"
     }
 }
