@@ -4066,5 +4066,9 @@
     "JEFF_BAD": {
         "banneduntil": "2024.10.10-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Alan542012": {
+        "banneduntil": "2025.8.10-12.00.00pm",
+        "BanReason": "Underaged and evaded mod sit"
     }
 }
