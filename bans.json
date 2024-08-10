@@ -4106,5 +4106,9 @@
     "THE_OP": {
         "banneduntil": "9999-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Outofthiswrld.2023": {
+        "banneduntil": "2024.8.15-12.00.00pm",
+        "BanReason": "Rdm and killing during sit"
     }
 }
