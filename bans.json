@@ -4102,5 +4102,9 @@
     "Crazymann": {
         "banneduntil": "2024.8.11-12.00.00pm",
         "BanReason": "Abusing mod sit button"
+    },
+    "THE_OP": {
+        "banneduntil": "9999-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
