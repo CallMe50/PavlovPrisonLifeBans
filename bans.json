@@ -4006,5 +4006,9 @@
     "GhettoKidz": {
         "banneduntil": "9999.8.1-12.00.00pm",
         "BanReason": "Underage, please provide proof of age, blur out any PII.-Zilla"
+    },
+    "oscar.426832": {
+        "banneduntil": "2023.8.12-12.00.00pm",
+        "BanReason": "Rdm(x3),evading sit"
     }
 }
