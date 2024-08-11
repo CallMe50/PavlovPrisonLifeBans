@@ -2880,8 +2880,8 @@
         "BanReason": "Evading admin sit (x2), rdming a prisoner"
     },
     "Drax-E-Pooz": {
-        "banneduntil": "9999.12.31-12.00.00pm",
-        "BanReason": "."
+        "banneduntil": "2023.12.31-12.00.00pm",
+        "BanReason": "Unban (Luci)"
     },
     "BenFromGeico": {
         "banneduntil": "2024.7.29-12.00.00pm",
