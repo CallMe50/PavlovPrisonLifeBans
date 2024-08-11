@@ -4158,5 +4158,9 @@
     "SLO7H": {
         "banneduntil": "2024.8.13-12.00.00pm",
         "BanReason": "Rdm for pipe"
+    },
+    "Flintshooter": {
+        "banneduntil": "2024.8.14-12.00.00pm",
+        "BanReason": "multiple rdm & tk - read the rules - German"
     }
 }
