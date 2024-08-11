@@ -4130,5 +4130,9 @@
     "dinokid.2024": {
         "banneduntil": "2025.8.11-12.00.00pm",
         "BanReason": "underaged"
+    },
+    "SL07H": {
+        "banneduntil": "2024.8.24-12.00.00pm",
+        "BanReason": "Mass tk"
     }
 }
