@@ -4186,5 +4186,9 @@
     "Endrit_Seli": {
         "banneduntil": "2024.8.14-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Flashbangbandito": {
+        "banneduntil": "2024.8.15-12.00.00pm",
+        "BanReason": "RDM, TK"
     }
 }
