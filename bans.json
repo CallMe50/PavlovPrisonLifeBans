@@ -4190,5 +4190,9 @@
     "Flashbangbandito": {
         "banneduntil": "2024.8.15-12.00.00pm",
         "BanReason": "RDM, TK"
+    },
+    "Daxobar": {
+        "banneduntil": "2024.8.14-12.00.00pm",
+        "BanReason": "Multiple RDM and ramdom shooting - read the rules - German"
     }
 }
