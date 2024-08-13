@@ -4262,5 +4262,9 @@
     "c__k": {
         "banneduntil": "2024.8.20-12.00.00pm",
         "BanReason": "Wall Shooting"
+    },
+    "legionFR": {
+        "banneduntil": "2024.8.14-12.00.00pm",
+        "BanReason": "Team killing, teaming (Loggie)"
     }
 }
