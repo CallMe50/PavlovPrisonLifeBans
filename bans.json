@@ -4274,5 +4274,9 @@
     "SniperJr100": {
         "banneduntil": "2027.8.13-12.00.00pm",
         "BanReason": "Underaged and evaded mod sit"
+    },
+    "branty": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
