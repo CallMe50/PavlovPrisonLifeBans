@@ -4206,5 +4206,9 @@
     "zoomvr": {
         "banneduntil": "2024.8.17-12.00.00pm",
         "BanReason": "TeamKilling, evading admin sit 6X - WilliamEXE"
+    },
+    "ekcriv": {
+        "banneduntil": "2024.8.12-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
