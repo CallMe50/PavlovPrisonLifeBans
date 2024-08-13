@@ -4278,5 +4278,9 @@
     "branty": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "Cayson11316": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underage - German"
     }
 }
