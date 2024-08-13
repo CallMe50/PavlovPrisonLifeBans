@@ -4226,5 +4226,9 @@
     "Neox1990": {
         "banneduntil": "2024.8.15-12.00.00pm",
         "BanReason": "Excessive Tk and teaming with prisoners"
+    },
+    "RobotAura": {
+        "banneduntil": "2024.8.15-12.00.00pm",
+        "BanReason": "Reason:baiting"
     }
 }
