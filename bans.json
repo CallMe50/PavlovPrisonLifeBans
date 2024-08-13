@@ -4242,5 +4242,9 @@
     "Kat.fish": {
         "banneduntil": "2024.8.15-12.00.00pm",
         "BanReason": "RDM - read the rules - German"
+    },
+    "Lynn_r44": {
+        "banneduntil": "2024.8.16-12.00.00pm",
+        "BanReason": "Team Killing (Player report)"
     }
 }
