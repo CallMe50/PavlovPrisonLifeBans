@@ -4270,5 +4270,9 @@
     "arobox_vr": {
         "banneduntil": "2024.8.19-12.00.00pm",
         "BanReason": "Mass Tk and ban evade"
+    },
+    "SniperJr100": {
+        "banneduntil": "2027.8.13-12.00.00pm",
+        "BanReason": "Underaged and evaded mod sit"
     }
 }
