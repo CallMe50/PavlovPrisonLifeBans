@@ -4306,5 +4306,9 @@
     "Xaiver1513": {
         "banneduntil": "2026.7.8-12.00.00pm",
         "BanReason": "Possibly underage did not comply"
+    },
+    "cartrel": {
+        "banneduntil": "2026.7.8-12.00.00pm",
+        "BanReason": "Underage (12) -Envy/Envnity."
     }
 }
