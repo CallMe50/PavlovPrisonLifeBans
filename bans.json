@@ -4362,5 +4362,9 @@
     "Nikmaks146": {
         "banneduntil": "2024.8.19-12.00.00pm",
         "BanReason": "Mass TK of guard team."
+    },
+    "Username": {
+        "banneduntil": "2025.5.5-12.00.00pm",
+        "BanReason": "Test"
     }
 }
