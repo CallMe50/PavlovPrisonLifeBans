@@ -4354,5 +4354,9 @@
     "Notsnoorvr": {
         "banneduntil": "2026.8.14-12.00.00pm",
         "BanReason": "Underaged(11)"
+    },
+    "dogman.242522": {
+        "banneduntil": "2024.8.17-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
