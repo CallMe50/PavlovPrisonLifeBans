@@ -4322,5 +4322,9 @@
     "Dovahyollkrii": {
         "banneduntil": "2025.8.14-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "presidint": {
+        "banneduntil": "2024.8.18-12.00.00pm",
+        "BanReason": "Mass TK"
     }
 }
