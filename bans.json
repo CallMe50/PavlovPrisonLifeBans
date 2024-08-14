@@ -4330,5 +4330,9 @@
     "HOLYSMOKESS": {
         "banneduntil": "2027.8.14-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "BulkyBean78": {
+        "banneduntil": "2024.8.16-12.00.00pm",
+        "BanReason": "Rdm, evading mod sit"
     }
 }
