@@ -4366,5 +4366,9 @@
     "Username": {
         "banneduntil": "2025.5.5-12.00.00pm",
         "BanReason": "Test"
+    },
+    "faze.bofa": {
+        "banneduntil": "2024.8.31-12.00.00pm",
+        "BanReason": "RDM x2, refusal to cooperate during sit x4, killing during sit, attempted sit evasion."
     }
 }
