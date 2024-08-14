@@ -4338,5 +4338,9 @@
     "Blobby_bob": {
         "banneduntil": "2025.8.14-12.00.00pm",
         "BanReason": "Underaged 12"
+    },
+    "louise.pritchard.79": {
+        "banneduntil": "2027.8.14-12.00.00pm",
+        "BanReason": "Underaged ten"
     }
 }
