@@ -4422,5 +4422,9 @@
     "Call.me.bob": {
         "banneduntil": "2025.8.15-12.00.00pm",
         "BanReason": "Underaged 12"
+    },
+    "Smellycheese": {
+        "banneduntil": "2029.8.15-12.00.00pm",
+        "BanReason": "Underaged 8"
     }
 }
