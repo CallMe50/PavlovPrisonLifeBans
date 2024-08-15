@@ -4390,5 +4390,9 @@
     "ghost.558625": {
         "banneduntil": "2024.8.15-12.00.00pm",
         "BanReason": "Random shooting after warned"
+    },
+    "MR_F0X": {
+        "banneduntil": "2024.8.18-12.00.00pm",
+        "BanReason": "Mass Rdm"
     }
 }
