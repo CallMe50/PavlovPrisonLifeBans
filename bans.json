@@ -4418,5 +4418,9 @@
     "Mr.PeelVR": {
         "banneduntil": "2025.8.15-12.00.00pm",
         "BanReason": "Sounds extremely underaged, said he was born in 2012, then said he was 13, then said he forgot his birthday."
+    },
+    "Call.me.bob": {
+        "banneduntil": "2025.8.15-12.00.00pm",
+        "BanReason": "Underaged 12"
     }
 }
