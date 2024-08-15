@@ -4406,5 +4406,9 @@
     "Runner0803": {
         "banneduntil": "2025.8.15-12.00.00pm",
         "BanReason": "Underaged 12"
+    },
+    "Jamesol": {
+        "banneduntil": "2024.8.16-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
