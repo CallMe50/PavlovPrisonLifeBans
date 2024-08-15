@@ -4410,5 +4410,9 @@
     "Jamesol": {
         "banneduntil": "2024.8.16-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Masterestine": {
+        "banneduntil": "2024.8.16-12.00.00pm",
+        "BanReason": "Teamkill"
     }
 }
