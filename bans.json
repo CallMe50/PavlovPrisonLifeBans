@@ -4502,5 +4502,9 @@
     "mayday.447932": {
         "banneduntil": "2028.8.18-12.00.00pm",
         "BanReason": "Underage(10)"
+    },
+    "Adkrisby": {
+        "banneduntil": "2025.8.16-12.00.00pm",
+        "BanReason": "Underage(12)"
     }
 }
