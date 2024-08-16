@@ -4470,5 +4470,9 @@
     "FordF950": {
         "banneduntil": "2099.12.29-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Noodlum17": {
+        "banneduntil": "2029.12.29-12.00.00pm",
+        "BanReason": "Underage (9)"
     }
 }
