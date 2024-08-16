@@ -4482,5 +4482,9 @@
     "ParkerEpic23": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Rdm on multiple occasions 4 warnings killing people with radi ect"
+    },
+    "Rydershotyou": {
+        "banneduntil": "2099.8.16-12.00.00pm",
+        "BanReason": "Racism, evading admin sit"
     }
 }
