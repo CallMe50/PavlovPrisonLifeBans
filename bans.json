@@ -4490,5 +4490,9 @@
     "Charlieplaysbasketba": {
         "banneduntil": "2024.8.21-12.00.00pm",
         "BanReason": "Tk, evading admin sit"
+    },
+    "Rickroosthepair": {
+        "banneduntil": "2024.8.18-12.00.00",
+        "BanReason": "Tk, crossteaming"
     }
 }
