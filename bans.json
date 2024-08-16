@@ -4466,5 +4466,9 @@
     "mrfein69": {
         "banneduntil": "2024.8.17-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "FordF950": {
+        "banneduntil": "2099.12.29-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
