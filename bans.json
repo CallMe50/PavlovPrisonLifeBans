@@ -4478,5 +4478,9 @@
     "invinbcble": {
         "banneduntil": "2024.8.20-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "ParkerEpic23": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Rdm on multiple occasions 4 warnings killing people with radi ect"
     }
 }
