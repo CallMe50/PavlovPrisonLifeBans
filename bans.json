@@ -4574,5 +4574,9 @@
     "garyn169": {
         "banneduntil": "2024.8.19-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "FentSoldHere": {
+        "banneduntil": "2024.8.20-12.00.00pm",
+        "BanReason": "Rdm, teaming"
     }
 }
