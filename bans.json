@@ -4578,5 +4578,9 @@
     "FentSoldHere": {
         "banneduntil": "2024.8.20-12.00.00pm",
         "BanReason": "Rdm, teaming"
+    },
+    "BlacktopHoopsTest": {
+        "banneduntil": "2024.8.22-12.00.00pm",
+        "BanReason": "Excessive RDMing and Excessive TKing-Zilla"
     }
 }
