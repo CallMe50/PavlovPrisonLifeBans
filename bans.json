@@ -4554,5 +4554,9 @@
     "fortnitemaster69": {
         "banneduntil": "2024.8.18-12.00.00pm",
         "BanReason": "Team Kill- don't team kill"
+    },
+    "HarryPotMaker": {
+        "banneduntil": "2024.8.31",
+        "BanReason": "Mass rdm admin sit evading was briefed on the rules before doing so"
     }
 }
