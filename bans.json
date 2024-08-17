@@ -4598,5 +4598,9 @@
     "hobyboy": {
         "banneduntil": "2024.8.19-12.00.00pm",
         "BanReason": "Mass rdm (kicked off guard team) and tk"
+    },
+    "jhon_wick.2024": {
+        "banneduntil": "2024.8.19",
+        "BanReason": "Mass rdm and rdm in admin sit"
     }
 }
