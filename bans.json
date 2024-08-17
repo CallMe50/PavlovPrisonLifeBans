@@ -4610,5 +4610,9 @@
     "Kets4eki": {
         "banneduntil": "2024.8.22-12.00.00pm",
         "BanReason": "Mass tk, cross teaming"
+    },
+    "Sussyjamaica": {
+        "banneduntil": "2099.8.22-12.00.00pm",
+        "BanReason": "Repeated use of Hard-R"
     }
 }
