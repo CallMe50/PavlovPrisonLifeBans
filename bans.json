@@ -1620,8 +1620,8 @@
         "BanReason": "Try to teamkill a jugg in fug base - German"
     },
     "tomcat.123": {
-        "banneduntil": "1234.7.8-12.00.00pm",
-        "BanReason": "Unbanndd"
+        "banneduntil": "2023.7.7-12.00.00pm",
+        "BanReason": "Unbanned"
     },
     "laawlessman": {
         "banneduntil": "2024.7.19-12.00.00pm",
@@ -4610,9 +4610,5 @@
     "Kets4eki": {
         "banneduntil": "2024.8.22-12.00.00pm",
         "BanReason": "Mass tk, cross teaming"
-    },
-    "Sussyjamaica": {
-        "banneduntil": "2099.8.22-12.00.00pm",
-        "BanReason": "Repeated use of Hard-R"
     }
 }
