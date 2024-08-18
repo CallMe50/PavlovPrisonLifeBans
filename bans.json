@@ -4662,5 +4662,9 @@
     "Tahiti": {
         "banneduntil": "2024.8.22-12.00.00pm",
         "BanReason": "multiple rdm - read the rules - German"
+    },
+    "abcmouse.342502": {
+        "banneduntil": "2027.8.18-12.00.00pm",
+        "BanReason": "Underaged 10"
     }
 }
