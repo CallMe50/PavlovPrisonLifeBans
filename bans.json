@@ -4618,5 +4618,9 @@
     "tjking04": {
         "banneduntil": "2024.8.20-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Socketer": {
+        "banneduntil": "2024.8.19-12.00.00pm",
+        "BanReason": "Tk, Rdm. Refresh yourself on the rules"
     }
 }
