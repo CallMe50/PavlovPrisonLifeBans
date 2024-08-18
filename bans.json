@@ -4674,5 +4674,9 @@
     "julsiecloope": {
         "banneduntil": "2024.8.21-12.00.00pm",
         "BanReason": "Team Killing (resulting in auto kick from game)"
+    },
+    "GermanCowboy": {
+        "banneduntil": "2024.8.19-12.00.00pm",
+        "BanReason": "TKing-Zilla"
     }
 }
