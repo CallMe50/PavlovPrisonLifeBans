@@ -4658,5 +4658,9 @@
     "isgi1234": {
         "banneduntil": "2029.8.18-12.00.00pm",
         "BanReason": "Underage (8) - come back in few years"
+    },
+    "Tahiti": {
+        "banneduntil": "2024.8.22-12.00.00pm",
+        "BanReason": "multiple rdm - read the rules - German"
     }
 }
