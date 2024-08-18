@@ -4638,5 +4638,9 @@
     "AblazeWheel": {
         "banneduntil": "2024.8.21-12.00.00pm",
         "BanReason": "Mass tk"
+    },
+    "cloope": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
