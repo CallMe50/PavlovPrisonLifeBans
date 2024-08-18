@@ -4642,5 +4642,9 @@
     "cloope": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "Jmoney819": {
+        "banneduntil": "2024.8.20-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
