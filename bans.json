@@ -4622,5 +4622,9 @@
     "Socketer": {
         "banneduntil": "2024.8.19-12.00.00pm",
         "BanReason": "Tk, Rdm. Refresh yourself on the rules"
+    },
+    "Ftmrw": {
+        "banneduntil": "2024.8.20-12.00.00pm",
+        "BanReason": "Mass spawn camping"
     }
 }
