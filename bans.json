@@ -2840,8 +2840,8 @@
         "BanReason": "N-Word"
     },
     "Tomcat.123": {
-        "banneduntil": "2000.1.1-12.00.00pm",
-        "BanReason": "Unban"
+        "banneduntil": "3000.1.1-12.00.00pm",
+        "BanReason": "n"
     },
     "Providence420": {
         "banneduntil": "2099.7.28-12.00.00pm",
