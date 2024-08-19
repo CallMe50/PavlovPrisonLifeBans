@@ -4698,5 +4698,9 @@
     "Vince0810": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Hard r and soft a (n word)"
+    },
+    "en.1": {
+        "banneduntil": "2024.9.18-12.00.00pm",
+        "BanReason": "N word (soft a)"
     }
 }
