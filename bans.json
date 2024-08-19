@@ -4770,5 +4770,9 @@
     "mip1234.638753": {
         "banneduntil": "2024.8.20-12.00.00pm",
         "BanReason": "Tk Possibly underage"
+    },
+    "grandpa_jones": {
+        "banneduntil": "2024.8.20-12.00.00pm",
+        "BanReason": "RDM, evading sit, poor behavior during sit"
     }
 }
