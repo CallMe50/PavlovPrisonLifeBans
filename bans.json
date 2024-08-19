@@ -4702,5 +4702,9 @@
     "en.1": {
         "banneduntil": "2024.9.18-12.00.00pm",
         "BanReason": "N word (soft a)"
+    },
+    "butt_monkey23": {
+        "banneduntil": "2024.8.19-12.00.00pm",
+        "BanReason": "Rdm, killing in sit then leaving game"
     }
 }
