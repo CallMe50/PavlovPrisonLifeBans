@@ -1336,8 +1336,8 @@
         "BanReason": "Soft A"
     },
     "SALEM_B": {
-        "banneduntil": "2024.8.20-12.00.00pm",
-        "BanReason": "Tk and rdm"
+        "banneduntil": "2024.8.17-12.00.00pm",
+        "BanReason": "Racism"
     },
     "Coolmanlo": {
         "banneduntil": "2029.8.17-12.00.00pm",
@@ -4694,5 +4694,9 @@
     "Lieutenant742": {
         "banneduntil": "2024.8.22-12.00.00pm",
         "BanReason": "Multiple TK & Killing me in admin sit - read the rules - German"
+    },
+    "Vince0810": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r and soft a (n word)"
     }
 }
