@@ -4810,5 +4810,9 @@
     "pearsestaker": {
         "banneduntil": "2024.8.24-12.00.00pm",
         "BanReason": "Spawn camping"
+    },
+    "ishowspeed.1": {
+        "banneduntil": "2024.8.24-12.00.00pm",
+        "BanReason": "Spawn camping"
     }
 }
