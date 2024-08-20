@@ -4830,5 +4830,9 @@
     "Pooflicker": {
         "banneduntil": "2024.8.22-12.00.00pm",
         "BanReason": "Baiting (please read the rules)"
+    },
+    "pooflicker": {
+        "banneduntil": "2024.8.22-12.00.00pm",
+        "BanReason": "Baiting (please read the rules)"
     }
 }
