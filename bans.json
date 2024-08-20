@@ -4786,5 +4786,9 @@
     "t0rr3z.47231": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Hard r (n word)"
+    },
+    "MALENSKII": {
+        "banneduntil": "2024.8.21-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
