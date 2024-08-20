@@ -4794,5 +4794,9 @@
     "manny.395097": {
         "banneduntil": "2026.8.8-12.00.00pm",
         "BanReason": "underage"
+    },
+    "bradley.youngandwhat": {
+        "banneduntil": "2025.8.8-12.00.00",
+        "BanReason": "possible underage, evading a mod sit"
     }
 }
