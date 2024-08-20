@@ -4826,5 +4826,9 @@
     "Jpebble": {
         "banneduntil": "2024.8.21-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "Pooflicker": {
+        "banneduntil": "2024.8.22-12.00.00pm",
+        "BanReason": "Baiting (please read the rules)"
     }
 }
