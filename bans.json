@@ -4814,5 +4814,9 @@
     "ishowspeed.1": {
         "banneduntil": "2024.8.24-12.00.00pm",
         "BanReason": "Spawn camping"
+    },
+    "BrentBrad": {
+        "banneduntil": "2027.8.18-12.00.00",
+        "BanReason": "possible underage, killing in sit, avoiding question"
     }
 }
