@@ -4802,5 +4802,9 @@
     "caseoh6937": {
         "banneduntil": "2025.8.12-12.00.00",
         "BanReason": "underage"
+    },
+    "Horst65": {
+        "banneduntil": "2027.8.18-12.00.00",
+        "BanReason": "possible underage, evading mod sit"
     }
 }
