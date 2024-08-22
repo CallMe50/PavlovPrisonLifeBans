@@ -4898,5 +4898,9 @@
     "barneynett": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Rdm, leaving during staff sit, leaving after forced team change (rdm)"
+    },
+    "RagerMyles01": {
+        "banneduntil": "2025.8.21-12.00.00pm",
+        "BanReason": "Ban Evading"
     }
 }
