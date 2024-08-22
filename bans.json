@@ -4902,5 +4902,9 @@
     "RagerMyles01": {
         "banneduntil": "2025.8.21-12.00.00pm",
         "BanReason": "Ban Evading"
+    },
+    "pavlov12481": {
+        "banneduntil": "2099.8.20-12.00.00pm",
+        "BanReason": "Alt used for evading a ban"
     }
 }
