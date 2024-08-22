@@ -4890,5 +4890,9 @@
     "zetupz_23": {
         "banneduntil": "2099.8.21-12.00.00pm",
         "BanReason": "Possibly underaged make an appeal with proof"
+    },
+    "BP.Keegan": {
+        "banneduntil": "2024.8.25-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
