@@ -4910,5 +4910,9 @@
     "TraildusterM": {
         "banneduntil": "2025.8.20-12.00.00pm",
         "BanReason": "Underage, repeated rdm, killing staff on duty."
+    },
+    "moxonvolk": {
+        "banneduntil": "2024.8.22-12.00.00pm",
+        "BanReason": "Mass rdm (reread the rules)"
     }
 }
