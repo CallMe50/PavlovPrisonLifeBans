@@ -4894,5 +4894,9 @@
     "BP.Keegan": {
         "banneduntil": "2024.8.25-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "barneynett": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Rdm, leaving during staff sit, leaving after forced team change (rdm)"
     }
 }
