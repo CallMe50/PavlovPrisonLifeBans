@@ -5030,5 +5030,9 @@
     "sleeplessNight": {
         "banneduntil": "2024.8.29-12.00.00pm",
         "BanReason": "Excessive RDM (please read the rules next time, if you haven't)"
+    },
+    "Mada200913": {
+        "banneduntil": "2024.8.24-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
