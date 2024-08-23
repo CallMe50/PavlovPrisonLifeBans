@@ -4950,5 +4950,9 @@
     "Volcanor": {
         "banneduntil": "2027.8.8-12.00.00pm",
         "BanReason": "Underage (come back in 3 years)"
+    },
+    "Diamondplayz_extra.shiny": {
+        "banneduntil": "2024.8.23-12.00.00pm",
+        "BanReason": "Rdm (please reread the rules)"
     }
 }
