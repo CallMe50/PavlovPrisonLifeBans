@@ -5038,5 +5038,9 @@
     "CSR.0": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Hard r (N word)"
+    },
+    "cashmoney86": {
+        "banneduntil": "2024.9.23-12.00.00pm",
+        "BanReason": "Nword (a) x2"
     }
 }
