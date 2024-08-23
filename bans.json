@@ -4958,5 +4958,9 @@
     "femboy_penetrator": {
         "banneduntil": "2024.8.23-12.00.00pm",
         "BanReason": "Baiting (please reread the rules)"
+    },
+    "Cross.man": {
+        "banneduntil": "2024.8.25-12.00.00pm",
+        "BanReason": "tk"
     }
 }
