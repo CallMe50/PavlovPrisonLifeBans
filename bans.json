@@ -5034,5 +5034,9 @@
     "Mada200913": {
         "banneduntil": "2024.8.24-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "CSR.0": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r (N word)"
     }
 }
