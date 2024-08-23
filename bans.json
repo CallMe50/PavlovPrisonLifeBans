@@ -5006,5 +5006,9 @@
     "BOT_Extr": {
         "banneduntil": "2024.9.23-12.00.00pm",
         "BanReason": "Continued to take part in a kill farm after warning with friends"
+    },
+    "jr.purk.2022": {
+        "banneduntil": "2030.8.25-12.00.00pm",
+        "BanReason": "underage (7)"
     }
 }
