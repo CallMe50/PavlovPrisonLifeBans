@@ -4982,5 +4982,9 @@
     "ElCompaChris": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "n word crossteaming"
+    },
+    "echoer": {
+        "banneduntil": "2024.8.25-12.00.00pm",
+        "BanReason": "TK - read the rules - German"
     }
 }
