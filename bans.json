@@ -5002,5 +5002,9 @@
     "Spud.Spud": {
         "banneduntil": "2024.9.23-12.00.00pm",
         "BanReason": "Continued to take part in a kill farm after warning with friends"
+    },
+    "BOT_Extr": {
+        "banneduntil": "2024.9.23-12.00.00pm",
+        "BanReason": "Continued to take part in a kill farm after warning with friends"
     }
 }
