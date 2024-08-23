@@ -5010,5 +5010,9 @@
     "jr.purk.2022": {
         "banneduntil": "2030.8.25-12.00.00pm",
         "BanReason": "underage (7)"
+    },
+    "BOT_twizy": {
+        "banneduntil": "2094.9.23-12.00.00pm",
+        "BanReason": "Ban evading"
     }
 }
