@@ -4962,5 +4962,9 @@
     "Cross.man": {
         "banneduntil": "2024.8.25-12.00.00pm",
         "BanReason": "tk"
+    },
+    "ErhernalYT": {
+        "banneduntil": "2024.8.24-12.00.00pm",
+        "BanReason": "Evading admin sit multiple times and rdming multiple people"
     }
 }
