@@ -5150,5 +5150,9 @@
     "luke.647121": {
         "banneduntil": "2024.8.27-12.00.00pm",
         "BanReason": "Mass rdm, killing in sit twice"
+    },
+    "coolshade": {
+        "banneduntil": "2024.8.26-12.00.00pm",
+        "BanReason": "Intentional TK"
     }
 }
