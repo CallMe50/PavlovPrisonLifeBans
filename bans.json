@@ -5054,5 +5054,9 @@
     "kasselchix02": {
         "banneduntil": "2024.8.24-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "DoomBlade2120": {
+        "banneduntil": "2025.8.24-12.00.00pm",
+        "BanReason": "Underaged, Mass TK."
     }
 }
