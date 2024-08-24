@@ -5138,5 +5138,9 @@
     "Lilmonkey15": {
         "banneduntil": "2025.8.24-12.00.00pm",
         "BanReason": "underage"
+    },
+    "V1nc3_cuh": {
+        "banneduntil": "2099.8.24-12.00.00",
+        "BanReason": "Hard multiple times"
     }
 }
