@@ -5062,5 +5062,9 @@
     "benboz": {
         "banneduntil": "2026.8.24-12.00.00pm",
         "BanReason": "Underaged, intentional RDM, sit evasion."
+    },
+    "Noel2024": {
+        "banneduntil": "2024.9.10-12.00.00pm",
+        "BanReason": "Mass RDM, Killing in sit, sit evasion."
     }
 }
