@@ -5058,5 +5058,9 @@
     "DoomBlade2120": {
         "banneduntil": "2025.8.24-12.00.00pm",
         "BanReason": "Underaged, Mass TK."
+    },
+    "benboz": {
+        "banneduntil": "2026.8.24-12.00.00pm",
+        "BanReason": "Underaged, intentional RDM, sit evasion."
     }
 }
