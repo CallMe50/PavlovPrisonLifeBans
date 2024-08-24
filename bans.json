@@ -5106,5 +5106,9 @@
     "AceBurris": {
         "banneduntil": "2024.8.25-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "DEMON.TR1PIN": {
+        "banneduntil": "2034.8.25-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
