@@ -5066,5 +5066,9 @@
     "Noel2024": {
         "banneduntil": "2024.9.10-12.00.00pm",
         "BanReason": "Mass RDM, Killing in sit, sit evasion."
+    },
+    "mr.53045": {
+        "banneduntil": "2025.8.23-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
