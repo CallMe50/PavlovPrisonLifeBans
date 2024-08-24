@@ -5110,5 +5110,9 @@
     "DEMON.TR1PIN": {
         "banneduntil": "2034.8.25-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "deception-13": {
+        "banneduntil": "2024.8.26-12.00.00pm",
+        "BanReason": "RDM, TK (please read the rules in the future before playing, otherwise next ban could be longer)"
     }
 }
