@@ -5090,5 +5090,9 @@
     "DRAKO136": {
         "banneduntil": "2024.8.31-12.00.00pm",
         "BanReason": "baiting, teamkilling, evading mod sit"
+    },
+    "lllllllllllllllllllllkkkk": {
+        "banneduntil": "2024.8.28-12.00.00pm",
+        "BanReason": "tk"
     }
 }
