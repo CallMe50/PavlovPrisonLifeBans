@@ -5214,5 +5214,9 @@
     "Desert_Punk": {
         "banneduntil": "2027.8.25-12.00.00pm",
         "BanReason": "Underaged 10"
+    },
+    "Jag_shep": {
+        "banneduntil": "2024.8.28-12.00.00pm",
+        "BanReason": "multiple TK"
     }
 }
