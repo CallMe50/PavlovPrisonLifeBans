@@ -5186,5 +5186,9 @@
     "hola.bean.2023": {
         "banneduntil": "2025.8.25-12.00.00pm",
         "BanReason": "Possible underage and evaded sit (appeal in discord if you disagree)"
+    },
+    "Stola.s": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Underage and ban evading"
     }
 }
