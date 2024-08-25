@@ -5158,5 +5158,9 @@
     "ShaDynasty20": {
         "banneduntil": "2024.8.32-12.00.00pm",
         "BanReason": "Mass rdm, evading sit"
+    },
+    "Jeenol": {
+        "banneduntil": "2024.8.26-12.00.00pm",
+        "BanReason": "Evading sit, Baiting/teaming"
     }
 }
