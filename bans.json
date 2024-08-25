@@ -5166,5 +5166,9 @@
     "flare.153010.2022": {
         "banneduntil": "2025.8.20-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Sooplook": {
+        "banneduntil": "2024.8.27-12.00.00pm",
+        "BanReason": "Tking"
     }
 }
