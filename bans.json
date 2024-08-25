@@ -5210,5 +5210,9 @@
     "ZombeeAidyn": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "TK and killing in admin sit."
+    },
+    "Desert_Punk": {
+        "banneduntil": "2027.8.25-12.00.00pm",
+        "BanReason": "Underaged 10"
     }
 }
