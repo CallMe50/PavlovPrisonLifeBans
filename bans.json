@@ -5194,5 +5194,9 @@
     "jezzameta": {
         "banneduntil": "2032.8.8-12.00.00pm",
         "BanReason": "Underage no age given, rdm"
+    },
+    "NeddyVR": {
+        "banneduntil": "2026.8.25-12.00.00pm",
+        "BanReason": "Underaged (11), refusal to cooperate during sit, attempted sit evasion."
     }
 }
