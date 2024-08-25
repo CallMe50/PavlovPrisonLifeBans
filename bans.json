@@ -5162,5 +5162,9 @@
     "Jeenol": {
         "banneduntil": "2024.8.26-12.00.00pm",
         "BanReason": "Evading sit, Baiting/teaming"
+    },
+    "flare.153010.2022": {
+        "banneduntil": "2025.8.20-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
