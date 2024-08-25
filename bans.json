@@ -5190,5 +5190,9 @@
     "Stola.s": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Underage and ban evading"
+    },
+    "jezzameta": {
+        "banneduntil": "2032.8.8-12.00.00pm",
+        "BanReason": "Underage no age given, rdm"
     }
 }
