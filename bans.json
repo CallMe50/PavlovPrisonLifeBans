@@ -5250,5 +5250,9 @@
     "bairlink.2024": {
         "banneduntil": "2024.8.27-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "chibiarctic": {
+        "banneduntil": "2024.8.28-12.00.00pm",
+        "BanReason": "Mass Rdm,kick off guard team-read the rules"
     }
 }
