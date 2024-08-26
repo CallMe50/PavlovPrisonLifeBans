@@ -5238,5 +5238,9 @@
     "salmon2vr": {
         "banneduntil": "2024.8.28-12.00.00pm",
         "BanReason": "Tk (please refresh yourself on the rules)"
+    },
+    "dev11124456788": {
+        "banneduntil": "2024.10.1-12.00.00pm",
+        "BanReason": "Underage 12"
     }
 }
