@@ -5230,5 +5230,9 @@
     "foreheadgrease": {
         "banneduntil": "2024.8.27-12.00.00pm",
         "BanReason": "RDM (please refresh yourself on the rules)"
+    },
+    "hugo.933715": {
+        "banneduntil": "2024.9.19-12.00.00pm",
+        "BanReason": "Repeated tk, repeated cross teaming, killing in sit, suicide+leaving game to avoid punishment"
     }
 }
