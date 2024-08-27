@@ -5322,5 +5322,9 @@
     "Ja-hamez": {
         "banneduntil": "2024.8.28-12.00.00pm",
         "BanReason": "RDM (there are rules, u should give them look nex time)"
+    },
+    "jongun.2022": {
+        "banneduntil": "2024.8.29-12.00.00pm",
+        "BanReason": "RDM (refresh yourself on the rules)"
     }
 }
