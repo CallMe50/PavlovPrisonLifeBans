@@ -5278,5 +5278,9 @@
     "skibibi_toilet": {
         "banneduntil": "2027.9.25-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "igglepiggle": {
+        "banneduntil": "2024.9.27-12.00.00pm",
+        "BanReason": "RDM, Left in sit"
     }
 }
