@@ -5282,5 +5282,9 @@
     "igglepiggle": {
         "banneduntil": "2024.9.27-12.00.00pm",
         "BanReason": "RDM, Left in sit"
+    },
+    "eobardthawnereverseflash": {
+        "banneduntil": "2024.8.28-12.00.00pm",
+        "BanReason": "RDM (please read the rules next time)"
     }
 }
