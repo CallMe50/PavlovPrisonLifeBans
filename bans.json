@@ -5310,5 +5310,9 @@
     "Chocolate287": {
         "banneduntil": "2026.8.27-12.00.00pm",
         "BanReason": "Underage 12"
+    },
+    "BL3YEND": {
+        "banneduntil": "2026.8.20-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
