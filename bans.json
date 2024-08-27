@@ -5314,5 +5314,9 @@
     "BL3YEND": {
         "banneduntil": "2026.8.20-12.00.00pm",
         "BanReason": "Underage (11) must be 13+"
+    },
+    "section8.455412": {
+        "banneduntil": "2099.8.20-12.00.00pm",
+        "BanReason": "hard r, lying"
     }
 }
