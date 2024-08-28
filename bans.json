@@ -5366,5 +5366,9 @@
     "Ace23083": {
         "banneduntil": "2027.6.7-12.00.00pm",
         "BanReason": "Abuse of modsit button ,possible underage"
+    },
+    "casper.2023": {
+        "banneduntil": "2024.8.29-12.00.00pm",
+        "BanReason": "Teaming, Read the rules"
     }
 }
