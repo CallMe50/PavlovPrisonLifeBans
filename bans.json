@@ -5378,5 +5378,9 @@
     "chillguy4": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Mass rdm (read the rules)"
+    },
+    "ultra8364": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
