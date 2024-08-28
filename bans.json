@@ -5374,5 +5374,9 @@
     "notghostvr13": {
         "banneduntil": "2026.8.18-12.00.00pm",
         "BanReason": "Underaged 11"
+    },
+    "chillguy4": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Mass rdm (read the rules)"
     }
 }
