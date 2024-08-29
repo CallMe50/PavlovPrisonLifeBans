@@ -5414,5 +5414,9 @@
     "Nicothetank": {
         "banneduntil": "2028.8.18-12.00.00",
         "BanReason": "Underaged 9"
+    },
+    "tvnj": {
+        "banneduntil": "2024.8.30-12.00.00pm",
+        "BanReason": "attempted tm and evading mod sit"
     }
 }
