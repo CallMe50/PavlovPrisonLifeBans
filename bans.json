@@ -5394,5 +5394,9 @@
     "rabbitdragon26": {
         "banneduntil": "2025.8.20-12.00.00pm",
         "BanReason": "Underage (12) must be 13"
+    },
+    "cheetoman55": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "false mod call after warned"
     }
 }
