@@ -5430,5 +5430,9 @@
     "hynism": {
         "banneduntil": "2024.9.29-12.00.00pm",
         "BanReason": "Soft a accused hard r -Envy/Envnity."
+    },
+    "CD_Robot": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "tk"
     }
 }
