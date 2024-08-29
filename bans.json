@@ -5454,5 +5454,9 @@
     "Lservice": {
         "banneduntil": "2024.8.30-12.00.00pm",
         "BanReason": "Rdm, killing in sit"
+    },
+    "Kernius2014": {
+        "banneduntil": "2027.8.29-12.00.00pm",
+        "BanReason": "Underage (10)"
     }
 }
