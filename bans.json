@@ -5406,5 +5406,9 @@
     "gazza.148337": {
         "banneduntil": "2024.9.2-12.00.00pm",
         "BanReason": "crossteaming, evading mod sit"
+    },
+    "Isaac.SEXX": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "tk"
     }
 }
