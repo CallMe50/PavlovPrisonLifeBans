@@ -5418,5 +5418,9 @@
     "tvnj": {
         "banneduntil": "2024.8.30-12.00.00pm",
         "BanReason": "attempted tm and evading mod sit"
+    },
+    "CallSignSpaz": {
+        "banneduntil": "2024.9.2-12.00.00pm",
+        "BanReason": "Rdm, tk, evading sit 3x, killing in sit 1x, and uncooperative in sit, read the rules -Envy/Envnity."
     }
 }
