@@ -5442,5 +5442,9 @@
     "Dr._Death": {
         "banneduntil": "2024.8.31-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "pacolo3x": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Tk (read the rules)"
     }
 }
