@@ -5382,5 +5382,9 @@
     "ultra8364": {
         "banneduntil": "2024.9.3-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "estblackout": {
+        "banneduntil": "2024.8.31-12.00.00pm",
+        "BanReason": "Teaming (Reread rules)"
     }
 }
