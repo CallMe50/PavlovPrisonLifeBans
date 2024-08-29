@@ -5402,5 +5402,9 @@
     "sdw0714": {
         "banneduntil": "2027.9.1-12.00.00pm",
         "BanReason": "underage"
+    },
+    "gazza.148337": {
+        "banneduntil": "2024.9.2-12.00.00pm",
+        "BanReason": "crossteaming, evading mod sit"
     }
 }
