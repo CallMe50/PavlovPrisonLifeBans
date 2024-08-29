@@ -5386,5 +5386,9 @@
     "estblackout": {
         "banneduntil": "2024.8.31-12.00.00pm",
         "BanReason": "Teaming (Reread rules)"
+    },
+    "Alex30acker": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r (N word)"
     }
 }
