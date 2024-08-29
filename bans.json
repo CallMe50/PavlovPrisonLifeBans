@@ -5446,5 +5446,9 @@
     "pacolo3x": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Tk (read the rules)"
+    },
+    "Reneboys": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Mass rdm, evading admin sit"
     }
 }
