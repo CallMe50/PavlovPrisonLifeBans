@@ -5474,5 +5474,9 @@
     "TicklepickleFigglebottom": {
         "banneduntil": "2024.8.31-12.00.00pm",
         "BanReason": "Rdm,evading sit"
+    },
+    "Ellobuba": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Rdm,kick from guard team"
     }
 }
