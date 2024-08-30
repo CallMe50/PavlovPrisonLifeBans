@@ -5502,5 +5502,9 @@
     "5.56x45mm_NATO_Lover": {
         "banneduntil": "2024.9.2-12.00.00pm",
         "BanReason": "RDM and left right after"
+    },
+    "ThePower1999": {
+        "banneduntil": "2024.9.2-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
