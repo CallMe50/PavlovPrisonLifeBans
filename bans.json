@@ -5490,5 +5490,9 @@
     "TomTheMuffin": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Teamkilling"
+    },
+    "Coopermittens": {
+        "banneduntil": "2024.9.6-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
