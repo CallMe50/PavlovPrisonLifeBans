@@ -5494,5 +5494,9 @@
     "Coopermittens": {
         "banneduntil": "2024.9.6-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "BOBBYISWHITE": {
+        "banneduntil": "2024.9.2-12.00.00pm",
+        "BanReason": "Tking and evading when brought into question 3 day ban"
     }
 }
