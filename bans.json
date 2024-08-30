@@ -5478,5 +5478,9 @@
     "Ellobuba": {
         "banneduntil": "2024.8.28-12.00.00pm",
         "BanReason": "Unbanned"
+    },
+    "reaper.192323": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Mass Rdm"
     }
 }
