@@ -5486,5 +5486,9 @@
     "mrjoboi": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "TomTheMuffin": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Teamkilling"
     }
 }
