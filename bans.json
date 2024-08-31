@@ -5590,5 +5590,9 @@
     "99Cooked99kod": {
         "banneduntil": "2024.9.10-12.00.00pm",
         "BanReason": "Rdm, reread the rules."
+    },
+    "Traviskill1": {
+        "banneduntil": "2024.9.20-12.00.00pm",
+        "BanReason": "Soft a (n word) already warned to stop"
     }
 }
