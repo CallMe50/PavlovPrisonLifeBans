@@ -5598,5 +5598,9 @@
     "Bren.C": {
         "banneduntil": "2028.8.31-12.00.00pm",
         "BanReason": "Underaged (9)"
+    },
+    "usernotfound096": {
+        "banneduntil": "2027.8.14-12.00.00pm",
+        "BanReason": "Underage (10) must be 13+"
     }
 }
