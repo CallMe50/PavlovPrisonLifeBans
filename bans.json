@@ -5546,5 +5546,9 @@
     "imthatguy31": {
         "banneduntil": "2024.9.1-12.00.00pm",
         "BanReason": "Mass rdm (read the rules, please)"
+    },
+    "homelessplank": {
+        "banneduntil": "2026.8.31-12.00.00pm",
+        "BanReason": "Possibly underage and evading sit x3"
     }
 }
