@@ -5558,5 +5558,9 @@
     "Karate_kid12": {
         "banneduntil": "2026.8.31-12.00.00pm",
         "BanReason": "Underaged 11"
+    },
+    "Karate_kid312": {
+        "banneduntil": "2026.8.31-12.00.00pm",
+        "BanReason": "Underaged 11"
     }
 }
