@@ -5586,5 +5586,9 @@
     "1dayatatime921": {
         "banneduntil": "2025.8.31-12.00.00pm",
         "BanReason": "Underaged and mod evaded and RDM"
+    },
+    "99Cooked99kod": {
+        "banneduntil": "2024.9.10-12.00.00pm",
+        "BanReason": "Rdm, reread the rules."
     }
 }
