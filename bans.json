@@ -5614,5 +5614,9 @@
     "Sonnygun": {
         "banneduntil": "2027.8.31-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "ian.surf.2022": {
+        "banneduntil": "2027.8.31-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
