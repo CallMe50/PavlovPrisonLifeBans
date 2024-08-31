@@ -5594,5 +5594,9 @@
     "Traviskill1": {
         "banneduntil": "2024.9.20-12.00.00pm",
         "BanReason": "Soft a (n word) already warned to stop"
+    },
+    "Bren.C": {
+        "banneduntil": "2028.8.31-12.00.00pm",
+        "BanReason": "Underaged (9)"
     }
 }
