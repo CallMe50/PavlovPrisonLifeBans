@@ -5550,5 +5550,9 @@
     "homelessplank": {
         "banneduntil": "2026.8.31-12.00.00pm",
         "BanReason": "Possibly underage and evading sit x3"
+    },
+    "HecknopleasenoValour": {
+        "banneduntil": "2024.2.9-12.00.00pm",
+        "BanReason": "Multiple TK - read the rules"
     }
 }
