@@ -5702,5 +5702,9 @@
     "linc_tiphoo": {
         "banneduntil": "2024.9.3-12.00.00pm",
         "BanReason": "RDM, evading sit"
+    },
+    "maccapaca.2023": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "RDM, evading sit"
     }
 }
