@@ -5638,5 +5638,9 @@
     "phoenix.1045": {
         "banneduntil": "2027.8.31-12.00.00pm",
         "BanReason": "Underaged(10) 13+ to play"
+    },
+    "auptisnn": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Shooting through glass glitch against the rule please dont do this 1 day ban"
     }
 }
