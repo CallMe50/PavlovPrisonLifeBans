@@ -5710,5 +5710,9 @@
     "kindmoke1": {
         "banneduntil": "2027.8.3-12.00.00pm",
         "BanReason": "underage 10"
+    },
+    "the.alex.palmer": {
+        "banneduntil": "2027.8.1-12.00.00pm",
+        "BanReason": "underage 10"
     }
 }
