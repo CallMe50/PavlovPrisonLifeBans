@@ -5722,5 +5722,9 @@
     "Graysvr6": {
         "banneduntil": "2024.9.6-12.00.00pm",
         "BanReason": "rdm, evading mod sitx3"
+    },
+    "LKbates": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "Mass rdm and tk, read the rules -Envy/Envnity."
     }
 }
