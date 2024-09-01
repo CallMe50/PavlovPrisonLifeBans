@@ -5714,5 +5714,9 @@
     "the.alex.palmer": {
         "banneduntil": "2027.8.1-12.00.00pm",
         "BanReason": "underage 10"
+    },
+    "baby_chino": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "RDM, evading sit"
     }
 }
