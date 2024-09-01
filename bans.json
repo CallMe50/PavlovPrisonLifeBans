@@ -5650,5 +5650,9 @@
     "therealmexican20": {
         "banneduntil": "2024.9.31-12.00.00pm",
         "BanReason": "Mass tk,escaping sit, taking on duty sword"
+    },
+    "therealmexican.2024": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r (n word)"
     }
 }
