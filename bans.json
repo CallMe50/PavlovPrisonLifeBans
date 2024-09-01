@@ -5686,5 +5686,9 @@
     "zeirzo8": {
         "banneduntil": "9999.9.1-12.00.00pm",
         "BanReason": "hard r"
+    },
+    "CJSCHOLL": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underage 11"
     }
 }
