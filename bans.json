@@ -5658,5 +5658,9 @@
     "Caseysy": {
         "banneduntil": "2024.10.1-12.00.00pm",
         "BanReason": "Mass tk,mass rdm, staff disrespect,killing in sit,lying in sit to staff"
+    },
+    "sigma.2022": {
+        "banneduntil": "2024.9.2-12.00.00pm",
+        "BanReason": "Mass tk, mass rdm, arguing in sit, uncooperative"
     }
 }
