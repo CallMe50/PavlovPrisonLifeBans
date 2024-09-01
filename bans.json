@@ -5618,5 +5618,9 @@
     "ian.surf.2022": {
         "banneduntil": "2027.8.31-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Aident4r25": {
+        "banneduntil": "2027.9.10-12.00.00pm",
+        "BanReason": "Underage(9)"
     }
 }
