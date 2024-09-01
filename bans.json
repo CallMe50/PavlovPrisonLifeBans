@@ -5690,5 +5690,9 @@
     "CJSCHOLL": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underage 11"
+    },
+    "bearpang2e": {
+        "banneduntil": "2031.8.1-12.00.00pm",
+        "BanReason": "underage 6"
     }
 }
