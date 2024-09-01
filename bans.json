@@ -5700,7 +5700,7 @@
         "BanReason": "RDM x3 killing in sit twice -14mal0"
     },
     "linc_tiphoo": {
-        "banneduntil": "2025.9.1-12.00.00pm",
-        "BanReason": "underage (12) need to be 13+ to play"
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "RDM, evading sit"
     }
 }
