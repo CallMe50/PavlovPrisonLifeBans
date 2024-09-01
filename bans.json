@@ -5718,5 +5718,9 @@
     "baby_chino": {
         "banneduntil": "2024.9.3-12.00.00pm",
         "BanReason": "RDM, evading sit"
+    },
+    "Graysvr6": {
+        "banneduntil": "2024.9.6-12.00.00pm",
+        "BanReason": "rdm, evading mod sitx3"
     }
 }
