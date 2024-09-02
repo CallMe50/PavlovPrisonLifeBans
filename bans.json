@@ -5794,5 +5794,9 @@
     "Bot_Sid": {
         "banneduntil": "2024.9.7-12.00.00pm",
         "BanReason": "rdm,, leaving admin sit"
+    },
+    "ChaneyP": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "Request sit abuse"
     }
 }
