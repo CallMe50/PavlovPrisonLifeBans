@@ -5790,5 +5790,9 @@
     "mr.ak.muncher": {
         "banneduntil": "2024.9.3-12.00.00pm",
         "BanReason": "Teamkill Guard - German"
+    },
+    "Bot_Sid": {
+        "banneduntil": "2024.9.7-12.00.00pm",
+        "BanReason": "rdm,, leaving admin sit"
     }
 }
