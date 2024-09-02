@@ -5770,5 +5770,9 @@
     "PizzaTime122": {
         "banneduntil": "2024.9.7-12.00.00pm",
         "BanReason": "rdm,cross teaming, leaving admin sit x 2"
+    },
+    "therealtoastVR999": {
+        "banneduntil": "2024.9.7-12.00.00pm",
+        "BanReason": "Teamkilling, leaving admin sit"
     }
 }
