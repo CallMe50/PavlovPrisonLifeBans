@@ -5782,5 +5782,9 @@
     "user_271582163763875": {
         "banneduntil": "2027.9.2-12.00.00pm",
         "BanReason": "underage (10) need to be 13+ to play"
+    },
+    "Lochnroll": {
+        "banneduntil": "2026.9.2-12.00.00pm",
+        "BanReason": "underage (11), need to be 13+ to play - German"
     }
 }
