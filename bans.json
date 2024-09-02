@@ -5786,5 +5786,9 @@
     "Lochnroll": {
         "banneduntil": "2026.9.2-12.00.00pm",
         "BanReason": "underage (11), need to be 13+ to play - German"
+    },
+    "mr.ak.muncher": {
+        "banneduntil": "2024.9.3-12.00.00pm",
+        "BanReason": "Teamkill Guard - German"
     }
 }
