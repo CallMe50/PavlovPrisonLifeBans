@@ -5738,5 +5738,9 @@
     "Datzgod": {
         "banneduntil": "2024.9.2-12.00.00pm",
         "BanReason": "Rdm, sit evading and attempt in killing during sit"
+    },
+    "teagan10": {
+        "banneduntil": "2024.9.2-12.00.00pm",
+        "BanReason": "Rdm, killing in sit"
     }
 }
