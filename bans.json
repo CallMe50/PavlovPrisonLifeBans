@@ -5730,5 +5730,9 @@
     "Viper567": {
         "banneduntil": "2026.9.1-12.00.00pm",
         "BanReason": "underage 11"
+    },
+    "ballin_cat": {
+        "banneduntil": "2099.1.1-12.00.00pm",
+        "BanReason": "Evading admin sit and refusal to answer when asked about age"
     }
 }
