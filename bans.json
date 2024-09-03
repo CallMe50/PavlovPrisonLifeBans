@@ -5846,5 +5846,9 @@
     "GUGUS_EL_CRAKk": {
         "banneduntil": "2024.9.6-12.00.00pm",
         "BanReason": "Evade of sit and rdm"
+    },
+    "britain_crack_head": {
+        "banneduntil": "2024.10.7-12.00.00pm",
+        "BanReason": "Nword (unspecified), evading sit"
     }
 }
