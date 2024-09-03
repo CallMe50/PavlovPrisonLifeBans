@@ -5842,5 +5842,9 @@
     "Lafayette123": {
         "banneduntil": "2027.9.2-12.00.00pm",
         "BanReason": "Underaged(10)must be 13+"
+    },
+    "GUGUS_EL_CRAKk": {
+        "banneduntil": "2024.9.6-12.00.00pm",
+        "BanReason": "Evade of sit and rdm"
     }
 }
