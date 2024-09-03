@@ -5850,5 +5850,9 @@
     "britain_crack_head": {
         "banneduntil": "2024.10.7-12.00.00pm",
         "BanReason": "Nword (unspecified), evading sit"
+    },
+    "weedpen": {
+        "banneduntil": "2024.11.3-12.00.00pm",
+        "BanReason": "Soft a (n word)"
     }
 }
