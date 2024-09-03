@@ -5830,5 +5830,9 @@
     "KingCrow56": {
         "banneduntil": "2024.9.5-12.00.00pm",
         "BanReason": "baiting, evading sit by leaving"
+    },
+    "zxvp": {
+        "banneduntil": "2024.9.5-12.00.00pm",
+        "BanReason": "Rdm,kill in sit"
     }
 }
