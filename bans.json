@@ -5884,7 +5884,7 @@
         "BanReason": "Nword(hard r)tk,Rdm"
     },
     "cartermand": {
-        "banneduntil": "2028.8.8",
+        "banneduntil": "2028.8.8-12.00.00pm",
         "BanReason": "Underaged but somehow unbanned"
     }
 }
