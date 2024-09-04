@@ -5882,5 +5882,9 @@
     "AIDS_DISTRIBUTER": {
         "banneduntil": "2069.9.3-12.00.00pm",
         "BanReason": "Nword(hard r)tk,Rdm"
+    },
+    "cartermand": {
+        "banneduntil": "2028.8.8",
+        "BanReason": "Underaged but somehow unbanned"
     }
 }
