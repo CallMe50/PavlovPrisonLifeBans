@@ -5878,5 +5878,9 @@
     "docmomtiredAF": {
         "banneduntil": "2024.9.4-12.00.00pm",
         "BanReason": "Evading mod sit and tk/rdm"
+    },
+    "AIDS_DISTRIBUTER": {
+        "banneduntil": "2069.9.3-12.00.00pm",
+        "BanReason": "Nword(hard r)tk,Rdm"
     }
 }
