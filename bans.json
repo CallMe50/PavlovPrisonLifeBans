@@ -5886,5 +5886,9 @@
     "cartermand": {
         "banneduntil": "2028.8.8-12.00.00pm",
         "BanReason": "Underaged but somehow unbanned"
+    },
+    "Cartermand": {
+        "banneduntil": "2028.8.8-12.00.00pm",
+        "BanReason": "Underaged but somehow unbanned"
     }
 }
