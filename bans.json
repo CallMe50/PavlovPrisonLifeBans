@@ -5874,5 +5874,9 @@
     "FarawayPlayer": {
         "banneduntil": "2024.9.4-12.00.00pm",
         "BanReason": "Admin sit evading rdm and teaming"
+    },
+    "docmomtiredAF": {
+        "banneduntil": "2024.9.4-12.00.00pm",
+        "BanReason": "Evading mod sit and tk/rdm"
     }
 }
