@@ -5902,5 +5902,9 @@
     "Kingofmeat": {
         "banneduntil": "2028.9.9-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Abd8x": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "Ban evasion both discord and in game"
     }
 }
