@@ -5906,5 +5906,9 @@
     "Abd8x": {
         "banneduntil": "2099.9.9-12.00.00pm",
         "BanReason": "Ban evasion both discord and in game"
+    },
+    "IIEmpereurll": {
+        "banneduntil": "2024.9.6-12.00.00pm",
+        "BanReason": "Glitch abusing (shooting through window)"
     }
 }
