@@ -5918,5 +5918,9 @@
     "nuc-nuc": {
         "banneduntil": "2024.9.6-12.00.00pm",
         "BanReason": "Mass Tk and kill in sit-read the rules"
+    },
+    "LauraCast": {
+        "banneduntil": "2024.9.7-12.00.00pn",
+        "BanReason": "Glitching though fugitive base barricades with all car"
     }
 }
