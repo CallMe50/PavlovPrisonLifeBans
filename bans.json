@@ -5922,5 +5922,9 @@
     "LauraCast": {
         "banneduntil": "2024.9.7-12.00.00pn",
         "BanReason": "Glitching though fugitive base barricades with all car"
+    },
+    "mark.574377": {
+        "banneduntil": "2024.9.8-12.00.00pm",
+        "BanReason": "Baiting and shooting for no reason"
     }
 }
