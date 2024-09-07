@@ -5946,5 +5946,9 @@
     "420_Assassin_420": {
         "banneduntil": "2999.9.6-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "FLR_Annoyed": {
+        "banneduntil": "2027.4.20-12.00.00pm",
+        "BanReason": "Underage(10)13+ to play"
     }
 }
