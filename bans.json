@@ -5986,5 +5986,9 @@
     "Eli_jah1": {
         "banneduntil": "9999.9.10-12.00.00pm",
         "BanReason": "RDMing, Hard R warned about rules beforehand."
+    },
+    "firestar199": {
+        "banneduntil": "2024.9.8-12.00.00pm",
+        "BanReason": "TKing (Please review rules near spawn point/player selection or on discord.)"
     }
 }
