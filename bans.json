@@ -5958,5 +5958,9 @@
     "NightMare0MG": {
         "banneduntil": "2024.9.9-12.00.00pm",
         "BanReason": "Crossteaming and team tazing after warned, read the rules -Envy/Envnity."
+    },
+    "secret.servis": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underage rdm and killing in sit"
     }
 }
