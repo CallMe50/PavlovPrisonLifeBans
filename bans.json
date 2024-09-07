@@ -5962,5 +5962,9 @@
     "secret.servis": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underage rdm and killing in sit"
+    },
+    "nightmxreeee": {
+        "banneduntil": "2024.9.11-12.00.00pm",
+        "BanReason": "Rdmx3, baiting/teaming"
     }
 }
