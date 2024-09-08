@@ -6018,5 +6018,9 @@
     "Marty_Byrde": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "underage show proof of your age"
+    },
+    "Ash.Omar": {
+        "banneduntil": "2026.8.1-12.00.00pm",
+        "BanReason": "underage (11)"
     }
 }
