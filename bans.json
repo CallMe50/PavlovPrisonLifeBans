@@ -6058,5 +6058,9 @@
     "timmy5656": {
         "banneduntil": "2024.12.30-12.00.00pm",
         "BanReason": "Underage min is 13"
+    },
+    "Starsherline": {
+        "banneduntil": "2024.9.9-12.00.00pm",
+        "BanReason": "Rdm, tk"
     }
 }
