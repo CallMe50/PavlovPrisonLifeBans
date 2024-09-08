@@ -6046,5 +6046,9 @@
     "mr.Denmark2101": {
         "banneduntil": "2024.9.9-12.00.00pm",
         "BanReason": "Mass rdm (please refresh yourself on the rules)"
+    },
+    "EGB13": {
+        "banneduntil": "2024.9.20-12.00.00pm",
+        "BanReason": "Mass tk, repeated cross teaming, repeated attempted tk and team tazing"
     }
 }
