@@ -6006,5 +6006,9 @@
     "brian. 766649": {
         "banneduntil": "2024.9.8-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "MopGT": {
+        "banneduntil": "2024.9.15-12.00.00pm",
+        "BanReason": "Repeated tk"
     }
 }
