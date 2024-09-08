@@ -6066,5 +6066,9 @@
     "Emmettrod": {
         "banneduntil": "2026.9.9-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Chance.H": {
+        "banneduntil": "2026.8.9-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
