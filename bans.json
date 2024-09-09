@@ -6114,5 +6114,9 @@
     "phamboozled1": {
         "banneduntil": "2026.8.20-12.00.00pm",
         "BanReason": "Underage (11) must be 13"
+    },
+    "WeaverClanz": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "possible underage, shooting in mod sit, tk"
     }
 }
