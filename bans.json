@@ -6070,5 +6070,9 @@
     "Chance.H": {
         "banneduntil": "2026.8.9-12.00.00pm",
         "BanReason": "Underage (11) must be 13+"
+    },
+    "TheBurtons06": {
+        "banneduntil": "2024.9.9-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
