@@ -6130,5 +6130,9 @@
     "sliderkill": {
         "banneduntil": "2024.9.10-12.00.00pm",
         "BanReason": "Random shooting,evading sit-read the rules"
+    },
+    "CyndalTalea": {
+        "banneduntil": "2024.9.11-12.00.00pm",
+        "BanReason": "Rdm,kill in sit"
     }
 }
