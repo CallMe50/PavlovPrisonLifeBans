@@ -6150,5 +6150,9 @@
     "juju2111": {
         "banneduntil": "2024.9.4-12.00.00pm",
         "BanReason": "Mass Rdm"
+    },
+    "Mrkrabs.com": {
+        "banneduntil": "2024.9.12-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
