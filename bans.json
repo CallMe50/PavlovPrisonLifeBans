@@ -6126,5 +6126,9 @@
     "CoolKidMcGee": {
         "banneduntil": "2024.8.11-12.00.00pm",
         "BanReason": "Rdm,evading sit"
+    },
+    "sliderkill": {
+        "banneduntil": "2024.9.10-12.00.00pm",
+        "BanReason": "Random shooting,evading sit-read the rules"
     }
 }
