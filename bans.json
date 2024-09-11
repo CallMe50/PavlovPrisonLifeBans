@@ -6174,5 +6174,9 @@
     "FoxPVR": {
         "banneduntil": "2099.7.8-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Flankz68": {
+        "banneduntil": "2024.9.14-12.00.00pm",
+        "BanReason": "Rdm,left admin sit"
     }
 }
