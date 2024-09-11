@@ -6170,5 +6170,9 @@
     "npnutty": {
         "banneduntil": "2025.9.10-12.00.00pm",
         "BanReason": "Underage (12) min age is 13 -Tank"
+    },
+    "FoxPVR": {
+        "banneduntil": "2099.7.8-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
