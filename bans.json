@@ -6162,5 +6162,9 @@
     "mrgodlife": {
         "banneduntil": "2024.9.11-12.00.00pm",
         "BanReason": "Spamming mod sit after a warning"
+    },
+    "SadHell": {
+        "banneduntil": "2024.9.13-12.00.00pm",
+        "BanReason": "Spawncamping - Tank"
     }
 }
