@@ -6166,5 +6166,9 @@
     "SadHell": {
         "banneduntil": "2024.9.13-12.00.00pm",
         "BanReason": "Spawncamping - Tank"
+    },
+    "npnutty": {
+        "banneduntil": "2025.9.10-12.00.00pm",
+        "BanReason": "Underage (12) min age is 13 -Tank"
     }
 }
