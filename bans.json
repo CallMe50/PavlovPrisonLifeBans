@@ -6158,5 +6158,9 @@
     "domspam6969": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underage (11) min age is 13"
+    },
+    "mrgodlife": {
+        "banneduntil": "2024.9.11-12.00.00pm",
+        "BanReason": "Spamming mod sit after a warning"
     }
 }
