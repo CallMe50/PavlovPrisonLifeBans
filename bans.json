@@ -6198,5 +6198,9 @@
     "Deadshotz21": {
         "banneduntil": "2024.9.13-12.00.00pm",
         "BanReason": "Cross teaming and rdm"
+    },
+    "Ravenchild": {
+        "banneduntil": "2024.9.15-12.00.00pm",
+        "BanReason": "Rdm, killing in sit and evaded sit"
     }
 }
