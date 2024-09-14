@@ -82,5 +82,9 @@
     "thefightclub": {
         "banneduntil": "2024.9.15-12.00.00pm",
         "BanReason": "RDM (refresh yourself on the rules)"
+    },
+    "SuperDaveLj": {
+        "banneduntil": "2024.9.16-12.00.00pm",
+        "BanReason": "Killing in admin sit - German"
     }
 }
