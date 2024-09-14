@@ -70,5 +70,9 @@
     "djhxvinn": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "RDM, attempeted kill in sit of SOD, TK, possibly underaged - Tank"
+    },
+    "thegragsonboys": {
+        "banneduntil": "2026.9.14-12.00.00pm",
+        "BanReason": "Underaged 11"
     }
 }
