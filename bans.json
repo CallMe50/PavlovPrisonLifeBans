@@ -154,5 +154,9 @@
     "seb.285617": {
         "banneduntil": "2025.8.20-12.00.00pm",
         "BanReason": "Underage (12) must be 13+"
+    },
+    "CrystalBen12": {
+        "banneduntil": "2028-9.9-12.00.00pm",
+        "BanReason": "Underage mass rdm"
     }
 }
