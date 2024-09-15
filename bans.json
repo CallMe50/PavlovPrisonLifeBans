@@ -170,5 +170,9 @@
     "Christianjones11": {
         "banneduntil": "2024.10.5-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "bean_taco": {
+        "banneduntil": "2024.9.17-12.00.00pm",
+        "BanReason": "Mass rdm (please read the rules in the spawn where you choose teams)"
     }
 }
