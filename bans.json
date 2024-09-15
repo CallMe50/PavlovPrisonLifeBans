@@ -118,5 +118,9 @@
     "Rhino12344323222": {
         "banneduntil": "2025.9.15-12.00.00pm",
         "BanReason": "Underaged (must be 13+to play)"
+    },
+    "Damagrdttain": {
+        "banneduntil": "2026.8.20-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
