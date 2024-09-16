@@ -186,5 +186,9 @@
     "logan.of.salt": {
         "banneduntil": "2024.9.16-12.00.00pm",
         "BanReason": "Rdm (read rules above select prisoner role)"
+    },
+    "dabois1000": {
+        "banneduntil": "2024.9.30-12.00.00pm",
+        "BanReason": "TKx2, cross-teaming."
     }
 }
