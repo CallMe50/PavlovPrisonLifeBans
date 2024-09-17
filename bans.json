@@ -234,5 +234,9 @@
     "zaqux": {
         "banneduntil": "2024.10.16-12.00.00pm",
         "BanReason": "Soft a"
+    },
+    "RoyalAlpacha809": {
+        "banneduntil": "2024.9.17-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
