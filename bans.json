@@ -266,5 +266,9 @@
     "karsty": {
         "banneduntil": "2024.9.18-12.00.00pm",
         "BanReason": "Rdm (read the rules)"
+    },
+    "minecrabserious2": {
+        "banneduntil": "2099.9.18-12.00.00pm",
+        "BanReason": "underage and evading sit"
     }
 }
