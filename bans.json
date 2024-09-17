@@ -222,5 +222,9 @@
     "xllllllllxd": {
         "banneduntil": "2024.9.18-12.00.00pm",
         "BanReason": "Tk and rdm"
+    },
+    "cheezballs": {
+        "banneduntil": "2024.10.6-12.00.00pm",
+        "BanReason": "Rdm and tk"
     }
 }
