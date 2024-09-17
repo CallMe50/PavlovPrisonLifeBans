@@ -262,5 +262,9 @@
     "BusterMiles": {
         "banneduntil": "2100.1.1-12.00.00pm",
         "BanReason": "Nword (soft a)"
+    },
+    "karsty": {
+        "banneduntil": "2024.9.18-12.00.00pm",
+        "BanReason": "Rdm (read the rules)"
     }
 }
