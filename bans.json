@@ -210,5 +210,9 @@
     "EmeraldCW": {
         "banneduntil": "2024.9.17-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "audrengrv": {
+        "banneduntil": "2024.9.17-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
