@@ -270,5 +270,9 @@
     "minecrabserious2": {
         "banneduntil": "2099.9.18-12.00.00pm",
         "BanReason": "underage and evading sit"
+    },
+    "eze.736882": {
+        "banneduntil": "2024.9.19-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
