@@ -314,5 +314,9 @@
     "tntomega": {
         "banneduntil": "2024.9.19-12.00.00pm",
         "BanReason": "Rdm, killing in admin sit - read the rules please - German"
+    },
+    "mopGT": {
+        "banneduntil": "2024.9.23-12.00.00pm",
+        "BanReason": "Tk of a juggernaut"
     }
 }
