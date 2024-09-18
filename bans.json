@@ -282,5 +282,9 @@
     "zoqax": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "Soft a (put name in wrong)"
+    },
+    "AK109ALPHA": {
+        "banneduntil": "2025.8.9-12.00.00pm",
+        "BanReason": "Underage (ban reinstated)"
     }
 }
