@@ -298,5 +298,9 @@
     "Lafayette123": {
         "banneduntil": "2026.8.1-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "QuasiSix911": {
+        "banneduntil": "2026.5.1-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
