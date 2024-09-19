@@ -354,5 +354,9 @@
     "The_Aguliar": {
         "banneduntil": "2029.9.9-12.00.00pm",
         "BanReason": "Alt account"
+    },
+    "Rapid_18": {
+        "banneduntil": "2024.9.21-12.00.00pm",
+        "BanReason": "Rdm,crossteaming,evading sit"
     }
 }
