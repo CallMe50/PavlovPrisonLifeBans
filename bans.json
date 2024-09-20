@@ -402,5 +402,9 @@
     "melonenjoyer": {
         "banneduntil": "2024.9.21-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "WDLMogli": {
+        "banneduntil": "2100.1.1-12.00.00pm",
+        "BanReason": "Racism (N-word soft a, repeatedly)"
     }
 }
