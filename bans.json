@@ -422,5 +422,9 @@
     "topyouoiuh": {
         "banneduntil": "2026.9.20-12.00.00pm",
         "BanReason": "Underaged 10"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard R and been banned before"
     }
 }
