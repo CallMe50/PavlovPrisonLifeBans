@@ -486,5 +486,9 @@
     "GPman19": {
         "banneduntil": "2099.9.21-12.00.00pm",
         "BanReason": "Underage please make and appeal with proof of age to be unbanned"
+    },
+    "Chumbaya": {
+        "banneduntil": "2024.9.22-12.00.00pm",
+        "BanReason": "Mass RDM (read the rules in the spawn where you choose teams)"
     }
 }
