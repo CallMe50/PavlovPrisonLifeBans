@@ -494,5 +494,9 @@
     "raph.Fr": {
         "banneduntil": "2024.8.24-12.00.00pm",
         "BanReason": "Mass tk (refresh yourself on the rules in the spawn area where you choose teams)"
+    },
+    "body123": {
+        "banneduntil": "2024.8.24-12.00.00pm",
+        "BanReason": "Mass tk, please reread the rules in choosing team area"
     }
 }
