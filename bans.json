@@ -538,5 +538,9 @@
     "jacco224": {
         "banneduntil": "2024.9.24-12.00.00pm",
         "BanReason": "Fugitive Tk (x4)"
+    },
+    "c__k": {
+        "banneduntil": "2024.9.23-12.00.00pm",
+        "BanReason": "abusing glitch (wall burst glitch) -tank"
     }
 }
