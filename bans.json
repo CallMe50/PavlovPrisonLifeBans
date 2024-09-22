@@ -546,5 +546,9 @@
     "JayTo0High": {
         "banneduntil": "2099.8.9-12.00.00pm",
         "BanReason": "Hard R multiple times"
+    },
+    "Barbeque_Sauce": {
+        "banneduntil": "2024.9.25-12.00.00pm",
+        "BanReason": "Mass RDM 6x"
     }
 }
