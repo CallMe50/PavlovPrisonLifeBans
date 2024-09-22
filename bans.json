@@ -578,5 +578,9 @@
     "jeffffffffy": {
         "banneduntil": "2026.5.1-12.00.00pm",
         "BanReason": "Underaged 11"
+    },
+    "DarCoopy": {
+        "banneduntil": "2025.9.9-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
