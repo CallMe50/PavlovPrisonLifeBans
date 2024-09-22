@@ -542,5 +542,9 @@
     "c__k": {
         "banneduntil": "2024.9.23-12.00.00pm",
         "BanReason": "abusing glitch (wall burst glitch) -tank"
+    },
+    "JayTo0High": {
+        "banneduntil": "2099.8.9-12.00.00pm",
+        "BanReason": "Hard R multiple times"
     }
 }
