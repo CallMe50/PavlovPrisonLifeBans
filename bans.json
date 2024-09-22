@@ -550,5 +550,9 @@
     "Barbeque_Sauce": {
         "banneduntil": "2024.9.25-12.00.00pm",
         "BanReason": "Mass RDM 6x"
+    },
+    "Cosmizy.Floofs": {
+        "banneduntil": "2024.10.22-12.00.00pm",
+        "BanReason": "Soft \"a\" multiple times 1 month ban"
     }
 }
