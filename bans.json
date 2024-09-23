@@ -610,5 +610,9 @@
     "Rileyatnip.2023": {
         "banneduntil": "2024.9.25-12.00.00pm",
         "BanReason": "MASS Rdm"
+    },
+    "Hazedestruction": {
+        "banneduntil": "2024.9.25-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
