@@ -594,5 +594,9 @@
     "MAXXSR2008": {
         "banneduntil": "2024.9.23-12.00.00pm",
         "BanReason": "Rdm. Read the rules"
+    },
+    "Zuse366": {
+        "banneduntil": "2024.9.25-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
