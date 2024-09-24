@@ -642,5 +642,9 @@
     "Connorb021716": {
         "banneduntil": "2027.9.11-12.00.00pm",
         "BanReason": "Underage (10) must be 13+"
+    },
+    "ttvtomato": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "Underage (send proof in discord)"
     }
 }
