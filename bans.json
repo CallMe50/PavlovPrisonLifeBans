@@ -662,5 +662,9 @@
     "bemenot": {
         "banneduntil": "2024.9.25-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Ultramarzz": {
+        "banneduntil": "2032.9.24-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
