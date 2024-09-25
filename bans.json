@@ -686,5 +686,9 @@
     "En0rma_stits132": {
         "banneduntil": "2024.9.27-12.00.00pm",
         "BanReason": "RDMing, Evaded Admin Sit(please read the rules in the spawn where you choose teams)"
+    },
+    "Brady_scooters": {
+        "banneduntil": "2024.9.28-12.00.00pm",
+        "BanReason": "Repeated rdm"
     }
 }
