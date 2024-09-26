@@ -722,5 +722,9 @@
     "Savage-ak": {
         "banneduntil": "2024.9.27-12.00.00pm",
         "BanReason": "Rdm, read the rules at spawn in changing teams"
+    },
+    "The3DingBags": {
+        "banneduntil": "2024.9.28-12.00.00pm",
+        "BanReason": "Rdm (read rules when back)"
     }
 }
