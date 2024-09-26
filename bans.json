@@ -714,5 +714,9 @@
     "TTTharry": {
         "banneduntil": "2024.9.27-12.00.00pm",
         "BanReason": "Rdm, read the rules at spawn in changing teams"
+    },
+    "Homelesswarrior10": {
+        "banneduntil": "2024.8.20-12.00.00pm",
+        "BanReason": "Teaming, read the rules at spawn in changing teams"
     }
 }
