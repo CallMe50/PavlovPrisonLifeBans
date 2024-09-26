@@ -694,5 +694,9 @@
     "asprowles": {
         "banneduntil": "2024.8.28-12.00.00pm",
         "BanReason": "RDM and leaving admin sit (please read the rules in the spawn where you choose teams)"
+    },
+    "NC514": {
+        "banneduntil": "2030.8.29-12.00.00pm",
+        "BanReason": "Underage (you have to be 13+ to play this game)"
     }
 }
