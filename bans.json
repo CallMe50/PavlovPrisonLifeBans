@@ -766,5 +766,9 @@
     "MexicanDude": {
         "banneduntil": "6969.6.9-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "round0rbit": {
+        "banneduntil": "2024.9.29-12.00.00pm",
+        "BanReason": "teaming"
     }
 }
