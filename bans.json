@@ -794,5 +794,9 @@
     "Link365": {
         "banneduntil": "2024.10.1-12.00.00pm",
         "BanReason": "Mass rdm in sit and tk"
+    },
+    "FurryGunNerd.2023": {
+        "banneduntil": "2027.9.10-12.00.00pm",
+        "BanReason": "Underage (10) must be 13+"
     }
 }
