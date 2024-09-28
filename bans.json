@@ -802,5 +802,9 @@
     "MandaloriansBlunty": {
         "banneduntil": "2024.10.1-12.00.00pm",
         "BanReason": "Tk and leaving (please read the rules in the spawn where you choose teams)"
+    },
+    "MandaloriansBounty": {
+        "banneduntil": "2024.10.1-12.00.00pm",
+        "BanReason": "Tk and leaving (Please read the rules in the spawn where you choose teams)"
     }
 }
