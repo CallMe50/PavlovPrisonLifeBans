@@ -822,5 +822,9 @@
     "jrjr.123123": {
         "banneduntil": "2028.9.28-12.00.00pm",
         "BanReason": "Underage 4yr ban"
+    },
+    "Gamemaster4378": {
+        "banneduntil": "2024.9.30",
+        "BanReason": "RDM but low lvl"
     }
 }
