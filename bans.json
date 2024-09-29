@@ -842,5 +842,9 @@
     "SPAZTIKER": {
         "banneduntil": "2024.9.30-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "SmilingAngel": {
+        "banneduntil": "2024.10.1-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
