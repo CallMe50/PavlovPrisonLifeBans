@@ -840,7 +840,7 @@
         "BanReason": "Underage admitted being 9 4 yr ban"
     },
     "SPAZTIKER": {
-        "banneduntil": "2024.9.30",
+        "banneduntil": "2024.9.30-12.00.00pm",
         "BanReason": "RDM"
     }
 }
