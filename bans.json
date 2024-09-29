@@ -846,5 +846,9 @@
     "SmilingAngel": {
         "banneduntil": "2024.10.1-12.00.00pm",
         "BanReason": "Tk"
+    },
+    "uggforever": {
+        "banneduntil": "2024.10.1-12.00.00pm",
+        "BanReason": "Rdm, high level should know the rules by now"
     }
 }
