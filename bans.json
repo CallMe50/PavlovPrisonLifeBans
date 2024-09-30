@@ -882,5 +882,9 @@
     "bob1967": {
         "banneduntil": "2024.10.2-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "luc4dthree": {
+        "banneduntil": "2024.10.3-12.00.00pm",
+        "BanReason": "Random shooting"
     }
 }
