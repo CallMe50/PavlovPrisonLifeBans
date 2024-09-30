@@ -890,5 +890,9 @@
     "5.56x45mm_NATO_Lover": {
         "banneduntil": "2024.10.10-12.00.00pm",
         "BanReason": "Lying in tickets to get false data"
+    },
+    "TheDev1141": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r and underaged"
     }
 }
