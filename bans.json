@@ -894,5 +894,9 @@
     "TheDev1141": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Hard r and underaged"
+    },
+    "Foreskiny": {
+        "banneduntil": "2024.10.3-12.00.00pm",
+        "BanReason": "Farming achievements, waiting for data to be wiped"
     }
 }
