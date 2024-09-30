@@ -886,5 +886,9 @@
     "luc4dthree": {
         "banneduntil": "2024.10.3-12.00.00pm",
         "BanReason": "Random shooting"
+    },
+    "5.56x45mm_NATO_Lover": {
+        "banneduntil": "2024.9.1-12.00.00pm",
+        "BanReason": "Random tazing and shooting-Phraze"
     }
 }
