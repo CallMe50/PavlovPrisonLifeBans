@@ -934,5 +934,9 @@
     "captian.hook010": {
         "banneduntil": "2024.10.3-12.00.00pm",
         "BanReason": "Teamkilling, leaving server after tk"
+    },
+    "Lizardkid2.0": {
+        "banneduntil": "2099.1.1-12.00.00pm",
+        "BanReason": "Underaged and lying to staff, do better -Envy/Envnity."
     }
 }
