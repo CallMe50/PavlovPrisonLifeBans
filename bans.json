@@ -918,5 +918,9 @@
     "nate900345": {
         "banneduntil": "2025.9.30-12.00.00pm",
         "BanReason": "Underage (12) need to be 13+ to play"
+    },
+    "Xondio": {
+        "banneduntil": "2024.10.2-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
