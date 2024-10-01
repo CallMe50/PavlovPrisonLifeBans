@@ -930,5 +930,9 @@
     "Daaaang": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underage , send proof in discord"
+    },
+    "captian.hook010": {
+        "banneduntil": "2024.10.3-12.00.00pm",
+        "BanReason": "Teamkilling, leaving server after tk"
     }
 }
