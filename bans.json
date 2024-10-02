@@ -942,5 +942,9 @@
     "jihaddi": {
         "banneduntil": "2024.10.3-12.00.00pm",
         "BanReason": "Teamkilling several reammates, read the rules -Envy/Envnity."
+    },
+    "Silas1000": {
+        "banneduntil": "2024.12.3-12.00.00pm",
+        "BanReason": "underage (12)"
     }
 }
