@@ -966,5 +966,9 @@
     "BeastLilo": {
         "banneduntil": "2024.10.3-12.00.00pm",
         "BanReason": "Rdm, please read the rules when you return"
+    },
+    "POVbanned": {
+        "banneduntil": "2024.10.3-12.00.00pm",
+        "BanReason": "Rdm, please read the rules - German"
     }
 }
