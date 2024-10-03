@@ -974,5 +974,9 @@
     "Narveks": {
         "banneduntil": "2025.8.20-12.00.00pm",
         "BanReason": "Underage, must be 13+ (12)"
+    },
+    "sliderkill": {
+        "banneduntil": "2024.10.5-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
