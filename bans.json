@@ -1002,5 +1002,9 @@
     "NightMare0MG": {
         "banneduntil": "2099.8.20-12.00.00pm",
         "BanReason": "Dropped the hard R"
+    },
+    "CodeBoltz": {
+        "banneduntil": "2099.8.20-12.00.00pm",
+        "BanReason": "Dropped the hard R at me"
     }
 }
