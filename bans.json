@@ -998,5 +998,9 @@
     "HusgusVR": {
         "banneduntil": "2025.10.4-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "NightMare0MG": {
+        "banneduntil": "2099.8.20-12.00.00pm",
+        "BanReason": "Dropped the hard R"
     }
 }
