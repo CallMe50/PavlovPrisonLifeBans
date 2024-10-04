@@ -994,5 +994,9 @@
     "trex.221187": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Racism (hard-r)"
+    },
+    "HusgusVR": {
+        "banneduntil": "2025.10.4-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
