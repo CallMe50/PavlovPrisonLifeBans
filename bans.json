@@ -1042,5 +1042,9 @@
     "BUSH12": {
         "banneduntil": "2024.10.8-12.00.00pm",
         "BanReason": "TK, reread the rules"
+    },
+    "black.shaggy.6": {
+        "banneduntil": "2024.10.7-12.00.00pm",
+        "BanReason": "Rdm (read the rules)"
     }
 }
