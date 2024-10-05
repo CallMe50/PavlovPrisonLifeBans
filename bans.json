@@ -1030,5 +1030,9 @@
     "CGardner3254": {
         "banneduntil": "2024.10.6-12.00.00pm",
         "BanReason": "Random shooting unarmed prisoners - read the rules - German"
+    },
+    "mickeaxe": {
+        "banneduntil": "2024.10.8-12.00.00pm",
+        "BanReason": "Random shooting/killing unarmed prisoners - read the rules - German"
     }
 }
