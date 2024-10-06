@@ -1046,5 +1046,9 @@
     "black.shaggy.6": {
         "banneduntil": "2024.10.7-12.00.00pm",
         "BanReason": "Rdm (read the rules)"
+    },
+    "cat.809": {
+        "banneduntil": "2024.10.6-12.00.00pm",
+        "BanReason": "Rdm (read the rules)"
     }
 }
