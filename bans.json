@@ -1082,5 +1082,9 @@
     "TankTrace": {
         "banneduntil": "2024.10.9-12.00.00pm",
         "BanReason": "multiple rdm - read the rules dude - German"
+    },
+    "Yourboymitchell": {
+        "banneduntil": "1999.1.1-12.00.00pm",
+        "BanReason": "Unban"
     }
 }
