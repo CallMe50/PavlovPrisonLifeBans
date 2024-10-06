@@ -1114,5 +1114,9 @@
     "Chance.H": {
         "banneduntil": "2025.10.10-12.00.00pm",
         "BanReason": "Unferaged (12, must be 13+ to play)"
+    },
+    "Biblecampvictim0": {
+        "banneduntil": "2024.10.9-12.00.00pm",
+        "BanReason": "RDM, crossteaming and TK (please read the rules next time)"
     }
 }
