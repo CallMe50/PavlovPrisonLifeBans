@@ -1090,5 +1090,9 @@
     "pooflicker": {
         "banneduntil": "2099.12.30-12.00.00pm",
         "BanReason": "N-words(hard r)"
+    },
+    "IamSuS_20111": {
+        "banneduntil": "2024.10.9-12.00.00pm",
+        "BanReason": "Left during admin sit and killed in admin sit"
     }
 }
