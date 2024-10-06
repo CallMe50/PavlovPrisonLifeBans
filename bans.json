@@ -1086,5 +1086,9 @@
     "Yourboymitchell": {
         "banneduntil": "1999.1.1-12.00.00pm",
         "BanReason": "Unban"
+    },
+    "pooflicker": {
+        "banneduntil": "2099.12.30-12.00.00pm",
+        "BanReason": "N-words(hard r)"
     }
 }
