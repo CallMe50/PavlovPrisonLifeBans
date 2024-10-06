@@ -1110,5 +1110,9 @@
     "Redmanvr123123": {
         "banneduntil": "2024.10.8.-12.00.00pm",
         "BanReason": "Mass RDM (please read the rules in the spawn where you choose teams before playing next time)"
+    },
+    "Chance.H": {
+        "banneduntil": "2025.10.10-12.00.00pm",
+        "BanReason": "Unferaged (12, must be 13+ to play)"
     }
 }
