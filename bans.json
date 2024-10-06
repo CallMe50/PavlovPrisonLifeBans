@@ -1094,5 +1094,9 @@
     "IamSuS_20111": {
         "banneduntil": "2024.10.9-12.00.00pm",
         "BanReason": "Left during admin sit and killed in admin sit"
+    },
+    "stxrsaroundmyscxrs": {
+        "banneduntil": "2024.10.8-12.00.00pm",
+        "BanReason": "Left in admin sit"
     }
 }
