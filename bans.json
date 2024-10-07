@@ -1150,5 +1150,9 @@
     "QUESTGOER345": {
         "banneduntil": "2024.10.13-12.00.00pm",
         "BanReason": "Intentional RDM X2, killing in sit"
+    },
+    "Yokenzie": {
+        "banneduntil": "2024.10.10-12.00.00pm",
+        "BanReason": "multiple teamkill, read the rules - German"
     }
 }
