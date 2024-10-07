@@ -1146,5 +1146,9 @@
     "itaiyaniv": {
         "banneduntil": "2024.10.21-12.00.00pm",
         "BanReason": "RDM, refusal to comply in sit, killing in sit X3."
+    },
+    "QUESTGOER345": {
+        "banneduntil": "2024.10.13-12.00.00pm",
+        "BanReason": "Intentional RDM X2, killing in sit"
     }
 }
