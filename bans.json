@@ -1130,5 +1130,9 @@
     "STALINSOPER296": {
         "banneduntil": "2024.10.8-12.00.00pm",
         "BanReason": "Tk and rdm, please read the rules when you return"
+    },
+    "ItsStillMax": {
+        "banneduntil": "2024.10.8-12.00.00pm",
+        "BanReason": "2x RDM & Selfkill in sit"
     }
 }
