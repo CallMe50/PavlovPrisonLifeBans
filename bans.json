@@ -1210,5 +1210,9 @@
     "ProXyisagoat": {
         "banneduntil": "2024.10.11-12.00.00pm",
         "BanReason": "Crossteaming-Oli"
+    },
+    "orangutan.toenail.2024": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
