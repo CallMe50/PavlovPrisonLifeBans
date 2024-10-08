@@ -1182,5 +1182,9 @@
     "GMGAquatic": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Reported for underage (11) -Envy/Envnity."
+    },
+    "bigboy1104": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Underage (12) must be 13+"
     }
 }
