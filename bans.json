@@ -1190,5 +1190,9 @@
     "HugheyMungo": {
         "banneduntil": "2025.8.10-12.00.00pm",
         "BanReason": "N Word X3, Shooting prisoners for no reason."
+    },
+    "bizu.360615": {
+        "banneduntil": "2024.11.10-12.00.00pm",
+        "BanReason": "Racism, Shooting prisoners for no reason while warning"
     }
 }
