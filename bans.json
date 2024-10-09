@@ -1220,7 +1220,7 @@
         "BanReason": "N-word(soft a)"
     },
     "i.am.i.was.14": {
-        "banneduntil": "2027.10.15",
+        "banneduntil": "2027.10.15-12.00.00pm",
         "BanReason": "Underage (10)"
     }
 }
