@@ -1222,5 +1222,9 @@
     "i.am.i.was.14": {
         "banneduntil": "2027.10.15-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "MilitaryFir6321": {
+        "banneduntil": "2024.10.9-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
