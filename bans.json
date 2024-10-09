@@ -1226,5 +1226,9 @@
     "MilitaryFir6321": {
         "banneduntil": "2024.10.9-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "fish.slayer.418828": {
+        "banneduntil": "2099.10.15-12.00.00pm",
+        "BanReason": "Evaded Admin sit when prompted about age questions. Can appeal but will have to show proof."
     }
 }
