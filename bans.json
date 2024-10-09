@@ -1242,5 +1242,9 @@
     "Ireallylikecheeseburgers": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Rdm x2 and hard R"
+    },
+    "Prime_Zeroo": {
+        "banneduntil": "2024.10.10-12.00.00pm",
+        "BanReason": "Crossteaming (read the rules)"
     }
 }
