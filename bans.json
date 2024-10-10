@@ -1266,5 +1266,9 @@
     "kmc.mico": {
         "banneduntil": "2024.10.13-12.00.00pm",
         "BanReason": "RDM, TK (please read the rules next time)"
+    },
+    "P1NK1VR": {
+        "banneduntil": "2024.10.11-12.00.00pm",
+        "BanReason": "Mass tk (Please read the rules in the spawn where you choose teams before playing next time)"
     }
 }
