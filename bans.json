@@ -1270,5 +1270,9 @@
     "P1NK1VR": {
         "banneduntil": "2024.10.11-12.00.00pm",
         "BanReason": "Mass tk (Please read the rules in the spawn where you choose teams before playing next time)"
+    },
+    "SalvageAj": {
+        "banneduntil": "2026.9.1-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
