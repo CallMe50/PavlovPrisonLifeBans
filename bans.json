@@ -1286,5 +1286,9 @@
     "Sir_mushy": {
         "banneduntil": "2024.10.12-12.00.00pm",
         "BanReason": "RDM (please read the rules in the spawn where you choose teams)"
+    },
+    "Sir_Mushy": {
+        "banneduntil": "2024.10.12-12.00.00pm",
+        "BanReason": "RDM (please read the rules in the spawn where you choose teams)"
     }
 }
