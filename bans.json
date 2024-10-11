@@ -1278,5 +1278,9 @@
     "davidpatte": {
         "banneduntil": "2025.5.1-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "SurroundedbyBalls03": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
