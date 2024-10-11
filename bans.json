@@ -1290,5 +1290,9 @@
     "Sir_Mushy": {
         "banneduntil": "2024.10.12-12.00.00pm",
         "BanReason": "RDM (please read the rules in the spawn where you choose teams)"
+    },
+    "mr.painkiller": {
+        "banneduntil": "2024.10.16-12.00.00pm",
+        "BanReason": "Rdm tk and killing in sit. Read rules"
     }
 }
