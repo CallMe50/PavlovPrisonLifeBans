@@ -1274,5 +1274,9 @@
     "SalvageAj": {
         "banneduntil": "2026.9.1-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "davidpatte": {
+        "banneduntil": "2025.5.1-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
