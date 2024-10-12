@@ -1362,5 +1362,9 @@
     "Oga.2323": {
         "banneduntil": "2028.12.31-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "jimmybob": {
+        "banneduntil": "2024.10.19-12.00.00",
+        "BanReason": "Teamkill (x2), A.Sit Non-Compliance (Disconnecting). Please write an appeal!"
     }
 }
