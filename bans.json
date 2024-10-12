@@ -1374,5 +1374,9 @@
     "Drayqho": {
         "banneduntil": "2028.10.12-12.00.00pm",
         "BanReason": "Underage admitted being 9"
+    },
+    "oga.2023": {
+        "banneduntil": "2027.10.29-12.00.00pm",
+        "BanReason": "Underage (10) - Reports"
     }
 }
