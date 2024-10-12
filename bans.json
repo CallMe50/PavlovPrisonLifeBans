@@ -1334,5 +1334,9 @@
     "jogd": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "Farming kills"
+    },
+    "C-Hawky": {
+        "banneduntil": "2024.10.15-12.00.00pm",
+        "BanReason": "Farming kills with jogd"
     }
 }
