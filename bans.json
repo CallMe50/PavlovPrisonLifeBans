@@ -1410,5 +1410,9 @@
     "SamRahmes": {
         "banneduntil": "2024.10.14-12.00.00pm",
         "BanReason": "Rdm (read the rules)"
+    },
+    "GageMiser": {
+        "banneduntil": "2024.10.13-12.00.00pm",
+        "BanReason": "Attempted cross teaming. Please read the rules at changing team spawn. Please appeal to be unbanned"
     }
 }
