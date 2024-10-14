@@ -1434,5 +1434,9 @@
     "BingBingFadeAway": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "Tk x2"
+    },
+    "LAMMERSYT": {
+        "banneduntil": "2024.10.16-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
