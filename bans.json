@@ -1474,5 +1474,9 @@
     "HNG3": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Hard r (n word) no racism"
+    },
+    "killersteve.9075": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r (n word)"
     }
 }
