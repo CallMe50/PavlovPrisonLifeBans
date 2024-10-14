@@ -1430,5 +1430,9 @@
     "DRAGONcrayon": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "Teamkill, read the rules - German"
+    },
+    "BingBingFadeAway": {
+        "banneduntil": "2024.10.17-12.00.00pm",
+        "BanReason": "Tk x2"
     }
 }
