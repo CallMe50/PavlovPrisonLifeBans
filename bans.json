@@ -1470,5 +1470,9 @@
     "Chocolate287": {
         "banneduntil": "2024.10.16-12.00.00pm",
         "BanReason": "Rdm,evading sit(please read the rules)"
+    },
+    "HNG3": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r (n word) no racism"
     }
 }
