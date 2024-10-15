@@ -1546,5 +1546,9 @@
     "fireflame105": {
         "banneduntil": "2027.10.18-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "2beeH": {
+        "banneduntil": "2024.10.17-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
