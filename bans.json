@@ -1486,5 +1486,9 @@
     "lag69er": {
         "banneduntil": "2024.12.14-12.00.00pm",
         "BanReason": "Tk (multiple time offender)"
+    },
+    "busterScruggs13": {
+        "banneduntil": "2099.12.14-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
