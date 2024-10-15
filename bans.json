@@ -1490,5 +1490,9 @@
     "busterScruggs13": {
         "banneduntil": "2099.12.14-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "phazder": {
+        "banneduntil": "2027.12.14-12.00.00pm",
+        "BanReason": "underage (10)"
     }
 }
