@@ -1510,5 +1510,9 @@
     "zack.654708": {
         "banneduntil": "2025.10.20-12.00.00pm",
         "BanReason": "Underage(12) must be 13+"
+    },
+    "echoentu.2022": {
+        "banneduntil": "2024.10.18-12.00.00pm",
+        "BanReason": "Teaming & TK"
     }
 }
