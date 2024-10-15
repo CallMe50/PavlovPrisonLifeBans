@@ -1550,5 +1550,9 @@
     "2beeH": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Weisgarber": {
+        "banneduntil": "2024.10.20-12.00.00pm",
+        "BanReason": "Double Tk"
     }
 }
