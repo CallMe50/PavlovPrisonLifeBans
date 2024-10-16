@@ -1586,5 +1586,9 @@
     "HarryMilne14": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "RDM and leaving lobby (please read the rules in the spawn where you choose teams)"
+    },
+    "human.265895": {
+        "banneduntil": "2024.10.17-12.00.00pm",
+        "BanReason": "Attempt TK, Random tazeing - WilliamEXE"
     }
 }
