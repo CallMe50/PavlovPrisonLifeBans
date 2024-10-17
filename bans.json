@@ -1602,5 +1602,9 @@
     "ThickenNuggetGOT": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "german1888": {
+        "banneduntil": "2024.10.17-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
