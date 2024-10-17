@@ -1606,5 +1606,9 @@
     "german1888": {
         "banneduntil": "2024.10.17-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "cloope": {
+        "banneduntil": "2024.10.19-12.00.00pm",
+        "BanReason": "RDM (Report from Discord) - WilliamEXE"
     }
 }
