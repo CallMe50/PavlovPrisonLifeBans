@@ -1634,5 +1634,9 @@
     "Charli.c": {
         "banneduntil": "2024.10.20-12.00.00pm",
         "BanReason": "Teamkilling (x3), Sit Non-Compliance (x2), Please create a ban appeal and ping @Trilo_Byte."
+    },
+    "charli.c": {
+        "banneduntil": "2024.10.18-12.00.00am",
+        "BanReason": "Successful Ban Appeal"
     }
 }
