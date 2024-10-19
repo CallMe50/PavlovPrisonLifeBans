@@ -1662,5 +1662,9 @@
     "Zai081013": {
         "banneduntil": "2026.10.19-12.00.00pm",
         "BanReason": "Underage admitted being 11"
+    },
+    "Javachip": {
+        "banneduntil": "2024.10.21-12.00.00pm",
+        "BanReason": "Teamkilling"
     }
 }
