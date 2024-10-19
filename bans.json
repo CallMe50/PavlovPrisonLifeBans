@@ -1678,5 +1678,9 @@
     "ModernSamuri": {
         "banneduntil": "2024.10.23-12.00.00pm",
         "BanReason": "Baiting & RDM"
+    },
+    "Mallard39": {
+        "banneduntil": "2024.10.26-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
