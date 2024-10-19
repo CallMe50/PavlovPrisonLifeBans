@@ -1670,5 +1670,9 @@
     "DADYK3": {
         "banneduntil": "2024.10.22-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "Sorrowless": {
+        "banneduntil": "2024.12.1-12.00.00pm",
+        "BanReason": "N word"
     }
 }
