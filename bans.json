@@ -1650,5 +1650,9 @@
     "Koltonmonroe": {
         "banneduntil": "2025.10.18-12.00.00pm",
         "BanReason": "Underage admitted being 12 1 yr ban"
+    },
+    "Rkelly": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
