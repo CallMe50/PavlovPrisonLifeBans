@@ -1726,5 +1726,9 @@
     "ManMan1706": {
         "banneduntil": "2025.10.20-12.00.00pm",
         "BanReason": "Underage(12) must be 13+ year ban"
+    },
+    "Verld15": {
+        "banneduntil": "2024.10.21-12.00.00pm",
+        "BanReason": "TeamKilling (read the rules) - WilliamEXE"
     }
 }
