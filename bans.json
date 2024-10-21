@@ -1742,5 +1742,9 @@
     "Kim.jong.un51": {
         "banneduntil": "9999.12.31.12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Diverquestvr": {
+        "banneduntil": "2024.10.30-12.00.00pm",
+        "BanReason": "Teamkilling, does not comply after questioning, disrespectfull against me"
     }
 }
