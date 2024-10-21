@@ -1738,5 +1738,9 @@
     "mattid.2010": {
         "banneduntil": "2024.10.22-12.00.00pm",
         "BanReason": "Rdm,lying to staff"
+    },
+    "Kim.jong.un51": {
+        "banneduntil": "9999.12.31.12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
