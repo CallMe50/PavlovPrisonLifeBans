@@ -1316,8 +1316,8 @@
         "BanReason": "Rdm,evading sit"
     },
     "Cayson11316": {
-        "banneduntil": "underage",
-        "BanReason": "2026.11.8-12.00.00pm"
+        "banneduntil": "2026.11.8-12.00.00pm",
+        "BanReason": "underage"
     },
     "LoneHartke": {
         "banneduntil": "2024.10.13-12.00.00pm",
