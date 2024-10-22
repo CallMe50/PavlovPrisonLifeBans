@@ -1774,5 +1774,9 @@
     "mkbazz": {
         "banneduntil": "2024.10.23-12.00.00pm",
         "BanReason": "Teamkilling (please read the rules in the spawn where you choose teams)"
+    },
+    "hi.gg": {
+        "banneduntil": "2027.10.22-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
