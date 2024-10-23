@@ -1786,5 +1786,9 @@
     "AdManCrushAlot": {
         "banneduntil": "2024.10.25.-12.00.00pm",
         "BanReason": "RDM (read the rules) (Report from Discord) - WilliamEXE"
+    },
+    "Yzezyt": {
+        "banneduntil": "2025.9.15-12.00.00pm",
+        "BanReason": "Underaged (12, must be 13+ to play)"
     }
 }
