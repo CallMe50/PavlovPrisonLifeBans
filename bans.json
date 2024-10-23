@@ -1778,5 +1778,9 @@
     "hi.gg": {
         "banneduntil": "2027.10.22-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "Dravinboovr": {
+        "banneduntil": "2023.1.1-12.00.00pm",
+        "BanReason": "Unbanned, should have happened along time ago \ud83e\udd37 but verified age as well."
     }
 }
