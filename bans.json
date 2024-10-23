@@ -1790,5 +1790,9 @@
     "Yzezyt": {
         "banneduntil": "2025.9.15-12.00.00pm",
         "BanReason": "Underaged (12, must be 13+ to play)"
+    },
+    "Johnjock1234": {
+        "banneduntil": "2025.10.23-12.00.00pm",
+        "BanReason": "Underaged (12) - German"
     }
 }
