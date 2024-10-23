@@ -1798,5 +1798,9 @@
     "jack_vr917": {
         "banneduntil": "2024.10.24-12.00.00pm",
         "BanReason": "Rdm, please read the rules when you return at choosing teams spawn"
+    },
+    "1PATNOD9": {
+        "banneduntil": "2024.10.24-12.00.00pm",
+        "BanReason": "Team tazing, please read the rules when you return at choosing teams spawn"
     }
 }
