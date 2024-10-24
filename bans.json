@@ -1806,5 +1806,9 @@
     "reuber.30814": {
         "banneduntil": "2024.10.24-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Allofeveryone": {
+        "banneduntil": "2024.10.24-12.00.00pm",
+        "BanReason": "TeamKilling - WilliamEXE"
     }
 }
