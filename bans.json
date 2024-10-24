@@ -1802,5 +1802,9 @@
     "1PATNOD9": {
         "banneduntil": "2024.10.24-12.00.00pm",
         "BanReason": "Team tazing, please read the rules when you return at choosing teams spawn"
+    },
+    "reuber.30814": {
+        "banneduntil": "2024.10.24-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
