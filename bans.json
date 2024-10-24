@@ -1830,5 +1830,9 @@
     "wyattm4442": {
         "banneduntil": "2024.10.26-12.00.00pm",
         "BanReason": "Rdm, team taze, random taze. please read the rules when you return at choosing teams spawn"
+    },
+    "WarehouseLA": {
+        "banneduntil": "2024.10.25-12.00.00pm",
+        "BanReason": "Random shooting. please read the rules when you return at choosing teams spawn"
     }
 }
