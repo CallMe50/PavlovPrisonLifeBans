@@ -1834,5 +1834,9 @@
     "WarehouseLA": {
         "banneduntil": "2024.10.25-12.00.00pm",
         "BanReason": "Random shooting. please read the rules when you return at choosing teams spawn"
+    },
+    "Whowonyay": {
+        "banneduntil": "2027.10.31-12.00.00pm",
+        "BanReason": "Underage (10)"
     }
 }
