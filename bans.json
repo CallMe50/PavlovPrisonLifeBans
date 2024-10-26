@@ -1866,5 +1866,9 @@
     "RKelly": {
         "banneduntil": "2099.12.12-12.00.00pm",
         "BanReason": "hard r"
+    },
+    "wedemboys.2022": {
+        "banneduntil": "2024.10.27-12.00.00pm",
+        "BanReason": "RDM, avoiding sit"
     }
 }
