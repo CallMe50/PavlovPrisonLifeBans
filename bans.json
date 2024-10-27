@@ -1910,5 +1910,9 @@
     "johnny.wicky.33554": {
         "banneduntil": "2024.10.29-12.00.00pm",
         "BanReason": "Teamkilling"
+    },
+    "mayday.447933": {
+        "banneduntil": "2024.10.27-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
