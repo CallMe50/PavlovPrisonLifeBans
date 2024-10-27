@@ -1894,5 +1894,9 @@
     "LocalTweaker": {
         "banneduntil": "2024.11.25-12.00.00pm",
         "BanReason": "N word"
+    },
+    "Docnate519": {
+        "banneduntil": "2024.10.28-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
