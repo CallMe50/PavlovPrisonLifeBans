@@ -1930,5 +1930,9 @@
     "Culley503": {
         "banneduntil": "2027.8.5-12.00.00pm",
         "BanReason": "underage"
+    },
+    "WolfCub17": {
+        "banneduntil": "2027.10.28-12.00.00pm",
+        "BanReason": "Underage (9)"
     }
 }
