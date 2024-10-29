@@ -1958,5 +1958,9 @@
     "Brushotgun17": {
         "banneduntil": "2024.11.1.-12.00.00pm",
         "BanReason": "Tk and RDM while saying \"don't care\" (please read the rules before playing next time)"
+    },
+    "MasonB4024": {
+        "banneduntil": "2099.12.30-12.00.00pm",
+        "BanReason": "Hard r (s)"
     }
 }
