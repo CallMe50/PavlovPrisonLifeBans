@@ -1970,5 +1970,9 @@
     "Piglet134": {
         "banneduntil": "2027.10.25-12.00.00pm",
         "BanReason": "Underage (10) must be 13+"
+    },
+    "Joey_cleaver": {
+        "banneduntil": "2024.10.31-12.00.00pm",
+        "BanReason": "Crossteaming(please read the rules)"
     }
 }
