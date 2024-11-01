@@ -54,5 +54,9 @@
     "MIKKUS.2023": {
         "banneduntil": "2024.11.6-12.00.00pm",
         "BanReason": "Rdm 3 times, leaving in Adminsit after warning"
+    },
+    "pokeylake10142010": {
+        "banneduntil": "9999.11.1-12.00.00pm",
+        "BanReason": "Nword, rdm"
     }
 }
