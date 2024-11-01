@@ -18,5 +18,9 @@
     "ishowspeed.1": {
         "banneduntil": "2077.10.10-12.00.00pm",
         "BanReason": "You know why you\u2019re banned."
+    },
+    "iazooz": {
+        "banneduntil": "2077.10.10-12.00.00pm",
+        "BanReason": "Banning your alt too."
     }
 }
