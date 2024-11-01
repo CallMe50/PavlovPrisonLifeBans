@@ -62,5 +62,9 @@
     "Dominic.8765": {
         "banneduntil": "2027.8.8-12.00.00pm",
         "BanReason": "Underage 10 (must be 13+ to play)"
+    },
+    "poundsocake": {
+        "banneduntil": "9999.11.1-12.00.00pm",
+        "BanReason": "Underage,ban evading,threatening staff, MAKE A BAN APPEAL TO GET THIS SORTED"
     }
 }
