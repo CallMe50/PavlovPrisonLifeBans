@@ -46,5 +46,9 @@
     "Xoxnimm": {
         "banneduntil": "9999.12.1-12.00.00pm",
         "BanReason": "NSFW, porn, staff disrespect and more"
+    },
+    "p_q025": {
+        "banneduntil": "2099.10.1-12.00.00pm",
+        "BanReason": "Soft a 20+ times"
     }
 }
