@@ -10,5 +10,9 @@
     "Illustratum": {
         "banneduntil": "2024.11.07-12.00.00pm",
         "BanReason": "TK"
+    },
+    "zxb.goat": {
+        "banneduntil": "2099.8.7-12.00.00pm",
+        "BanReason": "Ban wipe blacklisted"
     }
 }
