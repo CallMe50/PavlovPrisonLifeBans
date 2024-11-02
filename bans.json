@@ -98,5 +98,9 @@
     "AshBigelow": {
         "banneduntil": "2025.11.1-12.00.00pm",
         "BanReason": "underage (12) - German"
+    },
+    "jatana.kent": {
+        "banneduntil": "2099.11.11-12.00.00pm",
+        "BanReason": "multiple hard r - German"
     }
 }
