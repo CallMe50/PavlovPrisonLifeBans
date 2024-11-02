@@ -78,5 +78,9 @@
     "Candicelingma1231": {
         "banneduntil": "2024.11.3-12.00.00pm",
         "BanReason": "Rdm, Rdm in sit,"
+    },
+    "GoonMire": {
+        "banneduntil": "2099.12.1.-12.00.00pm",
+        "BanReason": "RDMing & suspected underage after evading two admins sits"
     }
 }
