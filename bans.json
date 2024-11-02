@@ -102,5 +102,9 @@
     "jatana.kent": {
         "banneduntil": "2099.11.11-12.00.00pm",
         "BanReason": "multiple hard r - German"
+    },
+    "GrandLabel": {
+        "banneduntil": "2024.12.24-12.00.00pm",
+        "BanReason": "N-word (soft-a)"
     }
 }
