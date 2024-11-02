@@ -82,5 +82,9 @@
     "GoonMire": {
         "banneduntil": "2099.12.1.-12.00.00pm",
         "BanReason": "RDMing & suspected underage after evading two admins sits"
+    },
+    "penis_50cm": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Inappropriate username. Please join the discord to transfer your data when changing names"
     }
 }
