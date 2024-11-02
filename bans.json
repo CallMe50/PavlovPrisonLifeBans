@@ -86,5 +86,9 @@
     "penis_50cm": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Inappropriate username. Please join the discord to transfer your data when changing names"
+    },
+    "Luka7Saurus": {
+        "banneduntil": "2028.11.2-12.00.00pm",
+        "BanReason": "underage (9) need to be 13+ to play"
     }
 }
