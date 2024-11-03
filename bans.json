@@ -162,5 +162,9 @@
     "Doopydoop812": {
         "banneduntil": "2024.11.10-12.00.00pm",
         "BanReason": "Mass rdm, killing in sit x2, evading sit x2"
+    },
+    "i_have_rabies": {
+        "banneduntil": "2027.8.10-12.00.00pm",
+        "BanReason": "Underage (10, must be 13+ to play)"
     }
 }
