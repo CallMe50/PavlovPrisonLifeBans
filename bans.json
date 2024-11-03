@@ -178,5 +178,9 @@
     "Rman.2023": {
         "banneduntil": "2024.11.6.-12.00.00pm",
         "BanReason": "RDM and sit evasion (please read the rules in the spawn where you choose teams before playing next time)"
+    },
+    "Mfern00": {
+        "banneduntil": "2024.11.7-12.00.00pm",
+        "BanReason": "Mass rdm and mod evasion (please read the rules in the spawn where you choose teams before playing next time)"
     }
 }
