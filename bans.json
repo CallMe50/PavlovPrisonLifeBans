@@ -186,5 +186,9 @@
     "Extivaty": {
         "banneduntil": "2099.11.30-12.00.00pm",
         "BanReason": "Hard R - N word"
+    },
+    "theparkerdestroy": {
+        "banneduntil": "2024.11.6-12.00.00pm",
+        "BanReason": "Mass rdm (please read the rules/instructions in the spawn where you choose teams before playing next time)"
     }
 }
