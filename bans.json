@@ -174,5 +174,9 @@
     "MattMegLuke3": {
         "banneduntil": "2024.11.6.-12.00.00pm",
         "BanReason": "Intentional tk before leaving lobby"
+    },
+    "Rman.2023": {
+        "banneduntil": "2024.11.6.-12.00.00pm",
+        "BanReason": "RDM and sit evasion (please read the rules in the spawn where you choose teams before playing next time)"
     }
 }
