@@ -122,5 +122,9 @@
     "shooterboy6": {
         "banneduntil": "2024.11.2-12.00.00pm",
         "BanReason": "Underage (12) must be 13+"
+    },
+    "PCR0119": {
+        "banneduntil": "2026.11.1-12.00.00pm",
+        "BanReason": "Underage, must be 13+ / - German"
     }
 }
