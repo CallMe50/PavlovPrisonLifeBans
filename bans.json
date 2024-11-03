@@ -166,5 +166,9 @@
     "i_have_rabies": {
         "banneduntil": "2027.8.10-12.00.00pm",
         "BanReason": "Underage (10, must be 13+ to play)"
+    },
+    "emomickyjr": {
+        "banneduntil": "2026.8.29-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
