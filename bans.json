@@ -138,5 +138,9 @@
     "cvffxs": {
         "banneduntil": "2024.11.7-12.00.00pm",
         "BanReason": "Mass rdm (read the rules before playing next time)"
+    },
+    "luc4dthree": {
+        "banneduntil": "2028.10.13-12.00.00pm",
+        "BanReason": "Underage (Leewalky's ban)"
     }
 }
