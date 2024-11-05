@@ -238,5 +238,9 @@
     "jacksonC1122": {
         "banneduntil": "2024.11.11-12.00.00pm",
         "BanReason": "Mass RDM, TeamKilling - WilliamEXE"
+    },
+    "Zotuim": {
+        "banneduntil": "2024.11.7-12.00.00pm",
+        "BanReason": "Mass tk (Please read the rules in the spawn where you choose teams before playing next time)"
     }
 }
