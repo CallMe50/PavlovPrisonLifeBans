@@ -226,5 +226,9 @@
     "prfisher": {
         "banneduntil": "2024.11.6-12.00.00pm",
         "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "AK109ALPHA": {
+        "banneduntil": "2025.9.15-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
