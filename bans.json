@@ -250,5 +250,9 @@
     "Sos_luljay": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Multiple n words - Prada"
+    },
+    "lunatiklink": {
+        "banneduntil": "2024.11.7-12.00.00pm",
+        "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
