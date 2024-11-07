@@ -262,5 +262,9 @@
     "lllllllllllllllllllllkkkk": {
         "banneduntil": "2024.11.9-12.00.00pm",
         "BanReason": "Rdm, please read the rules when you return at choosing teams spawn"
+    },
+    "SammerGio": {
+        "banneduntil": "9999.1.1-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
