@@ -266,5 +266,9 @@
     "SammerGio": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Dragonfish1013": {
+        "banneduntil": "2024.11.7-12.00.00pm",
+        "BanReason": "Cross teaming - WilliamEXE"
     }
 }
