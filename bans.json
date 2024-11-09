@@ -306,5 +306,9 @@
     "Field_Marshal_zukov": {
         "banneduntil": "2024.11.11-12.00.00pm",
         "BanReason": "Mass RDM and random shooting (Please read the rules at choosing team area or discord which is also in that area)"
+    },
+    "guns_and_gage": {
+        "banneduntil": "2027.11.8-12.00.00pm",
+        "BanReason": "Underaged 10"
     }
 }
