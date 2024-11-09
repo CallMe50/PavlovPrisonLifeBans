@@ -302,5 +302,9 @@
     "iamdestroylonely": {
         "banneduntil": "2024.11.10-12.00.00pm",
         "BanReason": "RDM (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "Field_Marshal_zukov": {
+        "banneduntil": "2024.11.11-12.00.00pm",
+        "BanReason": "Mass RDM and random shooting (Please read the rules at choosing team area or discord which is also in that area)"
     }
 }
