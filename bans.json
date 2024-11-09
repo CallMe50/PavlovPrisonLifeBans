@@ -310,5 +310,9 @@
     "guns_and_gage": {
         "banneduntil": "2027.11.8-12.00.00pm",
         "BanReason": "Underaged 10"
+    },
+    "Allofeveryone": {
+        "banneduntil": "2025.3.1-12.00.00pm",
+        "BanReason": "Underage (verify age in discord) -Prada"
     }
 }
