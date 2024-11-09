@@ -314,5 +314,9 @@
     "Allofeveryone": {
         "banneduntil": "2025.3.1-12.00.00pm",
         "BanReason": "Underage (verify age in discord) -Prada"
+    },
+    "Cat_Lover24": {
+        "banneduntil": "2100.1.1-12.00.00pm",
+        "BanReason": "Ban evading"
     }
 }
