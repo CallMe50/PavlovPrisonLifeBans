@@ -374,5 +374,9 @@
     "Koda_": {
         "banneduntil": "2099.7.15-12.00.00pm",
         "BanReason": "No hate but we can\u2019t have someone using RCON in PL. Please reach out to our discord for more information"
+    },
+    "Stola.s": {
+        "banneduntil": "2026.11.10-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
