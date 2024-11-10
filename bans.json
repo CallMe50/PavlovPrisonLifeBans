@@ -378,5 +378,9 @@
     "Stola.s": {
         "banneduntil": "2026.11.10-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Bred.x": {
+        "banneduntil": "2026.11.10-12.00.00pm",
+        "BanReason": "Underage. Alt of Stola.s"
     }
 }
