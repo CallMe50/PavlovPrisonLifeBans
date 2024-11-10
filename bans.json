@@ -366,5 +366,9 @@
     "allsupremebro": {
         "banneduntil": "2024.11.12-12.00.00pm",
         "BanReason": "Mass RDM"
+    },
+    "derpymonk": {
+        "banneduntil": "2025.7.15-12.00.00pm",
+        "BanReason": "Underaged 12"
     }
 }
