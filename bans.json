@@ -382,5 +382,9 @@
     "Bred.x": {
         "banneduntil": "2026.11.10-12.00.00pm",
         "BanReason": "Underage. Alt of Stola.s"
+    },
+    "Stole.x": {
+        "banneduntil": "2026.11.10-12.00.00pm",
+        "BanReason": "Underage. Alt of stola.s"
     }
 }
