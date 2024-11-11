@@ -426,5 +426,9 @@
     "TOP_SHOTA": {
         "banneduntil": "2024.11.17-12.00.00pm",
         "BanReason": "TK"
+    },
+    "bigboing": {
+        "banneduntil": "2024.11.12-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
