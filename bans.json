@@ -414,5 +414,9 @@
     "Pickledick1": {
         "banneduntil": "2024.12.11-12.00.00pm",
         "BanReason": "RDM & TK & Baiting & Teaming"
+    },
+    "ONBjackskelting": {
+        "banneduntil": "2024.11.12-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
