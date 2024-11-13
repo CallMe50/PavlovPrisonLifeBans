@@ -486,5 +486,9 @@
     "Keithkids8": {
         "banneduntil": "2030.11.13.-12.00.00pm",
         "BanReason": "Underage (7, must be 13+ to play)"
+    },
+    "netgds23": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
