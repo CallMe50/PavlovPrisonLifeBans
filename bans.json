@@ -494,5 +494,9 @@
     "Pedro2d5": {
         "banneduntil": "9999-12.31-12.00.00pm",
         "BanReason": "Possible underage+crossteaming appeal in dc"
+    },
+    "ccvfxs": {
+        "banneduntil": "2025.9.15-12.00.00pm",
+        "BanReason": "Underage (12, must be 13+ to play)"
     }
 }
