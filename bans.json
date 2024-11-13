@@ -490,5 +490,9 @@
     "netgds23": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Pedro2d5": {
+        "banneduntil": "9999-12.31-12.00.00pm",
+        "BanReason": "Possible underage+crossteaming appeal in dc"
     }
 }
