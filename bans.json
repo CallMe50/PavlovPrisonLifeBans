@@ -476,7 +476,7 @@
         "BanReason": "RDM + underage (12, must be 13+ to play)"
     },
     "Rigid_eggshell": {
-        "banneduntil": "2024.11.16-12.00.00pm",
-        "BanReason": "RDM (please read the rules and role instructions in the spawn where you choose teams)"
+        "banneduntil": "2100.1.1-12.00.00pm",
+        "BanReason": "Ban wipe blacklisted"
     }
 }
