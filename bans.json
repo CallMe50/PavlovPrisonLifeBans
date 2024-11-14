@@ -514,5 +514,9 @@
     "FatherCharels": {
         "banneduntil": "2025.9.14-12.00.00pm",
         "BanReason": "Underaged 12"
+    },
+    "REV67667": {
+        "banneduntil": "2024.11.15-12.00.00pm",
+        "BanReason": "Tk and teaming (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
