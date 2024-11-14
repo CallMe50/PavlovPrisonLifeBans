@@ -518,5 +518,9 @@
     "REV67667": {
         "banneduntil": "2024.11.15-12.00.00pm",
         "BanReason": "Tk and teaming (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "MiniProBro": {
+        "banneduntil": "2024.12.24-12.00.00pm",
+        "BanReason": "Repeated soft-a, staff disrespect. (Read the rules if u return)"
     }
 }
