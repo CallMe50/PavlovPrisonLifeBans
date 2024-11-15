@@ -542,5 +542,9 @@
     "Jonathan.184496": {
         "banneduntil": "2027.8.10-12.00.00pm",
         "BanReason": "Underage (10, must be 13 +to play)"
+    },
+    "DXXMSHOT": {
+        "banneduntil": "2027.8.29-12.00.00pm",
+        "BanReason": "Underage (10, must be 13+to play)"
     }
 }
