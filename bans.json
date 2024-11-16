@@ -546,5 +546,9 @@
     "DXXMSHOT": {
         "banneduntil": "2027.8.29-12.00.00pm",
         "BanReason": "Underage (10, must be 13+to play)"
+    },
+    "lilniftytony": {
+        "banneduntil": "2024.11.20-12.00.00pm",
+        "BanReason": "TeamKilling - WilliamEXE"
     }
 }
