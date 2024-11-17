@@ -582,5 +582,9 @@
     "king.bob.12345": {
         "banneduntil": "2024.11.23-12.00.00pm",
         "BanReason": "mass rdm, killing in sit x3 sit eavasion x5"
+    },
+    "Rick_Grimes1": {
+        "banneduntil": "2024.11.19-12.00.00pm",
+        "BanReason": "RDM, cop TK and Fugitive on prisoner Tk (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
