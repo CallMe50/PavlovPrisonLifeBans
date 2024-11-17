@@ -606,5 +606,9 @@
     "lancejr.2022": {
         "banneduntil": "2025.11.21-12.00.00pm",
         "BanReason": "underage"
+    },
+    "Hunter0762": {
+        "banneduntil": "2025.9.15-12.00.00pm",
+        "BanReason": "Underage (12,must be 13+ to play)"
     }
 }
