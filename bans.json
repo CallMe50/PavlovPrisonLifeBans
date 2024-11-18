@@ -650,5 +650,9 @@
     "Bbb.tangled": {
         "banneduntil": "2027.8.10-12.00.00pm",
         "BanReason": "Underage (10, must be 13+ to play)"
+    },
+    "the_radio_demon9": {
+        "banneduntil": "2027.8.10-12.00.00pm",
+        "BanReason": "Underaged (10, must be 13+ to play)"
     }
 }
