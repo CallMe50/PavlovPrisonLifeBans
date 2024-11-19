@@ -706,5 +706,9 @@
     "BossBoyAidden": {
         "banneduntil": "2024.11.22-12.00.00pm",
         "BanReason": "mass pris tk"
+    },
+    "Blackout12345": {
+        "banneduntil": "2025.11.19-12.00.00pm",
+        "BanReason": "Underaged 12"
     }
 }
