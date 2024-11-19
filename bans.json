@@ -698,5 +698,9 @@
     "lucia.michalova.5": {
         "banneduntil": "2027.9.11-12.00.00pm",
         "BanReason": "underage"
+    },
+    "BossBoyAiden": {
+        "banneduntil": "2024.11.30-12.00.00pm",
+        "BanReason": "mass pris tk"
     }
 }
