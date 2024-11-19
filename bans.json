@@ -710,5 +710,9 @@
     "Blackout12345": {
         "banneduntil": "2025.11.19-12.00.00pm",
         "BanReason": "Underaged 12"
+    },
+    "t.bug.273334": {
+        "banneduntil": "2028.11.19-12.00.00pm",
+        "BanReason": "Underaged 9"
     }
 }
