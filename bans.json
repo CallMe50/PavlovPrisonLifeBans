@@ -694,5 +694,9 @@
     "Sebastian.The.PRIME.BOY": {
         "banneduntil": "2025.9.11-12.00.00pm",
         "BanReason": "underage"
+    },
+    "lucia.michalova.5": {
+        "banneduntil": "2027.9.11-12.00.00pm",
+        "BanReason": "underage"
     }
 }
