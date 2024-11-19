@@ -670,5 +670,9 @@
     "WarehouseLA": {
         "banneduntil": "2024.11.30-12.00.00pm",
         "BanReason": "Mass fugitive tk (read the rules when u come back)"
+    },
+    "Bigpfisher": {
+        "banneduntil": "2024.11.23-12.00.00pm",
+        "BanReason": "CrossTeaming - WilliamEXE"
     }
 }
