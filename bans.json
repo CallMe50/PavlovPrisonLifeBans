@@ -718,5 +718,9 @@
     "EscobarFamOK": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underage (verify in discord with proof) -Prada"
+    },
+    "cupecakeninja": {
+        "banneduntil": "2024.11.21-12.00.00pm",
+        "BanReason": "Rdm,evading sit"
     }
 }
