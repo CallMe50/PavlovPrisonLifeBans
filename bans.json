@@ -714,5 +714,9 @@
     "t.bug.273334": {
         "banneduntil": "2028.11.19-12.00.00pm",
         "BanReason": "Underaged 9"
+    },
+    "EscobarFamOK": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underage (verify in discord with proof) -Prada"
     }
 }
