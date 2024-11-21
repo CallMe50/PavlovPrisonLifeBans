@@ -746,5 +746,9 @@
     "baboonGT": {
         "banneduntil": "2030.11.8-12.00.00pm",
         "BanReason": "Underaged (if you want to get unbanned go to Prison Life discord to show your proof of age there)"
+    },
+    "vexta_1208": {
+        "banneduntil": "2024.12.4-12.00.00pm",
+        "BanReason": "Teamkilling (x3)"
     }
 }
