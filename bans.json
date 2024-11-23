@@ -790,5 +790,9 @@
     "Mtb4life2004": {
         "banneduntil": "2024.11.26-12.00.00pm",
         "BanReason": "MultiRDMs and Admin Sit evading"
+    },
+    "FTOPLAYA": {
+        "banneduntil": "2100.1.1-12.00.00pm",
+        "BanReason": "Racism (repeated usage of hard-r)"
     }
 }
