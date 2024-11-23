@@ -798,5 +798,9 @@
     "illegal_hopper08": {
         "banneduntil": "2099.12.30-12.00.00pm",
         "BanReason": "Please change your username to something appropriate"
+    },
+    "mr1guy": {
+        "banneduntil": "2027.8.8-12.00.00pm",
+        "BanReason": "Underage (10) -Envy/Envnity."
     }
 }
