@@ -794,5 +794,9 @@
     "FTOPLAYA": {
         "banneduntil": "2100.1.1-12.00.00pm",
         "BanReason": "Racism (repeated usage of hard-r)"
+    },
+    "illegal_hopper08": {
+        "banneduntil": "2099.12.30-12.00.00pm",
+        "BanReason": "Please change your username to something appropriate"
     }
 }
