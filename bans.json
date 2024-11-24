@@ -842,5 +842,9 @@
     "danlie": {
         "banneduntil": "2024.12.25-12.00.00pm",
         "BanReason": "N word -Prada"
+    },
+    "Schutte2": {
+        "banneduntil": "2094.12.25-12.00.00pm",
+        "BanReason": "hard r"
     }
 }
