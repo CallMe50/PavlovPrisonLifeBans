@@ -862,5 +862,9 @@
     "Vinst420": {
         "banneduntil": "2024.11.25-12.00.00pm",
         "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "Tahiti": {
+        "banneduntil": "2024.11.28-12.00.00pm",
+        "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
