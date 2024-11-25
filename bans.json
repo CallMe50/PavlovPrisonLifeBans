@@ -882,5 +882,9 @@
     "Systmglich": {
         "banneduntil": "2024.12.1-12.00.00pm",
         "BanReason": "mass rdm, sit evasion. if u woulda talked id have warned"
+    },
+    "OOSSE": {
+        "banneduntil": "2027.12.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
