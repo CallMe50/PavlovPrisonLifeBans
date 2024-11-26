@@ -914,5 +914,9 @@
     "TPJ_Giberto_tino": {
         "banneduntil": "2024.11.29-12.00.00pm",
         "BanReason": "mass rdm, sit evade"
+    },
+    "blokk_bud": {
+        "banneduntil": "2024.11.27-12.00.00pm",
+        "BanReason": "Rdm (not allowed to kill non kos prisoners in cells ever)"
     }
 }
