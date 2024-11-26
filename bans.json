@@ -910,5 +910,9 @@
     "gotnogames": {
         "banneduntil": "2024.11.28-12.00.00pm",
         "BanReason": "Tk and crossteaming"
+    },
+    "TPJ_Giberto_tino": {
+        "banneduntil": "2024.11.29-12.00.00pm",
+        "BanReason": "mass rdm, sit evade"
     }
 }
