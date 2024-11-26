@@ -918,5 +918,9 @@
     "blokk_bud": {
         "banneduntil": "2024.11.27-12.00.00pm",
         "BanReason": "Rdm (not allowed to kill non kos prisoners in cells ever)"
+    },
+    "Rdam79": {
+        "banneduntil": "2030.11.8-12.00.00pm",
+        "BanReason": "Underaged, sit evasion (make ban appeal on Prison Life discord to proof your age.)"
     }
 }
