@@ -994,5 +994,9 @@
     "leeeooon21": {
         "banneduntil": "2024.11.28-12.00.00",
         "BanReason": "sit evade, rdm, baiting"
+    },
+    "totito": {
+        "banneduntil": "2024.11.30-12.00.00",
+        "BanReason": "sit evade, rdm"
     }
 }
