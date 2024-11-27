@@ -1002,5 +1002,9 @@
     "MORT__1": {
         "banneduntil": "2025.1.27-12.00.00pm",
         "BanReason": "n word soft a"
+    },
+    "Blokk_bud": {
+        "banneduntil": "2024.12.2-12.00.00pm",
+        "BanReason": "Rdm, modsit evading"
     }
 }
