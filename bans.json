@@ -964,7 +964,7 @@
         "BanReason": "underage"
     },
     "die.haben.wir.auch.2023": {
-        "banneduntil": "2024.11.29",
-        "BanReason": "Teaming"
+        "banneduntil": "2024.11.29-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
