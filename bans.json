@@ -1018,5 +1018,9 @@
     "Nukem_VR": {
         "banneduntil": "2024.11.29-12.00.00pm",
         "BanReason": "TK and evading modsit"
+    },
+    "HunterOwenTRex": {
+        "banneduntil": "2026.11.27-12.00.00pm",
+        "BanReason": "possibly underaged, evading"
     }
 }
