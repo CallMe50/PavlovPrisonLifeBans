@@ -954,5 +954,9 @@
     "CIBoys": {
         "banneduntil": "2024.12-1-12.00.00pm",
         "BanReason": "RDM, tk"
+    },
+    "JohnChale": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r, evading mod sit"
     }
 }
