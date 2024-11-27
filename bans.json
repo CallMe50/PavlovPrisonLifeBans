@@ -950,5 +950,9 @@
     "CasejM": {
         "banneduntil": "2023.11.28-12.00.00pm",
         "BanReason": "unban"
+    },
+    "CIBoys": {
+        "banneduntil": "2024.12-1-12.00.00pm",
+        "BanReason": "RDM, tk"
     }
 }
