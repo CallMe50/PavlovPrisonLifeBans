@@ -958,5 +958,9 @@
     "JohnChale": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r, evading mod sit"
+    },
+    "someone837": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "underage"
     }
 }
