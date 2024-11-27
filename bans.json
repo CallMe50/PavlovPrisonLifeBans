@@ -986,5 +986,9 @@
     "jose84.ita": {
         "banneduntil": "2024.11.30-12.00.00pm",
         "BanReason": "baiting, sit evade"
+    },
+    "lpsk8z": {
+        "banneduntil": "9999.9.9-12.00.00",
+        "BanReason": "sit evade,possibly underaged, RDM"
     }
 }
