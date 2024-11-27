@@ -946,5 +946,9 @@
     "Tamungas": {
         "banneduntil": "2024.11.28-12.00.00pm",
         "BanReason": "RDM, killing in sit"
+    },
+    "CasejM": {
+        "banneduntil": "2023.11.28-12.00.00pm",
+        "BanReason": "unban"
     }
 }
