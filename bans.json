@@ -916,8 +916,8 @@
         "BanReason": "mass rdm, sit evade"
     },
     "blokk_bud": {
-        "banneduntil": "2024.11.27-12.00.00pm",
-        "BanReason": "Rdm (not allowed to kill non kos prisoners in cells ever)"
+        "banneduntil": "2099.11.27-12.00.00pm",
+        "BanReason": "RDM, Mod evasion, Soft a hateful usage and Spawn camping"
     },
     "Rdam79": {
         "banneduntil": "2030.11.8-12.00.00pm",
