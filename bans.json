@@ -998,5 +998,9 @@
     "totito": {
         "banneduntil": "2024.11.30-12.00.00",
         "BanReason": "sit evade, rdm"
+    },
+    "MORT__1": {
+        "banneduntil": "2025,1,27",
+        "BanReason": "n word soft a"
     }
 }
