@@ -1014,5 +1014,9 @@
     "The_Cum_Collector": {
         "banneduntil": "2099.9.9-12.00.00pm",
         "BanReason": "Change your name names like this aren\u2019t allowed in a server like this"
+    },
+    "Nukem_VR": {
+        "banneduntil": "2024.11.29-12.00.00pm",
+        "BanReason": "TK and evading modsit"
     }
 }
