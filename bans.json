@@ -1022,5 +1022,9 @@
     "HunterOwenTRex": {
         "banneduntil": "2026.11.27-12.00.00pm",
         "BanReason": "possibly underaged, evading"
+    },
+    "thefortune420": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "reason: possibly underaged,rdm"
     }
 }
