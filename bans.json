@@ -970,5 +970,9 @@
     "KoolAidMan1011": {
         "banneduntil": "2024.12.1-12.00.00pm",
         "BanReason": "Baiting and avoiding sit"
+    },
+    "the_dog_0718": {
+        "banneduntil": "9999.9.9-12.00.00",
+        "BanReason": "Repeatedly said \u201cn-word die\u201d"
     }
 }
