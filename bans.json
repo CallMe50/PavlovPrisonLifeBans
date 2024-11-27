@@ -962,5 +962,9 @@
     "someone837": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "underage"
+    },
+    "die.haben.wir.auch.2023": {
+        "banneduntil": "2024.11.29",
+        "BanReason": "Teaming"
     }
 }
