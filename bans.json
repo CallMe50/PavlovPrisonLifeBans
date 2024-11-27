@@ -996,7 +996,7 @@
         "BanReason": "sit evade, rdm, baiting"
     },
     "totito": {
-        "banneduntil": "2024.11.30-12.00.00",
+        "banneduntil": "2024.11.30-12.00.00pm",
         "BanReason": "sit evade, rdm"
     }
 }
