@@ -1006,5 +1006,9 @@
     "Blokk_bud": {
         "banneduntil": "2024.12.2-12.00.00pm",
         "BanReason": "Rdm, modsit evading"
+    },
+    "fabilloCR_ESP": {
+        "banneduntil": "2024.12.2-12.00.00pm",
+        "BanReason": "random shooting prisoners, mod sit evasion"
     }
 }
