@@ -942,5 +942,9 @@
     "uncolorednote65": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underage (veifry in discord) -Prada"
+    },
+    "Tamungas": {
+        "banneduntil": "2024.11.28-12.00.00pm",
+        "BanReason": "RDM, killing in sit"
     }
 }
