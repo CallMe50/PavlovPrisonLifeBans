@@ -1050,5 +1050,9 @@
     "ColtonJoe203": {
         "banneduntil": "2026.11.27-12.00.00pm",
         "BanReason": "Underage (must be 13)"
+    },
+    "Rick.Grimezz": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Ban evading"
     }
 }
