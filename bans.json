@@ -1082,5 +1082,9 @@
     "Ashton14-": {
         "banneduntil": "2025.11.28-12.00.00pm",
         "BanReason": "underaged"
+    },
+    "BaranchoBean": {
+        "banneduntil": "2024.12.5-12.00.00pm",
+        "BanReason": "sit evade, wasting time"
     }
 }
