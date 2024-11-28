@@ -1058,5 +1058,9 @@
     "FuriousScavenger": {
         "banneduntil": "2024.12.1-12.00.00pm",
         "BanReason": "mass tk, rdm"
+    },
+    "Endrit_Seli": {
+        "banneduntil": "2024.11.30-12.00.00pm",
+        "BanReason": "crossteaming"
     }
 }
