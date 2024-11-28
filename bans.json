@@ -1086,5 +1086,9 @@
     "BaranchoBean": {
         "banneduntil": "2024.12.5-12.00.00pm",
         "BanReason": "sit evade, wasting time"
+    },
+    "Willyboyyz": {
+        "banneduntil": "2024.11.29-12.00.00pm",
+        "BanReason": "rdm (read the rules when you come back)"
     }
 }
