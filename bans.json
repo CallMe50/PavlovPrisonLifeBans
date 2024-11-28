@@ -1062,5 +1062,9 @@
     "Endrit_Seli": {
         "banneduntil": "2024.11.30-12.00.00pm",
         "BanReason": "crossteaming"
+    },
+    "DiddyvictimVR": {
+        "banneduntil": "2024.12.28-12.00.00pm",
+        "BanReason": "hard r baiting"
     }
 }
