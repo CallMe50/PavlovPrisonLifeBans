@@ -1054,5 +1054,9 @@
     "Rick.Grimezz": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Ban evading"
+    },
+    "FuriousScavenger": {
+        "banneduntil": "2024.12.1-12.00.00",
+        "BanReason": "mass tk, rdm"
     }
 }
