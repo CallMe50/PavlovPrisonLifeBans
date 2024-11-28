@@ -1056,7 +1056,7 @@
         "BanReason": "Ban evading"
     },
     "FuriousScavenger": {
-        "banneduntil": "2024.12.1-12.00.00",
+        "banneduntil": "2024.12.1-12.00.00pm",
         "BanReason": "mass tk, rdm"
     }
 }
