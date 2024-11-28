@@ -1030,5 +1030,9 @@
     "Stewartfam90": {
         "banneduntil": "2096.11.27-12.00.00pm",
         "BanReason": "possibly underaged, evading x2, kill in sit x2, mass rdm (appeal in discord with age proof)"
+    },
+    "danny_gamer": {
+        "banneduntil": "2025.11.28-12.00.00pm",
+        "BanReason": "underaged, rdm"
     }
 }
