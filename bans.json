@@ -1066,5 +1066,9 @@
     "DiddyvictimVR": {
         "banneduntil": "2024.12.28-12.00.00pm",
         "BanReason": "hard r baiting"
+    },
+    "freddie0608": {
+        "banneduntil": "2024.12.5-12.00.00pm",
+        "BanReason": "sit evading even after multiple chances"
     }
 }
