@@ -1110,5 +1110,9 @@
     "hunt08.226872": {
         "banneduntil": "2024.11.30-12.00.00pm",
         "BanReason": "kill in sit (dont do that)"
+    },
+    "hispanic.2026": {
+        "banneduntil": "2024.12.6-12.00.00pm",
+        "BanReason": "Numerous TK and tazing"
     }
 }
