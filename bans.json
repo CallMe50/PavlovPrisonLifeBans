@@ -1102,5 +1102,9 @@
     "aidenshltonme": {
         "banneduntil": "2024.11.30-12.00.00pm",
         "BanReason": "Rdming even after i warned 2 day ban"
+    },
+    "german1888": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "underaged (provide age in discord)"
     }
 }
