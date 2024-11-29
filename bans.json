@@ -1114,5 +1114,9 @@
     "hispanic.2026": {
         "banneduntil": "2024.12.6-12.00.00pm",
         "BanReason": "Numerous TK and tazing"
+    },
+    "Cargoshorts29": {
+        "banneduntil": "2024.12.1-12.00.00pm",
+        "BanReason": "teamkilling"
     }
 }
