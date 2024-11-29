@@ -1106,5 +1106,9 @@
     "german1888": {
         "banneduntil": "2025.11.29-12.00.00pm",
         "BanReason": "underaged (provide age in discord)"
+    },
+    "hunt08.226872": {
+        "banneduntil": "2024.11.30-12.00.00pm",
+        "BanReason": "kill in sit (dont do that)"
     }
 }
