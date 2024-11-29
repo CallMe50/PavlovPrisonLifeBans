@@ -1118,5 +1118,9 @@
     "Cargoshorts29": {
         "banneduntil": "2024.12.1-12.00.00pm",
         "BanReason": "teamkilling"
+    },
+    "Ultrahealing": {
+        "banneduntil": "2025.11.29-12.00.00pm",
+        "BanReason": "underaged"
     }
 }
