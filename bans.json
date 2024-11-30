@@ -1178,5 +1178,9 @@
     "EDPs_Poptrt": {
         "banneduntil": "2024.12.2-12.00.00pm",
         "BanReason": "Reason: RDM ,Sit evading,2 days- Preston"
+    },
+    "MoldyPastaMan": {
+        "banneduntil": "2024.12.1-12.00.00pm",
+        "BanReason": "Killing me in clown chamber and leaving sit x2"
     }
 }
