@@ -1160,7 +1160,7 @@
         "BanReason": "RDM, Sit evading -Preston"
     },
     "NoGodsForYou": {
-        "banneduntil": "9999 -12.00.00pm",
+        "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Blatant racism, Can appeal - saulie - jakezilla"
     }
 }
