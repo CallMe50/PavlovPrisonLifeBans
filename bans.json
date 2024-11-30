@@ -1158,5 +1158,9 @@
     "NashGotSkillzs": {
         "banneduntil": "2024.12.1-12.00.00pm",
         "BanReason": "RDM, Sit evading -Preston"
+    },
+    "NoGodsForYou": {
+        "banneduntil": "9999 -12.00.00pm",
+        "BanReason": "Blatant racism, Can appeal - saulie - jakezilla"
     }
 }
