@@ -1174,5 +1174,9 @@
     "ijetp2509": {
         "banneduntil": "2027.11.30-12.00.00pm",
         "BanReason": "underaged (10) must be 13+"
+    },
+    "EDPs_Poptrt": {
+        "banneduntil": "2024.12.2-12.00.00pm",
+        "BanReason": "Reason: RDM ,Sit evading,2 days- Preston"
     }
 }
