@@ -1202,5 +1202,9 @@
     "CJ12.R": {
         "banneduntil": "2024.12.1-12.00.00pm",
         "BanReason": "Rdm and Tk"
+    },
+    "ipopnarcotics": {
+        "banneduntil": "2024.12.3-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
