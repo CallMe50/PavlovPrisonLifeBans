@@ -1230,5 +1230,9 @@
     "Frostyy_chicken": {
         "banneduntil": "2024.12.2-12.00.00pm",
         "BanReason": "Guard tk/rdm (please read the rules before playing)"
+    },
+    "timwiggers": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r (appeal this in the discord)"
     }
 }
