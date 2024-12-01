@@ -1218,5 +1218,9 @@
     "user13225632": {
         "banneduntil": "2024.12.2-12.00.00pm",
         "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "clouded_vibes": {
+        "banneduntil": "2024.12.3-12.00.00pm",
+        "BanReason": "Cop tk (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
