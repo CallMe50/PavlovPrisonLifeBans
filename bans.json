@@ -1234,5 +1234,9 @@
     "timwiggers": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r (appeal this in the discord)"
+    },
+    "ForeverDEKL4": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r plus rdm (appeal this in the discord)"
     }
 }
