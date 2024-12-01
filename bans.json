@@ -1206,5 +1206,9 @@
     "ipopnarcotics": {
         "banneduntil": "2025.2.12-12.00.00pm",
         "BanReason": "N word and mass Rdm in sit"
+    },
+    "Maybe1984": {
+        "banneduntil": "2024.12.2-12.00.00pm",
+        "BanReason": "RDM (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
