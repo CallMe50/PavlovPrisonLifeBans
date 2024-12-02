@@ -1250,5 +1250,9 @@
     "rooroo2k13": {
         "banneduntil": "2024.12.2-12.00.00pm",
         "BanReason": "Mass Rdm"
+    },
+    "popdaddy": {
+        "banneduntil": "2024.12.4-12.00.00pm",
+        "BanReason": "Teaming, Sit evade"
     }
 }
