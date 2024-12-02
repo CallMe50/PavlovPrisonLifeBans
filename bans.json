@@ -1262,5 +1262,9 @@
     "Betsyandvince": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Evading modsit, mass tk (appeal in discord)"
+    },
+    "betsyandvince": {
+        "banneduntil": "2024.12.16",
+        "BanReason": "Mass tk and evading modsit (appeal in discord)"
     }
 }
