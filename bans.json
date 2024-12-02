@@ -1278,5 +1278,9 @@
     "bizu.360615": {
         "banneduntil": "2025.1.2-12.00.00pm",
         "BanReason": "Rdm,Evading sit,1 month-Preston"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "2025.2.15-12.00.00pm",
+        "BanReason": "Rdm,Killing in sit-Preston"
     }
 }
