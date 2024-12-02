@@ -1274,5 +1274,9 @@
     "hmb1234": {
         "banneduntil": "2024.12.3-12.00.00pm",
         "BanReason": "Evading modsit, rdm (please read the rules)"
+    },
+    "bizu.360615": {
+        "banneduntil": "2025.1.2-12.00.00pm",
+        "BanReason": "Rdm,Evading sit,1 month-Preston"
     }
 }
