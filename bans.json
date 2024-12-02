@@ -1254,5 +1254,9 @@
     "popdaddy": {
         "banneduntil": "2024.12.4-12.00.00pm",
         "BanReason": "Teaming, Sit evade"
+    },
+    "Ryan_K_0": {
+        "banneduntil": "2025.12.1-12.00.00pm",
+        "BanReason": "Underage (12) must be 13+"
     }
 }
