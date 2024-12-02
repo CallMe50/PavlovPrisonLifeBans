@@ -1270,5 +1270,9 @@
     "gayfurryporn6000": {
         "banneduntil": "9999.99.9-12.00.00pm",
         "BanReason": "Banned until username is changed and appeal is made"
+    },
+    "hmb1234": {
+        "banneduntil": "2024.12.3-12.00.00pm",
+        "BanReason": "Evading modsit, rdm (please read the rules)"
     }
 }
