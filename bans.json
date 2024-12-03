@@ -1318,5 +1318,9 @@
     "richard.skinner.96": {
         "banneduntil": "2024.12.8-12.00.00pm",
         "BanReason": "rdm,baiting"
+    },
+    "Larrylea": {
+        "banneduntil": "2027.12.2-12.00.00pm",
+        "BanReason": "Underage (must be 13 or older)"
     }
 }
