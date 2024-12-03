@@ -1314,5 +1314,9 @@
     "TommyGD13": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Possible underage, evading modsit"
+    },
+    "richard.skinner.96": {
+        "banneduntil": "2024.12.8-12.00.00pm",
+        "BanReason": "rdm,baiting"
     }
 }
