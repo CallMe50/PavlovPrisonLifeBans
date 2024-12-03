@@ -1290,5 +1290,9 @@
     "M9A4": {
         "banneduntil": "2024.12.5-12.00.00pm",
         "BanReason": "Rdm, Baiting, didn\u2019t stop after a warning"
+    },
+    "MIL.KingAlex11": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r (appeal in discord)"
     }
 }
