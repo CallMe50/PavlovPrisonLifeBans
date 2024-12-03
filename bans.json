@@ -1306,5 +1306,9 @@
     "AlpachinoX": {
         "banneduntil": "2025.1.2-12.00.00pm",
         "BanReason": "Helping a player boost for kills (read the rules next time please)"
+    },
+    "Gadreeldoom": {
+        "banneduntil": "2025.1.3-12.00.00pm",
+        "BanReason": "Mass rdm,sit evading-Preston"
     }
 }
