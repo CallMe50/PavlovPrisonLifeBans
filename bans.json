@@ -1310,5 +1310,9 @@
     "Gadreeldoom": {
         "banneduntil": "2025.1.3-12.00.00pm",
         "BanReason": "Mass rdm,sit evading-Preston"
+    },
+    "TommyGD13": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Appeal in discord"
     }
 }
