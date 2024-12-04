@@ -1350,5 +1350,9 @@
     "djozefcali.2024": {
         "banneduntil": "2024.12.8-12.00.00pm",
         "BanReason": "Mass pris tk, fug on pris tk"
+    },
+    "BagChaserFG": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "N word"
     }
 }
