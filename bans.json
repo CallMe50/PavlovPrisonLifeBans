@@ -1354,5 +1354,9 @@
     "BagChaserFG": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "N word"
+    },
+    "SpicyLemonSoup": {
+        "banneduntil": "2024.12.5-12.00.00pm",
+        "BanReason": "Mass guard tk"
     }
 }
