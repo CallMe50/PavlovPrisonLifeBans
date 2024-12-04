@@ -1330,5 +1330,9 @@
     "Wanted_Rosina": {
         "banneduntil": "2024.12.6-12.00.00pm",
         "BanReason": "Tk and uncooperative in sit"
+    },
+    "8_BITZ": {
+        "banneduntil": "2024.12.15-12.00.00pm",
+        "BanReason": "Cross teaming and lying in sit"
     }
 }
