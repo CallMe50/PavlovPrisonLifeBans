@@ -1326,5 +1326,9 @@
     "BbyAxzul": {
         "banneduntil": "2024.12.10-12.00.00pm",
         "BanReason": "Mass tk"
+    },
+    "Wanted_Rosina": {
+        "banneduntil": "2024.12.6-12.00.00pm",
+        "BanReason": "Tk and uncooperative in sit"
     }
 }
