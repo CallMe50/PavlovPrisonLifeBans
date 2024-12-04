@@ -1322,5 +1322,9 @@
     "Larrylea": {
         "banneduntil": "permaban",
         "BanReason": "Mass rdm and previous bans (11)"
+    },
+    "BbyAxzul": {
+        "banneduntil": "2024.12.10-12.00.00pm",
+        "BanReason": "Mass tk"
     }
 }
