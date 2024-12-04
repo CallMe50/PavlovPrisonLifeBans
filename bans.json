@@ -1320,7 +1320,7 @@
         "BanReason": "rdm,baiting"
     },
     "Larrylea": {
-        "banneduntil": "2027.12.2-12.00.00pm",
-        "BanReason": "Underage (must be 13 or older)"
+        "banneduntil": "permaban",
+        "BanReason": "Mass rdm and previous bans (11)"
     }
 }
