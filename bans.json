@@ -1380,7 +1380,7 @@
         "BanReason": "Unban"
     },
     "catlover_21": {
-        "banneduntil": "9999.99.9-12.00.00pm",
+        "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "ban evading"
     }
 }
