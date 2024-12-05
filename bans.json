@@ -1378,5 +1378,9 @@
     "PWSpitfire": {
         "banneduntil": "2024.12.2-12.00.00pm",
         "BanReason": "Unban"
+    },
+    "catlover_21": {
+        "banneduntil": "9999.99.9-12.00.00pm",
+        "BanReason": "ban evading"
     }
 }
