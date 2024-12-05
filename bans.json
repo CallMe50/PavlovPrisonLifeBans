@@ -1406,5 +1406,9 @@
     "mirm6434": {
         "banneduntil": "2024.12.7-12.00.00pm",
         "BanReason": "Fugitive on prisoner tk"
+    },
+    "kirbygamr": {
+        "banneduntil": "2024.12.6-12.00.00pm",
+        "BanReason": "Cop tk (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
