@@ -1390,5 +1390,9 @@
     "Axzulxx": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r, mass rdm, switching teams after being booted off"
+    },
+    "laseryeet306": {
+        "banneduntil": "2025.5.5-12.00.00pm",
+        "BanReason": "Spamming the hard r"
     }
 }
