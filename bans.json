@@ -1382,5 +1382,9 @@
     "catlover_21": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "ban evading"
+    },
+    "Stalkerr": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "hard r n-word"
     }
 }
