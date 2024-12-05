@@ -1374,5 +1374,9 @@
     "OrdinaryTalon21": {
         "banneduntil": "2024.12.7-12.00.00pm",
         "BanReason": "Teaming, Sit evade, please read the rules next time"
+    },
+    "PWSpitfire": {
+        "banneduntil": "2024.12.2-12.00.00pm",
+        "BanReason": "Unban"
     }
 }
