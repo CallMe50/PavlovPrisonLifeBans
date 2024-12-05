@@ -1386,5 +1386,9 @@
     "Stalkerr": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "hard r n-word"
+    },
+    "Axzulxx": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r, mass rdm, switching teams after being booted off"
     }
 }
