@@ -1426,5 +1426,9 @@
     "frankensturgen": {
         "banneduntil": "2025.12.6-12.00.00pm",
         "BanReason": "underaged (12)"
+    },
+    "Cartermand": {
+        "banneduntil": "2027.12.27-12.00.00pm",
+        "BanReason": "Underaged (10) (appeal in discord)"
     }
 }
