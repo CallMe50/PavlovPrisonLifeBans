@@ -1418,5 +1418,9 @@
     "beetlejuice_214": {
         "banneduntil": "2024.12.8-12.00.00pm",
         "BanReason": "RDM, tasing"
+    },
+    "VertJR": {
+        "banneduntil": "2025.12.6-12.00.00pm",
+        "BanReason": "underaged (12)"
     }
 }
