@@ -1414,5 +1414,9 @@
     "DADDYK3": {
         "banneduntil": "2024.12.12-12.00.00pm",
         "BanReason": "Mass TK, Rdm, Baiting"
+    },
+    "beetlejuice_214": {
+        "banneduntil": "2024.12.8-12.00.00pm",
+        "BanReason": "RDM, tasing"
     }
 }
