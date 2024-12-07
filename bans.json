@@ -1466,5 +1466,9 @@
     "Pohls2224": {
         "banneduntil": "2024.12.13-12.00.00pm",
         "BanReason": "Cross teaming, tazing your teammate"
+    },
+    "Mr._Anonymous": {
+        "banneduntil": "2024.12.9-12.00.00pm",
+        "BanReason": "Rdm,Sit evading"
     }
 }
