@@ -1474,5 +1474,9 @@
     "SuperNova.2013": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Gotta be 13 or older (11yr old), rdm"
+    },
+    "hairypitd2006": {
+        "banneduntil": "2024.12.16-12.00.00pm",
+        "BanReason": "Harassment, uncooperative in sit, team tasing, staff disrespect"
     }
 }
