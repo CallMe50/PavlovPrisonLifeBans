@@ -1470,5 +1470,9 @@
     "Mr._Anonymous": {
         "banneduntil": "2024.12.9-12.00.00pm",
         "BanReason": "Rdm,Sit evading"
+    },
+    "SuperNova.2013": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Gotta be 13 or older (11yr old), rdm"
     }
 }
