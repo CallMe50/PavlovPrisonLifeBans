@@ -1458,5 +1458,9 @@
     "Bcacathecaca": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Underage 12"
+    },
+    "Blochamus": {
+        "banneduntil": "2025.1.7-12.00.00pm",
+        "BanReason": "N word"
     }
 }
