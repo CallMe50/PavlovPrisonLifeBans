@@ -1462,5 +1462,9 @@
     "Blochamus": {
         "banneduntil": "2025.1.7-12.00.00pm",
         "BanReason": "N word"
+    },
+    "Pohls2224": {
+        "banneduntil": "2024.12.13-12.00.00pm",
+        "BanReason": "Cross teaming, tazing your teammate"
     }
 }
