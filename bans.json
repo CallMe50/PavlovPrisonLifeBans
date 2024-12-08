@@ -1502,5 +1502,9 @@
     "Reuel45": {
         "banneduntil": "2029.1.1-12.00.00pm",
         "BanReason": "Underaged gotta be 13 or older (8yr old)"
+    },
+    "Iag69er": {
+        "banneduntil": "2999.1.1-12.00.00pm",
+        "BanReason": "kill in sit other bans"
     }
 }
