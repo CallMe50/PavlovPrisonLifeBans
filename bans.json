@@ -1550,5 +1550,9 @@
     "Section8.455412": {
         "banneduntil": "2094.12.11-12.00.00pm",
         "BanReason": "ban evading"
+    },
+    "Femboysniper": {
+        "banneduntil": "2094.12.11-12.00.00pm",
+        "BanReason": "ban evading"
     }
 }
