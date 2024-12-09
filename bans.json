@@ -1546,5 +1546,9 @@
     "Justbreezy": {
         "banneduntil": "2024.12.11-12.00.00pm",
         "BanReason": "Tk then left"
+    },
+    "Section8.455412": {
+        "banneduntil": "2094.12.11-12.00.00pm",
+        "BanReason": "ban evading"
     }
 }
