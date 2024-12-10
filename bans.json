@@ -1562,5 +1562,9 @@
     "Presentsquire20": {
         "banneduntil": "2024.12.11-12.00.00pm",
         "BanReason": "Rdm,Sitevading"
+    },
+    "copisopop": {
+        "banneduntil": "2024.12.24-12.00.00pm",
+        "BanReason": "sit evading, killing staff in sit, rdm"
     }
 }
