@@ -50,5 +50,9 @@
     "ishowspeed.1": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Ishow perm ban"
+    },
+    "Femboysniper": {
+        "banneduntil": "2094.12.11-12.00.00pm",
+        "BanReason": "ban evading stola.s alt"
     }
 }
