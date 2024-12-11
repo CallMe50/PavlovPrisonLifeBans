@@ -62,5 +62,9 @@
     "lllllllllllllllllllllkkkk": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Alt of Arabic and section8"
+    },
+    "iazooz": {
+        "banneduntil": "2077.10.10-12.00.00pm",
+        "BanReason": "Banning your alt too speed."
     }
 }
