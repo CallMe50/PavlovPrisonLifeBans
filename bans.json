@@ -74,5 +74,9 @@
     "AK109ALPHA": {
         "banneduntil": "9999.12.31-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "BbyAxzul": {
+        "banneduntil": "2024.12.15-12.00.00pm",
+        "BanReason": "Rdm,TK,racism-Preston"
     }
 }
