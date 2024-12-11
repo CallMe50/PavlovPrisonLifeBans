@@ -66,5 +66,9 @@
     "iazooz": {
         "banneduntil": "2077.10.10-12.00.00pm",
         "BanReason": "Banning your alt too speed."
+    },
+    "iazoozxEXE": {
+        "banneduntil": "2077.10.10-12.00.00pm",
+        "BanReason": "This one too."
     }
 }
