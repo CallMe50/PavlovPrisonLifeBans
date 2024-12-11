@@ -10,5 +10,9 @@
     "Soup.Nooodle": {
         "banneduntil": "2099.12.31-12.00.00pm",
         "BanReason": "Ban wipe blacklisted"
+    },
+    "Stola.s": {
+        "banneduntil": "2026.11.10-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
