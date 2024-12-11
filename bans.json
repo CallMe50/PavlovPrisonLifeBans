@@ -70,5 +70,9 @@
     "iazoozxEXE": {
         "banneduntil": "2077.10.10-12.00.00pm",
         "BanReason": "This one too."
+    },
+    "AK109ALPHA": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
