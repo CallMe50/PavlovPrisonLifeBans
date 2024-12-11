@@ -46,5 +46,9 @@
     "Cat_Lover24": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Perm ban"
+    },
+    "ishowspeed.1": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Ishow perm ban"
     }
 }
