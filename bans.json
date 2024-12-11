@@ -34,5 +34,9 @@
     "ijetp2509": {
         "banneduntil": "2027.11.30-12.00.00pm",
         "BanReason": "underaged (10) must be 13+"
+    },
+    "this_ismyusername": {
+        "banneduntil": "2025.11.30-12.00.00pm",
+        "BanReason": "underage (12)"
     }
 }
