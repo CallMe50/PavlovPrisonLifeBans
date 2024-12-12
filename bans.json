@@ -134,5 +134,9 @@
     "AlexirYo": {
         "banneduntil": "2024.12.16-12.00.00pm",
         "BanReason": "Rdm,sit evading-Preston"
+    },
+    "NoCountryForOld420": {
+        "banneduntil": "2024.12.13-12.00.00pm",
+        "BanReason": "Teamkill, read the rules in choosing teams next time you get on"
     }
 }
