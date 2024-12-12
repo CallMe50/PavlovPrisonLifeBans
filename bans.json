@@ -138,5 +138,9 @@
     "NoCountryForOld420": {
         "banneduntil": "2024.12.13-12.00.00pm",
         "BanReason": "Teamkill, read the rules in choosing teams next time you get on"
+    },
+    "al.bryant.75": {
+        "banneduntil": "2025.12.12-12.00.00pm",
+        "BanReason": "Verify age in discord-Preston"
     }
 }
