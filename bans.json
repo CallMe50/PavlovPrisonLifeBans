@@ -110,5 +110,9 @@
     "Theuuyy": {
         "banneduntil": "2024.12.13",
         "BanReason": "Modsit evading, crossteaming (read the rules in choosing team before playing)"
+    },
+    "Theguuyy": {
+        "banneduntil": "2024.12.13-12.00.00pm",
+        "BanReason": "Modsit evading, crossteaming (read the rules in choosing team before playing)"
     }
 }
