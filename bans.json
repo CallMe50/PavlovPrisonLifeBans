@@ -162,5 +162,9 @@
     "Majus14": {
         "banneduntil": "2024.12.15-12.00.00pm",
         "BanReason": "Rdm ,left during sit"
+    },
+    "hillytrash": {
+        "banneduntil": "2026.4.2-12.00.00pm",
+        "BanReason": "underage(11)"
     }
 }
