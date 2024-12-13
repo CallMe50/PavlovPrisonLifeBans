@@ -150,5 +150,9 @@
     "AK5C_AP_COOKS": {
         "banneduntil": "2024.12.13-12.00.00pm",
         "BanReason": "Fugitive tk (Please read the rules and role instructions in the spawn where you choose teams l"
+    },
+    "civics": {
+        "banneduntil": "2024.12.14-12.00.00pm",
+        "BanReason": "Crossteaming, modsit evading"
     }
 }
