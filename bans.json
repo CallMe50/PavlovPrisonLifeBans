@@ -166,5 +166,9 @@
     "hillytrash": {
         "banneduntil": "2026.4.2-12.00.00pm",
         "BanReason": "underage(11)"
+    },
+    "bobcat4st": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
