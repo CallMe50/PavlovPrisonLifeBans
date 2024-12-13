@@ -154,5 +154,9 @@
     "civics": {
         "banneduntil": "2024.12.14-12.00.00pm",
         "BanReason": "Crossteaming, modsit evading"
+    },
+    "lordthumper.2024": {
+        "banneduntil": "2029.9.9-12.00.00pm",
+        "BanReason": "Suspected underage, show proof in discord"
     }
 }
