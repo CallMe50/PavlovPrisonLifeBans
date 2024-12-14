@@ -186,5 +186,9 @@
     "Andrewygaming": {
         "banneduntil": "2027.12.14-12.00.00pm",
         "BanReason": "underaged (10)"
+    },
+    "kingthe8": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "banned until proof of age"
     }
 }
