@@ -174,5 +174,9 @@
     "That_Bastard_cleatus": {
         "banneduntil": "2024.12.20-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "Error4044195": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underaged (10yrs old)"
     }
 }
