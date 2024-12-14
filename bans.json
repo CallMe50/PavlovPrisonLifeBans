@@ -190,5 +190,9 @@
     "kingthe8": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "banned until proof of age"
+    },
+    "Crack3r_01": {
+        "banneduntil": "2024.12.14-12.00.00pm",
+        "BanReason": "Rdm, Teaming, (read the rules next time you get on)"
     }
 }
