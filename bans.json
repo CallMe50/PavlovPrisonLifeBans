@@ -206,5 +206,9 @@
     "artist_named_adolf": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "banned until username is changed and appeal is made"
+    },
+    "Caps1cle": {
+        "banneduntil": "2024.12.18-12.00.00pm",
+        "BanReason": "Mass RDM"
     }
 }
