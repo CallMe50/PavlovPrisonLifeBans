@@ -218,5 +218,9 @@
     "SunkenVR": {
         "banneduntil": "2024.12.20-12.00.00pm",
         "BanReason": "rdm,sit evade, killed staff in sit"
+    },
+    "LarryNuker1": {
+        "banneduntil": "2024.12.18-12.00.00pm",
+        "BanReason": "fugitive in fugitive tk"
     }
 }
