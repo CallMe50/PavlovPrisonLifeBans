@@ -202,5 +202,9 @@
     "officialgg.2024": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Mass tk and hard r (appeal this in the discord)"
+    },
+    "artist_named_adolf": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "banned until username is changed and appeal is made"
     }
 }
