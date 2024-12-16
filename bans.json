@@ -234,5 +234,9 @@
     "NolanFaw123": {
         "banneduntil": "2027.12.15-12.00.00",
         "BanReason": "Underage (10)"
+    },
+    "Ultrahealing": {
+        "banneduntil": "2025.11.29-12.00.00pm",
+        "BanReason": "underaged (12)"
     }
 }
