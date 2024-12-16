@@ -238,5 +238,9 @@
     "Ultrahealing": {
         "banneduntil": "2025.11.29-12.00.00pm",
         "BanReason": "underaged (12)"
+    },
+    "PorkyBoy21": {
+        "banneduntil": "2024.12.17-12.00.00pm",
+        "BanReason": "Lying and killing in sit"
     }
 }
