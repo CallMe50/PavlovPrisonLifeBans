@@ -254,5 +254,9 @@
     "Cade1.0": {
         "banneduntil": "2026.12.17-12.00.00pm",
         "BanReason": "underaged (11), rdm, sit evade"
+    },
+    "sgt.hapss": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "ban evading"
     }
 }
