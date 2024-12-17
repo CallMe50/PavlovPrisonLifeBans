@@ -274,5 +274,9 @@
     "GOLDENMALABAR": {
         "banneduntil": "2024.12.17-12.00.00pm",
         "BanReason": "Rdm (please read the rules in choosing team)"
+    },
+    "dxrkz.on.top": {
+        "banneduntil": "2024.12.18-12.00.00pm",
+        "BanReason": "Mass rdm and modsit evading"
     }
 }
