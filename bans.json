@@ -282,5 +282,9 @@
     "dinokid.2024": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Verify age in discord"
+    },
+    "Ladon.da.great.8263917": {
+        "banneduntil": "2027.8.8-12.00.00pm",
+        "BanReason": "Underage (10, must be 13+ to play)"
     }
 }
