@@ -278,5 +278,9 @@
     "dxrkz.on.top": {
         "banneduntil": "2024.12.18-12.00.00pm",
         "BanReason": "Mass rdm and modsit evading"
+    },
+    "dinokid.2024": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Verify age in discord"
     }
 }
