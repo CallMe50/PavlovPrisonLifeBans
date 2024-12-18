@@ -306,5 +306,9 @@
     "wilioso": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underaged 11 (gotta be 13+ to play)"
+    },
+    "Gliiiitchy": {
+        "banneduntil": "2024.12.9-12.00.00pm",
+        "BanReason": "Rdm, modsit evading"
     }
 }
