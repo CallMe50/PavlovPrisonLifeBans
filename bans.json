@@ -302,5 +302,9 @@
     "Bored2024": {
         "banneduntil": "2024.12.22-12.00.00pm",
         "BanReason": "Modsit evading and crossteaming ( read the rules in lobby)"
+    },
+    "wilioso": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underaged 11 (gotta be 13+ to play)"
     }
 }
