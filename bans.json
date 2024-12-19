@@ -326,5 +326,9 @@
     "powersdaman": {
         "banneduntil": "2025.1.10\u201312.00.00pm",
         "BanReason": "N word"
+    },
+    "Btj_2": {
+        "banneduntil": "2027.12.1-12.00.00pm",
+        "BanReason": "underage (10)"
     }
 }
