@@ -314,5 +314,9 @@
     "jking45": {
         "banneduntil": "2026.5.3-12.00.00pm",
         "BanReason": "underage (11)"
+    },
+    "Allofeveryone": {
+        "banneduntil": "9999.9.9-12.00.00",
+        "BanReason": "Underage (verify in the discord)"
     }
 }
