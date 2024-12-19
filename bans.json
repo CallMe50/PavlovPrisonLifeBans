@@ -338,5 +338,9 @@
     "peek1": {
         "banneduntil": "2024.12.22-12.00.00pm",
         "BanReason": "Mass RDM after warning"
+    },
+    "GalaxyAssassln": {
+        "banneduntil": "2025.4.21-12.00.00pm",
+        "BanReason": "Lying to staff (3x), Mass RDM after warning (x2), Leaving after being kicked off guard team, Creating an alt to evade ban"
     }
 }
