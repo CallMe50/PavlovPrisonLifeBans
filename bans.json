@@ -316,7 +316,7 @@
         "BanReason": "underage (11)"
     },
     "Allofeveryone": {
-        "banneduntil": "9999.9.9-12.00.00",
+        "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underage (verify in the discord)"
     }
 }
