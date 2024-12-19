@@ -322,5 +322,9 @@
     "toxicgasmask": {
         "banneduntil": "2024.12.22-12.00.00pm",
         "BanReason": "evading mod sit, teaming with prisoners"
+    },
+    "powersdaman": {
+        "banneduntil": "2025.1.10\u201312.00.00pm",
+        "BanReason": "N word"
     }
 }
