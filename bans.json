@@ -354,5 +354,9 @@
     "mixirico": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "banned till proof of age (appeal in discord)"
+    },
+    "Picklestickz": {
+        "banneduntil": "2025.12.21-12.0.00pm",
+        "BanReason": "reason:underaged (12)"
     }
 }
