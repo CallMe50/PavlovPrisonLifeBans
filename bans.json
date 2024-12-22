@@ -378,5 +378,9 @@
     "cloope": {
         "banneduntil": "2024.12.24-12.00.00pm",
         "BanReason": "Rdm,sit evading-Preston"
+    },
+    "nba.slimboy4kt": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Ban evading (ban wipe blacklist)"
     }
 }
