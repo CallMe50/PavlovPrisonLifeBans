@@ -386,5 +386,9 @@
     "Rick.Grimezz": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Ban evading (ban wipe blacklist)"
+    },
+    "harro_60": {
+        "banneduntil": "2024.12.23",
+        "BanReason": "tk and killing in sit"
     }
 }
