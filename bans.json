@@ -370,5 +370,9 @@
     "reece.402134": {
         "banneduntil": "2026.5.9-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "Not_Clark": {
+        "banneduntil": "2025.1.22-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
