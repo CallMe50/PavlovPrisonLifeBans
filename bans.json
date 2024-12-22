@@ -362,5 +362,9 @@
     "HahaKat": {
         "banneduntil": "2024.12.23-12.00.00",
         "BanReason": "RDM after warning and just RDM lvl 1"
+    },
+    "notcowboyvr123": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "underaged (appeal in discord)"
     }
 }
