@@ -390,5 +390,9 @@
     "harro_60": {
         "banneduntil": "2024.12.23-12.00.00pm",
         "BanReason": "tk and killing in sit"
+    },
+    "boythateatsbananas": {
+        "banneduntil": "2024.12.23-12.00.00pm",
+        "BanReason": "tk"
     }
 }
