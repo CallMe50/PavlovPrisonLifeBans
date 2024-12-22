@@ -374,5 +374,9 @@
     "Not_Clark": {
         "banneduntil": "2025.1.22-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "cloope": {
+        "banneduntil": "2025.12.24-12.00.00pm",
+        "BanReason": "Rdm,sit evading-Preston"
     }
 }
