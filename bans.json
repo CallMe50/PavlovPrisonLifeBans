@@ -388,7 +388,7 @@
         "BanReason": "Ban evading (ban wipe blacklist)"
     },
     "harro_60": {
-        "banneduntil": "2024.12.23",
+        "banneduntil": "2024.12.23-12.0000pm",
         "BanReason": "tk and killing in sit"
     }
 }
