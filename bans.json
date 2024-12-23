@@ -430,5 +430,9 @@
     "poundsocake": {
         "banneduntil": "2027.8.8-12.00.00pm",
         "BanReason": "Underaged (10, must be 13+ to play)"
+    },
+    "Powerpidle": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Fugitive tk and modsit evading"
     }
 }
