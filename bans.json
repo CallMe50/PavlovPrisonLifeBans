@@ -450,5 +450,9 @@
     "ItsY0URM0MMY": {
         "banneduntil": "2024.12.25-12.00.00pm",
         "BanReason": "Tk (read rules at spawn)"
+    },
+    "TOP_SHOTA": {
+        "banneduntil": "2024.12.25-12.00.00pm",
+        "BanReason": "camping parking garage"
     }
 }
