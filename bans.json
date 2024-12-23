@@ -442,5 +442,9 @@
     "Zen_EL": {
         "banneduntil": "2024.12.25-12.00.00pm",
         "BanReason": "Tk (read rules at spawn"
+    },
+    "Theyluvqais": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "crossteaming,hard r, sit evading, killing in sit. appeal in discord"
     }
 }
