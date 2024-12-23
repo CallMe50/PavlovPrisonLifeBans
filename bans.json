@@ -426,5 +426,9 @@
     "RJ2500": {
         "banneduntil": "2025.6.6-12.00.00pm",
         "BanReason": "Underaged (12yr old) gotta be 13+"
+    },
+    "poundsocake": {
+        "banneduntil": "2027.8.8-12.00.00pm",
+        "BanReason": "Underaged (10, must be 13+ to play)"
     }
 }
