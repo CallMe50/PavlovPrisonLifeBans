@@ -466,5 +466,9 @@
     "phantom.935428": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underaged(10 yr old) gotta be 13+"
+    },
+    "LocalDuckGuy": {
+        "banneduntil": "2024.12.24-12.00.00pm",
+        "BanReason": "Reread the rules in choosing team lobby (obsesive tasing to own teammate and killing in modsit)"
     }
 }
