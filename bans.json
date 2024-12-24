@@ -454,5 +454,9 @@
     "TOP_SHOTA": {
         "banneduntil": "2024.12.25-12.00.00pm",
         "BanReason": "camping parking garage"
+    },
+    "MattMegLuke3": {
+        "banneduntil": "2024.12.25-12.00.00pm",
+        "BanReason": "Crossteaming"
     }
 }
