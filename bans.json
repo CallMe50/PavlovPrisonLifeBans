@@ -494,5 +494,9 @@
     "minigunner5311": {
         "banneduntil": "2024.12.30-12.00.00pm",
         "BanReason": "Guard teamkilling/fugitive tk (please read the rules in choosing team lobby before playing)"
+    },
+    "SpazMLR": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underage, evading modsit (verify your age in the discord server)"
     }
 }
