@@ -502,5 +502,9 @@
     "ishykay": {
         "banneduntil": "2024.12.30-12.00.00pm",
         "BanReason": "Crossteaming"
+    },
+    "Ridley13": {
+        "banneduntil": "2024.12.30-12.00.00pm",
+        "BanReason": "Leaving during admin sit, Mass RDM"
     }
 }
