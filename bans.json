@@ -510,5 +510,9 @@
     "CreationsVR": {
         "banneduntil": "2026.12.27-12.00.00pm",
         "BanReason": "Underaged, leaving during mod sit - Provide proof of age on the discord"
+    },
+    "8_BITZ": {
+        "banneduntil": "2025.2.26-12.00.00pm",
+        "BanReason": "Abusing loop holes after warning, and spawn killing after warning"
     }
 }
