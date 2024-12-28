@@ -530,5 +530,9 @@
     "1.numb.nut": {
         "banneduntil": "2024.12.30-12.00.00pm",
         "BanReason": "Rdm,sitevading"
+    },
+    "pickleperson213": {
+        "banneduntil": "2222.2.2-12.00.00pm",
+        "BanReason": "Verify age in discord (gotta be 13 or older)"
     }
 }
