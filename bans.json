@@ -562,5 +562,9 @@
     "JEDI-KYATANO": {
         "banneduntil": "2024.12.29-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "buttercat0484": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
