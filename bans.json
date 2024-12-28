@@ -550,5 +550,9 @@
     "audrengrv": {
         "banneduntil": "2024.12.30",
         "BanReason": "rdm,tk"
+    },
+    "Keeperofomega3": {
+        "banneduntil": "2025.1.27-12.00.00pm",
+        "BanReason": "mass rdm, killing in modsit, evading modsit"
     }
 }
