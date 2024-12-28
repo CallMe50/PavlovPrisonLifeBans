@@ -558,5 +558,9 @@
     "Buster12466287": {
         "banneduntil": "2024.12.30-12.00.00pm",
         "BanReason": "Mass Rdm (booted off guard team)"
+    },
+    "JEDI-KYATANO": {
+        "banneduntil": "2024.12.29-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
