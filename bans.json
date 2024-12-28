@@ -546,5 +546,9 @@
     "FazeApex923": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Mass tk , mass rdm, killing in modsit, evading modsit"
+    },
+    "audrengrv": {
+        "banneduntil": "2024.12.30",
+        "BanReason": "rdm,tk"
     }
 }
