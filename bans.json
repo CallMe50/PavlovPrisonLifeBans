@@ -538,5 +538,9 @@
     "MoonKnighttt": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "underage (gotta be at least 13) appeal when your of age"
+    },
+    "abs_lincoln": {
+        "banneduntil": "2024.12.28-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
