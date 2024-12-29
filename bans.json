@@ -622,5 +622,9 @@
     "wheelarmor": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r , cross teaming , fugitive tk x4 and evading sit"
+    },
+    "RustTrait": {
+        "banneduntil": "2025.1.17-12.00.00pm",
+        "BanReason": "Cross teaming. Killing in sit x4, evaded sit , Rdm till kicked off the team"
     }
 }
