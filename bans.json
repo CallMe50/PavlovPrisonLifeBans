@@ -626,5 +626,9 @@
     "RustTrait": {
         "banneduntil": "2025.1.17-12.00.00pm",
         "BanReason": "Cross teaming. Killing in sit x4, evaded sit , Rdm till kicked off the team"
+    },
+    "ItsMeEazer": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "sit evaded and also messed up the files recently"
     }
 }
