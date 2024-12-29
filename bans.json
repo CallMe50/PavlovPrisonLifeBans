@@ -594,5 +594,9 @@
     "HorociousCuzzler": {
         "banneduntil": "2025.1.4-12.00.00pm",
         "BanReason": "mass RDM, avoiding sit"
+    },
+    "BlowiesNoWorries": {
+        "banneduntil": "2024.12.30-12.00.00pm",
+        "BanReason": "Mass rdm, tk (read the rules in choosing team before playing)"
     }
 }
