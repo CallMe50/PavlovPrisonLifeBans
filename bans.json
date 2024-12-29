@@ -610,5 +610,9 @@
     "Bookcop1977": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "possibly underaged"
+    },
+    "Beanlicker56240": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "baiting and sit evade"
     }
 }
