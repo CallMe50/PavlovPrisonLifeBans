@@ -630,5 +630,9 @@
     "ItsMeEazer": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "sit evaded and also messed up the files recently"
+    },
+    "Stola.s": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "banwipe blacklisted"
     }
 }
