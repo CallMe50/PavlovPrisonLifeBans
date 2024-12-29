@@ -582,5 +582,9 @@
     "masta_cheif_420": {
         "banneduntil": "2024.12.31-12.00.00pm",
         "BanReason": "Rdm and evaded sit"
+    },
+    "Abs_Lincoln": {
+        "banneduntil": "2024.12.31-12.00.00pm",
+        "BanReason": "Baiting and evaded sit (read rules when back)"
     }
 }
