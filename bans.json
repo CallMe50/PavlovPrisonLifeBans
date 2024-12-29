@@ -598,5 +598,9 @@
     "BlowiesNoWorries": {
         "banneduntil": "2024.12.30-12.00.00pm",
         "BanReason": "Mass rdm, tk (read the rules in choosing team before playing)"
+    },
+    "ItsVenom76FO": {
+        "banneduntil": "2024.12.30-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
