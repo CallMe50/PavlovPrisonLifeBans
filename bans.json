@@ -586,5 +586,9 @@
     "Abs_Lincoln": {
         "banneduntil": "2024.12.31-12.00.00pm",
         "BanReason": "Baiting and evaded sit (read rules when back)"
+    },
+    "oe_throw": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Fugitive tk, modsit evading"
     }
 }
