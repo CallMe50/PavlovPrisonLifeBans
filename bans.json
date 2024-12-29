@@ -634,5 +634,9 @@
     "Stola.s": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "banwipe blacklisted"
+    },
+    "MatheoMonty5": {
+        "banneduntil": "2025.1.3-12.00.00pm",
+        "BanReason": "Rdm x2 evading sit"
     }
 }
