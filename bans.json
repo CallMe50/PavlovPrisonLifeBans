@@ -670,5 +670,9 @@
     "coopa12": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Baiting, evading modsit"
+    },
+    "BriceJay": {
+        "banneduntil": "2025.11.1-12.00.00pm",
+        "BanReason": "Underaged (12) gotta be 13+ to play"
     }
 }
