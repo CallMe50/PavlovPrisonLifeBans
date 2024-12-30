@@ -678,5 +678,9 @@
     "JasperWoods": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Crossteaming, modsit evading"
+    },
+    "Willson2013": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Verify age in the discord"
     }
 }
