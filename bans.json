@@ -646,5 +646,9 @@
     "RedPython13": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Rdm, Sit evade"
+    },
+    "chanhtckusan_68hfngdsffh": {
+        "banneduntil": "2025.1.2-12.00.00pm",
+        "BanReason": "rdm, evading sit"
     }
 }
