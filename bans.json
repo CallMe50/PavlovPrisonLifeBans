@@ -686,5 +686,9 @@
     "julio.58.315883": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "banned until proof of being >13 is provided"
+    },
+    "Blake2013": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underaged(11) gotta be 13+ to play"
     }
 }
