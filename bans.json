@@ -666,5 +666,9 @@
     "galticstocyrgted57446": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Tk, evading modsit"
+    },
+    "coopa12": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Baiting, evading modsit"
     }
 }
