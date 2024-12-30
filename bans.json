@@ -638,5 +638,9 @@
     "MatheoMonty5": {
         "banneduntil": "2025.1.3-12.00.00pm",
         "BanReason": "Rdm x2 evading sit"
+    },
+    "onfire1313": {
+        "banneduntil": "2024.12.31-12.00.00pm",
+        "BanReason": "Crossteaming"
     }
 }
