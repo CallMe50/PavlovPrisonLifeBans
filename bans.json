@@ -682,5 +682,9 @@
     "Willson2013": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Verify age in the discord"
+    },
+    "julio.58.315883": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "banned until proof of being >13 is provided"
     }
 }
