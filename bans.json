@@ -702,5 +702,9 @@
     "th1sfxnguy": {
         "banneduntil": "2026.12.25-12.00.00pm",
         "BanReason": "Underage (11) must be 13+"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Tk and several bans (ban wipe blacklist)"
     }
 }
