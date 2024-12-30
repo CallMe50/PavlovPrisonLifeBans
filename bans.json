@@ -642,5 +642,9 @@
     "onfire1313": {
         "banneduntil": "2024.12.31-12.00.00pm",
         "BanReason": "Crossteaming"
+    },
+    "RedPython13": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Rdm, Sit evade"
     }
 }
