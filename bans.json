@@ -714,5 +714,9 @@
     "CheerfulFox9055": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Rdm,Crossteaming,killing in sit, Tk"
+    },
+    "Wanted_Rosina": {
+        "banneduntil": "2025.1.7-12.00.00pm",
+        "BanReason": "Rdm and evading sit -Prada"
     }
 }
