@@ -770,5 +770,9 @@
     "KduGames": {
         "banneduntil": "2025.1.3-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "KsuGames": {
+        "banneduntil": "2025.1.3-12.00.00pm",
+        "BanReason": "Mass rdm"
     }
 }
