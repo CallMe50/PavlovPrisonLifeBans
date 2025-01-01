@@ -758,5 +758,9 @@
     "Grrrrrrrgrrr": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Cross teaming (read the rules)"
+    },
+    "jonathan.ziolo": {
+        "banneduntil": "2025.1.14-12.00.00pm",
+        "BanReason": "mass DMV and avoiding sit"
     }
 }
