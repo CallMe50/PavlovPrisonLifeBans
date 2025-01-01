@@ -734,5 +734,9 @@
     "Gwizzerd": {
         "banneduntil": "2025.1.2-12.00.00pm",
         "BanReason": "Crossteaming, modsit evading"
+    },
+    "IthrowbricksatKids": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
