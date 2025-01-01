@@ -750,5 +750,9 @@
     "jogd": {
         "banneduntil": "2020.1.1-12.00.00pm",
         "BanReason": "mb"
+    },
+    "philliprorrer": {
+        "banneduntil": "2025.1.1-12.00.00pm",
+        "BanReason": "baiting"
     }
 }
