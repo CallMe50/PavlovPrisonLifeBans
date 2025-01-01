@@ -730,5 +730,9 @@
     "DannyDevito617": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underaged/evading modsit (verify age in the discord server)"
+    },
+    "Gwizzerd": {
+        "banneduntil": "2025.1.2-12.00.00pm",
+        "BanReason": "Crossteaming, modsit evading"
     }
 }
