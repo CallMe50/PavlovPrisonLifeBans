@@ -742,5 +742,9 @@
     "jaygocrazy97": {
         "banneduntil": "2025.1.1-12.00.00pm",
         "BanReason": "Rdm (read the rules )"
+    },
+    "Arabic": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "banwipe blacklist"
     }
 }
