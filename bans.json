@@ -766,5 +766,9 @@
     "Shanadiga7": {
         "banneduntil": "2025.1.4-12.00.00pm",
         "BanReason": "rdm, crossteaming and sit evading"
+    },
+    "KduGames": {
+        "banneduntil": "2025.1.3-12.00.00pm",
+        "BanReason": "Mass rdm"
     }
 }
