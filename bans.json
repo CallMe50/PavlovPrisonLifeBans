@@ -838,5 +838,9 @@
     "WaterRex": {
         "banneduntil": "2029.1.1-12.00.00pm",
         "BanReason": "Underaged (9) gotta be 13+ to play"
+    },
+    "TheLabGeek": {
+        "banneduntil": "2025.1.6-12.00.00pm",
+        "BanReason": "RDMing as a cop"
     }
 }
