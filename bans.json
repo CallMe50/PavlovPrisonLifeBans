@@ -810,5 +810,9 @@
     "tothemaxx": {
         "banneduntil": "2025.1.3-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "zacker123": {
+        "banneduntil": "2025.12.1-12.00.00pm",
+        "BanReason": "Underaged (12) gotta be 13+"
     }
 }
