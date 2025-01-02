@@ -826,5 +826,9 @@
     "flower.456": {
         "banneduntil": "2025.12.1-12.00.00pm",
         "BanReason": "Underaged (12) gotta be 13+"
+    },
+    "1xtrizzx1": {
+        "banneduntil": "2028.12.25-12.00.00pm",
+        "BanReason": "Underage (10) must be 13+"
     }
 }
