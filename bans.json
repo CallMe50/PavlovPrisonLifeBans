@@ -830,5 +830,9 @@
     "1xtrizzx1": {
         "banneduntil": "2028.12.25-12.00.00pm",
         "BanReason": "Underage (10) must be 13+"
+    },
+    "penguin194": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
