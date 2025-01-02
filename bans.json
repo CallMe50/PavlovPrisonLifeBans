@@ -850,5 +850,9 @@
     "KRASHHIN": {
         "banneduntil": "2025.1.3-12.00.00pm",
         "BanReason": "Cross teaming"
+    },
+    "EscobarFamOK": {
+        "banneduntil": "2026.1.2-12.00.00pm",
+        "BanReason": "underaged (12)"
     }
 }
