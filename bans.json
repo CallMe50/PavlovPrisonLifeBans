@@ -834,5 +834,9 @@
     "penguin194": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underage (11) must be 13+"
+    },
+    "WaterRex": {
+        "banneduntil": "2029.1.1-12.00.00pm",
+        "BanReason": "Underaged (9) gotta be 13+ to play"
     }
 }
