@@ -866,5 +866,9 @@
     "Fatherdoomsdai": {
         "banneduntil": "2025.1.3-12.00.00pm",
         "BanReason": "baiting"
+    },
+    "Dentedsquid": {
+        "banneduntil": "2025.1.3-12.00.00pm",
+        "BanReason": "baiting"
     }
 }
