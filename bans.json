@@ -798,5 +798,9 @@
     "null_9122": {
         "banneduntil": "2025.1.2-12.00.00pm",
         "BanReason": "mass rdm and tk"
+    },
+    "TheCoconutMan": {
+        "banneduntil": "2025.1.4-12.00.00pm",
+        "BanReason": "fugitive tk"
     }
 }
