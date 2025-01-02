@@ -822,5 +822,9 @@
     "Blessking941": {
         "banneduntil": "2025.1.4-12.00.00pm",
         "BanReason": "Baiting and cross teaming"
+    },
+    "flower.456": {
+        "banneduntil": "2025.12.1-12.00.00pm",
+        "BanReason": "Underaged (12) gotta be 13+"
     }
 }
