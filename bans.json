@@ -782,5 +782,9 @@
     "Hdmi3637": {
         "banneduntil": "2025.1.4-12.00.00pm",
         "BanReason": "Fugitive tk, mod sit evading (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "P1NK1VR": {
+        "banneduntil": "2025.2.2.-12.00.00pm",
+        "BanReason": "Racism (n-word, soft-a)"
     }
 }
