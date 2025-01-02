@@ -858,5 +858,9 @@
     "blue.115263": {
         "banneduntil": "2025.1.5-12.00.00pm",
         "BanReason": "Tk and team tazing,you bum"
+    },
+    "im.nice.cool": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Ban evading"
     }
 }
