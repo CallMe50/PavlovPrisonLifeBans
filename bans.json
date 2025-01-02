@@ -842,5 +842,9 @@
     "TheLabGeek": {
         "banneduntil": "2025.1.6-12.00.00pm",
         "BanReason": "RDMing as a cop"
+    },
+    "Vaderjr2": {
+        "banneduntil": "2025.5.18-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
