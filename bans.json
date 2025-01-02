@@ -794,5 +794,9 @@
     "evocableodin584": {
         "banneduntil": "2025.1.3-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "null_9122": {
+        "banneduntil": "2025.1.2-12.00.00pm",
+        "BanReason": "mass rdm and tk"
     }
 }
