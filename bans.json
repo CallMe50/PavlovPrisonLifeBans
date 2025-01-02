@@ -846,5 +846,9 @@
     "Vaderjr2": {
         "banneduntil": "2025.5.18-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "KRASHHIN": {
+        "banneduntil": "2025.1.3-12.00.00pm",
+        "BanReason": "Cross teaming"
     }
 }
