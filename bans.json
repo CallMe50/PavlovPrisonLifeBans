@@ -886,5 +886,9 @@
     "Gness13": {
         "banneduntil": "2025.1.7-12.00.00pm",
         "BanReason": "mass rdm (banned before)"
+    },
+    "Itzbeckfastplayz": {
+        "banneduntil": "2024.1.3-12.00.00pm",
+        "BanReason": "Guard tk"
     }
 }
