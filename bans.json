@@ -898,5 +898,9 @@
     "berryboy12": {
         "banneduntil": "2025.1.4-12.00.00pm",
         "BanReason": "Rdm x2"
+    },
+    "wtf.yo": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Ban evading"
     }
 }
