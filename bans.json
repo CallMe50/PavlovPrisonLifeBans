@@ -922,5 +922,9 @@
     "bobbytweak": {
         "banneduntil": "2025.1.4-12.00.00pm",
         "BanReason": "Rdm (please read the rules In choosing lobby or in the discord before playing)"
+    },
+    "frostythepuppyfemboy": {
+        "banneduntil": "2025.1.5-12.00.00pm",
+        "BanReason": "Rdm, Crossteaming"
     }
 }
