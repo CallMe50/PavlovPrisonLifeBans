@@ -882,5 +882,9 @@
     "ramiro.227667": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "hard r"
+    },
+    "Gness13": {
+        "banneduntil": "2025.1.7-12.00.00pm",
+        "BanReason": "mass rdm (banned before)"
     }
 }
