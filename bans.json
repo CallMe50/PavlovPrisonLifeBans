@@ -954,5 +954,9 @@
     "badboy-billybones": {
         "banneduntil": "2025.1.6-12.00.00pm",
         "BanReason": "Mass RDM (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "RynoMan_OVL": {
+        "banneduntil": "2095.1.6-12.00.00pm",
+        "BanReason": "Cross teaming and Mass RDM. 7th ban at a high level"
     }
 }
