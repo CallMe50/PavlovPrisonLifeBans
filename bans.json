@@ -910,5 +910,9 @@
     "C4Wins": {
         "banneduntil": "2025.1.5-12.00.00pm",
         "BanReason": "Mass rdm (please read the rules in choosing team)"
+    },
+    "HIMAETHUS": {
+        "banneduntil": "2025.1.4-12.00.00pm",
+        "BanReason": "Rdm (please read the rules before playing)"
     }
 }
