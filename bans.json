@@ -962,5 +962,9 @@
     "jinx335.2024": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underaged (please verify ur age in the discord to get unbanned)"
+    },
+    "holdmybeurTTV": {
+        "banneduntil": "2025.1.5-12.00.00pm",
+        "BanReason": "Killing in modsit, evading modsit, rdm"
     }
 }
