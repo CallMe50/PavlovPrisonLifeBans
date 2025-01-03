@@ -958,5 +958,9 @@
     "RynoMan_OVL": {
         "banneduntil": "2095.1.6-12.00.00pm",
         "BanReason": "Cross teaming and Mass RDM. 7th ban at a high level"
+    },
+    "jinx335.2024": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underaged (please verify ur age in the discord to get unbanned)"
     }
 }
