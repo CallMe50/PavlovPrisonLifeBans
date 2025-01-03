@@ -970,5 +970,9 @@
     "Nano_is_my_favourite_youtuber": {
         "banneduntil": "2025.1.5-12.00.00pm",
         "BanReason": "Modsit evading, rdm"
+    },
+    "scrapfarmer": {
+        "banneduntil": "2025.1.5-12.00.00pm",
+        "BanReason": "Fugitive tk"
     }
 }
