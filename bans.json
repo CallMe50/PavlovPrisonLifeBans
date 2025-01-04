@@ -1062,5 +1062,9 @@
     "Kermitthe_dog": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "DeadGoblin": {
+        "banneduntil": "2025.1.6-12.00.00pm",
+        "BanReason": "Rdm till kicked off (read the rules)"
     }
 }
