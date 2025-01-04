@@ -1046,5 +1046,9 @@
     "RacinNason": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underaged (12) gotta be 13+ to play"
+    },
+    "ElectricAngelfish7310": {
+        "banneduntil": "2025.1.6-12.00.00pm",
+        "BanReason": "Mass tk, not cooperating in sit (please read our rules in the discord server)"
     }
 }
