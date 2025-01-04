@@ -1042,5 +1042,9 @@
     "battyegg": {
         "banneduntil": "2025.1.6-12.00.00pm",
         "BanReason": "Mass tk, rdm"
+    },
+    "RacinNason": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underaged (12) gotta be 13+ to play"
     }
 }
