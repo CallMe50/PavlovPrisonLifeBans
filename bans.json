@@ -998,5 +998,9 @@
     "wetcheeks69": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "sit evaded multiple times"
+    },
+    "gradyrules100": {
+        "banneduntil": "2025.1.5-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
