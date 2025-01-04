@@ -1054,5 +1054,9 @@
     "Link365": {
         "banneduntil": "2025.1.8-12.00.00pm",
         "BanReason": "Mass rdm and rdm In sit"
+    },
+    "DNC33": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "Crossteaming, rdm"
     }
 }
