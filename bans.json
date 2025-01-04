@@ -1058,5 +1058,9 @@
     "DNC33": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "Crossteaming, rdm"
+    },
+    "Kermitthe_dog": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
