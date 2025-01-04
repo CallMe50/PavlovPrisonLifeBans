@@ -986,5 +986,9 @@
     "Kr1smkov": {
         "banneduntil": "2025.1.6-12.00.00pm",
         "BanReason": "Mass Rdm, Sit evade"
+    },
+    "PVAlex": {
+        "banneduntil": "2026.6.5-12.00.00pm",
+        "BanReason": "Underage. Must be 13+"
     }
 }
