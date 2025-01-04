@@ -994,5 +994,9 @@
     "topchamp": {
         "banneduntil": "2028.1.4-12.00.00pm",
         "BanReason": "underagex (10)"
+    },
+    "wetcheeks69": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "sit evaded multiple times"
     }
 }
