@@ -1038,5 +1038,9 @@
     "Kash0122": {
         "banneduntil": "2025.1.6-12.00.00pn",
         "BanReason": "Evading modsit, crossteaming, rdm (please read the rules in are discord)"
+    },
+    "battyegg": {
+        "banneduntil": "2025.1.6-12.00.00pm",
+        "BanReason": "Mass tk, rdm"
     }
 }
