@@ -1006,5 +1006,9 @@
     "AKR.JAXON": {
         "banneduntil": "2025.1.5-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Only1Donny": {
+        "banneduntil": "2025.1.5-12.00.00pm",
+        "BanReason": "Rdm tk"
     }
 }
