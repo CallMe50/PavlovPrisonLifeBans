@@ -1014,5 +1014,9 @@
     "M1LKBONE": {
         "banneduntil": "2026.1.7-12.00.00pm",
         "BanReason": "Underage (this is the date he turns 13)"
+    },
+    "scottish2011": {
+        "banneduntil": "2025.1.10-12.00.00pm",
+        "BanReason": "Crossteaming,mass tk"
     }
 }
