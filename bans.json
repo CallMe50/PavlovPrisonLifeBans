@@ -990,5 +990,9 @@
     "PVAlex": {
         "banneduntil": "2026.6.5-12.00.00pm",
         "BanReason": "Underage. Must be 13+"
+    },
+    "topchamp": {
+        "banneduntil": "2028.1.4-12.00.00pm",
+        "BanReason": "underagex (10)"
     }
 }
