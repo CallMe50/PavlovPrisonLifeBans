@@ -1110,5 +1110,9 @@
     "Brodes83": {
         "banneduntil": "2025.1.10-12.00.00pm",
         "BanReason": "Mass RDM, Lying in sit, sit evasion x4"
+    },
+    "CartiOT": {
+        "banneduntil": "2025.3.7-12.00.00pm",
+        "BanReason": "Underage (12) gotta be 13+ to play"
     }
 }
