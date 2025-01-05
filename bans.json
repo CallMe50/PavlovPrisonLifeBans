@@ -1098,5 +1098,9 @@
     "you.dumb.prada.sstay.mad": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Ban evading"
+    },
+    "greysoccer": {
+        "banneduntil": "2025.2.15-12.00.00pm",
+        "BanReason": "Soft a, rdm"
     }
 }
