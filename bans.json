@@ -1106,5 +1106,9 @@
     "teto-mono": {
         "banneduntil": "9999.9:9-12.00.00pm",
         "BanReason": "hard r"
+    },
+    "Brodes83": {
+        "banneduntil": "2025.1.10-12.00.00pm",
+        "BanReason": "Mass RDM, Lying in sit, sit evasion x4"
     }
 }
