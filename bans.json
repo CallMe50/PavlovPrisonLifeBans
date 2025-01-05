@@ -1114,5 +1114,9 @@
     "CartiOT": {
         "banneduntil": "2025.3.7-12.00.00pm",
         "BanReason": "Underage (12) gotta be 13+ to play"
+    },
+    "Yoshi4113": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underaged (11) gotta be 13+ to play"
     }
 }
