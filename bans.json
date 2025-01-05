@@ -1090,5 +1090,9 @@
     "Murphy2111": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r, evading modsit"
+    },
+    "kyle.911": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underaged, mass rdm (verify ur age in the discord)"
     }
 }
