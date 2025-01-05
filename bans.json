@@ -1070,5 +1070,9 @@
     "blokk_bud": {
         "banneduntil": "2025.1.7-12.00.00pm",
         "BanReason": "Rdm x2"
+    },
+    "Twinkle_toes_88": {
+        "banneduntil": "2025.1.6-12.00.00pm",
+        "BanReason": "Rdm,tk,sit evading"
     }
 }
