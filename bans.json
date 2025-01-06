@@ -1158,5 +1158,9 @@
     "RanTheMan04": {
         "banneduntil": "2026.2.24-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "TBoneZombie13": {
+        "banneduntil": "2025.1.13-12.00.00pm",
+        "BanReason": "RDM (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
