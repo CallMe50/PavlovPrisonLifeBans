@@ -256,8 +256,8 @@
         "BanReason": "underaged (11), rdm, sit evade"
     },
     "sgt.hapss": {
-        "banneduntil": "9999.9.9-12.00.00pm",
-        "BanReason": "ban evading"
+        "banneduntil": "2021.1.1-12.00.00pm",
+        "BanReason": "unbanned"
     },
     "DadandJacob": {
         "banneduntil": "2028.12.17-12.00.00pm",
