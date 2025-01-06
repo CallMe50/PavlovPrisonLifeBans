@@ -1182,5 +1182,9 @@
     "Ejn5102006": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "N word, killing in modsit, evading modsit, rdm"
+    },
+    "ShotgunTroglodyte45": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underaged (verify your age in the discord)"
     }
 }
