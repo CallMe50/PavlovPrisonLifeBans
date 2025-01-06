@@ -1186,5 +1186,9 @@
     "ShotgunTroglodyte45": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underaged (verify your age in the discord)"
+    },
+    "Ronald.McDonald": {
+        "banneduntil": "2027.6.1-12:00.00pm",
+        "BanReason": "underaged (11) gotta be 13+ to play"
     }
 }
