@@ -1134,5 +1134,9 @@
     "dttkade": {
         "banneduntil": "2025.2.6-12.00.00pm",
         "BanReason": "n word soft a"
+    },
+    "bingsoyglazer": {
+        "banneduntil": "2025.2.18-12.00.00pm",
+        "BanReason": "N word"
     }
 }
