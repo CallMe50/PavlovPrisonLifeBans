@@ -1166,5 +1166,9 @@
     "AuriFerrari": {
         "banneduntil": "2027.8.10-12.00.00pm",
         "BanReason": "Underage + RDM (make ban appeal in discord with proof of being 13+ to get ur ban lowered)"
+    },
+    "Ghostsigma": {
+        "banneduntil": "2025.1.9-12.00.00pm",
+        "BanReason": "Mass RDM (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
