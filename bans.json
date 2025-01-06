@@ -1122,5 +1122,9 @@
     "DIVER.5736s": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "scotland09.2022": {
+        "banneduntil": "2097.1.10-12.00.00pm",
+        "BanReason": "Underage and rdm and hard r"
     }
 }
