@@ -1190,5 +1190,9 @@
     "Ronald.McDonald": {
         "banneduntil": "2027.6.1-12:00.00pm",
         "BanReason": "underaged (11) gotta be 13+ to play"
+    },
+    "mijlky": {
+        "banneduntil": "2032.1.1-12.00.00pm",
+        "BanReason": "Underage(7)have to be 13 plus"
     }
 }
