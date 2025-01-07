@@ -1222,5 +1222,9 @@
     "Etopp": {
         "banneduntil": "2025.1.9-12.00.00pm",
         "BanReason": "Rdm + modsit eease read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "Snacks10": {
+        "banneduntil": "2025.1.9-12.00.00pm",
+        "BanReason": "Evading modsit, rdm (please read the rules in choosing team)"
     }
 }
