@@ -1258,5 +1258,9 @@
     "MaverickRooster": {
         "banneduntil": "2050.5.5-12.00.00pm",
         "BanReason": "Show proof of age in discord,evading"
+    },
+    "im.better.tha.prada": {
+        "banneduntil": "2950.5.5-12.00.00pm",
+        "BanReason": "ban evading"
     }
 }
