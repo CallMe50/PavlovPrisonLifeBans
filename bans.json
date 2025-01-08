@@ -1226,5 +1226,9 @@
     "Snacks10": {
         "banneduntil": "2025.1.9-12.00.00pm",
         "BanReason": "Evading modsit, rdm (please read the rules in choosing team)"
+    },
+    "Negus4200": {
+        "banneduntil": "2099.12.31.12.00.00pm",
+        "BanReason": "Offensive name,please change your username and appeal on discord"
     }
 }
