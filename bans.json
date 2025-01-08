@@ -1254,5 +1254,9 @@
     "daveblunts1": {
         "banneduntil": "2025.1.9-12.00.00pm",
         "BanReason": "Mass rdm (read the rules in choosing team spawn before playing)"
+    },
+    "MaverickRooster": {
+        "banneduntil": "2050.5.5-12.00.00pm",
+        "BanReason": "Show proof of age in discord,evading"
     }
 }
