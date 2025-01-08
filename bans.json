@@ -1242,5 +1242,9 @@
     "constablepain": {
         "banneduntil": "2025.7.10-12.00.00pm",
         "BanReason": "Underaged (12) gotta be 13+ to play"
+    },
+    "haywiregalaxy48": {
+        "banneduntil": "2025.1.10-12.00.00pm",
+        "BanReason": "Rdm,sitevading"
     }
 }
