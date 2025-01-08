@@ -1238,5 +1238,9 @@
     "Stinger428": {
         "banneduntil": "2025.1.10-12.00.00pm",
         "BanReason": "Baiting, evading modsit , killing in sit"
+    },
+    "constablepain": {
+        "banneduntil": "2025.7.10-12.00.00pm",
+        "BanReason": "Underaged (12) gotta be 13+ to play"
     }
 }
