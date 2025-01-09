@@ -1274,5 +1274,9 @@
     "Gamewarden195": {
         "banneduntil": "2025.1.10-12.00.00pm",
         "BanReason": "Rdm (please read the rules in choosing team lobby)"
+    },
+    "CLFkiddo": {
+        "banneduntil": "2025.1.10-12.00.00pm",
+        "BanReason": "tk and rdm"
     }
 }
