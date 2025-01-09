@@ -1286,5 +1286,9 @@
     "1n0nly_trigger911": {
         "banneduntil": "2025.1.10-12.00.00pm",
         "BanReason": "Tk and evaded sit"
+    },
+    "UnderseaSoap": {
+        "banneduntil": "2025.1.10-12.00.00pm",
+        "BanReason": "Cop tk and RDM (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
