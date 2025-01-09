@@ -1278,5 +1278,9 @@
     "CLFkiddo": {
         "banneduntil": "2025.1.10-12.00.00pm",
         "BanReason": "tk and rdm"
+    },
+    "Dr_Pepp3r": {
+        "banneduntil": "2025.1.9-12.00.00pm",
+        "BanReason": "Rdm (read the rules in choosing team lobby before playing)"
     }
 }
