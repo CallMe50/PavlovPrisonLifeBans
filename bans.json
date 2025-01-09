@@ -1294,5 +1294,9 @@
     "goooooobin": {
         "banneduntil": "2025.11-12.00.00pm",
         "BanReason": "Rdm, evading modsit and uncooperative in sit"
+    },
+    "YOUVEBINBUMMED": {
+        "banneduntil": "2025.1.12-12.00.00pm",
+        "BanReason": "Rdm,TK,sitevading"
     }
 }
