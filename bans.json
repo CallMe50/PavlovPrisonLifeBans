@@ -745,7 +745,7 @@
     },
     "Arabic": {
         "banneduntil": "9999.9.9-12.00.00pm",
-        "BanReason": "banwipe blacklist"
+        "BanReason": "Ban wipe blacklisted"
     },
     "jogd": {
         "banneduntil": "2025.1.20-12.00.00pm",
