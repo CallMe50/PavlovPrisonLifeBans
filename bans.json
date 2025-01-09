@@ -1290,5 +1290,9 @@
     "UnderseaSoap": {
         "banneduntil": "2025.1.10-12.00.00pm",
         "BanReason": "Cop tk and RDM (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "goooooobin": {
+        "banneduntil": "2025.11-12.00.00pm",
+        "BanReason": "Rdm, evading modsit and uncooperative in sit"
     }
 }
