@@ -1330,5 +1330,9 @@
     "MoreDownThanSyndrome": {
         "banneduntil": "2025.1.12-1200.00pm",
         "BanReason": "Rdm,tk evading modsit (read the rules in choosing team spawn before playing)"
+    },
+    "BigDog112912": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underaged (12) gotta be 13+ to play"
     }
 }
