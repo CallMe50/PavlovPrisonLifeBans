@@ -1306,5 +1306,9 @@
     "SDFStar": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underage (11) must be 13+"
+    },
+    "rass": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "Rdm, crossteaming and baiting (please read the rules in choosing team lobby)"
     }
 }
