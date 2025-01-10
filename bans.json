@@ -1310,5 +1310,9 @@
     "rass": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "Rdm, crossteaming and baiting (please read the rules in choosing team lobby)"
+    },
+    "SixEyedSpy": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "Rdm, avoiding sit (please read the rules in choosing team lobby)"
     }
 }
