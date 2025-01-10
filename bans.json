@@ -1298,5 +1298,9 @@
     "YOUVEBINBUMMED": {
         "banneduntil": "2025.1.12-12.00.00pm",
         "BanReason": "Rdm,TK,sitevading"
+    },
+    "MartyArt": {
+        "banneduntil": "2025.1.14-12.00.00pm",
+        "BanReason": "Kill in sit, team kill, RDM, and uncooperative while in sit."
     }
 }
