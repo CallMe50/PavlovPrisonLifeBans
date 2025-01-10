@@ -1314,5 +1314,9 @@
     "SixEyedSpy": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "Rdm, avoiding sit (please read the rules in choosing team lobby)"
+    },
+    "ben.623116": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "Rdm (please read the rules in choosing team spawn before playing)"
     }
 }
