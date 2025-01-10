@@ -1322,5 +1322,9 @@
     "Perpetualmotionmachineauto": {
         "banneduntil": "2055.1.1-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "BanhMigar": {
+        "banneduntil": "2025.1.12-12.00.00pm",
+        "BanReason": "Rdm and evading modsit (please read the rules in choosing team lobby before playing)"
     }
 }
