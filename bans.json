@@ -1318,5 +1318,9 @@
     "ben.623116": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "Rdm (please read the rules in choosing team spawn before playing)"
+    },
+    "Perpetualmotionmachineauto": {
+        "banneduntil": "2055.1.1-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
