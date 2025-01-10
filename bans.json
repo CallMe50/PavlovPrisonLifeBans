@@ -1334,5 +1334,9 @@
     "BigDog112912": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underaged (12) gotta be 13+ to play"
+    },
+    "LIL_SWEEPVR": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "Tk-read rules before you spawn"
     }
 }
