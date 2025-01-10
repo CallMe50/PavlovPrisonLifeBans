@@ -1302,5 +1302,9 @@
     "MartyArt": {
         "banneduntil": "2025.1.14-12.00.00pm",
         "BanReason": "Kill in sit, team kill, RDM, and uncooperative while in sit."
+    },
+    "SDFStar": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
