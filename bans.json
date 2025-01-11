@@ -1414,5 +1414,9 @@
     "goatedesa": {
         "banneduntil": "2025.1.16-12.00.00pm",
         "BanReason": "Cross teaming, evading sit"
+    },
+    "Toes_R4_Bros": {
+        "banneduntil": "2025.1.13-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
