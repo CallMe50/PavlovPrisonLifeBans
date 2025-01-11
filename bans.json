@@ -1370,5 +1370,9 @@
     "thedoomguy457": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "CIBoys": {
+        "banneduntil": "2025.1.12-12.00.00pm",
+        "BanReason": "rdm (read rules at choosing teams)"
     }
 }
