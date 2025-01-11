@@ -1394,5 +1394,9 @@
     "Mr.Pigeon2.0": {
         "banneduntil": "2025.1.15-12.00.00pm",
         "BanReason": "Crossteaming, Guard Tk, Sit evading"
+    },
+    "Coulced": {
+        "banneduntil": "2025.1.25-12.00.00pm",
+        "BanReason": "Crossteaming, Guard Tk, Sit evading, killing in sit, rdm"
     }
 }
