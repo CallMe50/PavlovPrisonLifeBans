@@ -1338,5 +1338,9 @@
     "LIL_SWEEPVR": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "Tk-read rules before you spawn"
+    },
+    "chocalate": {
+        "banneduntil": "2027.6.14-12.00.00pm",
+        "BanReason": "Underage. Must be 13+"
     }
 }
