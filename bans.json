@@ -1410,5 +1410,9 @@
     "Buddi": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "goatedesa": {
+        "banneduntil": "2025.1.16-12.00.00pm",
+        "BanReason": "Cross teaming, evading sit"
     }
 }
