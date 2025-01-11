@@ -1358,5 +1358,9 @@
     "guy_dude192": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "Rdm, evading modsit (read the rules in choosing team lobby before playing)"
+    },
+    "phoenix.1045": {
+        "banneduntil": "2027.1.10-1200.00pm",
+        "BanReason": "Underage \ud83d\ude26"
     }
 }
