@@ -1390,5 +1390,9 @@
     "Kobe.20613": {
         "banneduntil": "2025.1.12-12.00.00pm",
         "BanReason": "mass rdm after warning"
+    },
+    "Mr.Pigeon2.0": {
+        "banneduntil": "2025.1.15-12.00.00pm",
+        "BanReason": "Crossteaming, Guard Tk, Sit evading"
     }
 }
