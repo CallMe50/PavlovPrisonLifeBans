@@ -1406,5 +1406,9 @@
     "HappytheSmall": {
         "banneduntil": "2028.1.1-12.00.00pm",
         "BanReason": "Underaged (10) gotta be 13+ to play"
+    },
+    "Buddi": {
+        "banneduntil": "2027.1.1-12.00.00",
+        "BanReason": "Underaged 11"
     }
 }
