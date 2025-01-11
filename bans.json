@@ -1374,5 +1374,9 @@
     "CIBoys": {
         "banneduntil": "2025.1.12-12.00.00pm",
         "BanReason": "rdm (read rules at choosing teams)"
+    },
+    "AlpacinoX": {
+        "banneduntil": "2025.1.13-12.00.00pm",
+        "BanReason": "fugitive tk (appeal at the discord)"
     }
 }
