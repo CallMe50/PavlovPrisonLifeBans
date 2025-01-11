@@ -1398,5 +1398,9 @@
     "Coulced": {
         "banneduntil": "2025.1.25-12.00.00pm",
         "BanReason": "Crossteaming, Guard Tk, Sit evading, killing in sit, rdm"
+    },
+    "QuirkyAngelfish5460": {
+        "banneduntil": "2025.1.13-12.00.00pm",
+        "BanReason": "tk"
     }
 }
