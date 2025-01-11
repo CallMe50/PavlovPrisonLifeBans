@@ -1354,5 +1354,9 @@
     "thunderscore45": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "rdm (read rules in choosing teams)"
+    },
+    "guy_dude192": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "Rdm, evading modsit (read the rules in choosing team lobby before playing)"
     }
 }
