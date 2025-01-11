@@ -1378,5 +1378,9 @@
     "AlpacinoX": {
         "banneduntil": "2025.1.13-12.00.00pm",
         "BanReason": "fugitive tk (appeal at the discord)"
+    },
+    "Washington.Bandits": {
+        "banneduntil": "2025.2.10-12.00.00pm",
+        "BanReason": "Mass cross teaming"
     }
 }
