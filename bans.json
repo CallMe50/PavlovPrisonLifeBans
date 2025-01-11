@@ -1422,5 +1422,9 @@
     "ReesesPuffs4": {
         "banneduntil": "2025.1.13-12.00.00pm",
         "BanReason": "Team kill and sit evasion"
+    },
+    "skelators": {
+        "banneduntil": "2025.1.13-12.00.00pm",
+        "BanReason": "Team kill and sit evasion"
     }
 }
