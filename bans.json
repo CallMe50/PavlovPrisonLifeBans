@@ -1342,5 +1342,9 @@
     "chocalate": {
         "banneduntil": "2027.6.14-12.00.00pm",
         "BanReason": "Underage. Must be 13+"
+    },
+    "theway16": {
+        "banneduntil": "2028.6.20-12.00.00pm",
+        "BanReason": "Underage. Must be 13+"
     }
 }
