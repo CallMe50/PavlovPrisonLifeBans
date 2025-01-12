@@ -1458,5 +1458,9 @@
     "My_balls_are_on_fire.334234": {
         "banneduntil": "2025.6.7-12.00.00pm",
         "BanReason": "Turns 13 then underage"
+    },
+    "cashisigma": {
+        "banneduntil": "2025.1.13-12.00.00pm",
+        "BanReason": "Camping (can\u2019t camp bank while it\u2019s not being robbed)"
     }
 }
