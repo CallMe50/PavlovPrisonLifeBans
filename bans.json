@@ -1442,5 +1442,9 @@
     "Rlavy": {
         "banneduntil": "2025.1.13-12.00.00pm",
         "BanReason": "RDM (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "smokeman5000": {
+        "banneduntil": "9999.9.8-12.00.00pm",
+        "BanReason": "Hard R"
     }
 }
