@@ -1502,5 +1502,9 @@
     "German_leader1940": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "Hitler pfp. And username"
+    },
+    "da_asian": {
+        "banneduntil": "2025.1.14-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
