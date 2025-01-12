@@ -1486,5 +1486,9 @@
     "rsbfd22": {
         "banneduntil": "2025.1.14-12.00.00pm",
         "BanReason": "rdm - please read the rules - German"
+    },
+    "CuriousEagle7258": {
+        "banneduntil": "2027.5.14-12.00.00pm",
+        "BanReason": "Underage. Must be 13+"
     }
 }
