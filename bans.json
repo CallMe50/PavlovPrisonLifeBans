@@ -1450,5 +1450,9 @@
     "2231ffk": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underaged and uncooperative in sit"
+    },
+    "jsmoothe": {
+        "banneduntil": "2026.1.11-12.00.00pm",
+        "BanReason": "Underage admitted being 12"
     }
 }
