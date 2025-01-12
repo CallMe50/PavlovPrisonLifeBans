@@ -1438,5 +1438,9 @@
     "XXLEWISBROXX": {
         "banneduntil": "2025.1.12-12.00.00pm",
         "BanReason": "Rdm,sit evading"
+    },
+    "Rlavy": {
+        "banneduntil": "2025.1.13-12.00.00pm",
+        "BanReason": "RDM (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
