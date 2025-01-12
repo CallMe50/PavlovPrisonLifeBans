@@ -1446,5 +1446,9 @@
     "smokeman5000": {
         "banneduntil": "9999.9.8-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "2231ffk": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underaged and uncooperative in sit"
     }
 }
