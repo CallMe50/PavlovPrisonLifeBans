@@ -1518,5 +1518,9 @@
     "XXDeadlyBeast": {
         "banneduntil": "2025.1.14-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "Danoman200": {
+        "banneduntil": "2025.1.15-12.00.00pm",
+        "BanReason": "Baiting"
     }
 }
