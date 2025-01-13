@@ -1526,5 +1526,9 @@
     "Theyluv_sk": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "hard-r"
+    },
+    "Zebra.45": {
+        "banneduntil": "2025.1.14-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
