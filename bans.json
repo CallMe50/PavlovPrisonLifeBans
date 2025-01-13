@@ -1522,5 +1522,9 @@
     "Danoman200": {
         "banneduntil": "2025.1.15-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "Theyluv_sk": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "hard-r"
     }
 }
