@@ -1514,5 +1514,9 @@
     "HaysGuy": {
         "banneduntil": "2025.1.14-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "XXDeadlyBeast": {
+        "banneduntil": "2025.1.14-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
