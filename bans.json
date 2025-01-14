@@ -1542,5 +1542,9 @@
     "Giomonkey12": {
         "banneduntil": "2025.1.15-12.00.00pm",
         "BanReason": "Rdm x2 (read the rules)"
+    },
+    "parker.90503": {
+        "banneduntil": "2028.1.13-12.00.00pm",
+        "BanReason": "Underage (10)"
     }
 }
