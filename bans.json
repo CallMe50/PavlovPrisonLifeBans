@@ -1558,5 +1558,9 @@
     "uncolorednote65": {
         "banneduntil": "2028.1.14-12.00.00pm",
         "BanReason": "underaged (10)"
+    },
+    "Frosty_Grimblets": {
+        "banneduntil": "2025.1.17-12.00.00pm",
+        "BanReason": "rdm and avoiding sit"
     }
 }
