@@ -1582,5 +1582,9 @@
     "Monkeyman66": {
         "banneduntil": "2026.1.15-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "bantercreak": {
+        "banneduntil": "2025.1.19-12.00.00pm",
+        "BanReason": "crossteaming, rdm, evading modsit"
     }
 }
