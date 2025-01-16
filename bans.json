@@ -1626,5 +1626,9 @@
     "Monkyman66": {
         "banneduntil": "2026.1.15-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "mushu12": {
+        "banneduntil": "2099.7.6-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
