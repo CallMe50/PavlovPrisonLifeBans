@@ -1630,5 +1630,9 @@
     "mushu12": {
         "banneduntil": "2099.7.6-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "laconibouch": {
+        "banneduntil": "2099.12.31-12.00.00pm",
+        "BanReason": "Suspected underage appeal in dc"
     }
 }
