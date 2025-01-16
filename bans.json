@@ -1590,5 +1590,9 @@
     "Jckarp": {
         "banneduntil": "2025.3.16-12.00.00pm",
         "BanReason": "n word"
+    },
+    "englishorspanish5234": {
+        "banneduntil": "2025.1.20-12.00.00pm",
+        "BanReason": "Sit evasion and baiting"
     }
 }
