@@ -1594,5 +1594,9 @@
     "englishorspanish5234": {
         "banneduntil": "2025.1.16-2.00.00pm",
         "BanReason": "Sit evasion and baiting"
+    },
+    "CatWithaRifle2": {
+        "banneduntil": "2025.1.17-12.00.00pm",
+        "BanReason": "Rdm, evading modsit"
     }
 }
