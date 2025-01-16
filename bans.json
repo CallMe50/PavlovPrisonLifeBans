@@ -1606,5 +1606,9 @@
     "cep21212": {
         "banneduntil": "2025.1.17-12.00.00pm",
         "BanReason": "Racism (no hard R)"
+    },
+    "WAZAA_GHOSTFACE": {
+        "banneduntil": "2025.2.15-12.00.00pm",
+        "BanReason": "Racism (hard R) appeal in discord"
     }
 }
