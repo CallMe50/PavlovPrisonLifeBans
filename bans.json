@@ -1614,5 +1614,9 @@
     "Ironmaiden_X": {
         "banneduntil": "2025.1.17-12.00.00pm",
         "BanReason": "Tk and RDM"
+    },
+    "dood2671": {
+        "banneduntil": "2025.1.18-12.00.00pm",
+        "BanReason": "Tk, evading sit and killing in sit"
     }
 }
