@@ -1670,5 +1670,9 @@
     "Rileyclose": {
         "banneduntil": "2099.9.9-12.00.00pm",
         "BanReason": "hard R"
+    },
+    "DEL1R10USDADDY": {
+        "banneduntil": "2025.1.24-12.00.00pm",
+        "BanReason": "RDMx2, killing in sit, sit evasionx2"
     }
 }
