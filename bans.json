@@ -1650,5 +1650,9 @@
     "Frosted_jellyfish8623": {
         "banneduntil": "2025.1.17-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "Blobby_bob": {
+        "banneduntil": "2025.1.17-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
