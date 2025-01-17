@@ -1638,5 +1638,9 @@
     "BubblyToucan4554": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "mass RDM (x 10+) TK ( x3+), baiting, crossteaming, hard R"
+    },
+    "Leewalky": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "Perm ban"
     }
 }
