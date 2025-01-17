@@ -1634,5 +1634,9 @@
     "laconibouch": {
         "banneduntil": "2099.12.31-12.00.00pm",
         "BanReason": "Suspected underage appeal in dc"
+    },
+    "BubblyToucan4554": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "mass RDM (x 10+) TK ( x3+), baiting, crossteaming, hard R"
     }
 }
