@@ -1666,5 +1666,9 @@
     "Lusid": {
         "banneduntil": "2099.9.9-12.00.00pm",
         "BanReason": "hard R"
+    },
+    "Rileyclose": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "hard R"
     }
 }
