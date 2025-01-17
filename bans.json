@@ -1658,5 +1658,9 @@
     "Soap14": {
         "banneduntil": "2025.1.20-12.00.00pm",
         "BanReason": "Killing in sit, RDM"
+    },
+    "Monkeyhastism": {
+        "banneduntil": "2025.1.20-12.00.00pm",
+        "BanReason": "Killing in sit, RDM"
     }
 }
