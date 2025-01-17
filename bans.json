@@ -1674,5 +1674,9 @@
     "DEL1R10USDADDY": {
         "banneduntil": "2025.1.24-12.00.00pm",
         "BanReason": "RDMx2, killing in sit, sit evasionx2"
+    },
+    "SpartanLeoj": {
+        "banneduntil": "2025.1.19-12.00.00pm",
+        "BanReason": "Rdm, Sit Evade"
     }
 }
