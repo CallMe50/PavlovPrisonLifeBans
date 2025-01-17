@@ -1662,5 +1662,9 @@
     "Monkeyhastism": {
         "banneduntil": "2026.1.19-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Lusid": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "hard R"
     }
 }
