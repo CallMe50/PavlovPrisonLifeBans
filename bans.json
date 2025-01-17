@@ -1642,5 +1642,9 @@
     "Leewalky": {
         "banneduntil": "2099.9.9-12.00.00pm",
         "BanReason": "Bum"
+    },
+    "nba.slimeboy4kt": {
+        "banneduntil": "2099.12.12-12.00.00pm",
+        "BanReason": "perma-banned"
     }
 }
