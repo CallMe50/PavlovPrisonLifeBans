@@ -1730,5 +1730,9 @@
     "ritters6": {
         "banneduntil": "2025.1.22-12.00.00pm",
         "BanReason": "Crossteaming x2 and team tasing (read the rules)"
+    },
+    "BatmanIsNotGay": {
+        "banneduntil": "2025.1.21-12.00.00pm",
+        "BanReason": "Mass TK"
     }
 }
