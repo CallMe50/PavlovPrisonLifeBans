@@ -1702,5 +1702,9 @@
     "cashv.2023": {
         "banneduntil": "2028.1.1-12.00.00pm",
         "BanReason": "Underaged (10) gotta be 13+ to play"
+    },
+    "DOAgotyou": {
+        "banneduntil": "2025.1.20-12.00.00pm",
+        "BanReason": "Tk, evading modsit and killing in sit"
     }
 }
