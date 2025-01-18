@@ -1742,5 +1742,9 @@
     "wildmax.2024": {
         "banneduntil": "2025.1.21-12.00.00pm",
         "BanReason": "RDM and killing in sit"
+    },
+    "seekNDstroy10": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "hard R"
     }
 }
