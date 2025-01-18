@@ -1694,5 +1694,9 @@
     "Moomz7512": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underaged (verify your age in the discord to get unbanned)"
+    },
+    "falling.in.reverse.fan.2023": {
+        "banneduntil": "2026.6.1-12.00.00pm",
+        "BanReason": "Underaged (12) gotta be 13+ to play"
     }
 }
