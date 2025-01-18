@@ -1698,5 +1698,9 @@
     "falling.in.reverse.fan.2023": {
         "banneduntil": "2026.6.1-12.00.00pm",
         "BanReason": "Underaged (12) gotta be 13+ to play"
+    },
+    "cashv.2023": {
+        "banneduntil": "2028.1.1-12.00.00pm",
+        "BanReason": "Underaged (10) gotta be 13+ to play"
     }
 }
