@@ -1726,5 +1726,9 @@
     "tater2084": {
         "banneduntil": "2030.1.18-12.00.00pm",
         "BanReason": "Underage (8)"
+    },
+    "ritters6": {
+        "banneduntil": "2025.1.22-12.00.00pm",
+        "BanReason": "Crossteaming x2 and team tasing (read the rules)"
     }
 }
