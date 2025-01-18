@@ -1750,5 +1750,9 @@
     "dlfry": {
         "banneduntil": "2099.9.9-12.00.00pm",
         "BanReason": "Underage and attempted kill in sit."
+    },
+    "germanOL8": {
+        "banneduntil": "2026.1.18-12.00.00pm",
+        "BanReason": "underage 12"
     }
 }
