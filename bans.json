@@ -1678,5 +1678,9 @@
     "SpartanLeoj": {
         "banneduntil": "2025.1.19-12.00.00pm",
         "BanReason": "Rdm, Sit Evade"
+    },
+    "HusgusVR": {
+        "banneduntil": "2027.1.12-12.00.00pm",
+        "BanReason": "Underage (11) must be 13+"
     }
 }
