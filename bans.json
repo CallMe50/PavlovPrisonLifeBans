@@ -1722,5 +1722,9 @@
     "Olli2xx": {
         "banneduntil": "2025.1.19-12.00.00pm",
         "BanReason": "rdm (read rules at spawn)"
+    },
+    "tater2084": {
+        "banneduntil": "2030.1.18-12.00.00pm",
+        "BanReason": "Underage (8)"
     }
 }
