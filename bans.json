@@ -1770,5 +1770,9 @@
     "jax908": {
         "banneduntil": "2027.1.18-12.00.00pm",
         "BanReason": "underage 12"
+    },
+    "jam_ham6373": {
+        "banneduntil": "2025.1.20-12.00.00pm",
+        "BanReason": "rdm (read the rules at spawn)"
     }
 }
