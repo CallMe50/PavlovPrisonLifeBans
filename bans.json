@@ -1766,5 +1766,9 @@
     "hawktheman.2023": {
         "banneduntil": "2029.1.19-12.00.00pm",
         "BanReason": "underaged (9)"
+    },
+    "jax908": {
+        "banneduntil": "2027.1.18-12.00.00pm",
+        "BanReason": "underage 12"
     }
 }
