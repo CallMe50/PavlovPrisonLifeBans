@@ -1774,5 +1774,9 @@
     "jam_ham6373": {
         "banneduntil": "2025.1.20-12.00.00pm",
         "BanReason": "rdm (read the rules at spawn)"
+    },
+    "Dexter150413": {
+        "banneduntil": "2027.1.19-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
