@@ -1846,5 +1846,9 @@
     "youtube1": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underaged (11) gotta be 13+ to play"
+    },
+    "itbomd": {
+        "banneduntil": "2025.2.20-12.00.00pm",
+        "BanReason": "Extend ban for ban history and tk"
     }
 }
