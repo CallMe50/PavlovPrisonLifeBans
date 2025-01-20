@@ -1850,5 +1850,9 @@
     "itbomd": {
         "banneduntil": "2025.2.3-12.00.00pm",
         "BanReason": "Decided to shorten ban for being to harsh"
+    },
+    "erockmeaswell1": {
+        "banneduntil": "2025.1.27-12.00.00pm",
+        "BanReason": "mass rdm, non comp"
     }
 }
