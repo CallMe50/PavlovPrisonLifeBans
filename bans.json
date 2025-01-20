@@ -1826,5 +1826,9 @@
     "MrJonTheZombie": {
         "banneduntil": "2025.1.22-12.00.00pm",
         "BanReason": "Tk, staff disrespect"
+    },
+    "notzowman": {
+        "banneduntil": "2025.1.22-12.00.00",
+        "BanReason": "Mass tk"
     }
 }
