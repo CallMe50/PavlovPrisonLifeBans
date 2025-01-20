@@ -1842,5 +1842,9 @@
     "Milolake": {
         "banneduntil": "2027.9.9-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "youtube1": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underaged (11) gotta be 13+ to play"
     }
 }
