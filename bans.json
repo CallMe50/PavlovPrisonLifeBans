@@ -1790,5 +1790,9 @@
     "BEP_vincent1175": {
         "banneduntil": "2024.1.1-12.00.00pm",
         "BanReason": "False ban"
+    },
+    "1moretime": {
+        "banneduntil": "2028.10.1-12.00.00pm",
+        "BanReason": "Underage 10"
     }
 }
