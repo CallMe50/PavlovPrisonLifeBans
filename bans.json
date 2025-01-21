@@ -1902,5 +1902,9 @@
     "icetea6969": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard R"
+    },
+    "nutlessnegro": {
+        "banneduntil": "9999.1.22-12.00.00pm",
+        "BanReason": "Change name"
     }
 }
