@@ -1862,5 +1862,9 @@
     "tkm92": {
         "banneduntil": "2025.1.22-12.00.00pm",
         "BanReason": "baiting"
+    },
+    "IHATElNlGGERSOMUCH": {
+        "banneduntil": "9999.1.22-12.00.00pm",
+        "BanReason": "Change name"
     }
 }
