@@ -1890,5 +1890,9 @@
     "2Real-vr": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "Hard r not cool (Racism is not allowed)"
+    },
+    "Ballblaster629": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
