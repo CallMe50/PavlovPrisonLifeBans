@@ -1886,5 +1886,9 @@
     "im7": {
         "banneduntil": "2025.1.25-12.00.00pm",
         "BanReason": "Mass rdm,sit evading"
+    },
+    "2Real-vr": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Hard r not cool (Racism is not allowed)"
     }
 }
