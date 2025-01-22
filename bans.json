@@ -1926,5 +1926,9 @@
     "wood.465993": {
         "banneduntil": "2025.1.27-12.00.00pm",
         "BanReason": "sit evade and rdm"
+    },
+    "Skillamo": {
+        "banneduntil": "2028.1.22-12.00.00pm",
+        "BanReason": "underaged (10)"
     }
 }
