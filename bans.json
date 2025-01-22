@@ -1910,5 +1910,9 @@
     "Redneck_deer563": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Mass RDM, Mass TK 4th ban"
+    },
+    "H3ARTZGUARD": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
