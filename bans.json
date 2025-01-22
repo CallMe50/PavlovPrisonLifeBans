@@ -1922,5 +1922,9 @@
     "tenderchicken21": {
         "banneduntil": "2025.1.24-12.00.00pm",
         "BanReason": "Rdm and killing in sit and evaded"
+    },
+    "wood.465993": {
+        "banneduntil": "2025.1.27-12.00.00pm",
+        "BanReason": "sit evade and rdm"
     }
 }
