@@ -1930,5 +1930,9 @@
     "Skillamo": {
         "banneduntil": "2028.1.22-12.00.00pm",
         "BanReason": "underaged (10)"
+    },
+    "Jaqen_hghar1204": {
+        "banneduntil": "2025.1.25-12.00.00pm",
+        "BanReason": "Rdm,sit evading"
     }
 }
