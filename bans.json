@@ -1950,5 +1950,9 @@
     "BUCKETS100": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Show proof of age in discord"
+    },
+    "BluBanana": {
+        "banneduntil": "2026.1.29-12.00.00pm",
+        "BanReason": "underage"
     }
 }
