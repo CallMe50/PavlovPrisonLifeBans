@@ -1962,5 +1962,9 @@
     "murple69": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Show proof of age"
+    },
+    "Saul5": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "Bitch"
     }
 }
