@@ -1958,5 +1958,9 @@
     "DOOM.420": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "murple69": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Show proof of age"
     }
 }
