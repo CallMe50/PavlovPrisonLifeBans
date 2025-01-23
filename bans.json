@@ -1942,5 +1942,9 @@
     "cumfeet": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Racist"
+    },
+    "Soapll": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Change name"
     }
 }
