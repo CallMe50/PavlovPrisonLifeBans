@@ -1978,5 +1978,9 @@
     "lemmykilmister411": {
         "banneduntil": "2025.1.25-12.00.00pm",
         "BanReason": "Rdm, Booted off guard team"
+    },
+    "Soap_ll": {
+        "banneduntil": "9999.8.8-12.00.00pm",
+        "BanReason": "impersinating staff ( change user to be unbanned )"
     }
 }
