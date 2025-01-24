@@ -2010,5 +2010,9 @@
     "ScrunchieFace": {
         "banneduntil": "2025.1.25-12.00.00pm",
         "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "sixxxin": {
+        "banneduntil": "2025.1.27-12.00.00pm",
+        "BanReason": "Sit evasion and cross teaming"
     }
 }
