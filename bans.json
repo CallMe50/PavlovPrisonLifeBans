@@ -1986,5 +1986,9 @@
     "sebastianzt": {
         "banneduntil": "2026.1.23-12.00.00pm",
         "BanReason": "Underaged (12)"
+    },
+    "melvin.958061": {
+        "banneduntil": "9999.1.8-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
