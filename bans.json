@@ -1982,5 +1982,9 @@
     "Soap_ll": {
         "banneduntil": "9999.8.8-12.00.00pm",
         "BanReason": "impersonating staff ( change user to be unbanned )"
+    },
+    "sebastianzt": {
+        "banneduntil": "2026.1.23-12.00.00pm",
+        "BanReason": "Underaged (12)"
     }
 }
