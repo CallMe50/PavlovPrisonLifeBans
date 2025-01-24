@@ -1994,5 +1994,9 @@
     "Soccerman1234": {
         "banneduntil": "2028.1.23-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "CanOsoup3": {
+        "banneduntil": "2025.1.26-12.00.00pm",
+        "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
