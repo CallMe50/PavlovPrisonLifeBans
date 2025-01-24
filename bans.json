@@ -2002,5 +2002,9 @@
     "Beardedbrute": {
         "banneduntil": "2025.1.26-12.00.00pm",
         "BanReason": "Cop tk (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "billybolts2": {
+        "banneduntil": "2025.1.25-12.00.00pm",
+        "BanReason": "Mass rdm (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
