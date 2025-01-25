@@ -2022,5 +2022,9 @@
     "GunkelTheSprunkle": {
         "banneduntil": "2025.1.9-12.00.00pm",
         "BanReason": "rdm and sit evade"
+    },
+    "fatherdoomsdai": {
+        "banneduntil": "2025.1.28-12.00.00pm",
+        "BanReason": "Tk, baiting"
     }
 }
