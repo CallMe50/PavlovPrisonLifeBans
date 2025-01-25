@@ -2082,5 +2082,9 @@
     "netgds23": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "Statincult1": {
+        "banneduntil": "2025.1.27-12.00.00pm",
+        "BanReason": "Mass fugitive tk (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
