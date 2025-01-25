@@ -2086,5 +2086,9 @@
     "Statincult1": {
         "banneduntil": "2025.1.27-12.00.00pm",
         "BanReason": "Mass fugitive tk (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "BiggieBarDown": {
+        "banneduntil": "2025.1.26-12.00.00pm",
+        "BanReason": "Teaming (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
