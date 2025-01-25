@@ -2018,5 +2018,9 @@
     "IM_BUTTERFLY_IM_BUTTERFLY": {
         "banneduntil": "2025.1.26-12.00.00pm",
         "BanReason": "tk (read the rules in spawn)"
+    },
+    "GunkelTheSprunkle": {
+        "banneduntil": "2025.1.9-12.00.00pm",
+        "BanReason": "rdm and sit evade"
     }
 }
