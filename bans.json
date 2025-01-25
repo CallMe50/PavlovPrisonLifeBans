@@ -2030,5 +2030,9 @@
     "ZaDemon": {
         "banneduntil": "2025.1.28-12.00.00pm",
         "BanReason": "Guard tk (read the rules in choosing team spawn)"
+    },
+    "elliot12344": {
+        "banneduntil": "2028.1.26-12.00.00pm",
+        "BanReason": "underage"
     }
 }
