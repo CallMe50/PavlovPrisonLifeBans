@@ -2062,5 +2062,9 @@
     "Name: sleeptighty": {
         "banneduntil": "Date: 2025.1.26-12.00.00pn",
         "BanReason": "Reason: Staff harrasment and disrespect"
+    },
+    "sleeptighty": {
+        "banneduntil": "2025.1.26-12.00.00pm",
+        "BanReason": "staff harrasment and disrespect"
     }
 }
