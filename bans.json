@@ -2026,5 +2026,9 @@
     "fatherdoomsdai": {
         "banneduntil": "2025.1.28-12.00.00pm",
         "BanReason": "Tk, baiting"
+    },
+    "ZaDemon": {
+        "banneduntil": "2025.1.28-12.00.00pm",
+        "BanReason": "Guard tk (read the rules in choosing team spawn)"
     }
 }
