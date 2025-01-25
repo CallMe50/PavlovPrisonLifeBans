@@ -2014,5 +2014,9 @@
     "sixxxin": {
         "banneduntil": "2025.1.27-12.00.00pm",
         "BanReason": "Sit evasion and cross teaming"
+    },
+    "IM_BUTTERFLY_IM_BUTTERFLY": {
+        "banneduntil": "2025.1.26-12.00.00pm",
+        "BanReason": "tk (read the rules in spawn)"
     }
 }
