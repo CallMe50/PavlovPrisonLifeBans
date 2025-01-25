@@ -2078,5 +2078,9 @@
     "BillyTheKid1234": {
         "banneduntil": "2026.1.25-12.00.00pm",
         "BanReason": "underaged (12)"
+    },
+    "netgds23": {
+        "banneduntil": "2025.2.1-12.00.00pm",
+        "BanReason": "Mass rdm"
     }
 }
