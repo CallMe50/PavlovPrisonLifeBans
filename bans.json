@@ -2114,5 +2114,9 @@
     "SurroundedbyBalls03": {
         "banneduntil": "2025.2.8-12.00.00pm",
         "BanReason": "Rdm and evading modsit (your a high enough lvl you should know the rules by now)"
+    },
+    "pavlov_champion": {
+        "banneduntil": "2025.1.28-12.00.00pm",
+        "BanReason": "Rdm for uranium, mod sit evading (please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
