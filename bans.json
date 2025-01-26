@@ -2122,5 +2122,9 @@
     "BillyTheKid01234": {
         "banneduntil": "2026.1.27-12.00.00pm",
         "BanReason": "underaged (12)"
+    },
+    "abc2345": {
+        "banneduntil": "2025.1.28-12.00.00pm",
+        "BanReason": "Mass prisoner tk (Please read the rules and role instructions in the spawn where you choose teams)"
     }
 }
