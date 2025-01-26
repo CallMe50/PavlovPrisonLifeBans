@@ -2102,5 +2102,9 @@
     "AJM30703": {
         "banneduntil": "2026.1.25-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "illeagelsinmyyard": {
+        "banneduntil": "2025.1.29-12.00.00pm",
+        "BanReason": "Rdm (read the rules in the discord or in choosing team spawn before playing)"
     }
 }
