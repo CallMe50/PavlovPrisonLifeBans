@@ -2106,5 +2106,9 @@
     "illeagelsinmyyard": {
         "banneduntil": "2025.1.29-12.00.00pm",
         "BanReason": "Rdm (read the rules in the discord or in choosing team spawn before playing)"
+    },
+    "hugo.384467": {
+        "banneduntil": "2026.1.27-12.00.00pm",
+        "BanReason": "underaged (12)"
     }
 }
