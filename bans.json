@@ -2090,5 +2090,9 @@
     "BiggieBarDown": {
         "banneduntil": "2025.1.26-12.00.00pm",
         "BanReason": "Teaming (please read the rules and role instructions in the spawn where you choose teams)"
+    },
+    "erin.hall.16940": {
+        "banneduntil": "2027.1.27-12.00.00pm",
+        "BanReason": "underaged (11)"
     }
 }
