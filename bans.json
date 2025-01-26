@@ -2138,5 +2138,9 @@
     "Loggiebears": {
         "banneduntil": "2021.1.1-12.00.00pm",
         "BanReason": "Glitched"
+    },
+    "Winnick01": {
+        "banneduntil": "2026.1.27-12.00.00pm",
+        "BanReason": "underaged (12)"
     }
 }
