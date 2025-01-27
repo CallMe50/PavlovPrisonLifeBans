@@ -2182,5 +2182,9 @@
     "Juanthe1": {
         "banneduntil": "2025.1.28-12.00.00pm",
         "BanReason": "tk"
+    },
+    "brax99": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
