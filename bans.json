@@ -2142,5 +2142,9 @@
     "Winnick01": {
         "banneduntil": "2026.1.27-12.00.00pm",
         "BanReason": "underaged (12)"
+    },
+    "PhantomTT03": {
+        "banneduntil": "2025.2.6-12.00.00pm",
+        "BanReason": "Glitching,evading"
     }
 }
