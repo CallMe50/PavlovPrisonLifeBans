@@ -2158,5 +2158,9 @@
     "FatherFred58": {
         "banneduntil": "2025.1.28-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "sks_deamon01": {
+        "banneduntil": "2027.1.29-12.00.00pm",
+        "BanReason": "underage"
     }
 }
