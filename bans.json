@@ -2146,5 +2146,9 @@
     "PhantomTT03": {
         "banneduntil": "2025.2.6-12.00.00pm",
         "BanReason": "Glitching,evading"
+    },
+    "Cam523120": {
+        "banneduntil": "2025.5.23-12.00.00pm",
+        "BanReason": "underage (12) must be 13+ to play"
     }
 }
