@@ -2150,5 +2150,9 @@
     "Cam523120": {
         "banneduntil": "2025.5.23-12.00.00pm",
         "BanReason": "underage (12) must be 13+ to play"
+    },
+    "juanminion200.2023": {
+        "banneduntil": "2025.1.28-12.00.00pm",
+        "BanReason": "Baiting and evading modsit"
     }
 }
