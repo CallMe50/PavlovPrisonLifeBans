@@ -2198,5 +2198,9 @@
     "monicle.gentlesir": {
         "banneduntil": "2025.2.2-12.00.00pm",
         "BanReason": "Mass fugitive tk"
+    },
+    "LukeSywalker": {
+        "banneduntil": "2025.1.29-12.00.00pm",
+        "BanReason": "Fugitive tk"
     }
 }
