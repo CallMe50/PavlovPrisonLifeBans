@@ -2190,5 +2190,9 @@
     "sgt.pretty.boy": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Rdm sit evading"
+    },
+    "Crazy_dragon021": {
+        "banneduntil": "2025.1.30-12.00.00pm",
+        "BanReason": "TK and spawncampimg"
     }
 }
