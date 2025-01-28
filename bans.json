@@ -2186,5 +2186,9 @@
     "brax99": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "sgt.pretty.boy": {
+        "banneduntil": "2025.2.1",
+        "BanReason": "Rdm sit evading"
     }
 }
