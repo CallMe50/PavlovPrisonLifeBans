@@ -2218,5 +2218,9 @@
     "Ya_boi_landen": {
         "banneduntil": "2025.2.1-10.00.00pm",
         "BanReason": "Killing in sit and RDM 2x"
+    },
+    "The_holocaust": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Change user to be unbanned"
     }
 }
