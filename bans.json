@@ -2222,5 +2222,9 @@
     "The_holocaust": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Change user to be unbanned"
+    },
+    "BMAN11990": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underaged gotta be 13+ to play"
     }
 }
