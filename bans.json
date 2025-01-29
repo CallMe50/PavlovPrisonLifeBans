@@ -2226,5 +2226,9 @@
     "BMAN11990": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underaged gotta be 13+ to play"
+    },
+    "Stinkycat2": {
+        "banneduntil": "2025.2.1-12.00.00pm",
+        "BanReason": "Guard team kill and evading modsit"
     }
 }
