@@ -2214,5 +2214,9 @@
     "zunnerrunner": {
         "banneduntil": "2025.2.28-10.00.00pm",
         "BanReason": "loopholes, cross teaming, baiting, entrapment(forcing to pick up guns), and RDM"
+    },
+    "Ya_boi_landen": {
+        "banneduntil": "2025.2.1-10.00.00pm",
+        "BanReason": "Killing in sit and RDM 2x"
     }
 }
