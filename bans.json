@@ -2238,5 +2238,9 @@
     "dirtyfartvr": {
         "banneduntil": "2025.1.31-12.00.00pm",
         "BanReason": "rdm and racism"
+    },
+    "leothechamp": {
+        "banneduntil": "2025.2.1-12.00.00pm",
+        "BanReason": "rdm (i warned you)"
     }
 }
