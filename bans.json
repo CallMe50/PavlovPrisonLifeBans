@@ -2234,5 +2234,9 @@
     "Vrcarboy": {
         "banneduntil": "2025.2.3-12.00.00pm",
         "BanReason": "Rdm and guard tk"
+    },
+    "dirtyfartvr": {
+        "banneduntil": "2025.1.31-12.00.00pm",
+        "BanReason": "rdm and racism"
     }
 }
