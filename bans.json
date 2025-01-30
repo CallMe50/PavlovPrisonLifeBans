@@ -2250,5 +2250,9 @@
     "NLGGARAPE": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Change username to be unbanned"
+    },
+    "R1ck6rmes": {
+        "banneduntil": "2025.2.1-12.00.00pm",
+        "BanReason": "Rdm evading sit"
     }
 }
