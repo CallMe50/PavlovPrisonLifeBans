@@ -2246,5 +2246,9 @@
     "0wenhjf": {
         "banneduntil": "2028.9.9-12.00.00pm",
         "BanReason": "underage (10) gotta be 13+"
+    },
+    "NLGGARAPE": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Change username to be unbanned"
     }
 }
