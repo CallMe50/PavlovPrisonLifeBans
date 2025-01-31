@@ -2290,5 +2290,9 @@
     "KarsonKR": {
         "banneduntil": "2025.2.2-12.00.00pm",
         "BanReason": "RDM and modsit evading (please read the role instructions in the spawn where you choose teams before l"
+    },
+    "caseoh.yumyum": {
+        "banneduntil": "2025.2.14-12.00.00pm",
+        "BanReason": "Guard jugg tk, guard tasing and evading sit"
     }
 }
