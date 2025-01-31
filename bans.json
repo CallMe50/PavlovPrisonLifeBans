@@ -2286,5 +2286,9 @@
     "Dylan_black_23": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Guard tk (read the rules on top of guard rule before playing)"
+    },
+    "KarsonKR": {
+        "banneduntil": "2025.2.2-12.00.00pm",
+        "BanReason": "RDM and modsit evading (please read the role instructions in the spawn where you choose teams before l"
     }
 }
