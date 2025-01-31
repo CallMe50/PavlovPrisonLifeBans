@@ -2266,5 +2266,9 @@
     "Dylan_Black_33": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Guard tk (read the rules on top of guard rule before playing)"
+    },
+    "DragonClaw_946": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "hard r"
     }
 }
