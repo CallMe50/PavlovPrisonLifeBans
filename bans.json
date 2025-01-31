@@ -2254,5 +2254,9 @@
     "R1ck6rmes": {
         "banneduntil": "2025.2.1-12.00.00pm",
         "BanReason": "Rdm evading sit"
+    },
+    "IPvv4": {
+        "banneduntil": "2025.2.2-12.00.00pm",
+        "BanReason": "Guard tk, crossteaming"
     }
 }
