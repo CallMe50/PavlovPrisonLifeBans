@@ -2258,5 +2258,9 @@
     "IPvv4": {
         "banneduntil": "2025.2.2-12.00.00pm",
         "BanReason": "Guard tk, crossteaming"
+    },
+    "The_Grinn": {
+        "banneduntil": "2025.2.2-12.00.00pm",
+        "BanReason": "Crossteaming"
     }
 }
