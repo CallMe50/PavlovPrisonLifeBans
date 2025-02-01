@@ -2310,5 +2310,9 @@
     "djghhng": {
         "banneduntil": "2099.12.31-12.00.00pm",
         "BanReason": "Hard R perma ban"
+    },
+    "TheBoneCollector1895": {
+        "banneduntil": "2025.2.2-12.00.00pm",
+        "BanReason": "Mass rdm, mass tk (Please read the role instructions in the spawn where you choose teams)"
     }
 }
