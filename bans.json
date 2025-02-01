@@ -2294,5 +2294,9 @@
     "caseoh.yumyum": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Nbaslimboy.4kt (ban evading) ban wipe blacklisted"
+    },
+    "Susiern11": {
+        "banneduntil": "2025.2.2-12.00.00pm",
+        "BanReason": "Tk, rdm (please read the role instructions in the spawn where you choose teams)"
     }
 }
