@@ -2314,5 +2314,9 @@
     "TheBoneCollector1895": {
         "banneduntil": "2025.2.2-12.00.00pm",
         "BanReason": "Mass rdm, mass tk (Please read the role instructions in the spawn where you choose teams)"
+    },
+    "s3xter_morgan": {
+        "banneduntil": "2025.2.2-12.00.00pm",
+        "BanReason": "Cop tk (please read the role instructions in the spawn where you choose teams)"
     }
 }
