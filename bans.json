@@ -2362,5 +2362,9 @@
     "Notorius112": {
         "banneduntil": "2099.1.1-12.00.00pm",
         "BanReason": "N-word(hard r)"
+    },
+    "miles.202804": {
+        "banneduntil": "2025.2.4-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
