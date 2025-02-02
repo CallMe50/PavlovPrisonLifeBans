@@ -2374,5 +2374,9 @@
     "lordlucan.2022": {
         "banneduntil": "2025.2.5-12.00.00pm",
         "BanReason": "Crossteaming and evading sit"
+    },
+    "hector136": {
+        "banneduntil": "2025.2.9-12.00.00pm",
+        "BanReason": "Mass fugitive tk"
     }
 }
