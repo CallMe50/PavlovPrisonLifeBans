@@ -2366,5 +2366,9 @@
     "miles.202804": {
         "banneduntil": "2025.2.4-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "clair.pratt.2023": {
+        "banneduntil": "2025.2.4-12.00.00pm",
+        "BanReason": "Rdm (read the rules before playing)"
     }
 }
