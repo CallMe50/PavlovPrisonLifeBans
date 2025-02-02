@@ -2370,5 +2370,9 @@
     "clair.pratt.2023": {
         "banneduntil": "2025.2.4-12.00.00pm",
         "BanReason": "Rdm (read the rules before playing)"
+    },
+    "lordlucan.2022": {
+        "banneduntil": "2025.2.5-12.00.00pm",
+        "BanReason": "Crossteaming and evading sit"
     }
 }
