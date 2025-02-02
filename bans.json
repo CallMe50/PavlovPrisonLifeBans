@@ -2346,5 +2346,9 @@
     "Pofure": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "hard r, tk, rdm, evading sit (Fuckin loser)"
+    },
+    "RobertsonFamily": {
+        "banneduntil": "2028.9.9-12.00.00pm",
+        "BanReason": "underage"
     }
 }
