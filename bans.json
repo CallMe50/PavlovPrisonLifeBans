@@ -2378,5 +2378,9 @@
     "hector136": {
         "banneduntil": "2025.2.9-12.00.00pm",
         "BanReason": "Mass fugitive tk"
+    },
+    "jlittle23.2023": {
+        "banneduntil": "2028.2.3-12.00.00pm",
+        "BanReason": "Underaged(10) must be 13+ to play"
     }
 }
