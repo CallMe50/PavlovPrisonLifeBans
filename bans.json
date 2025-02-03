@@ -2390,5 +2390,9 @@
     "rowenberny": {
         "banneduntil": "2026.2.3-12.00.00pm",
         "BanReason": "Underaged(12) must be 13+ to play"
+    },
+    "GoofyGoober326": {
+        "banneduntil": "2025.2.13-12.00.00pm",
+        "BanReason": "Guard TKx2 one being team swap revenge, evading sit"
     }
 }
