@@ -2402,5 +2402,9 @@
     "paco3043": {
         "banneduntil": "2026.2.3-12.00.00pm",
         "BanReason": "Underaged(12) must be 13+ to play"
+    },
+    "RetartedPickle": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "underage (appeal in discord)"
     }
 }
