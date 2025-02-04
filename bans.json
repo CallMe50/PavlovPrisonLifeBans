@@ -2406,5 +2406,9 @@
     "RetartedPickle": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "underage (appeal in discord)"
+    },
+    "AideMan3130": {
+        "banneduntil": "2028.2.3-12.00.00pm",
+        "BanReason": "Underaged(10) must be 13+ to play"
     }
 }
