@@ -2414,5 +2414,9 @@
     "TheBoysQuest": {
         "banneduntil": "2027.2.3-12.00.00pm",
         "BanReason": "Underaged(11) must be 13+ to play"
+    },
+    "sikokid.9.2024": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
