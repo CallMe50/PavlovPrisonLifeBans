@@ -2410,5 +2410,9 @@
     "AideMan3130": {
         "banneduntil": "2028.2.3-12.00.00pm",
         "BanReason": "Underaged(10) must be 13+ to play"
+    },
+    "TheBoysQuest": {
+        "banneduntil": "2027.2.3-12.00.00pm",
+        "BanReason": "Underaged(11) must be 13+ to play"
     }
 }
