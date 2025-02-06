@@ -2430,5 +2430,9 @@
     "SnugYeti": {
         "banneduntil": "2025.2.8-12.00.00pm",
         "BanReason": "Baiting, random tazing, mass rdm (please read the role instructions in the spawn where you choose teams)"
+    },
+    "Jonathan.184496": {
+        "banneduntil": "2027.8.8-12.00.00pm",
+        "BanReason": "Underaged (11, must be 13+to play)"
     }
 }
