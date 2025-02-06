@@ -2446,5 +2446,9 @@
     "Escobarfamok": {
         "banneduntil": "1999.12.12-12.00.00pm",
         "BanReason": "unbanned"
+    },
+    "natio": {
+        "banneduntil": "2025.2.7-12.00.00pm",
+        "BanReason": "mass tdm"
     }
 }
