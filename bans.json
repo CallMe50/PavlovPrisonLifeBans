@@ -2450,5 +2450,9 @@
     "natio": {
         "banneduntil": "2025.2.7-12.00.00pm",
         "BanReason": "mass tdm"
+    },
+    "dexter.69": {
+        "banneduntil": "2025.2.8-12.00.00pm",
+        "BanReason": "tk and sit evading"
     }
 }
