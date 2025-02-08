@@ -2470,5 +2470,9 @@
     "MunkyTrainer": {
         "banneduntil": "2025.2.8-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "hutchnc": {
+        "banneduntil": "2028.2.2-12.00.00pm",
+        "BanReason": "underage (11) gotta be 13+ to play"
     }
 }
