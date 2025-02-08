@@ -2466,5 +2466,9 @@
     "andrewtinky": {
         "banneduntil": "2025.2.8-12.00.00pm",
         "BanReason": "fugitive TK - WilliamEXE"
+    },
+    "MunkyTrainer": {
+        "banneduntil": "2025.2.8-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
