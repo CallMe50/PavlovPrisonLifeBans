@@ -2478,5 +2478,9 @@
     "dvofam": {
         "banneduntil": "2025.3.22-12.00.00pm",
         "BanReason": "Underaged (12) you get unbanned on your birthday"
+    },
+    "bentjamin.2024": {
+        "banneduntil": "2025.2.8-12.00.00pm",
+        "BanReason": "rdm and killing in sit"
     }
 }
