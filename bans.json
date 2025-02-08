@@ -2486,5 +2486,9 @@
     "Andres999": {
         "banneduntil": "2025.1.9-12.00.00pm",
         "BanReason": "Rdm, baiting, sit evading staff disrespect. (Read the role instructions in the spawn where you choose teams)"
+    },
+    "i.like.kfc.2007": {
+        "banneduntil": "2025.1.11-12.00.00pm",
+        "BanReason": "Mass fugitive tk (please read the role instructions in the spawn where you choose teams)"
     }
 }
