@@ -2490,5 +2490,9 @@
     "i.like.kfc.2007": {
         "banneduntil": "2025.1.11-12.00.00pm",
         "BanReason": "Mass fugitive tk (please read the role instructions in the spawn where you choose teams)"
+    },
+    "Gvr_is_the_best": {
+        "banneduntil": "2026.1.1-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
