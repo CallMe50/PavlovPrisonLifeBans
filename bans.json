@@ -2474,5 +2474,9 @@
     "hutchnc": {
         "banneduntil": "2028.2.2-12.00.00pm",
         "BanReason": "underage (11) gotta be 13+ to play"
+    },
+    "dvofam": {
+        "banneduntil": "2025.3.22-12.00.00pm",
+        "BanReason": "Underaged (12) you get unbanned on your birthday"
     }
 }
