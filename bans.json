@@ -2522,5 +2522,9 @@
     "Alexifons2013": {
         "banneduntil": "2026.2.9-12.00.00pm",
         "BanReason": "Underaged (12)must be 13+"
+    },
+    "Fearless_tammer": {
+        "banneduntil": "2099.2.7-12.00.00pm",
+        "BanReason": "N-word(hard r)"
     }
 }
