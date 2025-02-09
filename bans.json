@@ -2510,5 +2510,9 @@
     "BBB.Nigglet": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Change your username to be unbanned"
+    },
+    "Papitas760": {
+        "banneduntil": "2029.1.1-12.00.00pm",
+        "BanReason": "Underaged (9) gotta be 13+ to play"
     }
 }
