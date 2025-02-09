@@ -2506,5 +2506,9 @@
     "Gunslingerr": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underage (10)"
+    },
+    "BBB.Nigglet": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Change your username to be unbanned"
     }
 }
