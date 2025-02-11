@@ -2538,5 +2538,9 @@
     "VOLK_IS_LIFE": {
         "banneduntil": "2025.2.12-12.00.00pm",
         "BanReason": "Fugitive tk (after being told it's bannable (please read the role instructions in the spawn where you choose teams)"
+    },
+    "Tweedle42": {
+        "banneduntil": "2027.2.9-12.00.00pm",
+        "BanReason": "Underaged (11)must be 13+"
     }
 }
