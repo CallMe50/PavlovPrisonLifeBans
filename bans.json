@@ -2542,5 +2542,9 @@
     "Tweedle42": {
         "banneduntil": "2027.2.9-12.00.00pm",
         "BanReason": "Underaged (11)must be 13+"
+    },
+    "Vinchenzo_16": {
+        "banneduntil": "2029.1.1-12.00.00pm",
+        "BanReason": "Underaged (9) gotta be 13+ to play"
     }
 }
