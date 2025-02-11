@@ -2554,5 +2554,9 @@
     "Peberson": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "Underaged, avoiding sit, Tk"
+    },
+    "summer0218": {
+        "banneduntil": "2026.2.11-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
