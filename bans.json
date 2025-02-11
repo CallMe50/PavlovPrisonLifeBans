@@ -2546,5 +2546,9 @@
     "Vinchenzo_16": {
         "banneduntil": "2029.1.1-12.00.00pm",
         "BanReason": "Underaged (9) gotta be 13+ to play"
+    },
+    "tytygodtime": {
+        "banneduntil": "2025.2.11-12.00.00pm",
+        "BanReason": "RDM, sit evasion"
     }
 }
