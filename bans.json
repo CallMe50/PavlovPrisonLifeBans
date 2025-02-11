@@ -2558,5 +2558,9 @@
     "summer0218": {
         "banneduntil": "2026.2.11-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "zev.love.x.1979": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Racism (Hard R)"
     }
 }
