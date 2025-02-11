@@ -2550,5 +2550,9 @@
     "tytygodtime": {
         "banneduntil": "2025.2.11-12.00.00pm",
         "BanReason": "RDM, sit evasion"
+    },
+    "Peberson": {
+        "banneduntil": "9999.1.1-12.00.00pm",
+        "BanReason": "Underaged, avoiding sit, Tk"
     }
 }
