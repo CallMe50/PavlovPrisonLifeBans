@@ -2570,5 +2570,9 @@
     "toni.184300": {
         "banneduntil": "2027.2.9-12.00.00pm",
         "BanReason": "Underaged (12)must be 13+"
+    },
+    "BBF.Nigglet": {
+        "banneduntil": "2026.8.29-12.00.00pm",
+        "BanReason": "Inappropriate username (please change your Pavlov username if you want to play Prison Life)"
     }
 }
