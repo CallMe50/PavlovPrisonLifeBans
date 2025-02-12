@@ -2566,5 +2566,9 @@
     "mrgodlife": {
         "banneduntil": "9999.1.1-12.00.00pm",
         "BanReason": "Underaged, avoiding sit, Tk"
+    },
+    "toni.184300": {
+        "banneduntil": "2027.2.9-12.00.00pm",
+        "BanReason": "Underaged (12)must be 13+"
     }
 }
