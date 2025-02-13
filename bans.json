@@ -2574,5 +2574,9 @@
     "BBF.Nigglet": {
         "banneduntil": "2026.8.29-12.00.00pm",
         "BanReason": "Inappropriate username (please change your Pavlov username if you want to play Prison Life)"
+    },
+    "MetaAlpha2010": {
+        "banneduntil": "2025.2.2-14.00.00pm",
+        "BanReason": "Fugitive tk (Please read the role instructions in the spawn where you choose teams)"
     }
 }
