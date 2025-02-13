@@ -2586,5 +2586,9 @@
     "Amaror05": {
         "banneduntil": "2026.8.29-12.00.00pm",
         "BanReason": "Underaged (11, must be 13+ to play)"
+    },
+    "Opindoraptor2010": {
+        "banneduntil": "2025.2.15-12.00.00pm",
+        "BanReason": "Intentional RDM (please read the role instructions in the spawn where you choose teams)"
     }
 }
