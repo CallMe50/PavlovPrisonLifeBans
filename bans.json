@@ -2614,5 +2614,9 @@
     "makesurehedead.2023": {
         "banneduntil": "2025.2.21-12.00.00pm",
         "BanReason": "Intentional RDM, staff disrespect, sit evading (please read the role instructions in the spawn where you choose teams)"
+    },
+    "Washington.Bandit": {
+        "banneduntil": "2025.2.7-12.00.00pm",
+        "BanReason": "Constant team tazing (please read the role instructions in the spawn where you choose teams)"
     }
 }
