@@ -2590,5 +2590,9 @@
     "Opindoraptor2010": {
         "banneduntil": "2025.2.15-12.00.00pm",
         "BanReason": "Intentional RDM (please read the role instructions in the spawn where you choose teams)"
+    },
+    "Leaderbot1": {
+        "banneduntil": "2025.2.15-12.00.00pm",
+        "BanReason": "Crossteaming"
     }
 }
