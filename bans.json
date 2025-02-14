@@ -2610,5 +2610,9 @@
     "Luhbonkq": {
         "banneduntil": "2025.2.16-12.00.00pm",
         "BanReason": "RDM, modsit evading (please read the role instructions in the spawn where you choose teams)"
+    },
+    "makesurehedead.2023": {
+        "banneduntil": "2025.2.21-12.00.00pm",
+        "BanReason": "Intentional RDM, staff disrespect, sit evading (please read the role instructions in the spawn where you choose teams)"
     }
 }
