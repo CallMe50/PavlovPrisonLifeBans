@@ -2594,5 +2594,9 @@
     "Leaderbot1": {
         "banneduntil": "2025.2.15-12.00.00pm",
         "BanReason": "Crossteaming"
+    },
+    "Arthurmorgan_11211": {
+        "banneduntil": "2025.2.15-12.00.00pm",
+        "BanReason": "Cop tk (please read the role instructions in the spawn where you choose teams)"
     }
 }
