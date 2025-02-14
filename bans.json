@@ -2602,5 +2602,9 @@
     "grim.reaper.807753": {
         "banneduntil": "2015.3.14-12.00.00pm",
         "BanReason": "Unbanned"
+    },
+    "Lugbonkq": {
+        "banneduntil": "2025.2.16-12.00.00pm",
+        "BanReason": "RDM, modsit evading (please read the role instructions in the spawn where you choose teams)"
     }
 }
