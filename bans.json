@@ -2622,5 +2622,9 @@
     "LordShamis": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "possibly underaged"
+    },
+    "Dutch_VanderLinde15": {
+        "banneduntil": "2030.2.15-12.00.00pm",
+        "BanReason": "underaged (8)"
     }
 }
