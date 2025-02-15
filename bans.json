@@ -2630,5 +2630,9 @@
     "misterboneypantsguy": {
         "banneduntil": "2025.2.15-12.00.00",
         "BanReason": "Admitting to cross team and refusing sit"
+    },
+    "russflyin": {
+        "banneduntil": "2025.2.22-12.00.00pm",
+        "BanReason": "attempted TK, Team Tazing, evading mod sit"
     }
 }
