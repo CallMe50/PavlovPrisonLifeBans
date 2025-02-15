@@ -2618,5 +2618,9 @@
     "Washington.Bandit": {
         "banneduntil": "2025.2.7-12.00.00pm",
         "BanReason": "Constant team tazing (please read the role instructions in the spawn where you choose teams)"
+    },
+    "LordShamis": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "possibly underaged"
     }
 }
