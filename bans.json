@@ -2626,5 +2626,9 @@
     "Dutch_VanderLinde15": {
         "banneduntil": "2030.2.15-12.00.00pm",
         "BanReason": "underaged (8)"
+    },
+    "misterboneypantsguy": {
+        "banneduntil": "2025.2.15-12.00.00",
+        "BanReason": "Admitting to cross team and refusing sit"
     }
 }
