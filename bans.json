@@ -2650,5 +2650,9 @@
     "Diwandababy43": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "possibly underaged"
+    },
+    "kye2012": {
+        "banneduntil": "2026.2.16-12.00.00pm",
+        "BanReason": "underaged (12)"
     }
 }
