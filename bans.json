@@ -2638,5 +2638,9 @@
     "Jeremiahfoundyou1643": {
         "banneduntil": "2027.2.10-12.00.00pm",
         "BanReason": "Underaged (12, must be 13+ to play)"
+    },
+    "historyguy903": {
+        "banneduntil": "2025.2.18-12.00.00pm",
+        "BanReason": "teamkilling"
     }
 }
