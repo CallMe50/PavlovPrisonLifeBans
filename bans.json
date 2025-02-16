@@ -2658,5 +2658,9 @@
     "ak109alhpaap": {
         "banneduntil": "2025.7.4-12.00.00pm",
         "BanReason": "Unbanned (not AK109ALPHA)"
+    },
+    "Noobrainer": {
+        "banneduntil": "2025.2.20-12.00.00pm",
+        "BanReason": "Rdm and evading sit"
     }
 }
