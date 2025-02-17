@@ -2678,5 +2678,9 @@
     "Morpheus_Neo": {
         "banneduntil": "2025.2.18-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "Fear_GABE": {
+        "banneduntil": "9999.12.31-12.00.00pm",
+        "BanReason": "Suspected underage"
     }
 }
