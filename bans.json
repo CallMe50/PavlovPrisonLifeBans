@@ -2702,5 +2702,9 @@
     "bigdino.com": {
         "banneduntil": "2025.2.20-12.00.00pm",
         "BanReason": "RDMing from PL reports"
+    },
+    "AmirFromUberEats": {
+        "banneduntil": "2025.2.23-12.00.00pm",
+        "BanReason": "rdm and baiting"
     }
 }
