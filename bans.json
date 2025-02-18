@@ -2698,5 +2698,9 @@
     "Surxee": {
         "banneduntil": "2025.2.25-12.00.00pm",
         "BanReason": "Mass guard TK after warn. evade sit, killing in sit"
+    },
+    "bigdino.com": {
+        "banneduntil": "2025.2.20-12.00.00pm",
+        "BanReason": "RDMing from PL reports"
     }
 }
