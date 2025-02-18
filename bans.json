@@ -2686,5 +2686,9 @@
     "Naught": {
         "banneduntil": "2025.2.18-12.00.00pm",
         "BanReason": "rdm, baiting"
+    },
+    "tororosso": {
+        "banneduntil": "2025.2.18-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
