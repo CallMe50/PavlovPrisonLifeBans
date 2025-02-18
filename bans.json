@@ -2690,5 +2690,9 @@
     "tororosso": {
         "banneduntil": "2025.2.18-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "memester190": {
+        "banneduntil": "2025.2.19-12.00.00pm",
+        "BanReason": "RDM, crossteaming (please read the role instructions in the spawn where you choose teams)"
     }
 }
