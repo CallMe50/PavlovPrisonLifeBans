@@ -2710,5 +2710,9 @@
     "xRenegade13x": {
         "banneduntil": "2027.2.25-12.00.00pm",
         "BanReason": "underage 11, Mass tk, team taze, cross team, baiting"
+    },
+    "BigNuggie": {
+        "banneduntil": "2027.3.4-12.00.00pm",
+        "BanReason": "Mass RDM, Mass TK, Evade sit x2, killing in sit"
     }
 }
