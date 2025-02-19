@@ -2738,5 +2738,9 @@
     "comodith": {
         "banneduntil": "2025.2.21-12.00.00pm",
         "BanReason": "Crossteaming"
+    },
+    "1211jess": {
+        "banneduntil": "2025.2.22-12.00.00pm",
+        "BanReason": "Rdm, guard tk and evading sit"
     }
 }
