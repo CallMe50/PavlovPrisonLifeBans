@@ -2718,5 +2718,9 @@
     "dustinmetcalf": {
         "banneduntil": "2025.10.1-12.00.00pm",
         "BanReason": "Underage (12)"
+    },
+    "PunchyBandicoot8945": {
+        "banneduntil": "2099.9.9-12.00.00pm",
+        "BanReason": "possible underage"
     }
 }
