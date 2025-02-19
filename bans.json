@@ -2734,5 +2734,9 @@
     "Aaronp_2": {
         "banneduntil": "2026.1.1-12.00.00pm",
         "BanReason": "Underaged(12) gotta be 13+ to play"
+    },
+    "comodith": {
+        "banneduntil": "2025.2.21-12.00.00pm",
+        "BanReason": "Crossteaming"
     }
 }
