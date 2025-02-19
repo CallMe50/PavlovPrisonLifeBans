@@ -2714,5 +2714,9 @@
     "BigNuggie": {
         "banneduntil": "2027.3.4-12.00.00pm",
         "BanReason": "Mass RDM, Mass TK, Evade sit x2, killing in sit"
+    },
+    "dustinmetcalf": {
+        "banneduntil": "2025.10.1-12.00.00pm",
+        "BanReason": "Underage (12)"
     }
 }
