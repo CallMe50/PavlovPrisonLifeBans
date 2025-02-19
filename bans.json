@@ -2742,5 +2742,9 @@
     "1211jess": {
         "banneduntil": "2025.2.22-12.00.00pm",
         "BanReason": "Rdm, guard tk and evading sit"
+    },
+    "MadMadsen": {
+        "banneduntil": "2026.8.25-12.00.00pm",
+        "BanReason": "Underage (12, must be 13+to play)"
     }
 }
