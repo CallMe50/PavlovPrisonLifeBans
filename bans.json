@@ -2726,5 +2726,9 @@
     "oppcharlie": {
         "banneduntil": "2026.2.18-12.00.00pm",
         "BanReason": "underage (12)"
+    },
+    "Venom2580": {
+        "banneduntil": "2025.2.21-12.00.00pm",
+        "BanReason": "RDM and avoiding sits"
     }
 }
