@@ -2754,5 +2754,9 @@
     "Borallge": {
         "banneduntil": "2025.2.21-12.00.00pm",
         "BanReason": "Guard tk and evading sit"
+    },
+    "Darksceptor6": {
+        "banneduntil": "2025.2.21-12.00.00pm",
+        "BanReason": "rdm (read rules at the spawn)"
     }
 }
