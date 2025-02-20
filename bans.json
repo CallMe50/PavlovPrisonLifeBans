@@ -2762,5 +2762,9 @@
     "xmozyx": {
         "banneduntil": "2025.2.21-12.00.00",
         "BanReason": "rdm (read rules at spawn)"
+    },
+    "DarkBrotherhood1266": {
+        "banneduntil": "2025.2.21-12.00.00pm",
+        "BanReason": "rdm (read rules at spawn)"
     }
 }
