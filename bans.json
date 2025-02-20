@@ -2758,5 +2758,9 @@
     "Darksceptor6": {
         "banneduntil": "2025.2.21-12.00.00pm",
         "BanReason": "rdm (read rules at the spawn)"
+    },
+    "xmozyx": {
+        "banneduntil": "2025.2.21-12.00.00",
+        "BanReason": "rdm (read rules at spawn)"
     }
 }
