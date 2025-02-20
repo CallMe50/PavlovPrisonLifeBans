@@ -2750,5 +2750,9 @@
     "Alamery_VR": {
         "banneduntil": "2025.2.22-12.00.00pm",
         "BanReason": "Mass Guard tk til kick"
+    },
+    "Borallge": {
+        "banneduntil": "2025.2.21-12.00.00pm",
+        "BanReason": "Guard tk and evading sit"
     }
 }
