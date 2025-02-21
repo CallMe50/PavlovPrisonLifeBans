@@ -2794,5 +2794,9 @@
     "mister_r4gph2": {
         "banneduntil": "2025.2.23-12.00.00pm",
         "BanReason": "tk"
+    },
+    "mister_r4ph2": {
+        "banneduntil": "2025.2.23-12.00.00pm",
+        "BanReason": "tk"
     }
 }
