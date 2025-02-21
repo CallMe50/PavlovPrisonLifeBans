@@ -2760,7 +2760,7 @@
         "BanReason": "rdm (read rules at the spawn)"
     },
     "xmozyx": {
-        "banneduntil": "2025.2.21-12.00.00",
+        "banneduntil": "2025.2.21-12.00.00pm",
         "BanReason": "rdm (read rules at spawn)"
     },
     "DarkBrotherhood1266": {
@@ -2774,9 +2774,5 @@
     "vibeswollo3": {
         "banneduntil": "2025.2.20-12.00.00",
         "BanReason": "Rdm as guard"
-    },
-    "cam.2024": {
-        "banneduntil": "2025.2.21-12.00.00pm",
-        "BanReason": "rdm"
     }
 }
