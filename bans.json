@@ -2830,5 +2830,9 @@
     "Cpt.cheesestick": {
         "banneduntil": "2925.2.28-12.00.00pm",
         "BanReason": "hard r"
+    },
+    "Atlosvr": {
+        "banneduntil": "2025.2.28-12.00.00pm",
+        "BanReason": "Mass RDM - WilliamEXE"
     }
 }
