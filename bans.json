@@ -2814,5 +2814,9 @@
     "L4D2EllisREAL": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underaged (make a ban appeal in the discord and provided proof of age)"
+    },
+    "huddymay04": {
+        "banneduntil": "2025.2.24-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
