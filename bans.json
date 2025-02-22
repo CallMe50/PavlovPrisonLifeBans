@@ -2798,5 +2798,9 @@
     "mister_r4ph2": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Ban evading"
+    },
+    "Fishingpole37": {
+        "banneduntil": "2095.2.21-12.00.00pm",
+        "BanReason": "rdm, hard r"
     }
 }
