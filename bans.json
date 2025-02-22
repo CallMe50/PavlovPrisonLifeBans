@@ -2810,5 +2810,9 @@
     "Craig734": {
         "banneduntil": "2025.2.25-12.00.00pm",
         "BanReason": "RDMing Ban evading"
+    },
+    "L4D2EllisREAL": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underaged (make a ban appeal in the discord and provided proof of age)"
     }
 }
