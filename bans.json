@@ -2842,5 +2842,9 @@
     "minelegodead": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "possibly underaged"
+    },
+    "McGoofington": {
+        "banneduntil": "2021.9.9-12.00.00pm",
+        "BanReason": "Unban"
     }
 }
