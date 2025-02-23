@@ -2838,5 +2838,9 @@
     "flingclapped": {
         "banneduntil": "2025.2.24-12.00.00pm",
         "BanReason": "Fugitive tk and evading sit"
+    },
+    "minelegodead": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "possibly underaged"
     }
 }
