@@ -2870,5 +2870,9 @@
     "Tyler56788": {
         "banneduntil": "2099.8.8-12.00.00pm",
         "BanReason": "Hard r bud"
+    },
+    "The.Donald.Trump": {
+        "banneduntil": "2099.8.8-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
