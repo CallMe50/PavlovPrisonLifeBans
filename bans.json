@@ -2886,5 +2886,9 @@
     "Spicygrass": {
         "banneduntil": "2025.3.10-12.00.00pm",
         "BanReason": "mass rdm, mass evade sit, mass team taze and cross team"
+    },
+    "TheRetardedEagle": {
+        "banneduntil": "2025.2.26-12.00.00pm",
+        "BanReason": "Fugitive tk (Please read the role instructions in the spawn where you choose teams)"
     }
 }
