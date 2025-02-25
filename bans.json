@@ -2882,5 +2882,9 @@
     "Bob394": {
         "banneduntil": "2100.1.1-12.00.00pm",
         "BanReason": "Racism (repeated usage of hard-r)"
+    },
+    "Spicygrass": {
+        "banneduntil": "2025.3.10-12.00.00pm",
+        "BanReason": "mass rdm, mass evade sit, mass team taze and cross team"
     }
 }
