@@ -2878,5 +2878,9 @@
     "kaz762": {
         "banneduntil": "2025.2.25-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "Bob394": {
+        "banneduntil": "2100.1.1-12.00.00pm",
+        "BanReason": "Racism (repeated usage of hard-r)"
     }
 }
