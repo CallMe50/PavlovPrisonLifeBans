@@ -2906,5 +2906,9 @@
     "OooMyDick": {
         "banneduntil": "2025.2.26-12.00.00pm",
         "BanReason": "Rdm (please read the rules in choosing team lobby)"
+    },
+    "TBD.JOHNWICK": {
+        "banneduntil": "2027.2.29-12.00.00pm",
+        "BanReason": "Underage (11), must be 13 to play"
     }
 }
