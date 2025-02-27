@@ -2914,5 +2914,9 @@
     "SINIXFKASH67": {
         "banneduntil": "2025.3.04-12.00.00pm",
         "BanReason": "RDM, RDM in admin sit"
+    },
+    "boss21ryder": {
+        "banneduntil": "2025.2.28-12.00.00pm",
+        "BanReason": "Modsit evasion and RDM, (don\u2019t leave when you are sent to a sit)"
     }
 }
