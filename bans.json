@@ -2958,5 +2958,9 @@
     "stone.cold.steve.austin.316": {
         "banneduntil": "2025.3.16-12.00.00pm",
         "BanReason": "Underaged(12) gotta be 13+ to play"
+    },
+    "JohnSmith020711": {
+        "banneduntil": "2025.3.3-12.00.00pm",
+        "BanReason": "Rdm, guard tk and evading sit"
     }
 }
