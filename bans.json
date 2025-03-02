@@ -2990,5 +2990,9 @@
     "alexemmons": {
         "banneduntil": "2027.5.1-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "VoidsHelldiver": {
+        "banneduntil": "2025.3.5-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
