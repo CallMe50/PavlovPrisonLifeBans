@@ -3014,5 +3014,9 @@
     "Tyler2014m": {
         "banneduntil": "2028.1.1-12.00.00pm",
         "BanReason": "Underaged (10) gotta be 13+ to play"
+    },
+    "okay.420481": {
+        "banneduntil": "2028.3.2-12.00.0pm",
+        "BanReason": "underaged (10)"
     }
 }
