@@ -3022,5 +3022,9 @@
     "michaelcorvette": {
         "banneduntil": "2025.3.4-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "MichaelCorvette": {
+        "banneduntil": "2025.3.4-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
