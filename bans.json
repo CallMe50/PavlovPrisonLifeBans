@@ -2986,5 +2986,9 @@
     "18istoo.old.onlyunder.3": {
         "banneduntil": "2029.1.1-12.00.00pm",
         "BanReason": "Change your name."
+    },
+    "alexemmons": {
+        "banneduntil": "2026.5.1-12.00.00pm",
+        "BanReason": "Underage (11)"
     }
 }
