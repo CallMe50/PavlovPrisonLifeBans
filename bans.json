@@ -3002,5 +3002,9 @@
     "mr.tot.13": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "possibly underaged"
+    },
+    "Mr.Tot.13": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "possibly underaged"
     }
 }
