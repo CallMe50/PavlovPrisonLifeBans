@@ -2982,5 +2982,9 @@
     "Subject336": {
         "banneduntil": "2025.3.5-12.00.00pm",
         "BanReason": "Retarded one warned, Cross-Teaming and Evading Admin sit"
+    },
+    "18istoo.old.onlyunder.3": {
+        "banneduntil": "2029.1.1-12.00.00pm",
+        "BanReason": "Change your name."
     }
 }
