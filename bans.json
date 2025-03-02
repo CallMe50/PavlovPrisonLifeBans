@@ -3006,5 +3006,9 @@
     "Mr.Tot.13": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "possibly underaged"
+    },
+    "SPACER12": {
+        "banneduntil": "2025.3.7-12.00.00pm",
+        "BanReason": "Mass rdm and uncooperative in sit"
     }
 }
