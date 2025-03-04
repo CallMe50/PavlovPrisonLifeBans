@@ -3034,5 +3034,9 @@
     "ItsSpaghetti": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "Noble_six6": {
+        "banneduntil": "2025.3.9-12.00.00pm",
+        "BanReason": "Rdm, admin sit evade"
     }
 }
