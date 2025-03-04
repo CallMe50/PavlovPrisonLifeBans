@@ -3030,5 +3030,9 @@
     "Tacticalpenguin125574": {
         "banneduntil": "2026.2.10-12.00.00pm",
         "BanReason": "Underage. Must be 13+"
+    },
+    "ItsSpaghetti": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
