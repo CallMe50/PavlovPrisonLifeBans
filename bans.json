@@ -3050,5 +3050,9 @@
     "GG1229MM": {
         "banneduntil": "2025.3.6",
         "BanReason": "tk"
+    },
+    "HauntedTurkey12": {
+        "banneduntil": "2025.3.5-12.00.00pm",
+        "BanReason": "crossteaming"
     }
 }
