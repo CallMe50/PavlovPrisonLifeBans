@@ -3046,5 +3046,9 @@
     "Hamper123": {
         "banneduntil": "2096.8.20-12.00.00pm",
         "BanReason": "Underage. Send proof in discord to be lowered"
+    },
+    "GG1229MM": {
+        "banneduntil": "2025.3.6",
+        "BanReason": "tk"
     }
 }
