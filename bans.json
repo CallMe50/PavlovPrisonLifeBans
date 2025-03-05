@@ -3070,5 +3070,9 @@
     "MrCheese69TT": {
         "banneduntil": "2025.3.7-12.00.00pm",
         "BanReason": "crossteaming and rdm (read rules at choosing teams)"
+    },
+    "limabena": {
+        "banneduntil": "2025.3.7-12.00.00pm",
+        "BanReason": "Mass rdm (please read the role instructions in the spawn where you choose teams)"
     }
 }
