@@ -3058,5 +3058,9 @@
     "hotline.57843": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "ElectricOctopus3375": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underage (verify in discord)"
     }
 }
