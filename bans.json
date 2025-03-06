@@ -3074,5 +3074,9 @@
     "limabena": {
         "banneduntil": "2025.3.7-12.00.00pm",
         "BanReason": "Mass rdm (please read the role instructions in the spawn where you choose teams)"
+    },
+    "FFYI": {
+        "banneduntil": "2026.3.3-12.00.00pm",
+        "BanReason": "Underage"
     }
 }
