@@ -3098,5 +3098,9 @@
     "Gregorythescallywag": {
         "banneduntil": "2025.3.8-12.00.00pm",
         "BanReason": "Attempted tk"
+    },
+    "L3VX": {
+        "banneduntil": "2025.3.7-12.00.00pm",
+        "BanReason": "Teaming"
     }
 }
