@@ -3110,5 +3110,9 @@
     "Brody2WD": {
         "banneduntil": "3.8.2025-10.00.00am",
         "BanReason": "Team killing, shooting at teammates, tasing teammates"
+    },
+    "NightlyKight": {
+        "banneduntil": "2025.3.9-12.00.00pm",
+        "BanReason": "Rdm till kicked off guard team (read the rules when back)"
     }
 }
