@@ -3114,5 +3114,9 @@
     "NightlyKight": {
         "banneduntil": "2025.3.9-12.00.00pm",
         "BanReason": "Rdm till kicked off guard team (read the rules when back)"
+    },
+    "StonerMan420": {
+        "banneduntil": "2025.3.9-12.00.00pm",
+        "BanReason": "Sit evasion and mass RDM"
     }
 }
