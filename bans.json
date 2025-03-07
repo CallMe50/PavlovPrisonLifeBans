@@ -3118,5 +3118,9 @@
     "StonerMan420": {
         "banneduntil": "2025.3.9-12.00.00pm",
         "BanReason": "Sit evasion and mass RDM"
+    },
+    "Pigeon12": {
+        "banneduntil": "2025.3.9-12.00.00pm",
+        "BanReason": "Mass RDM and kill in sit"
     }
 }
