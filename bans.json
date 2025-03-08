@@ -3126,5 +3126,9 @@
     "Kai2828": {
         "banneduntil": "2025.7.3-12.00.00pm",
         "BanReason": "Underage"
+    },
+    "Binmatrook": {
+        "banneduntil": "2025.3.12-12.00.00pm",
+        "BanReason": "Mass Tk"
     }
 }
