@@ -3166,5 +3166,9 @@
     "KYD6900": {
         "banneduntil": "2027.1.1-12.00.00pm",
         "BanReason": "Underaged(11) gotta be 13+ to play"
+    },
+    "cheesedoctor": {
+        "banneduntil": "2025.3.10-12.00.00pm",
+        "BanReason": "RDM and staff disrespect (please read the role instructions in the spawn where you choose teams)"
     }
 }
