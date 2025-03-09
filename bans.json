@@ -3162,5 +3162,9 @@
     "Champonline": {
         "banneduntil": "2027.2.2-12.00.00pm",
         "BanReason": "Underage (11) must be 13+"
+    },
+    "KYD6900": {
+        "banneduntil": "2027.1.1-12.00.00pm",
+        "BanReason": "Underaged(11) gotta be 13+ to play"
     }
 }
