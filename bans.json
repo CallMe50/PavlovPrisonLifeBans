@@ -3154,5 +3154,9 @@
     "Mxlow": {
         "banneduntil": "2025.3.11-12.00.00pm",
         "BanReason": "Tk x2"
+    },
+    "wifiuser3000": {
+        "banneduntil": "2025.3.14-12.00.00pm",
+        "BanReason": "Teamkill, evaded admin sit"
     }
 }
