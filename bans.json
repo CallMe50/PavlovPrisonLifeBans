@@ -3178,5 +3178,9 @@
     "RykerRay1005": {
         "banneduntil": "2027.3.9-12.00.00pm",
         "BanReason": "Underage (11)"
+    },
+    "lillando.2023": {
+        "banneduntil": "2028.3.9-12.00.00pm",
+        "BanReason": "Underage (10)"
     }
 }
