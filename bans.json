@@ -3210,5 +3210,9 @@
     "cam_2024": {
         "banneduntil": "2025.3.4-12.00.00pm",
         "BanReason": "RDM and kill in sit, when TPed do not shoot or kill anyone."
+    },
+    "3D5F7H9J2L4": {
+        "banneduntil": "2025.3.12-12.00.00pm",
+        "BanReason": "Bank camping, Read the rules in choosing teams next time you\u2019re on"
     }
 }
