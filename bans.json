@@ -3254,5 +3254,9 @@
     "nuttybone": {
         "banneduntil": "2025.3.14-12.00.00pm",
         "BanReason": "Teamkill (read the rules in choosing teams next time you\u2019re on)"
+    },
+    "kilernopz.vr": {
+        "banneduntil": "2025.3.14-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
