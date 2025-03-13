@@ -3250,5 +3250,9 @@
     "MiniMan201": {
         "banneduntil": "2099.3.14-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "nuttybone": {
+        "banneduntil": "2025.3.14-12.00.00pm",
+        "BanReason": "Teamkill (read the rules in choosing teams next time you\u2019re on)"
     }
 }
