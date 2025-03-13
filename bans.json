@@ -3246,5 +3246,9 @@
     "TheDalton": {
         "banneduntil": "2025.3.14-12.00.00pm",
         "BanReason": "Crossteaming, read the rules in choosing teams next time you\u2019re on"
+    },
+    "MiniMan201": {
+        "banneduntil": "2099.3.14-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
