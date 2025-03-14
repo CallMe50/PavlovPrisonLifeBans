@@ -3290,5 +3290,9 @@
     "hadley.mehmedov.2023": {
         "banneduntil": "2028.3.16-12.00.00pm",
         "BanReason": "Underage pl reports"
+    },
+    "mikehen1266": {
+        "banneduntil": "2025.3.16-12.00.00pm",
+        "BanReason": "Teamkill 2x, Cross teaming"
     }
 }
