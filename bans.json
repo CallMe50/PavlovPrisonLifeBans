@@ -3306,5 +3306,9 @@
     "usuallyicicle": {
         "banneduntil": "2025.3.17-12.00.00pm",
         "BanReason": "Mass rdm"
+    },
+    "chinchla": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Underage til proven otherwise."
     }
 }
