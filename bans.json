@@ -3310,5 +3310,9 @@
     "chinchla": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Underage til proven otherwise."
+    },
+    "FoxPVR": {
+        "banneduntil": "2025.3.16-12.00.00pm",
+        "BanReason": "Baiting, Read the rules in choosing teams next time you\u2019re on"
     }
 }
