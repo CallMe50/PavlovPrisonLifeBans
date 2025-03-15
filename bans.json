@@ -3314,5 +3314,9 @@
     "FoxPVR": {
         "banneduntil": "2025.3.17-12.00.00pm",
         "BanReason": "Baiting, Crossteaming, Read the rules in choosing teams next time you\u2019re on"
+    },
+    "Rudes21": {
+        "banneduntil": "2025.3.17-12.00.00pm",
+        "BanReason": "Fugitive Teamkill, Read rules in choosing teams, considering your level 300+"
     }
 }
