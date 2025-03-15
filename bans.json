@@ -3318,5 +3318,9 @@
     "Rudes21": {
         "banneduntil": "2025.3.17-12.00.00pm",
         "BanReason": "Fugitive Teamkill, Read rules in choosing teams, considering your level 300+"
+    },
+    "WolfyDaFemboy": {
+        "banneduntil": "2025.3.16-12.00.00pm",
+        "BanReason": "Crossteaming"
     }
 }
