@@ -3374,5 +3374,9 @@
     "SinXanite": {
         "banneduntil": "2025.3.18-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "Jackson70": {
+        "banneduntil": "2025.3.21-12.00.00pm",
+        "BanReason": "Teamkill"
     }
 }
