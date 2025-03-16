@@ -3350,5 +3350,9 @@
     "M8y.shug": {
         "banneduntil": "2025.3.19-12.00.00pm",
         "BanReason": "Repeated rdm, repeated baiting"
+    },
+    "Aizenthegamer": {
+        "banneduntil": "2025.3.19-12.00.00pm",
+        "BanReason": "Repeated crossteaming, team tazing"
     }
 }
