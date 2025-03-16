@@ -3354,5 +3354,9 @@
     "Aizenthegamer": {
         "banneduntil": "2025.3.19-12.00.00pm",
         "BanReason": "Repeated crossteaming, team tazing"
+    },
+    "Illusionfire": {
+        "banneduntil": "2025.3.17-12.00.00pm",
+        "BanReason": "Crossteaming (please read the role instructions in the spawn where you choose teams)"
     }
 }
