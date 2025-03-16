@@ -3358,5 +3358,9 @@
     "Illusionfire": {
         "banneduntil": "2025.3.17-12.00.00pm",
         "BanReason": "Crossteaming (please read the role instructions in the spawn where you choose teams)"
+    },
+    "FrancyPants_CO": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "underage, prove age in discord"
     }
 }
