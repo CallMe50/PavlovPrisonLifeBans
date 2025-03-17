@@ -3386,5 +3386,9 @@
     "GreasyToenailClippings": {
         "banneduntil": "2025.4.1-12.00.00pm",
         "BanReason": "mass tk, mass rdm, cross team, mass team taze, sit evasion"
+    },
+    "Jlpothier12": {
+        "banneduntil": "2029.3.16-12.00.00pm",
+        "BanReason": "Underage (9)"
     }
 }
