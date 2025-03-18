@@ -3406,5 +3406,9 @@
     "bigshooter90": {
         "banneduntil": "2025.3.19-12.00.00pm",
         "BanReason": "Team kill and mod-sit evasion."
+    },
+    "AymanSama": {
+        "banneduntil": "2025.4.19-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
