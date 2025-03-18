@@ -3402,5 +3402,9 @@
     "foreheadliner45": {
         "banneduntil": "2025.3.19-12.00.00pm",
         "BanReason": "Rdm, Read the rules in choosing teams next time your on"
+    },
+    "bigshooter90": {
+        "banneduntil": "2025.3.19-12.00.00pm",
+        "BanReason": "Team kill and mod-sit evasion."
     }
 }
