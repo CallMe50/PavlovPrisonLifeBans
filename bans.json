@@ -3446,5 +3446,9 @@
     "ashspect": {
         "banneduntil": "2025.3.20-12.00.00pm",
         "BanReason": "Crossteaming (please read the role instructions in the spawn where you choose teams)"
+    },
+    "Goldencholo": {
+        "banneduntil": "2027.8.10-12.00.00pm",
+        "BanReason": "Underage (11, must be 13+ to play)"
     }
 }
