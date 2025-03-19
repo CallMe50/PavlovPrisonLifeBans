@@ -3434,5 +3434,9 @@
     "TEisele": {
         "banneduntil": "2028.3.18-12.00.00pm",
         "BanReason": "underage"
+    },
+    "wolfnacth": {
+        "banneduntil": "2025.3.20",
+        "BanReason": "rdm"
     }
 }
