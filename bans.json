@@ -3442,5 +3442,9 @@
     "ashpect": {
         "banneduntil": "2025.3.20-12.00.00pm",
         "BanReason": "Crossteaming (please read the role instructions in the spawn where you choose teams)"
+    },
+    "ashspect": {
+        "banneduntil": "2025.3.20-12.00.00pm",
+        "BanReason": "Crossteaming (please read the role instructions in the spawn where you choose teams)"
     }
 }
