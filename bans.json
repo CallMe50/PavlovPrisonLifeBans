@@ -3458,5 +3458,9 @@
     "swagu_Q8": {
         "banneduntil": "2025.3.22-12.00.00pm",
         "BanReason": "Mass Rdm,evading sit,please read the rule-phraze"
+    },
+    "almondinger": {
+        "banneduntil": "2026.3.20-12.00.00pm",
+        "BanReason": "underaged (12)"
     }
 }
