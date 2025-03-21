@@ -3462,5 +3462,9 @@
     "almondinger": {
         "banneduntil": "2026.3.20-12.00.00pm",
         "BanReason": "underaged (12)"
+    },
+    "hartley123": {
+        "banneduntil": "2027.3.21-12.00.00pm",
+        "BanReason": "underaged (11)"
     }
 }
