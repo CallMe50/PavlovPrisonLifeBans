@@ -3474,5 +3474,9 @@
     "dawsoncash": {
         "banneduntil": "2025.3.24-12.00.00pm",
         "BanReason": "Mass fugitive tk (Please read the role instructions in the spawn where you choose teams)"
+    },
+    "MythVR_2024": {
+        "banneduntil": "2025.3.24-12.00.00pm",
+        "BanReason": "Mass prison tk"
     }
 }
