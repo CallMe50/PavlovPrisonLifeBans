@@ -3526,5 +3526,9 @@
     "Rymerx08": {
         "banneduntil": "2025.3.25-12.00.00pm",
         "BanReason": "Repeated crossteaming, tk and evading sit (please read the rules above the roles)"
+    },
+    "Makesurehedead.2023": {
+        "banneduntil": "2025.3.27-12.00.00pm",
+        "BanReason": "Repeated crossteaming, tk, team tazing and evading sit"
     }
 }
