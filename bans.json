@@ -3514,5 +3514,9 @@
     "mynameishow": {
         "banneduntil": "2025.3.25-12.00.00pm",
         "BanReason": "Kills/bounty farming (Please read the role instructions in the spawn where you choose teams. You can also make an appeal in PL discord to get your ban lowered."
+    },
+    "Tlkng2": {
+        "banneduntil": "2025.4.5-12.00.00pm",
+        "BanReason": "Assisting in kill farming. Don't be doing that"
     }
 }
