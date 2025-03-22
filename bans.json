@@ -3534,5 +3534,9 @@
     "milan06870": {
         "banneduntil": "2025.3.24-12.00.00pm",
         "BanReason": "RDM and baiting."
+    },
+    "rxci": {
+        "banneduntil": "2025.4.5-12.00.00pm",
+        "BanReason": "Shooting through walls, team kill (you know the rules)"
     }
 }
