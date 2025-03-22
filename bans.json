@@ -3506,5 +3506,9 @@
     "Thebeterman": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "Hard r"
+    },
+    "yr.so.bad": {
+        "banneduntil": "2025.2.4-22.00.00pm",
+        "BanReason": "Kills/bounty farming (please read the role instructions in the spawn where you choose teams and rules in the PL discord)"
     }
 }
