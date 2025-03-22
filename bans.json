@@ -3518,5 +3518,9 @@
     "Tlkng2": {
         "banneduntil": "2025.4.5-12.00.00pm",
         "BanReason": "Assisting in kill farming. Don't be doing that"
+    },
+    "justbirdbird": {
+        "banneduntil": "2025.4.11-12.00.00pm",
+        "BanReason": "Kill farming. Don't be doing that"
     }
 }
