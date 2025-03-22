@@ -3502,5 +3502,9 @@
     "king.bob.12345": {
         "banneduntil": "2025.9.1-12.00.00pm",
         "BanReason": "Underaged gotta be 13+ to play"
+    },
+    "Thebeterman": {
+        "banneduntil": "9999.9.9-12.00.00pm",
+        "BanReason": "Hard r"
     }
 }
