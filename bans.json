@@ -3562,5 +3562,9 @@
     "Wakingclub": {
         "banneduntil": "2025.3.25-12.00.00pm",
         "BanReason": "Crossteaming, Read the rules in choosing teams next time you\u2019re on"
+    },
+    "oe.crabb.5": {
+        "banneduntil": "2100.1.1-12.00.00pm",
+        "BanReason": "Racism (repeated hard r)"
     }
 }
