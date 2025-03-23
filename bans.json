@@ -3566,5 +3566,9 @@
     "joe.crabb.5": {
         "banneduntil": "2010.1.1-12.00.00pm",
         "BanReason": "Racism (wrong person)"
+    },
+    "WowVrIsCool": {
+        "banneduntil": "2025.3.28-12.00.00pm",
+        "BanReason": "Baiting, continuous tazing (please read the role instructions in the spawn where you choose teams)"
     }
 }
