@@ -3570,5 +3570,9 @@
     "WowVrIsCool": {
         "banneduntil": "2025.3.28-12.00.00pm",
         "BanReason": "Baiting, continuous tazing (please read the role instructions in the spawn where you choose teams)"
+    },
+    "Taylor2000": {
+        "banneduntil": "2027.3.12-12.00.00pm",
+        "BanReason": "Underaged (11) must be 13+"
     }
 }
