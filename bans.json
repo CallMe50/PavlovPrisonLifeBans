@@ -3586,5 +3586,9 @@
     "xxxxssw": {
         "banneduntil": "2035.3.26-12.00.00pm",
         "BanReason": "Racism (Hard-r)"
+    },
+    "Biggiecheese1243": {
+        "banneduntil": "2025.3.27-12.00.00pm",
+        "BanReason": "rdm (read rules at spawn when unbanned)"
     }
 }
