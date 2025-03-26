@@ -3590,5 +3590,9 @@
     "Biggiecheese1243": {
         "banneduntil": "2025.3.27-12.00.00pm",
         "BanReason": "rdm (read rules at spawn when unbanned)"
+    },
+    "Ruff1234": {
+        "banneduntil": "2025.3.28-12.00.00pm",
+        "BanReason": "Rdm. Read the rules"
     }
 }
