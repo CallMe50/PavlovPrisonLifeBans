@@ -3606,5 +3606,9 @@
     "Ozzy20137": {
         "banneduntil": "2025.3.29-12.00.00pm",
         "BanReason": "rdm (read rules at spawn when unbanned)"
+    },
+    "volcan5943": {
+        "banneduntil": "2025.3.31-12.00.00pm",
+        "BanReason": "tk"
     }
 }
