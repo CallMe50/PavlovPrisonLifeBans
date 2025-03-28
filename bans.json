@@ -3602,5 +3602,9 @@
     "redacted.427211": {
         "banneduntil": "2025.3.29-12.00.00pm",
         "BanReason": "rdm"
+    },
+    "Ozzy20137": {
+        "banneduntil": "2025.3.29-12.00.00pm",
+        "BanReason": "rdm (read rules at spawn when unbanned)"
     }
 }
