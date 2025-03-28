@@ -3598,5 +3598,9 @@
     "Azazul333": {
         "banneduntil": "2025.3.27-12.00.00pm",
         "BanReason": "Baiting"
+    },
+    "redacted.427211": {
+        "banneduntil": "2025.3.29-12.00.00pm",
+        "BanReason": "rdm"
     }
 }
