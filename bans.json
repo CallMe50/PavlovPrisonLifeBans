@@ -3614,5 +3614,9 @@
     "metal.for.brains": {
         "banneduntil": "9999.3.31-12.00.00pm",
         "BanReason": "Hard R multiple times... bye forever hoe"
+    },
+    "KramerCrew": {
+        "banneduntil": "2025.3.29-12.00.00pm",
+        "BanReason": "hate speech"
     }
 }
