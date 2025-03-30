@@ -3630,5 +3630,9 @@
     "The.MD.enjoyer71": {
         "banneduntil": "9999.9.9-12.00.00pm",
         "BanReason": "underage (appeal when of age)"
+    },
+    "moderatelycoolmilo": {
+        "banneduntil": "2025.4.1-12.00.00pm",
+        "BanReason": "crossteaming (read rules at spawn when unbanned)"
     }
 }
