@@ -3662,5 +3662,9 @@
     "Starlighter99": {
         "banneduntil": "2025.4.2-12.00.00pm",
         "BanReason": "tk, killing in sit, rdm"
+    },
+    "Joey_cleaver": {
+        "banneduntil": "2025.4.2-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
