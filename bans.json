@@ -3654,5 +3654,9 @@
     "FadeDaquavious1224": {
         "banneduntil": "2025.4.3-12.00.00pm",
         "BanReason": "Crossteaming, Teamkilling, Next time you\u2019re online Read the rules in choosing teams"
+    },
+    "NormanTitus15": {
+        "banneduntil": "2025.6.31-12.00.00pm",
+        "BanReason": "hard r (low level)"
     }
 }
