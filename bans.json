@@ -3674,5 +3674,9 @@
     "axemanjack": {
         "banneduntil": "2026.4.3-12.00.00pm",
         "BanReason": "Underage you need to be 13+ to play"
+    },
+    "daquamonke": {
+        "banneduntil": "2030.11.8-12.00.00pm",
+        "BanReason": "Very likely underaged (make ban appeal with proof of age if not true at Prison Life discord)"
     }
 }
