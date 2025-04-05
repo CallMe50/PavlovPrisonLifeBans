@@ -3694,5 +3694,9 @@
     "PrinceDerrick": {
         "banneduntil": "2026.4.5-12.00.00pm",
         "BanReason": "Underage you need to be 13+ to play"
+    },
+    "RoboAdoboJr": {
+        "banneduntil": "2099.4.8-12.00.00pm",
+        "BanReason": "Racism"
     }
 }
