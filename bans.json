@@ -3690,5 +3690,9 @@
     "Miami9009": {
         "banneduntil": "2025.4.6-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "PrinceDerrick": {
+        "banneduntil": "2026.4.5-12.00.00pm",
+        "BanReason": "Underage you need to be 13+ to play"
     }
 }
