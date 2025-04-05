@@ -3686,5 +3686,9 @@
     "Germaan55": {
         "banneduntil": "2099.4.8-12.00.00pm",
         "BanReason": "Racism"
+    },
+    "Miami9009": {
+        "banneduntil": "2025.4.6-12.00.00pm",
+        "BanReason": "RDM"
     }
 }
