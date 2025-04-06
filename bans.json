@@ -3722,5 +3722,9 @@
     "yoooismeee": {
         "banneduntil": "2025.4.6-12.00.00pm",
         "BanReason": "rdm (read rules)"
+    },
+    "Lildrag2022": {
+        "banneduntil": "2025.4.9-12.00.00pm",
+        "BanReason": "crossteaming"
     }
 }
