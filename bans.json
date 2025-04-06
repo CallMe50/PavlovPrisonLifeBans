@@ -3706,5 +3706,9 @@
     "DogFight2321": {
         "banneduntil": "2027.4.5-12.00.00pm",
         "BanReason": "Underage you need to be 13+ to play"
+    },
+    "SuperbadAj": {
+        "banneduntil": "2025.4.7-12.00.00pm",
+        "BanReason": "Team kill + cross teaming"
     }
 }
