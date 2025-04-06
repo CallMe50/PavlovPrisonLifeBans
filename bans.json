@@ -3702,5 +3702,9 @@
     "xor13": {
         "banneduntil": "2025.4.6-12.00.00pm",
         "BanReason": "RDM"
+    },
+    "DogFight2321": {
+        "banneduntil": "2027.4.5-12.00.00pm",
+        "BanReason": "Underage you need to be 13+ to play"
     }
 }
