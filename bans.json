@@ -3746,5 +3746,9 @@
     "Xoldarian": {
         "banneduntil": "2025.4.10-12.00.00pm",
         "BanReason": "Attempted TK and slurs"
+    },
+    "picklelNC": {
+        "banneduntil": "2025.9.7-12.00.00pm",
+        "BanReason": "slurs, sit evasion, and staff disrespect."
     }
 }
