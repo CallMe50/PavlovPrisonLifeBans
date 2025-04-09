@@ -3750,5 +3750,9 @@
     "picklelNC": {
         "banneduntil": "2025.9.7-12.00.00pm",
         "BanReason": "slurs, sit evasion, and staff disrespect."
+    },
+    "Glowingflamingo385": {
+        "banneduntil": "2025.4.10-12.00.00pm",
+        "BanReason": "Team killing(Cmon man an accidental kill doesn't warrent a double tk)"
     }
 }
