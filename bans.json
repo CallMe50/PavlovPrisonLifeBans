@@ -3770,5 +3770,9 @@
     "zukolega": {
         "banneduntil": "2025.4.17-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "BLESSED.GUY": {
+        "banneduntil": "2095.4.17-12.00.00pm",
+        "BanReason": "nba alt"
     }
 }
