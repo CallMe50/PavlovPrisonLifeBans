@@ -3768,8 +3768,8 @@
         "BanReason": "Rdm,tk,cross team,sitevading"
     },
     "zukolega": {
-        "banneduntil": "2025.4.17-12.00.00pm",
-        "BanReason": "Rdm"
+        "banneduntil": "2025.4.16-12.00.00pm",
+        "BanReason": "Rdm,-appealed"
     },
     "BLESSED.GUY": {
         "banneduntil": "2095.4.17-12.00.00pm",
