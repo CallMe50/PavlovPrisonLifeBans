@@ -3782,5 +3782,9 @@
     "ghosts.711136": {
         "banneduntil": "2025.4.16-12.00.00pm",
         "BanReason": "Sitevading,rdm"
+    },
+    "mrdogg_90": {
+        "banneduntil": "2025.4.17-12.00.00pm",
+        "BanReason": "cross teaming"
     }
 }
