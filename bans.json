@@ -3778,5 +3778,9 @@
     "Miniroach1209": {
         "banneduntil": "2099.4.13.26-12.00.00pm",
         "BanReason": "RDMing, Underage- prove age in discord- VC."
+    },
+    "ghosts.711136": {
+        "banneduntil": "2025.4.16-12.00.00pm",
+        "BanReason": "Sitevading,rdm"
     }
 }
