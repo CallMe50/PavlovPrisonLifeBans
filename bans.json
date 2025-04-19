@@ -3802,5 +3802,9 @@
     "JSmith1996": {
         "banneduntil": "2025.4.17-12.00.00pm",
         "BanReason": "Crossteaming, sit evading (please read the role instructions in the spawn where you choose teams)"
+    },
+    "24648ut": {
+        "banneduntil": "2025.4.17-12.00.00pm",
+        "BanReason": "Tk and sit evasion"
     }
 }
