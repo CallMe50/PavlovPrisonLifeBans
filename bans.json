@@ -3842,5 +3842,9 @@
     "catluver21": {
         "banneduntil": "2100.1.1-12.00.00pm",
         "BanReason": "Ban evading (it's quite sad at this point)"
+    },
+    "formalvr122": {
+        "banneduntil": "2025.4.24-12.00.00pm",
+        "BanReason": "Tk"
     }
 }
