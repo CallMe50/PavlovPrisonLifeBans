@@ -3854,5 +3854,9 @@
     "Rossco.1872": {
         "banneduntil": "2025.4.24-12:00:00pm",
         "BanReason": "RDM, TK"
+    },
+    "twisty5198": {
+        "banneduntil": "2025.4.29-12.00.00pm",
+        "BanReason": "kill farming"
     }
 }
