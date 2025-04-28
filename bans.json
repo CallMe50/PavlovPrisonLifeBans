@@ -3862,5 +3862,9 @@
     "Losco_24": {
         "banneduntil": "2027.4.28-12.00.00pm",
         "BanReason": "Underage (11, must be 13+ to play)"
+    },
+    "Dechev12": {
+        "banneduntil": "2025.5.1-12.00.00pm",
+        "BanReason": "Rdm,sitevading"
     }
 }
