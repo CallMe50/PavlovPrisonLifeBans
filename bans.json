@@ -3866,5 +3866,9 @@
     "Dechev12": {
         "banneduntil": "2025.5.1-12.00.00pm",
         "BanReason": "Rdm,sitevading"
+    },
+    "oswaldo_61": {
+        "banneduntil": "2025.4.30-12.00.00pm",
+        "BanReason": "Rdm from PL reports- Jakezilla: please follow the rules."
     }
 }
