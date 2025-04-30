@@ -3874,5 +3874,9 @@
     "thinkweiser": {
         "banneduntil": "2025.4.30-12.00.00pm",
         "BanReason": "Taser Griefing from PL reports- Jakezilla: please follow the rules."
+    },
+    "Sparetime0": {
+        "banneduntil": "2099.4.30-12.00.00pm",
+        "BanReason": "Underaged"
     }
 }
