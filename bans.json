@@ -3878,5 +3878,9 @@
     "Sparetime0": {
         "banneduntil": "2099.4.30-12.00.00pm",
         "BanReason": "Underaged"
+    },
+    "LBill21": {
+        "banneduntil": "2026.8.25-12.00.00pm",
+        "BanReason": "Fugitive tk and possibly underaged (to prove that you are 13+ and to get get your ban lowered go to Prison Life Discord.)"
     }
 }
